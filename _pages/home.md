@@ -11,10 +11,17 @@ We are a research group at the Guangzhou Laboratory. If you are interested in wo
 
 **RNA centre** (Miao lab) is a computational biology laboratory, which focuses on the research of RNA structure, function ( **RNA structural informatics** ) and **single-cell omics** sequencing. 
 
-**RNA structural informatics**
+## RNA structural informatics
+
+Our lab seeks an agile and predictive understanding of how RNAs code for information processing and replication in living systems. 
+We are creating new computational and chemical tools to enable the precise modeling and design of these RNAs.
 
 
-**single-cell omics**
+## single-cell omics
+
+We have a longstanding interest in understanding global principles of gene regulation and protein-RNA interactions. 
+We use state-of-the-art genomics approaches, including multi-modal single cell genomics and spatial genomics in combination with machine learning methods 
+to advance our knowledge of cells and tissues.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
