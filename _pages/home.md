@@ -9,6 +9,8 @@ permalink: /
 We are a research group at the [Guangzhou Laboratory](https://www.grmh-gdl.cn).
 We are a research group at the Guangzhou Laboratory. If you are interested in working with us, please see more information on [(Vacancies)]({{ site.url }}{{ site.baseurl }}/vacancies).
 
+## Miao lab
+
 **RNA centre** (Miao lab) is a computational biology laboratory, which focuses on the research of RNA structure, function ( **RNA structural informatics** ) 
 and **single-cell omics** sequencing. We develop new computaitonal approaches (algorithms, databases, integrated computational workflows) to understand the RNA function at regulation level and
 structure level. 
@@ -32,10 +34,6 @@ to advance our knowledge of cells and tissues.
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
-        <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li>
     </ol>
 
     <!-- Items -->
@@ -64,8 +62,9 @@ to advance our knowledge of cells and tissues.
  **We are  looking for passionate Associate Investigators, Postdocs, Assistant Investigators and Research Assistants to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-We are grateful for funding from Guangzhou Laboratory, [Gzlab](www.gzlab.ac.cn).
+We are grateful for funding from Guangzhou Laboratory ([Gzlab](www.gzlab.ac.cn)), [MOST]() and [NSFC]() .
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/RNA-Puzzles_logo.jpg" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/NSFC_logo.png" style="width: 210px">
 </figure>
