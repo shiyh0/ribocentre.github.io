@@ -8,13 +8,7 @@ permalink: /vacancies
 
 ## Open positions
 
-**Our lab will mainly use computational approaches combined with experiments to understand RNA virus and RNA structure at gene expression regulation and structural levels.
-Specifically, we use RNA structure prediction and RNA design to udnerstand and engineer RNA molecules. We are hosting the [RNA-Puzzles](rnapuzzles.org), which is a world-wide community efforts
-in evaluation of RNA 3D structure prediction. We explore RNA structural biology using a combination of X-ray crystallography, chemical probing, artificial intelligence
-and computational modeling. 
-Besides, we use single-cell multi-omics to understand the
-human immune response to RNA viruses, neuron development and immune cell development. We develop computational algorithms to deal with key bottlenecks in single-cell analysis (e.g., 
-batch effect, cell type clustering, cell type deconvolution). We also develop cloud computing platform and big data atlases for single-cell omics. ** 
+**Our lab will mainly use computational approaches combined with experiments to understand RNA virus and RNA structure at gene expression regulation and structural levels. Specifically, we use RNA structure prediction and RNA design to udnerstand and engineer RNA molecules. We are hosting the [RNA-Puzzles](rnapuzzles.org), which is a world-wide community efforts in evaluation of RNA 3D structure prediction. We explore RNA structural biology using a combination of X-ray crystallography, chemical probing, artificial intelligence and computational modeling. Besides, we use single-cell multi-omics to understand the human immune response to RNA viruses, neuron development and immune cell development. We develop computational algorithms to deal with key bottlenecks in single-cell analysis (e.g.,batch effect, cell type clustering, cell type deconvolution). We also develop cloud computing platform and big data atlases for single-cell omics.** 
 
 **We are always looking for creative, energetic and collaborative researchers to join our interdisciplinary team!**
 
@@ -48,7 +42,7 @@ The successful candidates will join a vibrant scientific environment devoted to 
 
 If you are interested in joining us, please send us an email along with a brief cover letter and a detailed CV. Please indicate “Application Assitent Investigator (Your name)” in the email subject.
 
-### Research Assistant and Lab manager
+### Research Assistant
 The candidates would have a Bachlor/Master degree in biology and related areas, be familar with basic biology and capable of dealing with lab start-up affairs, candidates with programming background are strongly preferred.
 The candidates would have great communication skills and English writing skills.
 
