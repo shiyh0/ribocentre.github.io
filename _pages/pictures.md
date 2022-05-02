@@ -5,56 +5,10 @@ excerpt: "Miao Lab -- Pictures"
 permalink: /pictures/
 ---
 
-# Pictures
-Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
+## Contact information:
 
+Address (Guangzhou International Bio island): Building B2, 96 Xingdao South Road, Guangzhou International Bio Island , Haizhu District, Guangzhou, Guangdong, China.
+Postcode: 510320
+Email: miao_zhichao@gzlab.ac.cn
 
-## Leiden
-
-#### Timelapse of our STM assembling [(see LION news item)](https://www.physics.leidenuniv.nl/index.php?id=11573&news=867&type=lion&ln=EN):
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3iKvUMv1h5A" frameborder="0" allowfullscreen></iframe>
-
-#### Gallery
-(Right-click *'view image'* to see a larger image.)
-{% assign number_printed = 0 %}
-{% for pic in site.data.pictures_Leiden %}
-
-{% assign even_odd = number_printed | modulo: 4 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd > 2 %}
-</div>
-{% endif %}
-
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 4 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% if even_odd == 2 %}
-</div>
-{% endif %}
-
-{% if even_odd == 3 %}
-</div>
-{% endif %}
-
-<p> &nbsp; </p>
-
-First advertisement.
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg" width="60%" >
-</figure>
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3670.9607940189653!2d113.3728525!3d23.0618989!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xbfef76e0d9d7b9!2z5bm_5bee55Sf54mp5bKb5Zu96ZmF5YWs5a-T!5e0!3m2!1sen!2shk!4v1651501560610!5m2!1sen!2shk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
