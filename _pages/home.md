@@ -15,13 +15,13 @@ We are a research group at the Guangzhou Laboratory. If you are interested in wo
 and **single-cell omics** sequencing. We develop new computaitonal approaches (algorithms, databases, integrated computational workflows) to understand the RNA function at regulation level and
 structure level. 
 
-## RNA structural informatics
+**RNA structural informatics:**
 
 Our lab seeks an agile and predictive understanding of how RNAs code for information processing and replication in living systems. 
 We are creating new computational and chemical tools to enable the precise modeling and design of these RNAs.
 
 
-## single-cell omics
+**single-cell omics:**
 
 We have a longstanding interest in understanding global principles of gene regulation and protein-RNA interactions. 
 We use state-of-the-art genomics approaches, including multi-modal single cell genomics and spatial genomics in combination with machine learning methods 
@@ -59,7 +59,7 @@ to advance our knowledge of cells and tissues.
   </a>
 </div>
 
- **We are  looking for passionate Associate Investigators, Postdocs, Assistant Investigators and Research Assistants to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+**We are  looking for passionate Associate Investigators, Postdocs, Assistant Investigators and Research Assistants to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 We are grateful for funding from Guangzhou Laboratory ([Gzlab](www.gzlab.ac.cn)), [MOST]() and [NSFC]() .
