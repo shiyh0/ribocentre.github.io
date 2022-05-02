@@ -9,7 +9,9 @@ permalink: /
 We are a research group at the [Guangzhou Laboratory](https://www.grmh-gdl.cn).
 We are a research group at the Guangzhou Laboratory. If you are interested in working with us, please see more information on [(Vacancies)]({{ site.url }}{{ site.baseurl }}/vacancies).
 
-**RNA centre** (Miao lab) is a computational biology laboratory, which focuses on the research of RNA structure, function ( **RNA structural informatics** ) and **single-cell omics** sequencing. 
+**RNA centre** (Miao lab) is a computational biology laboratory, which focuses on the research of RNA structure, function ( **RNA structural informatics** ) 
+and **single-cell omics** sequencing. We develop new computaitonal approaches (algorithms, databases, integrated computational workflows) to understand the RNA function at regulation level and
+structure level. 
 
 ## RNA structural informatics
 
@@ -39,23 +41,15 @@ to advance our knowledge of cells and tissues.
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/rnapuzzles_screenshot.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/monkey_cover1.jpeg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/SaphireSTM2.jpg" alt="Slide 3" />
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 4" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />
-        </div>       
-         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cake_web.jpg" alt="Slide 6" />
-        </div>
+
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
