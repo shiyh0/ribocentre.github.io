@@ -34,6 +34,7 @@ to advance our knowledge of cells and tissues.
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
+        <li data-target="#carousel" data-slide-to="3"></li>
     </ol>
 
     <!-- Items -->
@@ -45,7 +46,11 @@ to advance our knowledge of cells and tissues.
             <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/monkey_cover1.jpeg" alt="Slide 2" style="height:400px;"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/respic/nonWC_design.png" alt="Slide 1" style="height:400px;"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/respic/nonWC_design.png" alt="Slide 3" style="height:400px;"/>
+        </div>
+
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/sccaf_cover.jpg" alt="Slide 4" style="height:400px;"/>
         </div>
 
     </div>
