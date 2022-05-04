@@ -14,11 +14,23 @@ Besides, we use single-cell multi-omics to understand the human immune response 
 
 Here are some themes that we currently work on:
 
-**RNA-Puzzles.** We 
+**[RNA-Puzzles.](http://www.rnapuzzles.org)** It is a collective experiment for blind RNA structure prediction.    
+
+It aims to:     
+* To determine the capabilities and limitations of current methods of 3D RNA structure prediction based on sequence;    
+* To find whether and how progress has been made, as well as what has yet to be done to achieve better solutions    
+* To identify whether there are specific bottlenecks that hold back the field;
+* To promote the available methods and guide potential users in the choice of suitable tools for real-world problems;
+* To encourage the RNA structure prediction community in their efforts to improve the current tools and to make automated prediction tools available.
+* To explore the underlying mechanism of ligand-RNA binding and the conformational changes in riboswitches.
+
+For details, please visit [rnapuzzles.org](http://www.rnapuzzles.org).
+<img src="{{ site.url }}{{ site.baseurl }}/images/homepic/rnapuzzles_screenshot.png" alt="Slide 1" />
 
 **RNA design.** Question
 
 **Single-cell omics algorithms.** The 
+
 
 **Single-cell omics data analysis.**
 
