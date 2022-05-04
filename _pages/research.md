@@ -33,6 +33,9 @@ It is widely known that RNA form base-pairs and secondary structures. However, t
 the non-Watson-Crick base-pairs also play a key role in RNA structure formation. We aim to integrate experimental information and RNA structural rules derived from X-ray crystal structures 
 to optimise RNA design including the non-Watson-Crick base-pairs. 
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/nonWC_design.png" alt="Slide 1" style="height:400px;"/>
+
+
 **Single-cell omics algorithms.** The 
 
 
