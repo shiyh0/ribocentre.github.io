@@ -39,13 +39,13 @@ to advance our knowledge of cells and tissues.
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/rnapuzzles_screenshot.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/rnapuzzles_screenshot.png" alt="Slide 1" style="height:400px;"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/monkey_cover1.jpeg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/monkey_cover1.jpeg" alt="Slide 2" style="height:400px;"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/SaphireSTM2.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/respic/nonWC_design.png" alt="Slide 1" style="height:400px;"/>
         </div>
 
     </div>
