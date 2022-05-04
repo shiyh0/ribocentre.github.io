@@ -47,5 +47,7 @@ and temporal cellular response to RNA viruses.
 
 ## Single-cell omics data analysis.
 
+We use computational analysis to understand the bioligcal significance bebind single-cell omics data. Especially, we are interested in human immune response to RNA viruses, neuron development and immune cell development. 
+We welcome collaborators around but also beyond these topics. 
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/monkey_cover1.jpeg" alt="Slide 2" style="height:400px;"/>
