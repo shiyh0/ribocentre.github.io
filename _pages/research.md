@@ -12,10 +12,11 @@ Our lab will mainly use computational approaches combined with experiments to un
 Specifically, we use RNA structure prediction and RNA design to udnerstand and engineer RNA molecules. We are hosting the [RNA-Puzzles](http://www.rnapuzzles.org), which is a world-wide community efforts in evaluation of RNA 3D structure prediction. We explore RNA structural biology using a combination of X-ray crystallography, chemical probing, artificial intelligence and computational modeling. 
 Besides, we use single-cell multi-omics to understand the human immune response to RNA viruses, neuron development and immune cell development. We develop computational algorithms to deal with key bottlenecks in single-cell analysis (e.g.,batch effect, cell type clustering, cell type deconvolution). We also develop cloud computing platform and big data atlases for single-cell omics.
 
-Here are some themes that we currently work on:
+Here are some themes that we currently work on ([RNA-Puzzles](#RNA-Puzzles), [RNA design](#RNA design), [Single-cell omics algorithms](#Single-cell omics algorithms), [Single-cell omics data analysis](#Single-cell omics data analysis) ):
 
-**[RNA-Puzzles.](http://www.rnapuzzles.org)** It is a world-wide community experiment for blind RNA structure prediction.    
+## RNA-Puzzles.
 
+It is a world-wide community experiment for blind RNA structure prediction.    
 It aims to:     
 * To determine the capabilities and limitations of current methods of 3D RNA structure prediction based on sequence;    
 * To find whether and how progress has been made, as well as what has yet to be done to achieve better solutions    
@@ -27,8 +28,9 @@ For details, please visit [rnapuzzles.org](http://www.rnapuzzles.org).
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/rnapuzzles_screenshot.png" alt="Slide 1" style="height:400px;"/>
 
-**RNA design.** We aim to design catalytic RNA molecule as well as RNA inhibitors using the RNA structure folding rules. 
+## RNA design.
 
+We aim to design catalytic RNA molecule as well as RNA inhibitors using the RNA structure folding rules. 
 It is widely known that RNA form base-pairs and secondary structures. However, the "base-pairs" are normally referring to *cis*-Watson-Crick base-pairs of A-U or G=C, sometimes G-U, while 
 the non-Watson-Crick base-pairs also play a key role in RNA structure formation. We aim to integrate experimental information and RNA structural rules derived from X-ray crystal structures 
 to optimise RNA design including the non-Watson-Crick base-pairs. 
@@ -36,10 +38,10 @@ to optimise RNA design including the non-Watson-Crick base-pairs.
 <img src="{{ site.url }}{{ site.baseurl }}/images/respic/nonWC_design.png" alt="Slide 1" style="height:400px;"/>
 
 
-**Single-cell omics algorithms.** The 
+## Single-cell omics algorithms.
 
 
-**Single-cell omics data analysis.**
+## Single-cell omics data analysis.
 
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/monkey_cover1.jpeg" alt="Slide 2" style="height:400px;"/>
