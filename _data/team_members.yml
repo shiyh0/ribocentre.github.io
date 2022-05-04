@@ -14,16 +14,16 @@
   info: Lab manager
   email: xxx@gzlab.ac.cn
   number_educ: 2
-  education1: Master at [Guangdong University of Foreign Studies](https://www.gdufs.edu.cn/)
-  education2: B.S. at [Northwest A&F University, China](https://www.nwsuaf.edu.cn/)
+  education1: Master at <a href="https://www.gdufs.edu.cn/">Guangdong University of Foreign Studies</a>
+  education2: B.S. at <a href="https://www.nwsuaf.edu.cn/">Northwest A&F University, China</a> 
 
 - name: Ziliang Huang
   photo: Jacky.jpg
   info: Research Assistant
   email: xxx@gzlab.ac.cn
   number_educ: 2
-  education1: Master at [Sun Yat-sen University](https://www.sysu.edu.cn/)
-  education2: B.S. at [Sun Yat-sen University](https://www.sysu.edu.cn/)
+  education1: Master at <a href="https://www.sysu.edu.cn/">Sun Yat-sen University</a> 
+  education2: B.S. at <a href="https://www.sysu.edu.cn/">Sun Yat-sen University</a> 
 
 - name: "This could be you !"
   photo: rock.jpg
