@@ -26,7 +26,7 @@ It aims to:
 * To explore the underlying mechanism of ligand-RNA binding and the conformational changes in riboswitches.    
 For details, please visit [rnapuzzles.org](http://www.rnapuzzles.org).     
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/homepic/rnapuzzles_screenshot.png" alt="Slide 1" style="height:400px;"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/homepic/rnapuzzles_screenshot.png" alt="Slide 1" style="height:400px;"/>    
 The image is a screenshot of our RNA-Puzzles webpage.     
 
 ## RNA design.
@@ -36,7 +36,7 @@ It is widely known that RNA form base-pairs and secondary structures. However, t
 the non-Watson-Crick base-pairs also play a key role in RNA structure formation. We aim to integrate experimental information and RNA structural rules derived from X-ray crystal structures 
 to optimise RNA design including the non-Watson-Crick base-pairs. 
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/nonWC_design.png" alt="Slide 1" style="height:400px;"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/nonWC_design.png" alt="Slide 1" style="height:400px;"/>    
 The image is a description about all the base-pair conformations from our [Annual Reveiew of Biophysics paper](https://www.annualreviews.org/doi/10.1146/annurev-biophys-070816-034125). 
 
 
@@ -47,7 +47,7 @@ Given the rapid development of different single-cell technologies and new wave o
 our aims is to develop new computational and theoretical approaches to deal with big single-cell omics data to derive novel biological insights. We aim to understand the spatial
 and temporal cellular response to RNA viruses. 
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/homepic/sccaf_cover.jpg" alt="Slide 3" style="height:400px;"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/homepic/sccaf_cover.jpg" alt="Slide 3" style="height:400px;"/>    
 The image is a cover picture of our [SCCAF algorithm](https://www.ebi.ac.uk/about/news/technology-and-innovation/RNA-seq-cell-type/).     
 
 
@@ -56,5 +56,5 @@ The image is a cover picture of our [SCCAF algorithm](https://www.ebi.ac.uk/abou
 We use computational analysis to understand the bioligcal significance bebind single-cell omics data. Especially, we are interested in human immune response to RNA viruses, neuron development and immune cell development. 
 We welcome collaborators around but also beyond these topics. 
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/homepic/monkey_cover1.jpeg" alt="Slide 2" style="height:400px;"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/homepic/monkey_cover1.jpeg" alt="Slide 2" style="height:400px;"/>    
 The image is a cover picture of our single-cell research on neuron stem cell in adult primates.     
