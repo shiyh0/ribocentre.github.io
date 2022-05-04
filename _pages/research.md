@@ -25,7 +25,7 @@ It aims to:
 * To explore the underlying mechanism of ligand-RNA binding and the conformational changes in riboswitches.
 
 For details, please visit [rnapuzzles.org](http://www.rnapuzzles.org).
-<img src="{{ site.url }}{{ site.baseurl }}/images/homepic/rnapuzzles_screenshot.png" alt="Slide 1" style="width:800px;height:400px;"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/homepic/rnapuzzles_screenshot.png" alt="Slide 1" style="height:400px;"/>
 
 **RNA design.** We aim to design catalytic RNA molecule as well as RNA inhibitors using the RNA structure folding rules. 
 
