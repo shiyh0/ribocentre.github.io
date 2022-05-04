@@ -40,6 +40,10 @@ to optimise RNA design including the non-Watson-Crick base-pairs.
 
 ## Single-cell omics algorithms.
 
+Single-cell multi-omics and spatial technologies now provide an opportunity to dissect the state of individual cells at unprecedented resolution. 
+Given the rapid development of different single-cell technologies and new wave of big omics data with their own specificities in terms of complexity and information content, 
+our aims is to develop new computational and theoretical approaches to deal with big single-cell omics data to derive novel biological insights. We aim to understand the spatial
+and temporal cellular response to RNA viruses. 
 
 ## Single-cell omics data analysis.
 

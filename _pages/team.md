@@ -128,32 +128,5 @@ Jump to [staff](#staff), [graduate students](#graduate-students), [administrativ
 </div>
 {% endif %}
 
-## Former visitors, BSc/ MSc students
-<div class="row">
-
-<div class="col-sm-4 clearfix">
-<h4>Visitors</h4>
-{% for member in site.data.alumni_visitors %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>Master students</h4>
-{% for member in site.data.alumni_msc %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>Bachelor Students</h4>
-{% for member in site.data.alumni_bsc %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-</div>
-
-
 ## Administrative Support
 <a href="mailto:xxx@gzlab.ac.cn">Xinyu Guo</a> is helping us (and other groups) with administration.
