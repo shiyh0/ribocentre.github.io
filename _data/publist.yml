@@ -115,13 +115,229 @@
     display: RNA Biol. 18, 447–456 (2021).
   highlight: 0
 
+- title: "Advances in RNA 3D Structure Modeling Using Experimental Data."
+  image: dummy.png
+  description: 
+  authors: Li, B., Cao, Y., Westhof, E. & <b>Miao, Z.#</b>
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/33193680/
+    display: Front. Genet. 11:574485, (2020).
+  highlight: 0
+
+- title: "RNA-Puzzles Round IV: 3D structure predictions of four ribozymes and two aptamers."
+  image: dummy.png
+  description: 
+  authors: <b>Miao, Z.</b>, Adamiak, R. W., Antczak, M., Boniecki, M. J., Bujnicki, J., Chen, S.-J., Cheng, C. Y., Cheng, Y., Chou, F.-C., Das, R., Dokholyan, N. V., Ding, F., Geniesse, C., Jiang, Y., Joshi, A., Krokhotin, A., Magnus, M., Mailhot, O., Major, F., Mann, T. H., Piątkowski, P., Pluta, R., Popenda, M., Sarzynska, J., Sun, L., Szachniuk, M., Tian, S., Wang, J., Wang, J., Watkins, A. M., Wiedemann, J., Xiao, Y., Xu, X., Yesselman, J. D., Zhang, D., Zhang, Y., Zhang, Z., Zhao, C., Zhao, P., Zhou, Y., Zok, T., Żyła, A., Ren, A., Batey, R. T., Golden, B. L., Huang, L., Lilley, D. M., Liu, Y., Patel, D. J. & Westhof, E.# 
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32371455/
+    display: RNA 26, 982–995 (2020).
+  highlight: 0
+
+- title: "Putative cell type discovery from single-cell gene expression data."
+  image: dummy.png
+  description: 
+  authors: <b>Miao, Z.</b>, Moreno, P., Huang, N., Papatheodorou, I., Brazma, A.# & Teichmann, S. A.# 
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32424270/
+    display: Nat. Methods 17, 621–628 (2020).
+  highlight: 1
+
+- title: "RNA-Puzzles toolkit: a computational resource of RNA 3D structure benchmark datasets, structure manipulation, and evaluation tools."
+  image: dummy.png
+  description: 
+  authors: Magnus, M., Antczak, M., Zok, T., Wiedemann, J., Lukasiak, P., Cao, Y., Bujnicki, J. M., Westhof, E., Szachniuk, M. & <b>Miao, Z.#</b>
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31799609/
+    display: Nucleic Acids Res. 48, 576–588 (2020).
+  highlight: 0
+
+- title: "Decoding human fetal liver haematopoiesis."
+  image: dummy.png
+  description: 
+  authors: Popescu, D.-M., Botting, R. A., Stephenson, E., Green, K., Webb, S., Jardine, L., Calderbank, E. F., Polanski, K., Goh, I., Efremova, M., Acres, M., Maunder, D., Vegh, P., Gitton, Y., Park, J.-E., Vento-Tormo, R., <b>Miao, Z.</b>, Dixon, D., Rowell, R., McDonald, D., Fletcher, J., Poyner, E., Reynolds, G., Mather, M., Moldovan, C., Mamanova, L., Greig, F., Young, M. D., Meyer, K. B., Lisgo, S., Bacardit, J., Fuller, A., Millar, B., Innes, B., Lindsay, S., Stubbington, M. J. T., Kowalczyk, M. S., Li, B., Ashenberg, O., Tabaka, M., Dionne, D., Tickle, T. L., Slyper, M., Rozenblatt-Rosen, O., Filby, A., Carey, P., Villani, A.-C., Roy, A., Regev, A., Chédotal, A., Roberts, I., Göttgens, B., Behjati, S., Laurenti, E., Teichmann, S. A.# & Haniffa, M.# 
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31597962/
+    display: Nature 574, 365–371 (2019).
+  highlight: 0
+
+- title: "BBKNN: Fast Batch Alignment of Single Cell Transcriptomes."
+  image: dummy.png
+  description: 
+  authors: Polański, K.^, Park, J.-E.^, Young, M. D.^, <b>Miao, Z.</b>, Meyer, K. B. & Teichmann, S. A.# 
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31400197/
+    display: Bioinformatics 36(3):964-965 (2019).
+  highlight: 0
+
+- title: "AbRSA: A robust tool for antibody numbering."
+  image: dummy.png
+  description: 
+  authors: Li, L.^, Chen, S.^, <b>Miao, Z.^</b>, Liu, Y., Liu, X., Xiao, Z.-X.# & Cao, Y.# 
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31020723/
+    display: Protein Sci. 28, 1524–1531 (2019).
+  highlight: 0
+
+- title: "Exome sequencing identifies a novel missense variant in CTSC causing nonsyndromic aggressive periodontitis."
+  image: dummy.png
+  description: 
+  authors: Molitor, A., Prud’homme, T., <b>Miao, Z.</b>, Conrad, S., Bloch-Zupan, A., Pichot, A., Hanauer, A., Isidor, B., Bahram, S. & Carapito, R.# 
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31068678/
+    display: Journal of Human Genetics 64, 689–694 (2019).
+  highlight: 0
+
+- title: "Comparative analysis of sequencing technologies for single-cell transcriptomics."
+  image: dummy.png
+  description: 
+  authors: Natarajan, K. N.#^, <b>Miao, Z.^</b>, Jiang, M., Huang, X., Zhou, H., Xie, J., Wang, C., Qin, S., Zhao, Z., Wu, L., Yang, N., Li, B., Hou, Y., Liu, S. & Teichmann, S. A.# 
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/30961669/
+    display: Genome Biol. 20(1):70 (2019).
+  highlight: 0
+
+- title: "A test metric for assessing single-cell RNA-seq batch correction."
+  image: dummy.png
+  description: 
+  authors: Büttner, M.^, <b>Miao, Z.^</b>, Wolf, F. A., Teichmann, S. A.# & Theis, F. J.# 
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/30573817/
+    display: Nat. Methods 16, 43–49 (2019).
+  highlight: 1
+
+- title: "Genome-wide analyses reveal the IRE1a-XBP1 pathway promotes T helper cell differentiation by resolving secretory stress and accelerating proliferation."
+  image: dummy.png
+  description: 
+  authors: Pramanik, J., Chen, X., Kar, G., Henriksson, J., Gomes, T., Park, J.-E., Natarajan, K., Meyer, K. B., <b>Miao, Z.</b>, McKenzie, A. N. J., Mahata, B.# & Teichmann, S. A.# 
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/30355343/
+    display: Genome Med. 10, 76 (2018).
+  highlight: 0
 
 
+- title: "Evaluation of Protein-Ligand Docking by Cyscore."
+  image: dummy.png
+  description: 
+  authors: Cao, Y., Dai, W. & <b>Miao, Z.</b>
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/29594775/
+    display: Methods in Molecular Biology 1762:233–243 (2018).
+  highlight: 0
 
+- title: "Mutations in signal recognition particle SRP54 cause syndromic neutropenia with Shwachman-Diamond-like features."
+  image: dummy.png
+  description: 
+  authors: Carapito, R., Konantz, M., Paillard, C., <b>Miao, Z.</b>, Pichot, A., Leduc, M. S., Yang, Y., Bergstrom, K. L., Mahoney, D. H., Shardy, D. L., Alsaleh, G., Naegely, L., Kolmer, A., Paul, N., Hanauer, A., Rolli, V., Müller, J. S., Alghisi, E., Sauteur, L., Macquin, C., Morlon, A., Sancho, C. S., Amati-Bonneau, P., Procaccio, V., Mosca-Boidron, A.-L., Marle, N., Osmani, N., Lefebvre, O., Goetz, J. G., Unal, S., Akarsu, N. A., Radosavljevic, M., Chenard, M.-P., Rialland, F., Grain, A., Béné, M.-C., Eveillard, M., Vincent, M., Guy, J., Faivre, L., Thauvin-Robinet, C., Thevenon, J., Myers, K., Fleming, M. D., Shimamura, A., Bottollier-Lemallaz, E., Westhof, E., Lengerke, C., Isidor, B. & Bahram, S.# 
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/28972538/
+    display: J. Clin. Invest. 127, 4090–4103 (2017).
+  highlight: 0
 
+- title: "RNA Structure: Advances and Assessment of 3D Structure Prediction."
+  image: dummy.png
+  description: 
+  authors: <b>Miao, Z.#</b> & Westhof, E.# 
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/28375730/
+    display: Annu. Rev. Biophys. 46, 483–503 (2017).
+  highlight: 0
 
+- title: "RNA-Puzzles Round III: 3D RNA structure prediction of five riboswitches and one ribozyme."
+  image: dummy.png
+  description: 
+  authors: <b>Miao, Z.</b>, Adamiak, R. W., Antczak, M., Batey, R. T., Becka, A. J., Biesiada, M., Boniecki, M. J., Bujnicki, J. M., Chen, S.-J., Cheng, C. Y., Chou, F.-C., Ferré-D’Amaré, A. R., Das, R., Dawson, W. K., Ding, F., Dokholyan, N. V., Dunin-Horkawicz, S., Geniesse, C., Kappel, K., Kladwang, W., Krokhotin, A., Łach, G. E., Major, F., Mann, T. H., Magnus, M., Pachulska-Wieczorek, K., Patel, D. J., Piccirilli, J. A., Popenda, M., Purzycka, K. J., Ren, A., Rice, G. M., Santalucia, J., Jr, Sarzynska, J., Szachniuk, M., Tandon, A., Trausch, J. J., Tian, S., Wang, J., Weeks, K. M., Williams, B., 2nd, Xiao, Y., Xu, X., Zhang, D., Zok, T. & Westhof, E.# 
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/28138060/
+    display: RNA 23, 655–672 (2017).
+  highlight: 0
 
+- title: "Quantifying side-chain conformational variations in protein structure."
+  image: dummy.png
+  description: 
+  authors: <b>Miao, Z.#</b> & Cao, Y.# 
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/27845406/
+    display: Sci. Rep. 6, 37024 (2016).
+  highlight: 0
 
+- title: "RBscore&NBench: a high-level web server for nucleic acid binding residues prediction with a large-scale benchmarking database."
+  image: dummy.png
+  description: 
+  authors: <b>Miao, Z.#</b> & Westhof, E.# 
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/27084939/
+    display: Nucleic Acids Res. 44, W562–7 (2016).
+  highlight: 0
 
+- title: "DRSP: a Structural Database for Single Residue Substitutions in PDB."
+  image: dummy.png
+  description: 
+  authors: Liu, J.^, <b>Miao, Z.^</b>, Li, L., Xiao, Z. & Cao, Y.# 
+  link:
+    url: https://www.researchgate.net/publication/311266971_DRSP_A_structural_database_for_single_residue_Substitutions_in_PDB
+    display: pibb.2016.0056
+  highlight: 0
 
+- title: "Prediction of nucleic acid binding probability in proteins: a neighboring residue network based score."
+  image: dummy.png
+  description: 
+  authors: <b>Miao, Z.</b> & Westhof, E.# 
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/25940624/
+    display: Nucleic Acids Res. 43, 5340–5351 (2015).
+  highlight: 0
+
+- title: "RNA-Puzzles Round II: assessment of RNA structure prediction programs applied to three large RNA structures."
+  image: dummy.png
+  description: 
+  authors: <b>Miao, Z.</b>, Adamiak, R. W., Blanchet, M.-F., Boniecki, M., Bujnicki, J. M., Chen, S.-J., Cheng, C., Chojnowski, G., Chou, F.-C., Cordero, P., Cruz, J. A., Ferré-D’Amaré, A. R., Das, R., Ding, F., Dokholyan, N. V., Dunin-Horkawicz, S., Kladwang, W., Krokhotin, A., Lach, G., Magnus, M., Major, F., Mann, T. H., Masquida, B., Matelska, D., Meyer, M., Peselis, A., Popenda, M., Purzycka, K. J., Serganov, A., Stasiewicz, J., Szachniuk, M., Tandon, A., Tian, S., Wang, J., Xiao, Y., Xu, X., Zhang, J., Zhao, P., Zok, T. & Westhof, E.# 
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/25883046/
+    display: RNA 21, 1066–1084 (2015).
+  highlight: 0
+
+- title: "A Large-Scale Assessment of Nucleic Acids Binding Site Prediction Programs."
+  image: dummy.png
+  description: 
+  authors: <b>Miao, Z.</b> & Westhof, E.# 
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/26681179/
+    display: PLoS Comput. Biol. 11, e1004639 (2015).
+  highlight: 0
+
+- title: "Modeling of protein side-chain conformations with RASP."
+  image: dummy.png
+  description: 
+  authors: <b>Miao, Z.</b>, Cao, Y. & Jiang, T.# 
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/24573473/
+    display: Methods Mol. Biol. 1137, 43–53 (2014).
+  highlight: 0
+
+- title: "RNA structure analysis of human spliceosomes reveals a compact 3D arrangement of snRNAs at the catalytic core."
+  image: dummy.png
+  description: 
+  authors: Anokhina, M., Bessonov, S., <b>Miao, Z.</b>, Westhof, E., Hartmuth, K. & Lührmann, R.# 
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/24002212/
+    display: EMBO J. 32, 2804–2818 (2013).
+  highlight: 0
+
+- title: "RASP: rapid modeling of protein side chain conformations."
+  image: dummy.png
+  description: 
+  authors: <b>Miao, Z.</b>, Cao, Y. & Jiang, T.# 
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/21949272/
+    display: Bioinformatics 27, 3117–3122 (2011).
+  highlight: 0
+
+- title: "Improved side-chain modeling by coupling clash-detection guided iterative search with rotamer relaxation."
+  image: dummy.png
+  description: 
+  authors: Cao, Y., Song, L., <b>Miao, Z.</b>, Hu, Y., Tian, L. & Jiang, T.# 
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/21216772/
+    display: Bioinformatics 27, 785–790 (2011).
+  highlight: 0
 
