@@ -45,7 +45,7 @@
   
 - title: "High-throughput full-length single-cell RNA-seq automation."
   image: scqua_cover.png
-  description: 
+  description: We describe an automated protocol for full-length single-cell RNA sequencing, including both an in-house automated Smart-seq2 protocol and a commercial kit-based workflow. Besidse, we also provide a single-cell sequencing qaulity assessment program <b>[SCQUA](https://github.com/chichaumiau/SCQUA)</b>.
   authors: Mamanova, L.#^, <b>Miao, Z.^</b>, Jinat, A., Ellis, P., Shirley, L. & Teichmann, S. A.#
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/33990801/
@@ -135,7 +135,7 @@
 
 - title: "Putative cell type discovery from single-cell gene expression data."
   image: sccaf_cover.jpg
-  description: 
+  description: We present the Single-Cell Clustering Assessment Framework (<b>[SCCAF](https://github.com/SCCAF/sccaf)</b>), a method for the automated identification of putative cell types from single-cell RNA sequencing (scRNA-seq) data.
   authors: <b>Miao, Z.</b>, Moreno, P., Huang, N., Papatheodorou, I., Brazma, A.# & Teichmann, S. A.# 
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/32424270/
@@ -198,7 +198,7 @@
 
 - title: "A test metric for assessing single-cell RNA-seq batch correction."
   image: kbet_cover.jpg
-  description: 
+  description: we present a user-friendly, robust and sensitive k-nearest-neighbor batch-effect test (<b>[kBET](https://github.com/theislab/kBET)</b>) for quantification of batch effects. We used kBET to assess commonly used batch-regression and normalization approaches, and to quantify the extent to which they remove batch effects while preserving biological variability.
   authors: Büttner, M.^, <b>Miao, Z.^</b>, Wolf, F. A., Teichmann, S. A.# & Theis, F. J.# 
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/30573817/
