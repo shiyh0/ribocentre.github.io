@@ -44,7 +44,7 @@
   highlight: 0
   
 - title: "High-throughput full-length single-cell RNA-seq automation."
-  image: dummy.png
+  image: scqua_cover.png
   description: 
   authors: Mamanova, L.#^, <b>Miao, Z.^</b>, Jinat, A., Ellis, P., Shirley, L. & Teichmann, S. A.#
   link:
@@ -134,7 +134,7 @@
   highlight: 0
 
 - title: "Putative cell type discovery from single-cell gene expression data."
-  image: dummy.png
+  image: sccaf_cover.jpg
   description: 
   authors: <b>Miao, Z.</b>, Moreno, P., Huang, N., Papatheodorou, I., Brazma, A.# & Teichmann, S. A.# 
   link:
@@ -197,7 +197,7 @@
   highlight: 0
 
 - title: "A test metric for assessing single-cell RNA-seq batch correction."
-  image: dummy.png
+  image: kbet_cover.jpg
   description: 
   authors: Büttner, M.^, <b>Miao, Z.^</b>, Wolf, F. A., Teichmann, S. A.# & Theis, F. J.# 
   link:
