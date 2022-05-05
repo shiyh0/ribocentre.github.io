@@ -1,21 +1,72 @@
-- title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
-  image: Pairs3.png
-  description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
-  authors: KM Bastiaans, D Chatzopoulos, J-F Ge, D Cho, WO Tromp, JM van Ruitenbeek, MH Fischer, PJ de Visser, DJ Thoen, EFC Driessen, TM Klapwijk, MP Allan
+- title: "Expression Atlas update: gene and protein expression in multiple species."
+  image: dummy.png
+  description: 
+  authors: Moreno, P., Fexova, S., George, N., Manning, J. R., <b>Miao, Z.</b>, Mohammed, S., Muñoz-Pomer, A., Fullgrabe, A., Bi, Y., Bush, N., Iqbal, H., Kumbham, U., Solovyev, A., Zhao, L., Prakash, A., García-Seisdedos, D., Kundu, D. J., Wang, S., Walzer, M., Clarke, L., Osumi-Sutherland, D., Tello-Ruiz, M. K., Kumari, S., Ware, D., Eliasova, J., Arends, M. J., Nawijn, M. C., Meyer, K., Burdett, T., Marioni, J., Teichmann, S., Vizcaíno, J. A., Brazma, A.# & Papatheodorou, I.# 
   link:
-    url: https://www.science.org/doi/10.1126/science.abe3987
-    display: Science 374, 608 (2021)
-  highlight: 1
-  news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
-
-- title: "Imaging moiré deformation and dynamics in twisted bilayer graphene"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: TA de Jong, T Benschop, X Chen, EE Krasovskii, MJA de Dood, RM Tromp,  MP Allan, SJ van der Molen
-  link:
-    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
-    display:  arXiv:2107.14716 (2021)
+    url: https://pubmed.ncbi.nlm.nih.gov/34850121/
+    display: Nucleic Acids Res. 50, D129–D140 (2022)
   highlight: 0
-  news2:
 
+- title: "Single-Cell Analysis Reveals the Immune Characteristics of Myeloid Cells and Memory T Cells in Recovered COVID-19 Patients With Different Severities."
+  image: dummy.png
+  description: 
+  authors: Li, X.^, <b>Garg, M.^</b>, Jia, T., Liao, Q., Yuan, L., Li, M., Wu, Z., Wu, W., Bi, Y., George, N., Papatheodorou, I., Brazma, A., Luo, H., Fang, S., <b>Miao, Z.#</b> & Shu, Y.#
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/35046942/
+    display: Frontiers in Immunology 12, 1664-3224 (2022).
+  highlight: 0
+
+- title: "Evaluation of the stereochemical quality of predicted RNA 3D models in the RNA-Puzzles submissions."
+  image: dummy.png
+  description: 
+  authors: Carrascoza, F., Antczak, M., <b>Miao, Z.#</b>, Westhof, E. & Szachniuk, M.#
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34819324/
+    display: RNA (2021). doi:10.1261/rna.078685.121.
+  highlight: 0
+
+- title: "Meta-analysis of COVID-19 single-cell studies confirms eight key immune responses."
+  image: dummy.png
+  description: 
+  authors: <b>Garg, M.^</b>, Li, X.^, Moreno, P., Papatheodorou, I., Shu, Y.#, Brazma, A.# & <b>Miao, Z.#</b>
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34675242/
+    display: Sci. Rep. 11, 20833 (2021).
+  highlight: 0
+
+- title: "Mapping Rora expression in resting and activated CD4+ T cells."
+  image: dummy.png
+  description: 
+  authors: Haim-Vilmovsky, L., Henriksson, J., Walker, J. A., <b>Miao, Z.#</b>, Natan, E., Kar, G., Clare, S., Barlow, J. L., Charidemou, E., Mamanova, L., Chen, X., Proserpio, V., Pramanik, J., Woodhouse, S., Protasio, A. V., Efremova, M., Griffin, J. L., Berriman, M., Dougan, G., Fisher, J., Marioni, J. C., McKenzie, A. N. J. & Teichmann, S. A.#
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34003838/
+    display: PLoS One 16, e0251233 (2021).
+  highlight: 0
+  
+- title: "High-throughput full-length single-cell RNA-seq automation."
+  image: dummy.png
+  description: 
+  authors: Mamanova, L.#^, <b>Miao, Z.^</b>, Jinat, A., Ellis, P., Shirley, L. & Teichmann, S. A.#
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/33990801/
+    display: Nat. Protoc. 16, 2886–2915 (2021).
+  highlight: 1
+
+- title: "User-friendly, scalable tools and workflows for single-cell RNA-seq analysis."
+  image: dummy.png
+  description: 
+  authors: Moreno, P., Huang, N., Manning, J. R., Mohammed, S., Solovyev, A., Polanski, K., Bacon, W., Chazarra, R., Talavera-López, C., Doyle, M. A., Marnier, G., Grüning, B., Rasche, H., George, N., Fexova, S. K., Alibi, M., <b>Miao, Z.</b>, Perez-Riverol, Y., Haeussler, M., Brazma, A., Teichmann, S., Meyer, K. B. & Papatheodorou, I.#
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/33782609/
+    display: Nat. Methods 18, 327–328 (2021).
+  highlight: 0
+
+- title: "User-friendly, scalable tools and workflows for single-cell RNA-seq analysis."
+  image: dummy.png
+  description: 
+  authors: Moreno, P., Huang, N., Manning, J. R., Mohammed, S., Solovyev, A., Polanski, K., Bacon, W., Chazarra, R., Talavera-López, C., Doyle, M. A., Marnier, G., Grüning, B., Rasche, H., George, N., Fexova, S. K., Alibi, M., <b>Miao, Z.</b>, Perez-Riverol, Y., Haeussler, M., Brazma, A., Teichmann, S., Meyer, K. B. & Papatheodorou, I.#
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/33782609/
+    display: Nat. Methods 18, 327–328 (2021).
+  highlight: 0
 
