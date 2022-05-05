@@ -243,13 +243,14 @@
   highlight: 0
 
 - title: "RNA-Puzzles Round III: 3D RNA structure prediction of five riboswitches and one ribozyme."
-  image: dummy.png
+  image: RNAIII_cover.png
   description: 
   authors: <b>Miao, Z.</b>, Adamiak, R. W., Antczak, M., Batey, R. T., Becka, A. J., Biesiada, M., Boniecki, M. J., Bujnicki, J. M., Chen, S.-J., Cheng, C. Y., Chou, F.-C., Ferré-D’Amaré, A. R., Das, R., Dawson, W. K., Ding, F., Dokholyan, N. V., Dunin-Horkawicz, S., Geniesse, C., Kappel, K., Kladwang, W., Krokhotin, A., Łach, G. E., Major, F., Mann, T. H., Magnus, M., Pachulska-Wieczorek, K., Patel, D. J., Piccirilli, J. A., Popenda, M., Purzycka, K. J., Ren, A., Rice, G. M., Santalucia, J., Jr, Sarzynska, J., Szachniuk, M., Tandon, A., Trausch, J. J., Tian, S., Wang, J., Weeks, K. M., Williams, B., 2nd, Xiao, Y., Xu, X., Zhang, D., Zok, T. & Westhof, E.# 
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/28138060/
     display: RNA 23, 655–672 (2017).
-  highlight: 0
+  highlight: 1
+  news2: highlighted by [Faculty Opinions](https://facultyopinions.com/article/727254907)
 
 - title: "Quantifying side-chain conformational variations in protein structure."
   image: dummy.png
