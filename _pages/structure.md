@@ -1,7 +1,7 @@
 ---
-title: "Miao Lab - Vacancies"
+title: "Ribo centre - Structure"
 layout: textlay
-excerpt: "Openings"
+excerpt: "structure"
 sitemap: false
 permalink: /vacancies
 ---
