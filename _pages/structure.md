@@ -1,9 +1,9 @@
 ---
 title: "Ribo centre - Structure"
-layout: textlay
+layout: structure
 excerpt: "structure"
 sitemap: false
-permalink: /vacancies
+permalink: /structure
 ---
 
 ## Open positions
