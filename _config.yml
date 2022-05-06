@@ -11,7 +11,7 @@ email: rnapuzzles@gzlab.ac.cn
 description: > # this means to ignore newlines until "baseurl:"
   Ribo centre is a database of ribozymes.
 baseurl: ""
-url: "ribocentre.org"
+url: ""
 
 include:
   - .htaccess
