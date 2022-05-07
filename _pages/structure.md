@@ -6,52 +6,126 @@ sitemap: false
 permalink: /structure
 ---
 
-## Open positions
+# Structure
 
-**Our lab will mainly use computational approaches combined with experiments to understand RNA virus and RNA structure at gene expression regulation and structural levels. Specifically, we use RNA structure prediction and RNA design to udnerstand and engineer RNA molecules. We are hosting the [RNA-Puzzles](http://www.rnapuzzles.org), which is a world-wide community efforts in evaluation of RNA 3D structure prediction. We explore RNA structural biology using a combination of X-ray crystallography, chemical probing, artificial intelligence and computational modeling. Besides, we use single-cell multi-omics to understand the human immune response to RNA viruses, neuron development and immune cell development. We develop computational algorithms to deal with key bottlenecks in single-cell analysis (e.g.,batch effect, cell type clustering, cell type deconvolution). We also develop cloud computing platform and big data atlases for single-cell omics.** 
 
-**We are always looking for creative, energetic and collaborative researchers to join our interdisciplinary team, please contact by [email](mailto:miao_zhichao@gzlab.ac.cn)!**
+<div class="controlsSection">
 
-## Contact information:
-Address (Guangzhou International Bio island): Building B2, 96 Xingdao South Road, Guangzhou International Bio Island , Haizhu District, Guangzhou, Guangdong, China.
-Postcode: 510320
-[Email](mailto:miao_zhichao@gzlab.ac.cn)
+      <h3>Canvas/ layout methods</h3>
+      
+      <div class="controlBox">
+        <strong>Set Background</strong><br>
+        <button onclick="viewerInstance.canvas.setBgColor({r:255, g:255, b:255})">White</button>&nbsp;
+        <button onclick="viewerInstance.canvas.setBgColor({r:0, g:0, b:0})">Black</button><br><br>
+        
+        <strong>Toggle controls menu</strong><br>
+        <button onclick="viewerInstance.canvas.toggleControls(false)">Hide</button>&nbsp;
+        <button onclick="viewerInstance.canvas.toggleControls(true)">Show</button>&nbsp;
+        <button onclick="viewerInstance.canvas.toggleControls()">Toggle</button><br><br>
+        
+        <strong>Toggle Fullscreen</strong><br>
+        <button onclick="viewerInstance.canvas.toggleExpanded(true)">Show Fullscreen</button><br>
+      </div>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3670.9607940189653!2d113.3728525!3d23.0618989!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xbfef76e0d9d7b9!2z5bm_5bee55Sf54mp5bKb5Zu96ZmF5YWs5a-T!5e0!3m2!1sen!2shk!4v1651501560610!5m2!1sen!2shk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      <h3>Visual Methods</h3>
+      <div class="controlBox">
+        <strong>Change representation visibility</strong><br>
+        <button onclick="viewerInstance.visual.visibility({water:false})">Hide Water Visual</button>&nbsp;
+        <button onclick="viewerInstance.visual.visibility({water:true})">Show Water Visual</button><br><br>
 
-## Open positioins:
+        <strong>Toggle Spin</strong><br>
+        <button onclick="viewerInstance.visual.toggleSpin(true)">Rotate</button>&nbsp;
+        <button onclick="viewerInstance.visual.toggleSpin(false)">Stop</button>&nbsp;
+        <button onclick="viewerInstance.visual.toggleSpin()">Toggle</button><br><br>
+        
+        <strong>Focus</strong><br>
+        <button onclick="viewerInstance.visual.focus([{struct_asym_id: 'A', start_residue_number: 14, end_residue_number: 18}])">Focus on Chain A:14-18</button><br><br>
 
-### Associate Investigator
-The candidates should have a Ph.D. in computational biology/bioinformatics/computer science/statistics or other quantitative fields, as well as excellent programming and communication skills. Substantial experience in analysis of high-throughput sequencing data is highly desirable.
+        <strong>Highlight</strong><br>
+        <button onclick="viewerInstance.visual.highlight({ data: [{ struct_asym_id: 'A', start_residue_number: 14, end_residue_number: 18 }], color:{r:255,g:255,b:0} })">Highlight Chain A:14-18</button>&nbsp;
+        <button onclick="viewerInstance.visual.clearHighlight()">Clear Highlight</button><br><br>
+        
+        <strong>Selection</strong><br>
+        <button onclick="viewerInstance.visual.select({ data: [{ struct_asym_id: 'B', start_residue_number: 1, end_residue_number: 6, color:{r:255,g:255,b:0}, focus: true }]})">Select & Focus on Chain B:1-6</button><br><br>
+        <button onclick="
+          var selectSections = [
+            {
+              struct_asym_id: 'B', 
+              start_residue_number: 8, 
+              end_residue_number: 10, 
+              color:{r:255,g:0,b:255},
+              sideChain: true
+            },
+            {
+              struct_asym_id: 'B', 
+              start_residue_number: 2, 
+              end_residue_number: 5, 
+              color:{r:255,g:0,b:0}
+            }
+          ]
+          viewerInstance.visual.select({ data: selectSections, nonSelectedColor: {r:255,g:255,b:255}})">Select on Chain B:2-5 & Chain B:8-10</button><br><br>
+          
+        <button onclick="viewerInstance.visual.select({ data: [{struct_asym_id: 'A', color:{r:255,g:255,b:0}}], nonSelectedColor: {r:255,g:255,b:255} })">Select & Focus on Chain A</button><br><br>
 
-Candidates with a Ph.D. degree in cell biology, molecular biology, immunology (etc.) with substantial experience and interest in quantitative fields/programming are also welcomed to apply.
+        <button onclick="viewerInstance.visual.clearSelection()">Clear Selection</button><br><br>
 
-The candidates would have ability to develop independent research programs/projects, and candidates with experience in postdoctoral training or research and strong record in research are strongly preferred.
+        <strong>Set highlight / selection colour</strong><br>
+        <button onclick="viewerInstance.visual.setColor({ highlight: {r:255,g:255,b:0} })">Yellow highlight</button>&nbsp;
+        <button onclick="viewerInstance.visual.reset({ highlightColor: true })">Reset</button><br><br>
+        <button onclick="viewerInstance.visual.setColor({ select: {r:255,g:0,b:0} })">Red selection</button>&nbsp;
+        <button onclick="viewerInstance.visual.reset({ selectColor: true })">Reset</button><br><br>
+        
+        <strong>Reset Visual</strong><br>
+        <button onclick="viewerInstance.visual.reset({ camera: true })">Camera</button>&nbsp;
+        <button onclick="viewerInstance.visual.reset({ theme: true })">Theme</button>&nbsp;
+        <button onclick="viewerInstance.visual.reset({ camera: true, theme: true })">Camera & Theme</button><br><br>
 
-The successful candidates will join a vibrant scientific environment devoted to basic science aiming at integrating research activities among partner institutes and conduct interdisciplinary research to address high-priority projects through the combination of complementary knowledge, methods and techniques.
+        <strong>Update data</strong><br>
+        <button onclick="viewerInstance.visual.update({moleculeId: '1cbs'}, false)">Update data to create new visual</button><br>
+      
+      </div>
 
-If you are interested in joining us, please send us an email along with a brief cover letter, a detailed CV and at least two recommendation letters. Please indicate “Associate Investigator Application (Your name)” in the email subject.
+    </div>
 
-### Postdoc
-The candidates will have (or about to have) a Ph.D. in computational biology/bioinformatics/computer science/statistics or other quantitative fields, as well as excellent programming and communication skills. Substantial experience in analysis of high-throughput sequencing data is highly desirable.
+    <div class="viewerSection">
+      <h4>PDBe Mol* JS Plugin Demo</h4>
 
-Candidates with a Ph.D. degree in cell biology, molecular biology, immunology (etc.) with substantial experience and interest in quantitative fields/programming are also welcomed to apply.
+      <!-- Molstar container -->
+      <div id="myViewer"></div>
+      
+    </div>
+    <script>
 
-The candidates would have ability to develop independent research programs/projects
+      //Create plugin instance
+      var viewerInstance = new PDBeMolstarPlugin();
+  
+      //Set options (Checkout available options list in the documentation)
+      var options = {
+        moleculeId: '2nnu',
+        expanded: false,
+        hideControls: true
+      }
 
-The successful candidates will join a vibrant scientific environment devoted to basic science aiming at integrating research activities among partner institutes and conduct interdisciplinary research to address high-priority projects through the combination of complementary knowledge, methods and techniques.
+      // AF
+      // var options = {
+      //   customData: {
+      //     url: 'https://alphafold.ebi.ac.uk/files/AF-O15552-F1-model_v1.cif',
+      //     format: 'cif'
+      //   },
+      //   hideControls: true,
+      //   alphafoldView: true,
+      //   hideCanvasControls: ['selection', 'animation', 'controlToggle', 'controlInfo']
+      // }
+      
+      //Get element from HTML/Template to place the viewer 
+      var viewerContainer = document.getElementById('myViewer');
+  
+      //Call render method to display the 3D view
+      viewerInstance.render(viewerContainer, options);
 
-If you are interested in joining us, please send us an email along with a brief cover letter, a detailed CV and at least two recommendation letters. Please indicate “Postdoc Application (Your name)” in the email subject.
-
-### Assistant Investigator
-The candidates will have (or about to have) a Ph.D. in computational biology/bioinformatics/computer science/statistics or other quantitative fields, as well as great programming and communication skills. Substantial experience in analysis of high-throughput sequencing data is highly desirable.
-
-The successful candidates will join a vibrant scientific environment devoted to basic science aiming at integrating research activities among partner institutes and conduct interdisciplinary research to address high-priority projects through the combination of complementary knowledge, methods and techniques.
-
-If you are interested in joining us, please send us an email along with a brief cover letter and a detailed CV. Please indicate “Assitent Investigator Application (Your name)” in the email subject.
-
-### Research Assistant
-The candidates would have a Bachlor/Master degree in biology and related areas, be familar with basic biology and capable of dealing with lab start-up affairs, candidates with programming background are strongly preferred.
-The candidates would have great communication skills and English writing skills.
-
-If you are interested in joining us, please send us an email along with a brief cover letter and a detailed CV . Please indicate “Research Assistant Application (Your name)” in the email subject.
+      // document.addEventListener('PDB.molstar.mouseover', (e) => { 
+      //   //do something on event 
+      //   console.log(e)
+      // });
+      
+    </script>
