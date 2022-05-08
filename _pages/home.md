@@ -9,7 +9,7 @@ permalink: /
 
 # Ribo centre
 
-<iframe>https://en.wikipedia.org/wiki/Ribozyme</iframe>
+<!-- <iframe>https://en.wikipedia.org/wiki/Ribozyme</iframe> -->
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
