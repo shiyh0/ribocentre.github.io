@@ -9,8 +9,9 @@ permalink: /
 
 # Ribo centre
 
-<!-- <iframe>https://en.wikipedia.org/wiki/Ribozyme</iframe> -->
+<script type="text/javascript" src="{{ site.url }}{{ site.baseurl }}/js/ribozyme.js"></script>
 
+<div id="wikiarticle"></div>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
