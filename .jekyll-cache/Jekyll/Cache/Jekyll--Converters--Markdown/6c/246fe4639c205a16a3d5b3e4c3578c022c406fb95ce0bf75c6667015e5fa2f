@@ -1,0 +1,43 @@
+I"¦<h1 id="structure">Structure</h1>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  &lt;!-- Molstar container --&gt;
+  &lt;div id="myViewer"&gt;&lt;/div&gt;
+  
+&lt;/div&gt;
+&lt;script&gt;
+
+  //Create plugin instance
+  var viewerInstance = new PDBeMolstarPlugin();
+  
+  //Set options (Checkout available options list in the documentation)
+  var options = {
+    moleculeId: '2nnu',
+    expanded: false,
+    hideControls: true
+  }
+
+  // AF
+  // var options = {
+  //   customData: {
+  //     url: 'https://alphafold.ebi.ac.uk/files/AF-O15552-F1-model_v1.cif',
+  //     format: 'cif'
+  //   },
+  //   hideControls: true,
+  //   alphafoldView: true,
+  //   hideCanvasControls: ['selection', 'animation', 'controlToggle', 'controlInfo']
+  // }
+  
+  //Get element from HTML/Template to place the viewer 
+  var viewerContainer = document.getElementById('myViewer');
+  
+  //Call render method to display the 3D view
+  viewerInstance.render(viewerContainer, options);
+
+  // document.addEventListener('PDB.molstar.mouseover', (e) =&gt; { 
+  //   //do something on event 
+  //   console.log(e)
+  // });
+  
+&lt;/script&gt;
+</code></pre></div></div>
+:ET

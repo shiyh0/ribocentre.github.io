@@ -1,0 +1,14 @@
+I"D<h1 id="ribozyme">Ribozyme</h1>
+
+<div id="rna_ss"></div>
+
+<script>
+var container = new FornaContainer("#rna_ss", {'applyForce': false});
+
+var options = {'structure': '((..((....)).(((....))).))',
+			   'sequence':  'CGCUUCAUAUAAUCCUAAUGACCUAU'};
+container.addRNA(options.structure, options);
+container.render(); 
+</script>
+
+:ET

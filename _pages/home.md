@@ -7,11 +7,14 @@ permalink: /
 ---
 
 
-# Ribo centre
+# Ribozmye wiki
 
+**The following information is adapted from [Wikipedia](https://en.wikipedia.org/)**
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <script type="text/javascript" src="{{ site.url }}{{ site.baseurl }}/js/ribozyme.js"></script>
 
-<div id="wikiarticle"></div>
+<div id="ribozymewikisection0"></div>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -48,3 +51,5 @@ permalink: /
     <span class="sr-only">Next</span>
   </a>
 </div>
+
+<div id="ribozymewikisection1"></div>

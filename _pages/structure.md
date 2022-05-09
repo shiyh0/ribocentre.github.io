@@ -9,123 +9,18 @@ permalink: /structure
 # Structure
 
 
-<div class="controlsSection">
+<!-- Molstar container -->
+<div id="myViewer"></div>
 
-      <h3>Canvas/ layout methods</h3>
-      
-      <div class="controlBox">
-        <strong>Set Background</strong><br>
-        <button onclick="viewerInstance.canvas.setBgColor({r:255, g:255, b:255})">White</button>&nbsp;
-        <button onclick="viewerInstance.canvas.setBgColor({r:0, g:0, b:0})">Black</button><br><br>
-        
-        <strong>Toggle controls menu</strong><br>
-        <button onclick="viewerInstance.canvas.toggleControls(false)">Hide</button>&nbsp;
-        <button onclick="viewerInstance.canvas.toggleControls(true)">Show</button>&nbsp;
-        <button onclick="viewerInstance.canvas.toggleControls()">Toggle</button><br><br>
-        
-        <strong>Toggle Fullscreen</strong><br>
-        <button onclick="viewerInstance.canvas.toggleExpanded(true)">Show Fullscreen</button><br>
-      </div>
+<script>
 
-      <h3>Visual Methods</h3>
-      <div class="controlBox">
-        <strong>Change representation visibility</strong><br>
-        <button onclick="viewerInstance.visual.visibility({water:false})">Hide Water Visual</button>&nbsp;
-        <button onclick="viewerInstance.visual.visibility({water:true})">Show Water Visual</button><br><br>
+var viewerInstance = new PDBeMolstarPlugin();
 
-        <strong>Toggle Spin</strong><br>
-        <button onclick="viewerInstance.visual.toggleSpin(true)">Rotate</button>&nbsp;
-        <button onclick="viewerInstance.visual.toggleSpin(false)">Stop</button>&nbsp;
-        <button onclick="viewerInstance.visual.toggleSpin()">Toggle</button><br><br>
-        
-        <strong>Focus</strong><br>
-        <button onclick="viewerInstance.visual.focus([{struct_asym_id: 'A', start_residue_number: 14, end_residue_number: 18}])">Focus on Chain A:14-18</button><br><br>
-
-        <strong>Highlight</strong><br>
-        <button onclick="viewerInstance.visual.highlight({ data: [{ struct_asym_id: 'A', start_residue_number: 14, end_residue_number: 18 }], color:{r:255,g:255,b:0} })">Highlight Chain A:14-18</button>&nbsp;
-        <button onclick="viewerInstance.visual.clearHighlight()">Clear Highlight</button><br><br>
-        
-        <strong>Selection</strong><br>
-        <button onclick="viewerInstance.visual.select({ data: [{ struct_asym_id: 'B', start_residue_number: 1, end_residue_number: 6, color:{r:255,g:255,b:0}, focus: true }]})">Select & Focus on Chain B:1-6</button><br><br>
-        <button onclick="
-          var selectSections = [
-            {
-              struct_asym_id: 'B', 
-              start_residue_number: 8, 
-              end_residue_number: 10, 
-              color:{r:255,g:0,b:255},
-              sideChain: true
-            },
-            {
-              struct_asym_id: 'B', 
-              start_residue_number: 2, 
-              end_residue_number: 5, 
-              color:{r:255,g:0,b:0}
-            }
-          ]
-          viewerInstance.visual.select({ data: selectSections, nonSelectedColor: {r:255,g:255,b:255}})">Select on Chain B:2-5 & Chain B:8-10</button><br><br>
-          
-        <button onclick="viewerInstance.visual.select({ data: [{struct_asym_id: 'A', color:{r:255,g:255,b:0}}], nonSelectedColor: {r:255,g:255,b:255} })">Select & Focus on Chain A</button><br><br>
-
-        <button onclick="viewerInstance.visual.clearSelection()">Clear Selection</button><br><br>
-
-        <strong>Set highlight / selection colour</strong><br>
-        <button onclick="viewerInstance.visual.setColor({ highlight: {r:255,g:255,b:0} })">Yellow highlight</button>&nbsp;
-        <button onclick="viewerInstance.visual.reset({ highlightColor: true })">Reset</button><br><br>
-        <button onclick="viewerInstance.visual.setColor({ select: {r:255,g:0,b:0} })">Red selection</button>&nbsp;
-        <button onclick="viewerInstance.visual.reset({ selectColor: true })">Reset</button><br><br>
-        
-        <strong>Reset Visual</strong><br>
-        <button onclick="viewerInstance.visual.reset({ camera: true })">Camera</button>&nbsp;
-        <button onclick="viewerInstance.visual.reset({ theme: true })">Theme</button>&nbsp;
-        <button onclick="viewerInstance.visual.reset({ camera: true, theme: true })">Camera & Theme</button><br><br>
-
-        <strong>Update data</strong><br>
-        <button onclick="viewerInstance.visual.update({moleculeId: '1cbs'}, false)">Update data to create new visual</button><br>
-      
-      </div>
-
-    </div>
-
-    <div class="viewerSection">
-      <h4>PDBe Mol* JS Plugin Demo</h4>
-
-      <!-- Molstar container -->
-      <div id="myViewer"></div>
-      
-    </div>
-    <script>
-
-      //Create plugin instance
-      var viewerInstance = new PDBeMolstarPlugin();
-  
-      //Set options (Checkout available options list in the documentation)
-      var options = {
-        moleculeId: '2nnu',
-        expanded: false,
-        hideControls: true
-      }
-
-      // AF
-      // var options = {
-      //   customData: {
-      //     url: 'https://alphafold.ebi.ac.uk/files/AF-O15552-F1-model_v1.cif',
-      //     format: 'cif'
-      //   },
-      //   hideControls: true,
-      //   alphafoldView: true,
-      //   hideCanvasControls: ['selection', 'animation', 'controlToggle', 'controlInfo']
-      // }
-      
-      //Get element from HTML/Template to place the viewer 
-      var viewerContainer = document.getElementById('myViewer');
-  
-      //Call render method to display the 3D view
-      viewerInstance.render(viewerContainer, options);
-
-      // document.addEventListener('PDB.molstar.mouseover', (e) => { 
-      //   //do something on event 
-      //   console.log(e)
-      // });
-      
-    </script>
+var options = {
+moleculeId: '1ehz',
+expanded: false,
+hideControls: true
+}
+var viewerContainer = document.getElementById('myViewer');
+viewerInstance.render(viewerContainer, options);
+</script>

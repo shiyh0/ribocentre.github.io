@@ -1,0 +1,22 @@
+I"f<h1 id="structure">Structure</h1>
+
+<!-- Molstar container -->
+<div id="myViewer"></div>
+
+<script>
+
+var viewerInstance = new PDBeMolstarPlugin();
+
+var options = {
+moleculeId: '1ehz',
+expanded: false,
+hideControls: true,
+backgroundColor
+}
+
+var viewerContainer = document.getElementById('myViewer');
+viewerInstance.render(viewerContainer, options);
+
+</script>
+
+:ET
