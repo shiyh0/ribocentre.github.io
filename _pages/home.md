@@ -53,3 +53,8 @@ permalink: /
 </div>
 
 <div id="ribozymewikisection1"></div>
+<div id="ribozymewikisection2"></div>
+<div id="ribozymewikisection3"></div>
+
+<head>VS_ribozyme</head>
+<div id="VS_ribozymewikisection1"></div>

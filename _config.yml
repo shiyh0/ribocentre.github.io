@@ -20,6 +20,19 @@ include:
 sass:
   sass_dir: _sass
 
+plugins:
+  - jekyll-archives
+
+# Archive settings (see https://github.com/jekyll/jekyll-archives/)
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layout: 'archive'
+  permalinks:
+    category: '/category/:name/'
+    tag: '/tag/:name/'
+
 # Conversion
 markdown: kramdown
 highlighter: rouge
