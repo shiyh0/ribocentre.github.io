@@ -66,6 +66,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (>= 3.6.3)
   jekyll-archives
+  liquid
   webrick (~> 1.7)
 
 BUNDLED WITH
