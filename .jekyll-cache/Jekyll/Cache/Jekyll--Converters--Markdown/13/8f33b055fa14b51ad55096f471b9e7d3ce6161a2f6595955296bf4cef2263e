@@ -1,0 +1,58 @@
+I"�<h2 id="groups">Groups</h2>
+
+<!--**We are  looking for passionate Associate Investigators, Postdocs, Assistant Investigators and Research Assistants to join the team** [(more info)](http://localhost:4000/vacancies) **!**>
+<!-- 你看不到我看不到我 -->
+
+<p><em>Miao lab</em> <a href="http://www.rnacentre.org/">more info</a></p>
+
+<p><em>*Huang lab</em> <a href="http://www.rnacentre.org/">more info</a></p>
+
+<p>Jump to <a href="#staff">staff</a>, <a href="#graduate-students">graduate students</a>, <a href="#administrative-support">administrative support</a>, <a href="#lab-visitors">lab visitors</a>.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>表头</th>
+      <th>表头</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>单元格</td>
+      <td>单元格</td>
+    </tr>
+    <tr>
+      <td>单元格</td>
+      <td>单元格</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="contacts">Contacts</h2>
+
+<div class="col-lg-10 col-lg-offset-1 text-center">
+  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;h3&gt;&lt;b&gt;Eric Westhof&lt;/b&gt;&lt;/h3&gt;
+&lt;h4&gt;&lt;b&gt;Institut de Biologie Moléculaire et Cellulaire&lt;/b&gt;&lt;/h4&gt;
+&lt;p&gt;15 Rue R. Descartes &lt;br/&gt;
+	67 084 Strasbourg Cedex, France&lt;/p&gt;
+&lt;ul class="list-unstyled"&gt;
+	&lt;li&gt;&lt;i class="fa fa-phone fa-fw"&gt;&lt;/i&gt; +33 (0) 3 88 41 70 46 &lt;/li&gt;
+	&lt;li&gt;&lt;i class="fa fa-fax fa-fw"&gt;&lt;/i&gt; +33 (0) 3 88 60 22 18 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;h3&gt;&lt;b&gt;Zhichao (Chichau) Miao&lt;/b&gt;&lt;/h3&gt;
+&lt;h4&gt;&lt;b&gt;Guangzhou Laboratory&lt;/b&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;b&gt;EMBL-European Bioinformatics Institute&lt;/b&gt;&lt;/h4&gt;
+&lt;p&gt;Wellcome Genome Campus, &lt;br/&gt;
+	Hinxton, Cambridgeshire, CB10 1SD, UK&lt;/p&gt;
+&lt;ul class="list-unstyled"&gt;
+	&lt;li&gt;&lt;i class="fa fa-phone fa-fw"&gt;&lt;/i&gt; +44 (0) 12 23-49 45 54 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+Please email us:&lt;br/&gt;
+&lt;a href="mailto:e.westhof@ibmc-cnrs.unistra.fr?subject=[Help]%20RNA-Puzzles&amp;cc=miao_zhichao@gzlab.ac.cn"&gt;&lt;i class="fa fa-envelope fa-fw fa-2x"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+</code></pre></div>  </div>
+</div>
+
+:ET
