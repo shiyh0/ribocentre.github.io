@@ -7,7 +7,7 @@ permalink: /
 ---
 
 
-# Ribozmye wiki
+# Ribozyme wiki
 
 **The following information is adapted from [Wikipedia](https://en.wikipedia.org/)**
 
@@ -28,17 +28,17 @@ permalink: /
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/rnapuzzles_screenshot.png" alt="Slide 1" style="height:400px;"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/mm1.png" alt="Slide 1" style="height:400px;"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/monkey_cover1.jpeg" alt="Slide 2" style="height:400px;"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/mm1.png" alt="Slide 2" style="height:400px;"/>
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/respic/nonWC_design.png" alt="Slide 3" style="height:400px;"/>
         </div>
 
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/sccaf_cover.jpg" alt="Slide 4" style="height:400px;"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/mm3.png" alt="Slide 4" style="height:400px;"/>
         </div>
 
     </div>
@@ -56,5 +56,3 @@ permalink: /
 <div id="ribozymewikisection2"></div>
 <div id="ribozymewikisection3"></div>
 
-<head>VS_ribozyme</head>
-<div id="VS_ribozymewikisection1"></div>

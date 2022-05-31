@@ -21,15 +21,15 @@ VS RNA has a unique primary, secondary, and tertiary structure. The secondary st
 
 > 2D representation
 
-<img src="/images/VS_ribozymePic/VS2d1.png" alt="drawing" style="height:200px;"/>
-<img src="/images/VS_ribozymePic/VS2d2.png" alt="drawing" style="height:300px;"/>
+<img src="http://www.ribocentre.org/images/VS_ribozymePic/VS2d1.png" alt="drawing" style="height:200px;"/>
+<img src="http://www.ribocentre.org/images/VS_ribozymePic/VS2d2.png" alt="drawing" style="height:300px;"/>
 
 <iframe src="http://nibiru.tbi.univie.ac.at/forna/forna.html?id=fasta&file=%3Ecircular_rna\nCUGCUCCACGCAAGGAGGUGGACUUAAGCGGCUCAUCCGGGUCUGCGAUAUCCACUGCGCGGUAUGCGCUCGCGAGUUCGAAUCUCGUCGCCAGUACACUGACUUCACUGGCGUGUCCGAGUGGUUAGGCAA\n..(((((((....(((((((((.....(((((((....))).))))....))))))((((.....))))..(((((.......)))))(((((((...........)))))))..)))..))))...)))..*" align="center" height="450px" width="450px"
                 seamless='seamless' frameBorder="0" AllowFullScreen></iframe><br><br>
 
 > 3D visualisation
 
-<img src="/images/VS_ribozymePic/VS3d1.png" alt="drawing" style="height:300px;"/>
+<img src="http://www.ribocentre.org/images/VS_ribozymePic/VS3d1.png" alt="drawing" style="height:300px;"/>
 
   <head>
     <meta charset="utf-8" />
@@ -86,10 +86,12 @@ var viewerContainer = document.getElementById('myViewer');
 viewerInstance.render(viewerContainer, options);
 </script>
 
+
+
 ## catalytic centre
 
-<img src="/images/VS_ribozymePic/VSm1.png" alt="drawing" style="height:200px;"/>
-<img src="/images/VS_ribozymePic/VSm2.png" alt="drawing" style="height:300px;"/>
+<img src="http://www.ribocentre.org/images/VS_ribozymePic/VSm1.png" alt="drawing" style="height:200px;"/>
+<img src="http://www.ribocentre.org/images/VS_ribozymePic/VSm2.png" alt="drawing" style="height:300px;"/>
 
 ## publication
 
@@ -99,5 +101,7 @@ viewerInstance.render(viewerContainer, options);
 
 <div id="newsid" class="col-sm-4" >
 ## timeline
-<img src="/images/VS_ribozymePic/VStime.png" alt="drawing" style="width:300px;"/>
+<img src="http://www.ribocentre.org/images/VS_ribozymePic/VStime.png" alt="drawing" style="width:300px;"/>
 </div>
+
+
