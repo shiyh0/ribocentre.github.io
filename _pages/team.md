@@ -1,8 +1,14 @@
 ---
 <<<<<<< HEAD
+<<<<<<< HEAD
 title: "ribocenter Lab - Team"
 layout: gridlay
 excerpt: "ribocenter - Contributer"
+=======
+title: "Groups - Team"
+layout: gridlay
+excerpt: "Lab: Team members"
+>>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
 =======
 title: "Groups - Team"
 layout: gridlay
@@ -41,10 +47,13 @@ permalink: /team/
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
   
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
+=======
+>>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
 =======
 >>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
 

@@ -6,11 +6,14 @@ sitemap: false
 permalink: /ribozyme/
 ---
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 # Ribozyme
 
 **Known ribozymes**
 
+=======
+>>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
 =======
 >>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
 [VS_ribozyme]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme.html)
@@ -20,6 +23,7 @@ permalink: /ribozyme/
 # Ribozyme
 
 **Known ribozymes**
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 <html lang="en">
@@ -119,6 +123,8 @@ To explore the full sequence please open the corresponding DNAzyme entry. Entrie
 
 
 =======
+=======
+>>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
 
 <html lang="en">
   <head>
@@ -355,5 +361,8 @@ To explore the full sequence please open the corresponding DNAzyme entry. Entrie
 
 
 
+<<<<<<< HEAD
+>>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
+=======
 >>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
 

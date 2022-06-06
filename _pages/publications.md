@@ -10,8 +10,11 @@ permalink: /publications/
 **List of all the articles of Ribozyme.**
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 <font size=4>List of all the articles of Ribozyme.<font><br>
 
+=======
+>>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
 =======
 >>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
 <html>
@@ -20,6 +23,10 @@ permalink: /publications/
 		<title></title>
 		<style type="text/css">
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+			
+>>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
 =======
 			
 >>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
@@ -59,7 +66,10 @@ permalink: /publications/
 </html><br>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+>>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
 =======
 >>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
 <!--{% for publi in site.data.publist %}
@@ -112,7 +122,10 @@ permalink: /publications/
 
 <!--rank the table-->
 <<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+>>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
 =======
 >>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
 <html lang="en">
@@ -126,7 +139,11 @@ permalink: /publications/
 		}
 		  table {
 <<<<<<< HEAD
+<<<<<<< HEAD
 		  border: 2px solid #f8f8ff;
+=======
+		  border: 2px solid #42b983;
+>>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
 =======
 		  border: 2px solid #42b983;
 >>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
@@ -135,7 +152,11 @@ permalink: /publications/
 		}
 		  th {
 <<<<<<< HEAD
+<<<<<<< HEAD
 		  background-color: #708090;
+=======
+		  background-color: #42b983;
+>>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
 =======
 		  background-color: #42b983;
 >>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
@@ -144,7 +165,11 @@ permalink: /publications/
 		}
 		  td {
 <<<<<<< HEAD
+<<<<<<< HEAD
 		  background-color: #ffffff;
+=======
+		  background-color: #f9f9f9;
+>>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
 =======
 		  background-color: #f9f9f9;
 >>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
@@ -176,6 +201,7 @@ permalink: /publications/
     <body>
         <table id="table_id" class="table table-striped table-bordered" cellspacing="0" width="100%">
             <tr>
+<<<<<<< HEAD
 <<<<<<< HEAD
                 <th id="th0" onclick="SortTable(this)" class="as">Year<span class="arrow asc"></span></th>
                 <th id="th1" onclick="SortTable(this)" class="as">Author<span class="arrow asc"></span></th>
@@ -320,6 +346,8 @@ permalink: /publications/
                  <td name="td5">VS ribozyme</td>
                  <td name="td6">Catalytic mechanism<br></td>
 =======
+=======
+>>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
                 <th id="th0" onclick="SortTable(this)" class="as">Year of pub.<span class="arrow asc"></span></th>
                 <th id="th1" onclick="SortTable(this)" class="as">First Author<span class="arrow asc"></span></th>
                 <th id="th2" onclick="SortTable(this)" class="as">Laboratory<span class="arrow asc"></span></th>
@@ -363,6 +391,9 @@ permalink: /publications/
                  <td name="td4"><a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">14691255</a></td>
                  <td name="td5"><a href="https://www.doi.org/10.1073/pnas.0305943101">10.1073/pnas.0305943101</a></td>
                  <td name="td6">Thymine dimer repair<br></td>
+<<<<<<< HEAD
+>>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
+=======
 >>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
            </tr>
         </table>
@@ -438,6 +469,10 @@ permalink: /publications/
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+>>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
 =======
 
 >>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e

@@ -322,10 +322,15 @@ categories: ribozyme
 > 2D representation
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 <table><tr>
 <td><img src="http://localhost:4000/images/VS_ribozymePic/VS2D.png" alt="drawing" style="height:280px" border=0></td>
 <td><iframe src="http://nibiru.tbi.univie.ac.at/forna/forna.html?id=fasta&file=%3Ecircular_rna\nCUGCUCCACGCAAGGAGGUGGACUUAAGCGGCUCAUCCGGGUCUGCGAUAUCCACUGCGCGGUAUGCGCUCGCGAGUUCGAAUCUCGUCGCCAGUACACUGACUUCACUGGCGUGUCCGAGUGGUUAGGCAA\n..(((((((....(((((((((.....(((((((....))).))))....))))))((((.....))))..(((((.......)))))(((((((...........)))))))..)))..))))...)))..*" align="center" height="450px" width="450px" seamless='seamless' frameBorder="0" AllowFullScreen></iframe></td>
 </tr></table><br>
+=======
+<img src="http://www.ribocentre.org/images/VS_ribozymePic/VS2d1.png" alt="drawing" style="height:200px;"/>
+<img src="http://www.ribocentre.org/images/VS_ribozymePic/VS2d2.png" alt="drawing" style="height:300px;"/>
+>>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
 =======
 <img src="http://www.ribocentre.org/images/VS_ribozymePic/VS2d1.png" alt="drawing" style="height:200px;"/>
 <img src="http://www.ribocentre.org/images/VS_ribozymePic/VS2d2.png" alt="drawing" style="height:300px;"/>
@@ -413,10 +418,15 @@ categories: ribozyme
 =======
 
 
+
+
 ## catalytic centre
 
 <img src="http://www.ribocentre.org/images/VS_ribozymePic/VSm1.png" alt="drawing" style="height:200px;"/>
 <img src="http://www.ribocentre.org/images/VS_ribozymePic/VSm2.png" alt="drawing" style="height:300px;"/>
+<<<<<<< HEAD
+>>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
+=======
 >>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
 
 ## publication
@@ -498,4 +508,7 @@ Ganguly, A., B. P. Weissman, T. J. Giese, N. S. Li, S. Hoshika, S. Rao, S. A. Be
 </div>
 
 
+<<<<<<< HEAD
+>>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
+=======
 >>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
