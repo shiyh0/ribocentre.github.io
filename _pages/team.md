@@ -1,28 +1,7 @@
 ---
-
-title: "ribocenter Lab - Team"
-layout: gridlay
-excerpt: "ribocenter - Contributer"
-=======
 title: "Groups - Team"
 layout: gridlay
-excerpt: "Lab: Team members"
-
-=======
-title: "Groups - Team"
-layout: gridlay
-excerpt: "Lab: Team members"
-sitemap: false
-permalink: /team/
----
-
-## Groups
-
-
----
-title: "Miao Lab - Team"
-layout: gridlay
-excerpt: "Miao Lab: Team members"
+excerpt: " Team members "
 sitemap: false
 permalink: /team/
 ---
