@@ -9,69 +9,9 @@ permalink: /publications/
 # Publications
 **List of all the articles of Ribozyme.**
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 <font size=4>List of all the articles of Ribozyme.<font><br>
 
-=======
->>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
-=======
->>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
-<html>
-	<head>
-		<meta charset="utf-8">
-		<title></title>
-		<style type="text/css">
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-			
->>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
-=======
-			
->>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
-			form .text {
-				display: inline-block;
-				border: 0;
-				width: 260px;
-				height: 35px;
-				font-size: 14px;
-				outline: none;
-				
-				border: 2px solid #01af63;
-			}
-			
-			form .search {
-				
-				width: 90px;
-				height: 38px;
-				border: 0;
-				outline: none;
-				cursor: pointer;
-				/*   cursor: pointer;   鼠标悬停或点击时button时鼠标变成其他图标  */
-				text-align: center;
-				line-height: 40px;
-				background-color: #01af63;
-				color: #FFFFFF;
-			}
-		</style>
-	</head>
-	<body>
-		
-		<form target="_blank" method="get" action="https://www.baidu.com/s">
-			<input type="text" placeholder="Key words" name="word" class="text" />
-			<input type="submit" value="search" class="search">
-		</form>
-	</body>
-</html><br>
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-=======
->>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
-=======
->>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
 <!--{% for publi in site.data.publist %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
@@ -121,13 +61,7 @@ permalink: /publications/
 
 
 <!--rank the table-->
-<<<<<<< HEAD
-<<<<<<< HEAD
 
-=======
->>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
-=======
->>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -136,44 +70,26 @@ permalink: /publications/
 	    body {
 			font-size: 14px;
 			margin: 50px 30px;
-		}
+      }
 		  table {
-<<<<<<< HEAD
-<<<<<<< HEAD
-		  border: 2px solid #f8f8ff;
-=======
-		  border: 2px solid #42b983;
->>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
-=======
-		  border: 2px solid #42b983;
->>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
-		  border-radius: 5px;
-		  background-color: #fff;
-		}
+        border: 2px solid #f8f8ff;
+        border: 2px solid #42b983;
+		    border: 2px solid #42b983;
+		    border-radius: 5px;
+		    background-color: #fff;
+        }
 		  th {
-<<<<<<< HEAD
-<<<<<<< HEAD
-		  background-color: #708090;
-=======
-		  background-color: #42b983;
->>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
-=======
-		  background-color: #42b983;
->>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
-      color: rgba(255,255,255,0.66);
-		  cursor: pointer;
-		}
+        background-color: #708090;
+        background-color: #42b983;
+		    background-color: #42b983;
+        color: rgba(255,255,255,0.66);
+		    cursor: pointer;
+        }
 		  td {
-<<<<<<< HEAD
-<<<<<<< HEAD
-		  background-color: #ffffff;
-=======
-		  background-color: #f9f9f9;
->>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
-=======
-		  background-color: #f9f9f9;
->>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
-		}		
+		    background-color: #ffffff;
+		    background-color: #f9f9f9;
+		    background-color: #f9f9f9;
+		    }		
 		  th, td {
 		  min-width: 90px;
 		  padding: 10px 10px;
@@ -201,8 +117,6 @@ permalink: /publications/
     <body>
         <table id="table_id" class="table table-striped table-bordered" cellspacing="0" width="100%">
             <tr>
-<<<<<<< HEAD
-<<<<<<< HEAD
                 <th id="th0" onclick="SortTable(this)" class="as">Year<span class="arrow asc"></span></th>
                 <th id="th1" onclick="SortTable(this)" class="as">Author<span class="arrow asc"></span></th>
                 <th id="th2" onclick="SortTable(this)" class="as">Title<span class="arrow asc"></span></th>
@@ -345,56 +259,6 @@ permalink: /publications/
                  <td name="td4"><a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">14691255</a></td>
                  <td name="td5">VS ribozyme</td>
                  <td name="td6">Catalytic mechanism<br></td>
-=======
-=======
->>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
-                <th id="th0" onclick="SortTable(this)" class="as">Year of pub.<span class="arrow asc"></span></th>
-                <th id="th1" onclick="SortTable(this)" class="as">First Author<span class="arrow asc"></span></th>
-                <th id="th2" onclick="SortTable(this)" class="as">Laboratory<span class="arrow asc"></span></th>
-                <th id="th3" onclick="SortTable(this)" class="as">Title<span class="arrow asc"></span></th>
-                <th id="th4" onclick="SortTable(this)" class="as">PubMed ID<span class="arrow asc"></span></th>
-                <th id="th5" onclick="SortTable(this)" class="as">DOI<span class="arrow asc"></span></th>
-       	        <th id="th6" onclick="SortTable(this)" class="as">Reaction<span class="arrow asc"></span></th>
-            </tr>
-            <tr>
-                <td name="td0">2005</td>
-                <td name="td1">Y Wang</td>
-                <td name="td2">S K Silverman</td>
-                <td name="td3">Efficient one-step synthesis of biologically related lariat RNAs by a deoxyribozyme.</td>
-                <td name="td4"><a href="https://www.ncbi.nlm.nih.gov/pubmed/16086354">16086354</a></td>
-                <td name="td5"><a href="https://www.doi.org/10.1002/anie.200501643">10.1002/anie.200501643</a></td>
-                <td name="td6">Thymine dimer repair</td> 
-           </tr>
-           <tr>
-                <td name="td0">2003</td>
-                <td name="td1">Y Wang</td>
-                <td name="td2">S K Silverman</td>
-                <td name="td3">Characterization of deoxyribozymes that synthesize branched RNA.</td>
-                <td name="td4"><a href="https://www.ncbi.nlm.nih.gov/pubmed/14690435">14690435</a></td>
-                <td name="td5"><a href="https://www.doi.org/10.1021/bi0355847">10.1021/bi0355847</a></td>
-                <td name="td6">RNA ligation</td>
-           </tr>
-           <tr>
-                 <td name="td0">2008</td>
-                 <td name="td1">T P Mui</td>
-                 <td name="td2">S K Silverman</td>
-                 <td name="td3">Convergent and general one-step DNA-catalyzed synthesis of multiply branched DNA.</td>
-                 <td name="td4"><a href="https://www.ncbi.nlm.nih.gov/pubmed/18808125">18808125</a></td>
-                 <td name="td5"><a href="https://www.doi.org/10.1021/ol801568q">10.1021/ol801568q</a></td>
-                 <td name="td6">DNA ligation<br></td>
-           </tr>
-           <tr>
-                 <td name="td0">2004</td>
-                 <td name="td1">D J-F Chinnapen</td>
-                 <td name="td2">D Sen</td>
-                 <td name="td3">A deoxyribozyme that harnesses light to repair thymine dimers in DNA.</td>
-                 <td name="td4"><a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">14691255</a></td>
-                 <td name="td5"><a href="https://www.doi.org/10.1073/pnas.0305943101">10.1073/pnas.0305943101</a></td>
-                 <td name="td6">Thymine dimer repair<br></td>
-<<<<<<< HEAD
->>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
-=======
->>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
            </tr>
         </table>
     </body>
@@ -466,13 +330,3 @@ permalink: /publications/
         }
     }
 </script>
-
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-
->>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
-=======
-
->>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
