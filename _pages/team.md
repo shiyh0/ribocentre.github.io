@@ -1,6 +1,5 @@
 ---
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 title: "ribocenter Lab - Team"
 layout: gridlay
 excerpt: "ribocenter - Contributer"
@@ -8,85 +7,146 @@ excerpt: "ribocenter - Contributer"
 title: "Groups - Team"
 layout: gridlay
 excerpt: "Lab: Team members"
->>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
+
 =======
 title: "Groups - Team"
 layout: gridlay
 excerpt: "Lab: Team members"
->>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
 sitemap: false
 permalink: /team/
 ---
 
 ## Groups
 
-**Miao lab** [more info](http://www.rnacentre.org/)
 
-**Huang lab** [more info](http://www.rnacentre.org/)
+---
+title: "Miao Lab - Team"
+layout: gridlay
+excerpt: "Miao Lab: Team members"
+sitemap: false
+permalink: /team/
+---
 
+# Group Members
 
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-  </head>
-    <tbody>
-        <table id="table_id" class="table table-striped table-bordered" cellspacing="0" width="100%">
-        <tr>
-        <th>Groups</th>   
-        </tr>
-        <tr>
-        <td><a href="http://www.rnacentre.org/">Huang lab</a></td>
-        </tr>
-        <tr>
-        <td><a href="http://www.rnacentre.org/">Miao lab</a></td>
-        </tr>
-        </table>
-    </tbody>
-</html>
+ **We are  looking for passionate Associate Investigators, Postdocs, Assistant Investigators and Research Assistants to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
+Jump to [staff](#staff), [graduate students](#graduate-students), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
 
+## Staff
+{% assign number_printed = 0 %}
+{% for member in site.data.team_members %}
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-  
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  <ul style="overflow: hidden">
+
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
-=======
->>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
-=======
->>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
 
+  {% if member.number_educ == 2 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  {% endif %}
 
+  {% if member.number_educ == 3 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  {% endif %}
 
-## Contacts
+  {% if member.number_educ == 4 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  {% endif %}
 
-<center><big><b>Please contact us with comments or questions</b><big>
-<!--<center><small>Sun Yat-sen Memorial Hospital of Sun Yat-sen University<small></center>
-<center><small>Sun Yat-sen Memorial Hospital of Sun Yat-sen University<small></center>-->
+  {% if member.number_educ == 5 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  <li> {{ member.education5 }} </li>
+  {% endif %}
 
-<hr>
-<div class="col-lg-10 col-lg-offset-1 text-center">
-	<h3><b>Huang Lin</b></h3>
-	<h4><b>Sun Yat-sen Memorial Hospital of Sun Yat-sen University</b></h4>
-	<p>15 Rue R. Descartes <br/>
-		67 084 Strasbourg Cedex, France</p>
-	<ul class="list-unstyled">
-		<li><i class="fa fa-phone fa-fw"></i> +33 (0) 3 88 41 70 46 </li>
-		<li><i class="fa fa-fax fa-fw"></i> +33 (0) 3 88 60 22 18 </li>
-	</ul>
-	<br/>
-	<br/>
-	<h3><b>Zhichao (Chichau) Miao</b></h3>
-	<h4><b>Guangzhou Laboratory</b></h4>
-	<h4><b>EMBL-European Bioinformatics Institute</b></h4>
-	<p>Wellcome Genome Campus, <br/>
-		Hinxton, Cambridgeshire, CB10 1SD, UK</p>
-	<ul class="list-unstyled">
-		<li><i class="fa fa-phone fa-fw"></i> +44 (0) 12 23-49 45 54 </li>
-	</ul>
-	<br/>
+  </ul>
 </div>
 
-<hr/>
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+
+## Graduate Students
+{% assign number_printed = 0 %}
+{% for member in site.data.students %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
+  <ul style="overflow: hidden">
+
+  {% if member.number_educ == 1 %}
+  <li> {{ member.education1 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 2 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 3 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 4 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  {% endif %}
+
+  </ul>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
 
