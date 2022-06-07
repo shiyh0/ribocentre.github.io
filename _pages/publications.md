@@ -7,7 +7,7 @@ permalink: /publications/
 ---
 
 # Publications
-**List of all the articles of Ribozyme.**
+
 
 <font size=4>List of all the articles of Ribozyme.<font><br>
 
@@ -73,15 +73,15 @@ permalink: /publications/
       }
 		  table {
         border: 2px solid #f8f8ff;
-        border: 2px solid #42b983;
-		    border: 2px solid #42b983;
+        border: 2px solid #767676;
+		    border: 2px solid #767676;
 		    border-radius: 5px;
 		    background-color: #fff;
         }
 		  th {
         background-color: #708090;
-        background-color: #42b983;
-		    background-color: #42b983;
+        background-color: #767676;
+        background-color: #767676;
         color: rgba(255,255,255,0.66);
 		    cursor: pointer;
         }
