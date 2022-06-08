@@ -1,4 +1,4 @@
-# RNA centre Website
+# Ribo centre Website
 
 This is the website of our ribozyme database.
 
