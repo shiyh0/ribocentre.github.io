@@ -8,17 +8,16 @@ categories: ribozyme
 
 #### click into different sections:
 
-- [timeline](#timeline)
-- [description](#description)
+- [Timeline](#timeline)
+- [Description](#description)
 - [structure](#structure)
-- [publication](#publication)
+- [Reference](#reference)
 
 **Rfam ID:** na
 
-## timeline
+## Timeline
 
 ***
-
 <html lang="zh-cn">
 <head>
   <meta charset="utf-8">
@@ -307,7 +306,7 @@ categories: ribozyme
 
 </html>
 
-## description
+## Description
 
 ***
 
@@ -318,37 +317,20 @@ categories: ribozyme
 ## structure
 
 ***
-
 > 2D representation
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 <table><tr>
 <td><img src="http://localhost:4000/images/VS_ribozymePic/VS2D.png" alt="drawing" style="height:280px" border=0></td>
 <td><iframe src="http://nibiru.tbi.univie.ac.at/forna/forna.html?id=fasta&file=%3Ecircular_rna\nCUGCUCCACGCAAGGAGGUGGACUUAAGCGGCUCAUCCGGGUCUGCGAUAUCCACUGCGCGGUAUGCGCUCGCGAGUUCGAAUCUCGUCGCCAGUACACUGACUUCACUGGCGUGUCCGAGUGGUUAGGCAA\n..(((((((....(((((((((.....(((((((....))).))))....))))))((((.....))))..(((((.......)))))(((((((...........)))))))..)))..))))...)))..*" align="center" height="450px" width="450px" seamless='seamless' frameBorder="0" AllowFullScreen></iframe></td>
 </tr></table><br>
-=======
-<img src="http://www.ribocentre.org/images/VS_ribozymePic/VS2d1.png" alt="drawing" style="height:200px;"/>
-<img src="http://www.ribocentre.org/images/VS_ribozymePic/VS2d2.png" alt="drawing" style="height:300px;"/>
->>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
-=======
-<img src="http://www.ribocentre.org/images/VS_ribozymePic/VS2d1.png" alt="drawing" style="height:200px;"/>
-<img src="http://www.ribocentre.org/images/VS_ribozymePic/VS2d2.png" alt="drawing" style="height:300px;"/>
->>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
 
 ***
-
 > 3D visualisation
-<<<<<<< HEAD
+
 <table><tr>
 <td><img src="http://localhost:4000/images/VS_ribozymePic/VS3d.png" alt="drawing" style="height:350px" border=0></td>
 <td>
 <html>
-=======
-
-<img src="http://www.ribocentre.org/images/VS_ribozymePic/VS3d1.png" alt="drawing" style="height:300px;"/>
-
->>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
@@ -414,24 +396,7 @@ categories: ribozyme
 <td><img src="http://www.ribocentre.org/images/VS_ribozymePic/VSm2.png" alt="drawing" style="height:400px" border=0></td>
 </tr></table><br>
 
-<<<<<<< HEAD
-=======
-
-
-
-
-## catalytic centre
-
-<img src="http://www.ribocentre.org/images/VS_ribozymePic/VSm1.png" alt="drawing" style="height:200px;"/>
-<img src="http://www.ribocentre.org/images/VS_ribozymePic/VSm2.png" alt="drawing" style="height:300px;"/>
-<<<<<<< HEAD
->>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
-=======
->>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
-
-## publication
-
-***
+## Reference
 
 **A site-specific self-cleavage reaction performed by a novel RNA in neurospora mitochondria.**<br>
 Saville, B. J. and R. A. Collins <br>
@@ -497,18 +462,3 @@ Ganguly, A., B. P. Weissman, T. J. Giese, N. S. Li, S. Hoshika, S. Rao, S. A. Be
 [Nat Chem 12(2): 193-201.(2020)]((https://www.ncbi.nlm.nih.gov/pubmed/14690435/))<br><br>
 
 
-
-
-
-<<<<<<< HEAD
-=======
-<div id="newsid" class="col-sm-4" >
-## timeline
-<img src="http://www.ribocentre.org/images/VS_ribozymePic/VStime.png" alt="drawing" style="width:300px;"/>
-</div>
-
-
-<<<<<<< HEAD
->>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
-=======
->>>>>>> a76d3e5ea3df4faf6ab370029b0aabe65e22b59e
