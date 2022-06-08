@@ -12,7 +12,7 @@ permalink: /team/
 
 Jump to [staff](#staff), [graduate students](#graduate-students), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
 
-## Staff
+## 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -75,7 +75,7 @@ Jump to [staff](#staff), [graduate students](#graduate-students), [administrativ
 {% endif %}
 
 
-## Graduate Students
+<!--## Graduate Students-->
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 

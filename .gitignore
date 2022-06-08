@@ -1,3 +1,5 @@
 _site
 .sass-cache
 .jekyll-metadata
+jekyll-cayman-theme.gemspec
+_posts/2016-02-12-sample-content.markdown
