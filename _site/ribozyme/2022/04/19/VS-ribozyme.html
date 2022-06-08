@@ -75,7 +75,7 @@
 <ul>
   <li><a href="#timeline">Timeline</a></li>
   <li><a href="#description">Description</a></li>
-  <li><a href="#structure">structure</a></li>
+  <li><a href="#structure">Structure</a></li>
   <li><a href="#reference">Reference</a></li>
 </ul>
 
@@ -90,7 +90,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title></title>
- 
+
 </head>
 <style>
 .timeline {
@@ -381,7 +381,7 @@
 
 <font size="4">VS RNA has a unique primary, secondary, and tertiary structure. The secondary structure of the VS ribozyme consists of six helical domains. Stem loop I forms the substrate domain while stem-loop II-VI forms the catalytic domain. When these 2 domains are synthesized in vitro separately, they can perform the self-cleavage reaction by trans-acting. The substrate binds into a cleft which is made by two helices. The likely active site of the ribozyme is a very important nucleotide A756. The A730 loop and A756 nucleotide are critical to its function since they participate in the phosphoric transfer chemistry activity of the ribozyme.</font>
 
-<h2 id="structure">structure</h2>
+<h2 id="structure">Structure</h2>
 
 <hr />
 <blockquote>
@@ -435,15 +435,20 @@
         border: 1px solid lightgray;
         padding: 10px;
         margin-bottom: 20px;
+        background-color: #fff;
       }
       #myViewer{
         width:450px;
         height: 450px;
-        position:relative;
+        position:relative;  
+        
       }
+      
   </style>
   <!-- Molstar container -->
-  <div id="myViewer"></div>
+  <div id="myViewer">
+  <div class="layui-container" style="background: #00ff00"></div>
+  </div>
   <script>
     var viewerInstance = new PDBeMolstarPlugin();
     var options = {
@@ -460,7 +465,6 @@
 <p><br /></p>
 
 <hr />
-
 <blockquote>
   <p>catalytic centre</p>
 </blockquote>
