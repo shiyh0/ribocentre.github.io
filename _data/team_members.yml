@@ -17,7 +17,7 @@
   education1: PhD <a href="https://en.whu.edu.cn/">Wuhan University</a>
   education2: Postdoctoral research assistant at <a href="https://www.dundee.ac.uk/">University of Dundee, UK</a>
   education3: Senior research associate at <a href="https://www.dundee.ac.uk/">University of Dundee, UK</a>
-  
+
 - name: Jie Deng 
   photo: Jie Deng.jpg
   info: Graduate student
@@ -59,7 +59,6 @@
   education1: Master at <a href="https://www.nankai.edu.cn/">Nankai University</a>
   education2: B.S. at <a href="https://www.xxmu.edu.cn/">Xinxiang Medical University, China</a> 
 
-
 - name: Wenjian Liao
   photo: Wenjian Liao.jpg 
   info: Graduate student 
@@ -67,7 +66,6 @@
   number_educ: 2
   education1: Master at <a href="http://www.sysu.edu.cn/">Sun Yat-sen University</a>
   education2: B.S. at <a href="http://www.sysu.edu.cn/">Sun Yat-sen University, China</a> 
-
 
 - name: Xiaoxue Chen
   photo: Xiaoxue Chen.jpg
@@ -86,8 +84,8 @@
   education2: B.S. at <a href="http://www.sysu.edu.cn/">Sun Yat-sen University, China</a> 
 
 - name: Yuanyin Huang 
-  photo: Yuanyin Huang.jpg
+  photo: Yuanyi Huang.jpg
   info: Research assistant  
   email: huangyuanyin2022@163.com  
   number_educ: 1
-  Education1: B.S. at <a href="https://new.gzhmu.edu.cn/ ">Guangzhou Medical University, China</a> 
+  education1: B.S. at <a href="https://new.gzhmu.edu.cn/ ">Guangzhou Medical University, China</a> 
