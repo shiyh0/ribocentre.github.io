@@ -74,48 +74,14 @@ permalink: /ribozyme/
   </thead>
 </table>
 
-<script>
-$('#dnazymes_table').DataTable( {
-    deferRender: true,
-    ajax: {
-      type: "GET",
-      dataType: 'json',
-      data:{
-          "sf_reaction":"all",
-          "sf_metal_ion":"all",
-          "sf_reportedin":"m",
-          "sf_kinetics":"all"
-          },
-      url: '/DNAmoreDB/dnazymes/apidnazymes',
-    },
-    columns: [
-      { data: 'name' },
-      {  data: 'length' },
-      {  data: 'e' },
-      {  data: 'reaction' },
-      {  data: 'metal_ions' }
-    ],
-    "order": [], // this is needed to preserve the order of the table outputted by view.py
-    "processing": true,
-    "scrollX": true,
-    "scrollY": "550px",
-    "scrollCollapse": true,
-    "paging": false,
 
-    "dom": 'Bfrtip',
-    "buttons": [
-      {
-        extend: 'pdfHtml5',
-        orientation: 'landscape',
-        pageSize: 'LEGAL'
-      },
-    'csv', 'print',
-    ],
-} );
-</script>
 If the sequence is longer than 50 nucleotides it is trimmed to render the page correctly and three dots are added at the end of it.
 To explore the full sequence please open the corresponding DNAzyme entry. Entries for which kinetics parameters and yield data are reported are denoted in <b>bold characters</b>
 
+<table><tr>
+<td><img src="http://localhost:4000/images/VS_ribozymePic/VS2D.png" alt="drawing" style="height:280px" border=0></td>
+<td><iframe src="http://nibiru.tbi.univie.ac.at/forna/forna.html?id=fasta&file=%3Ecircular_rna\nCUGCUCCACGCAAGGAGGUGGACUUAAGCGGCUCAUCCGGGUCUGCGAUAUCCACUGCGCGGUAUGCGCUCGCGAGUUCGAAUCUCGUCGCCAGUACACUGACUUCACUGGCGUGUCCGAGUGGUUAGGCAA\n..(((((((....(((((((((.....(((((((....))).))))....))))))((((.....))))..(((((.......)))))(((((((...........)))))))..)))..))))...)))..*" align="center" height="450px" width="450px" seamless='seamless' frameBorder="0" AllowFullScreen></iframe></td>
+</tr></table><br>
 
 
 
