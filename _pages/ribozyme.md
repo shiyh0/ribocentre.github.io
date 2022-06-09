@@ -15,9 +15,9 @@ permalink: /ribozyme/
 <!--Read more [here]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme.html)-->
 <!--[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/structure/index.html?id=VS_ribozyme)-->
 [VS_ribozyme]({{ site.url }}{{ site.baseurl }}/_site/ribozyme/2022/04/19/VS-ribozyme.html)
-[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/ribozyme/index.html)
-[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS_ribozyme.html)
-[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/)
+[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/index.html)
+[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/docs/2022-04-19-VS_ribozyme.html)
+[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/docs/2022-04-19VS_ribozyme.md)
 
 # Ribozyme
 
@@ -51,12 +51,7 @@ permalink: /ribozyme/
         </table>
     </tbody>
 </html>
-
-
- <div  style="padding-top: 0px; padding-bottom: 50px; padding-left: 30px; padding-right: 30px;">
-
-
-
+<!--<div  style="padding-top: 0px; padding-bottom: 50px; padding-left: 30px; padding-right: 30px;">
 <table id="dnazymes_table" class="table table-striped table-bordered" cellspacing="0" width="100%">
   <thead>
     <tr>
@@ -74,10 +69,8 @@ permalink: /ribozyme/
       <td name="td4">Mn2+</td>
     </tr>
   </thead>
-</table>
+</table>-->
 
-<script>
-</script>
 
 If the sequence is longer than 50 nucleotides it is trimmed to render the page correctly and three dots are added at the end of it.
 To explore the full sequence please open the corresponding DNAzyme entry. Entries for which kinetics parameters and yield data are reported are denoted in <b>bold characters</b>
