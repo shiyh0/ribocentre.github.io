@@ -18,7 +18,7 @@ permalink: /ribozyme/
 [VS_ribozyme]({{ site.url }}{{ site.baseurl }}/ribozyme/index.html?id=VS_ribozyme)
 [VS_ribozyme]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/index.html?id=VS_ribozyme)
 [VS_ribozyme]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/)
-
+<a href="/blog/2018/01/25/new-rna-puzzles-website-at-github/" itemprop="url">New RNA-Puzzles Website at Github</a>
 # Ribozyme
 
 **Known ribozymes**
@@ -33,7 +33,7 @@ permalink: /ribozyme/
         <th>ribozymes</th>   
         </tr>
         <tr>
-        <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/16086354/">16086354</a></td>
+        <td><a href="https://www.ribocentre.org/ribozyme/2022/04/19/index.html?id=VS_ribozyme" itemprop="url">VS</a></td>
         </tr>
         <tr>
         <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/16086354/">16086354</a></td>
