@@ -15,10 +15,10 @@ permalink: /ribozyme/
 <!--Read more [here]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme.html)-->
 <!--[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/structure/index.html?id=VS_ribozyme)-->
 [VS_ribozyme]({{ site.url }}{{ site.baseurl }}/_site/ribozyme/2022/04/19/VS-ribozyme.html)
-[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/ribozyme/index.html?id=VS_ribozyme)
-[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/html?id=VS_ribozyme)
+[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/ribozyme/index.html)
+[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS_ribozyme.html)
 [VS_ribozyme]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/)
-<a href="/blog/2018/01/25/new-rna-puzzles-website-at-github/" itemprop="url">New RNA-Puzzles Website at Github</a>
+
 # Ribozyme
 
 **Known ribozymes**
@@ -50,7 +50,7 @@ permalink: /ribozyme/
         </tr>
         </table>
     </tbody>
-</html>
+
 
  <div  style="padding-top: 0px; padding-bottom: 50px; padding-left: 30px; padding-right: 30px;">
 
@@ -84,6 +84,6 @@ To explore the full sequence please open the corresponding DNAzyme entry. Entrie
 <td><iframe src="http://nibiru.tbi.univie.ac.at/forna/forna.html?id=fasta&file=%3Ecircular_rna\nCUGCUCCACGCAAGGAGGUGGACUUAAGCGGCUCAUCCGGGUCUGCGAUAUCCACUGCGCGGUAUGCGCUCGCGAGUUCGAAUCUCGUCGCCAGUACACUGACUUCACUGGCGUGUCCGAGUGGUUAGGCAA\n..(((((((....(((((((((.....(((((((....))).))))....))))))((((.....))))..(((((.......)))))(((((((...........)))))))..)))..))))...)))..*" align="center" height="450px" width="450px" seamless='seamless' frameBorder="0" AllowFullScreen></iframe></td>
 </tr></table><br>
 
-
+</html>
 
 
