@@ -15,7 +15,7 @@ permalink: /ribozyme/
 <!--Read more [here]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme.html)-->
 <!--[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/structure/index.html?id=VS_ribozyme)-->
 [VS_ribozyme]({{ site.url }}{{ site.baseurl }}/_site/ribozyme/2022/04/19/VS-ribozyme.html)
-[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/index.html)
+[VS_ribozyme](https://github.com/ribocentre/ribocentre.github.io/blob/gh-pages/_posts/2022-04-19-VS-ribozyme.md)
 [VS_ribozyme]({{ site.url }}{{ site.baseurl }}/docs/2022-04-19-VS_ribozyme.html)
 [VS_ribozyme]({{ site.url }}{{ site.baseurl }}/docs/2022-04-19VS_ribozyme.md)
 
