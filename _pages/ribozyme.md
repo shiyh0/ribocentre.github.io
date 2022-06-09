@@ -33,7 +33,7 @@ permalink: /ribozyme/
         <th>ribozymes</th>   
         </tr>
         <tr>
-        <td><a href="https://www.ribocentre.org/ribozyme/2022/04/19/index.html?id=VS_ribozyme" itemprop="url">VS</a></td>
+        <td><a href="https://www.ribocentre.org/ribozyme/2022/04/19/VS_ribozyme.html" itemprop="url">VS</a></td>
         </tr>
         <tr>
         <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/16086354/">16086354</a></td>
@@ -79,7 +79,7 @@ If the sequence is longer than 50 nucleotides it is trimmed to render the page c
 To explore the full sequence please open the corresponding DNAzyme entry. Entries for which kinetics parameters and yield data are reported are denoted in <b>bold characters</b>
 
 <table><tr>
-<td><img src="http://localhost:4000/images/VS_ribozymePic/VS2D.png" alt="drawing" style="height:280px" border=0></td>
+<td><img src="https://www.ribocentre.org/images/VS_ribozymePic/VS2D.png" alt="drawing" style="height:280px" border=0></td>
 <td><iframe src="http://nibiru.tbi.univie.ac.at/forna/forna.html?id=fasta&file=%3Ecircular_rna\nCUGCUCCACGCAAGGAGGUGGACUUAAGCGGCUCAUCCGGGUCUGCGAUAUCCACUGCGCGGUAUGCGCUCGCGAGUUCGAAUCUCGUCGCCAGUACACUGACUUCACUGGCGUGUCCGAGUGGUUAGGCAA\n..(((((((....(((((((((.....(((((((....))).))))....))))))((((.....))))..(((((.......)))))(((((((...........)))))))..)))..))))...)))..*" align="center" height="450px" width="450px" seamless='seamless' frameBorder="0" AllowFullScreen></iframe></td>
 </tr></table><br>
 
