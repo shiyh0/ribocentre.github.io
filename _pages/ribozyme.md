@@ -21,9 +21,10 @@ permalink: /ribozyme/
 
 **Known ribozymes**
 
-<!--<html lang="en">
+<html lang="en">
   <head>
     <meta charset="utf-8">
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"/>
   </head>
     <tbody>
         <table id="table_id" class="table table-striped table-bordered" cellspacing="0" width="100%">
@@ -47,7 +48,7 @@ permalink: /ribozyme/
         </tr>
         </table>
     </tbody>
-</html>-->
+</html>
 
  <div  style="padding-top: 0px; padding-bottom: 50px; padding-left: 30px; padding-right: 30px;">
 
@@ -73,43 +74,6 @@ permalink: /ribozyme/
 </table>
 
 <script>
-$('#dnazymes_table').DataTable( {
-    deferRender: true,
-    ajax: {
-      type: "GET",
-      dataType: 'json',
-      data:{
-          "sf_reaction":"all",
-          "sf_metal_ion":"all",
-          "sf_reportedin":"m",
-          "sf_kinetics":"all"
-          },
-      url: '/DNAmoreDB/dnazymes/apidnazymes',
-    },
-    columns: [
-      { data: 'name' },
-      {  data: 'length' },
-      {  data: 'e' },
-      {  data: 'reaction' },
-      {  data: 'metal_ions' }
-    ],
-    "order": [], // this is needed to preserve the order of the table outputted by view.py
-    "processing": true,
-    "scrollX": true,
-    "scrollY": "550px",
-    "scrollCollapse": true,
-    "paging": false,
-
-    "dom": 'Bfrtip',
-    "buttons": [
-      {
-        extend: 'pdfHtml5',
-        orientation: 'landscape',
-        pageSize: 'LEGAL'
-      },
-    'csv', 'print',
-    ],
-} );
 </script>
 If the sequence is longer than 50 nucleotides it is trimmed to render the page correctly and three dots are added at the end of it.
 To explore the full sequence please open the corresponding DNAzyme entry. Entries for which kinetics parameters and yield data are reported are denoted in <b>bold characters</b>
