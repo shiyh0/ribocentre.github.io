@@ -50,6 +50,7 @@ permalink: /ribozyme/
         </tr>
         </table>
     </tbody>
+</html>
 
 
  <div  style="padding-top: 0px; padding-bottom: 50px; padding-left: 30px; padding-right: 30px;">
@@ -75,6 +76,8 @@ permalink: /ribozyme/
   </thead>
 </table>
 
+<script>
+</script>
 
 If the sequence is longer than 50 nucleotides it is trimmed to render the page correctly and three dots are added at the end of it.
 To explore the full sequence please open the corresponding DNAzyme entry. Entries for which kinetics parameters and yield data are reported are denoted in <b>bold characters</b>
