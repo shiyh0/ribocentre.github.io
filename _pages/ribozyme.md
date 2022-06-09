@@ -26,6 +26,7 @@ permalink: /ribozyme/
 <html lang="en">
   <head>
     <meta charset="utf-8">
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
   </head>
     <tbody>
         <table id="table_id" class="table table-striped table-bordered" cellspacing="0" width="100%">
