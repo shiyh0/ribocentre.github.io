@@ -23,7 +23,7 @@ permalink: /ribozyme/
 
 **Known ribozymes**
 
-<!--<html lang="en">
+<html lang="en">
   <head>
     <meta charset="utf-8">
   </head>
@@ -49,7 +49,7 @@ permalink: /ribozyme/
         </tr>
         </table>
     </tbody>
-</html>-->
+</html>
 
  <div  style="padding-top: 0px; padding-bottom: 50px; padding-left: 30px; padding-right: 30px;">
 
