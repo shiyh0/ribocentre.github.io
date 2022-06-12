@@ -52,8 +52,7 @@ To explore the full sequence please open the corresponding DNAzyme entry. Entrie
 <table><tr>
 <td><embed src="http://localhost:4000/images/VSD1.svg" style="display:block;width:500px;height:400px" border=0 /></td>
 <!--<td><img src="http://localhost:4000/images/VS_ribozymePic/VS2D.svg" alt="drawing" style="height:400px" border=0></td>-->
-<td>
-<html>
+<td><html>
 <meta charset="utf-8">
 This is an RNA container.
 <div id='rna_ss'> </div>
@@ -70,9 +69,8 @@ This is after the RNA container.
                        'sequence':             'CGCUUCAUAUAAUCCUAAUGACCUAU'};
 
         container.addRNA(options.structure, options);
-</script>
-</td>
-</tr></table><br>
+    </script>
+</td></tr></table><br>
 
 
 
