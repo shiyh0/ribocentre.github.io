@@ -55,11 +55,10 @@ To explore the full sequence please open the corresponding DNAzyme entry. Entrie
 <td>
 <html>
 <meta charset="utf-8">
-
 This is an RNA container.
 <div id='rna_ss'> </div>
 This is after the RNA container.
-
+<script>
     <link rel="stylesheet" type="text/css" href="{{ site.url }}{{ site.baseurl }}/css/fornac.css" />
     <script type='text/javascript' src='{{ site.url }}{{ site.baseurl }}/js/forna/jquery.js'></script>
     <script type='text/javascript' src='{{ site.url }}{{ site.baseurl }}/js/forna/d3.js'></script>
@@ -75,8 +74,6 @@ This is after the RNA container.
 </td>
 </tr></table><br>
 
-<script>
-</script>
 
 
 
