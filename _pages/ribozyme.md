@@ -10,7 +10,7 @@ permalink: /ribozyme/
 
 **Known ribozymes**
 
-[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/docs/2022-04-19-VS-ribozyme.md)
+[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/docs/2022/04/19/VS-ribozyme.html)
 <!--Read more [here]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme)-->
 [Twister]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/twister/)
 [VS_ribozyme]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme.html)
@@ -69,7 +69,7 @@ This is after the RNA container.
                        'sequence':             'CGCUUCAUAUAAUCCUAAUGACCUAU'};
 
         container.addRNA(options.structure, options);
-    </script>
+</script>
 </td>
 </tr></table><br>
 <script>
