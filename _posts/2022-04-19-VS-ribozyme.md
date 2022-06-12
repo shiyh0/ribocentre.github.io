@@ -10,7 +10,7 @@ categories: ribozyme
 
 - [Timeline](#timeline)
 - [Description](#description)
-- [structure](#structure)
+- [Structure](#structure)
 - [Reference](#reference)
 
 **Rfam ID:** na
@@ -24,12 +24,12 @@ categories: ribozyme
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title></title>
- 
+
 </head>
 <style>
 .timeline {
   list-style: none;
-  padding: 20px 0 20px;
+  padding: 10px 0 10px;
   position: relative;
 }
 .timeline:before {
@@ -43,7 +43,7 @@ categories: ribozyme
   margin-left: -1.5px;
 }
 .timeline > li {
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   position: relative;
 }
 .timeline > li:before,
@@ -67,44 +67,44 @@ categories: ribozyme
   float: left;
   border: 1px solid #d4d4d4;
   border-radius: 2px;
-  padding: 20px;
+  padding: 5px;
   position: relative;
   -webkit-box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);
   box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);
 }
 .timeline > li > .timeline-panel:before {
   position: absolute;
-  top: 26px;
-  right: -15px;
+  top: 10px;
+  right: -12px;
   display: inline-block;
-  border-top: 15px solid transparent;
-  border-left: 15px solid #ccc;
+  border-top: 10px solid transparent;
+  border-left: 10px solid #ccc;
   border-right: 0 solid #ccc;
-  border-bottom: 15px solid transparent;
+  border-bottom: 10px solid transparent;
   content: " ";
 }
 .timeline > li > .timeline-panel:after {
   position: absolute;
-  top: 27px;
-  right: -14px;
+  top: 10px;
+  right: -10px;
   display: inline-block;
-  border-top: 14px solid transparent;
-  border-left: 14px solid #fff;
+  border-top: 10px solid transparent;
+  border-left: 10px solid #fff;
   border-right: 0 solid #fff;
-  border-bottom: 14px solid transparent;
+  border-bottom: 10px solid transparent;
   content: " ";
 }
 .timeline > li > .timeline-badge {
   color: #fff;
-  width: 40px;
-  height: 40px;
+  width: 25px;
+  height: 25px;
   line-height: 40px;
   font-size: 1.4em;
   text-align: center;
   position: absolute;
   top: 16px;
-  left: 50%;
-  margin-left: -25px;
+  left: 48.5%;
+  margin-left: 0px;
   background-color: #999999;
   z-index: 100;
   border-top-right-radius: 50%;
@@ -149,23 +149,21 @@ categories: ribozyme
 .timeline-body > p,
 .timeline-body > ul {
   margin-bottom: 0;
+  padding-bottom: 0;
 }
 .timeline-body > p + p {
-  margin-top: 5px;
+  margin-top: 0px;
 }
 
 </style>
 
-<div class="container">
+<!--<div class="container" width: 1026px></div>-->
     <ul class="timeline">
         <li>
           <div class="timeline-badge warning"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">1990</a></h4>
-            </div>
-            <div class="timeline-body">
-              <p>Discovery</p>
+              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">1990</a>  Discovery</h4>
             </div>
           </div>
         </li>
@@ -173,10 +171,9 @@ categories: ribozyme
           <div class="timeline-badge primary"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">1995</a></h4>
+              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">1995</a>  Secondary structure</h4>
             </div>
             <div class="timeline-body">
-              <p>Secondary structure</p>
             </div>
           </div>
         </li>
@@ -184,10 +181,7 @@ categories: ribozyme
           <div class="timeline-badge warning"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">2001</a></h4>
-            </div>
-            <div class="timeline-body">
-              <p>A730 loop is important.</p>
+              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">2001</a>  A730 loop is important.</h4>
             </div>
           </div>
         </li>
@@ -195,10 +189,7 @@ categories: ribozyme
           <div class="timeline-badge primary"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">2001</a></h4>
-            </div>
-            <div class="timeline-body">
-              <p>NMR structure of the isolated substrate helix</p>
+              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">2001</a>  NMR structure of the isolated substrate helix</h4>
             </div>
           </div>
         </li>
@@ -206,10 +197,7 @@ categories: ribozyme
           <div class="timeline-badge warning"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">2002</a></h4>
-            </div>
-            <div class="timeline-body">
-              <p>A756 is critical for catalysis</p>
+              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">2002</a>  A756 is critical for catalysis</h4>
             </div>
           </div>
         </li>
@@ -217,10 +205,7 @@ categories: ribozyme
           <div class="timeline-badge primary"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">2005</a></h4>
-            </div>
-            <div class="timeline-body">
-              <p>NMR structure of SL5</p>
+              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">2005</a>  NMR structure of SL5</h4>
             </div>
           </div>
         </li>
@@ -228,10 +213,7 @@ categories: ribozyme
           <div class="timeline-badge warning"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">2007</a></h4>
-            </div>
-            <div class="timeline-body">
-              <p>G638 is critical for catalysis</p>
+              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">2007</a>  G638 is critical for catalysis</h4>
             </div>
           </div>
         </li>
@@ -239,21 +221,18 @@ categories: ribozyme
           <div class="timeline-badge primary"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">2008</a></h4>
+              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">2008</a>  SAXS-deriverd structure</h4>
             </div>
-            <div class="timeline-body">
+            <!--<div class="timeline-body">
               <p>SAXS-deriverd structure</p>
-            </div>
+            </div>-->
           </div>
         </li>
         <li>
           <div class="timeline-badge warning"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">2011</a></h4>
-            </div>
-            <div class="timeline-body">
-              <p>NMR structure of A730 loop</p>
+              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">2011</a>  NMR structure of A730 loop</h4>
             </div>
           </div>
         </li>
@@ -261,10 +240,7 @@ categories: ribozyme
           <div class="timeline-badge primary"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">2014</a></h4>
-            </div>
-            <div class="timeline-body">
-              <p>NMR structure of the III-IV-V three-way junction</p>
+              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">2014</a>  NMR structure of the III-IV-V three-way junction</h4>
             </div>
           </div>
         </li>
@@ -272,10 +248,7 @@ categories: ribozyme
           <div class="timeline-badge warning"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">2014</a></h4>
-            </div>
-            <div class="timeline-body">
-              <p>NMR structure of the II-III-VI three-way junction</p>
+              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">2014</a>  NMR structure of the II-III-VI three-way junction</h4>
             </div>
           </div>
         </li>
@@ -283,10 +256,7 @@ categories: ribozyme
           <div class="timeline-badge primary"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">2015</a></h4>
-            </div>
-            <div class="timeline-body">
-              <p>Crystal structure</p>
+              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">2015</a>  Crystal structure</h4>
             </div>
           </div>
         </li>
@@ -294,17 +264,14 @@ categories: ribozyme
           <div class="timeline-badge warning"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">2020</a></h4>
-            </div>
-            <div class="timeline-body">
-              <p>Catalytic mechanism</p>
+              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">2020</a> Catalytic mechanism</h4>
             </div>
           </div>
         </li>
     </ul>
-</div>
 
 </html>
+
 
 ## Description
 
@@ -314,17 +281,38 @@ categories: ribozyme
 
 <font size=4>VS RNA has a unique primary, secondary, and tertiary structure. The secondary structure of the VS ribozyme consists of six helical domains. Stem loop I forms the substrate domain while stem-loop II-VI forms the catalytic domain. When these 2 domains are synthesized in vitro separately, they can perform the self-cleavage reaction by trans-acting. The substrate binds into a cleft which is made by two helices. The likely active site of the ribozyme is a very important nucleotide A756. The A730 loop and A756 nucleotide are critical to its function since they participate in the phosphoric transfer chemistry activity of the ribozyme.</font>
 
-## structure
+## Structure
 
 ***
 > 2D representation
 
 <table><tr>
-<td><img src="http://localhost:4000/images/VS_ribozymePic/VS2D.png" alt="drawing" style="height:280px" border=0></td>
-<td><iframe src="http://nibiru.tbi.univie.ac.at/forna/forna.html?id=fasta&file=%3Ecircular_rna\nCUGCUCCACGCAAGGAGGUGGACUUAAGCGGCUCAUCCGGGUCUGCGAUAUCCACUGCGCGGUAUGCGCUCGCGAGUUCGAAUCUCGUCGCCAGUACACUGACUUCACUGGCGUGUCCGAGUGGUUAGGCAA\n..(((((((....(((((((((.....(((((((....))).))))....))))))((((.....))))..(((((.......)))))(((((((...........)))))))..)))..))))...)))..*" align="center" height="450px" width="450px" seamless='seamless' frameBorder="0" AllowFullScreen></iframe></td>
+<td><embed src="http://localhost:4000/images/VSD1.svg" style="display:block;width:500px;height:400px" border=0 /></td>
+<!--<td><img src="http://localhost:4000/images/VS_ribozymePic/VS2D.svg" alt="drawing" style="height:400px" border=0></td>-->
+<td>
+<link rel="stylesheet" type="text/css" href="fornac.css" media="screen" />
+
+This is an RNA container.
+<div id='rna_ss'> </div>
+This is after the RNA container.
+<meta charset="utf-8">
+    <script type='text/javascript' src='{{ site.url }}{{ site.baseurl }}/js/jquery.js'></script>
+    <script type='text/javascript' src='{{ site.url }}{{ site.baseurl }}/js/d3.js'></script>
+    <script type='text/javascript' src='{{ site.url }}{{ site.baseurl }}/js/fornac.js'></script>
+  
+    <script type='text/javascript'>
+        var container = new FornaContainer("#rna_ss", {'applyForce': false});
+
+        var options = {'structure': '((..((....)).(((....))).))',
+                       'sequence':             'CGCUUCAUAUAAUCCUAAUGACCUAU'};
+
+        container.addRNA(options.structure, options);
+    </script>
+<!--<iframe src="http://nibiru.tbi.univie.ac.at/forna/forna.html?id=fasta&file=%3Ecircular_rna\nCUGCUCCACGCAAGGAGGUGGACUUAAGCGGCUCAUCCGGGUCUGCGAUAUCCACUGCGCGGUAUGCGCUCGCGAGUUCGAAUCUCGUCGCCAGUACACUGACUUCACUGGCGUGUCCGAGUGGUUAGGCAA\n..(((((((....(((((((((.....(((((((....))).))))....))))))((((.....))))..(((((.......)))))(((((((...........)))))))..)))..))))...)))..*" align="center" height="450px" width="450px" seamless='seamless' frameBorder="0" AllowFullScreen></iframe>-->
+</td>
 </tr></table><br>
 
-***
+
 > 3D visualisation
 
 <table><tr>
@@ -337,10 +325,9 @@ categories: ribozyme
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>PDBe Molstar</title>
     <!-- Molstar CSS & JS -->
-    <link rel="stylesheet" type="text/css" href="https://www.ebi.ac.uk/pdbe/pdb-component-library/css/pdbe-molstar-1.2.1.css">
-    <script src="https://www.ebi.ac.uk/pdbe/pdb-component-library/js/pdbe-molstar-plugin-1.2.1.js"></script>
-  </head>
-
+    <link rel="stylesheet" type="text/css" href="https://www.ebi.ac.uk/pdbe/pdb-component-library/css/pdbe-molstar-3.0.0.css">
+    <script type="text/javascript" src="https://www.ebi.ac.uk/pdbe/pdb-component-library/js/pdbe-molstar-plugin-3.0.0.js"></script>
+    <!--<script src="{{ site.url }}{{ site.baseurl }}/js/pdbe-molstar-plugin-1.2.1.js"></script>-->
   <style>
       * {
           margin: 0;
@@ -348,32 +335,40 @@ categories: ribozyme
           box-sizing: border-box;
       }
       .msp-plugin ::-webkit-scrollbar-thumb {
-          background-color: #ffffff !important;
+          background-color: #474748  !important;
       }
       .viewerSection {
-        padding-top: 40px;
+        padding-top: 0px;
       }
       .controlsSection {
         width: 300px;
-        float: left;
-        padding: 40px 0 0 40px;
-        margin-right: 30px;
-      }
-      .controlBox {
-        border: 1px solid lightgray;
-        padding: 10px;
-        margin-bottom: 20px;
+        float: margin-right;
+        padding: 10px 0 0 0px;
+        margin-right: 10px;
       }
       #myViewer{
         width:450px;
         height: 450px;
-        position:relative;
+        position:relative;  
       }
+      
   </style>
-  <!-- Molstar container -->
-  <div id="myViewer"></div>
+  </head>
+  <body>
+      <div class="controlsSection">
+      <div class="controlBox">
+        <button onclick="viewerInstance.canvas.setBgColor({r:255, g:255, b:255})">White</button>&nbsp;
+        <button onclick="viewerInstance.canvas.setBgColor({r:0, g:0, b:0})">Black</button><br>
+      </div>
+    </div>
+    <div class="viewerSection">
+    <!-- Molstar container -->
+    <div id="myViewer"></div>
+    </div>
   <script>
+    //Create plugin instance
     var viewerInstance = new PDBeMolstarPlugin();
+    //Set options (Checkout available options list in the documentation)
     var options = {
       moleculeId: '4r4v',
       expanded: false,
@@ -383,11 +378,10 @@ categories: ribozyme
     var viewerContainer = document.getElementById('myViewer');
     viewerInstance.render(viewerContainer, options);
   </script>
+  </body>
 </html></td>
 </tr></table><br>
 
-
-***
 
 > catalytic centre
 
@@ -397,6 +391,8 @@ categories: ribozyme
 </tr></table><br>
 
 ## Reference
+
+***
 
 **A site-specific self-cleavage reaction performed by a novel RNA in neurospora mitochondria.**<br>
 Saville, B. J. and R. A. Collins <br>

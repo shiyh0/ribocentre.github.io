@@ -11,47 +11,28 @@ permalink: /ribozyme/
 **Known ribozymes**
 
 [VS_ribozyme]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme.html)
+<!--Read more [here]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme.html)-->
+[Twister]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/twister.html)
+[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme.html)
+[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme.html)
 [VS_ribozyme]({{ site.url }}{{ site.baseurl }}/_site/ribozyme/2022/04/19/)
 <!--Read more [here]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme.html)-->
 <!--[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/structure/index.html?id=VS_ribozyme)-->
 [VS_ribozyme]({{ site.url }}{{ site.baseurl }}/_site/ribozyme/2022/04/19/VS-ribozyme.html)
-[VS_ribozyme](https://github.com/ribocentre/ribocentre.github.io/blob/gh-pages/_posts/2022-04-19-VS-ribozyme.md)
-[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/docs/2022-04-19-VS_ribozyme.html)
-[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/docs/2022-04-19VS_ribozyme.md)
-
 # Ribozyme
 
-**Known ribozymes**
 
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"/>
-  </head>
-    <tbody>
-        <table id="table_id" class="table table-striped table-bordered" cellspacing="0" width="100%">
-        <tr>
-        <th>ribozymes</th>   
-        </tr>
-        <tr>
-        <td><a href="https://www.ribocentre.org/ribozyme/2022/04/19/VS_ribozyme.html" itemprop="url">VS</a></td>
-        </tr>
-        <tr>
-        <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/16086354/">16086354</a></td>
-        </tr>
-        <tr>
-        <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/16086354/">16086354</a></td>
-        </tr>
-        <tr>
-        <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/16086354/">16086354</a></td>
-        </tr>
-        <tr>
-        <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/16086354/">16086354</a></td>
-        </tr>
-        </table>
-    </tbody>
-</html>
+
+
+  
+       
+    
+
+
+
+
 <!--<div  style="padding-top: 0px; padding-bottom: 50px; padding-left: 30px; padding-right: 30px;">
+
 <table id="dnazymes_table" class="table table-striped table-bordered" cellspacing="0" width="100%">
   <thead>
     <tr>
@@ -75,11 +56,44 @@ permalink: /ribozyme/
 If the sequence is longer than 50 nucleotides it is trimmed to render the page correctly and three dots are added at the end of it.
 To explore the full sequence please open the corresponding DNAzyme entry. Entries for which kinetics parameters and yield data are reported are denoted in <b>bold characters</b>
 
+
+> 2D representation
+
 <table><tr>
-<td><img src="https://www.ribocentre.org/images/VS_ribozymePic/VS2D.png" alt="drawing" style="height:280px" border=0></td>
-<td><iframe src="http://nibiru.tbi.univie.ac.at/forna/forna.html?id=fasta&file=%3Ecircular_rna\nCUGCUCCACGCAAGGAGGUGGACUUAAGCGGCUCAUCCGGGUCUGCGAUAUCCACUGCGCGGUAUGCGCUCGCGAGUUCGAAUCUCGUCGCCAGUACACUGACUUCACUGGCGUGUCCGAGUGGUUAGGCAA\n..(((((((....(((((((((.....(((((((....))).))))....))))))((((.....))))..(((((.......)))))(((((((...........)))))))..)))..))))...)))..*" align="center" height="450px" width="450px" seamless='seamless' frameBorder="0" AllowFullScreen></iframe></td>
+<td><embed src="http://localhost:4000/images/VSD1.svg" style="display:block;width:500px;height:400px" border=0 /></td>
+<!--<td><img src="http://localhost:4000/images/VS_ribozymePic/VS2D.svg" alt="drawing" style="height:400px" border=0></td>-->
+<td>
+<html>
+<meta charset="utf-8">
+
+
+This is an RNA container.
+<div id='rna_ss'> </div>
+This is after the RNA container.
+
+    <link rel="stylesheet" type="text/css" href="{{ site.url }}{{ site.baseurl }}/css/fornac.css" media="screen" />
+    <script type='text/javascript' src='{{ site.url }}{{ site.baseurl }}/js/forna/jquery.js'></script>
+    <script type='text/javascript' src='{{ site.url }}{{ site.baseurl }}/js/forna/d3.js'></script>
+    <script type='text/javascript' src='{{ site.url }}{{ site.baseurl }}/js/forna/fornac.js'></script>
+    <script type='text/javascript'>
+        var container = new FornaContainer("#rna_ss", {'animation': false});
+
+        var options = {'structure': '((..((....)).(((....))).))',
+                       'sequence':             'CGCUUCAUAUAAUCCUAAUGACCUAU'};
+
+        container.addRNA(options.structure, options);
+    </script>
+<!--<iframe src="http://nibiru.tbi.univie.ac.at/forna/forna.html?id=fasta&file=%3Ecircular_rna\nCUGCUCCACGCAAGGAGGUGGACUUAAGCGGCUCAUCCGGGUCUGCGAUAUCCACUGCGCGGUAUGCGCUCGCGAGUUCGAAUCUCGUCGCCAGUACACUGACUUCACUGGCGUGUCCGAGUGGUUAGGCAA\n..(((((((....(((((((((.....(((((((....))).))))....))))))((((.....))))..(((((.......)))))(((((((...........)))))))..)))..))))...)))..*" align="center" height="450px" width="450px" seamless='seamless' frameBorder="0" AllowFullScreen></iframe>-->
+</td>
 </tr></table><br>
 
-</html>
+<script>
+</script>
+
+If the sequence is longer than 50 nucleotides it is trimmed to render the page correctly and three dots are added at the end of it.
+To explore the full sequence please open the corresponding DNAzyme entry. Entries for which kinetics parameters and yield data are reported are denoted in <b>bold characters</b>
+
+
+
 
 
