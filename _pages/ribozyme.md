@@ -11,8 +11,8 @@ permalink: /ribozyme/
 **Known ribozymes**
 
 [VS_ribozyme]({{ site.url }}{{ site.baseurl }}/docs/2022-04-19-VS-ribozyme.md)
-<!--Read more [here]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme.html)-->
-[Twister]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/twister.html)
+<!--Read more [here]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme)-->
+[Twister]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/twister/)
 [VS_ribozyme]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme.html)
 [VS_ribozyme]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme.html)
 [VS_ribozyme]({{ site.url }}{{ site.baseurl }}/_site/ribozyme/2022/04/19/)
