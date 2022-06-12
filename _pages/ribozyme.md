@@ -12,48 +12,26 @@ permalink: /ribozyme/
 
 [VS_ribozyme]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme.html)
 <!--Read more [here]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme.html)-->
-[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/twister.html)
+[Twister]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/twister.html)
 [VS_ribozyme]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme.html)
 [VS_ribozyme]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme.html)
 [VS_ribozyme]({{ site.url }}{{ site.baseurl }}/_site/ribozyme/2022/04/19/)
 <!--Read more [here]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme.html)-->
 <!--[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/structure/index.html?id=VS_ribozyme)-->
 [VS_ribozyme]({{ site.url }}{{ site.baseurl }}/_site/ribozyme/2022/04/19/VS-ribozyme.html)
-
 # Ribozyme
 
-**Known ribozymes**
-
-<!--<html lang="en">
-  <head>
-    <meta charset="utf-8">
-  </head>
-    <tbody>
-        <table id="table_id" class="table table-striped table-bordered" cellspacing="0" width="100%">
-        <tr>
-        <th>ribozymes</th>   
-        </tr>
-        <tr>
-        <td><a href="https://www.ribocentre.org/ribozyme/2022/04/19/VS_ribozyme.html" itemprop="url">VS</a></td>
-        </tr>
-        <tr>
-        <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/16086354/">16086354</a></td>
-        </tr>
-        <tr>
-        <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/16086354/">16086354</a></td>
-        </tr>
-        <tr>
-        <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/16086354/">16086354</a></td>
-        </tr>
-        <tr>
-        <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/16086354/">16086354</a></td>
-        </tr>
-        </table>
-    </tbody>
-</html>-->
 
 
 
+  
+       
+    
+
+
+
+
+<!--<div  style="padding-top: 0px; padding-bottom: 50px; padding-left: 30px; padding-right: 30px;">
 
 <table id="dnazymes_table" class="table table-striped table-bordered" cellspacing="0" width="100%">
   <thead>
@@ -72,7 +50,7 @@ permalink: /ribozyme/
       <td name="td4">Mn2+</td>
     </tr>
   </thead>
-</table>
+</table>-->
 
 
 If the sequence is longer than 50 nucleotides it is trimmed to render the page correctly and three dots are added at the end of it.
