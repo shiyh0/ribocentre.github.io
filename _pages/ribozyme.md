@@ -14,7 +14,7 @@ permalink: /ribozyme/
 <!--Read more [here]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme)-->
 [Twister]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/twister/)
 [VS_ribozyme]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme.html)
-[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme.html)
+[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/ribozyme/VS-ribozyme.html)
 [VS_ribozyme]({{ site.url }}{{ site.baseurl }}/_site/ribozyme/2022/04/19/)
 <!--Read more [here]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme.html)-->
 <!--[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/structure/index.html?id=VS_ribozyme)-->
@@ -70,7 +70,7 @@ This is after the RNA container.
                        'sequence':             'CGCUUCAUAUAAUCCUAAUGACCUAU'};
 
         container.addRNA(options.structure, options);
-    </script>
+</script>
 </td>
 </tr></table><br>
 
