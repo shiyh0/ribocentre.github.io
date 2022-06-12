@@ -70,8 +70,10 @@ This is after the RNA container.
 
         container.addRNA(options.structure, options);
     </script>
-</td></tr></table><br>
-
+</td>
+</tr></table><br>
+<script>
+</script>
 
 
 
