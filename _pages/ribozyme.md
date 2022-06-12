@@ -19,10 +19,7 @@ permalink: /ribozyme/
 <!--Read more [here]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme.html)-->
 <!--[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/structure/index.html?id=VS_ribozyme)-->
 [VS_ribozyme]({{ site.url }}{{ site.baseurl }}/_site/ribozyme/2022/04/19/VS-ribozyme.html)
-[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/ribozyme/index.html?id=VS_ribozyme)
-[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/index.html?id=VS_ribozyme)
 
-[a relative link](({{ site.url }}{{ site.baseurl }}/ribozyme/2022-04-19-VS-ribozyme.md)
 # Ribozyme
 
 **Known ribozymes**
@@ -37,7 +34,7 @@ permalink: /ribozyme/
         <th>ribozymes</th>   
         </tr>
         <tr>
-        <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/16086354/">16086354</a></td>
+        <td><a href="https://www.ribocentre.org/ribozyme/2022/04/19/VS_ribozyme.html" itemprop="url">VS</a></td>
         </tr>
         <tr>
         <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/16086354/">16086354</a></td>
@@ -55,7 +52,6 @@ permalink: /ribozyme/
     </tbody>
 </html>-->
 
-<!-- <div  style="padding-top: 0px; padding-bottom: 50px; padding-left: 30px; padding-right: 30px;">-->
 
 
 
@@ -78,45 +74,7 @@ permalink: /ribozyme/
   </thead>
 </table>
 
-<!--<script>
-$('#dnazymes_table').DataTable( {
-    deferRender: true,
-    ajax: {
-      type: "GET",
-      dataType: 'json',
-      data:{
-          "sf_reaction":"all",
-          "sf_metal_ion":"all",
-          "sf_reportedin":"m",
-          "sf_kinetics":"all"
-          },
-      url: '/DNAmoreDB/dnazymes/apidnazymes',
-    },
-    columns: [
-      { data: 'name' },
-      {  data: 'length' },
-      {  data: 'e' },
-      {  data: 'reaction' },
-      {  data: 'metal_ions' }
-    ],
-    "order": [], // this is needed to preserve the order of the table outputted by view.py
-    "processing": true,
-    "scrollX": true,
-    "scrollY": "550px",
-    "scrollCollapse": true,
-    "paging": false,
 
-    "dom": 'Bfrtip',
-    "buttons": [
-      {
-        extend: 'pdfHtml5',
-        orientation: 'landscape',
-        pageSize: 'LEGAL'
-      },
-    'csv', 'print',
-    ],
-} );
-</script>-->
 If the sequence is longer than 50 nucleotides it is trimmed to render the page correctly and three dots are added at the end of it.
 To explore the full sequence please open the corresponding DNAzyme entry. Entries for which kinetics parameters and yield data are reported are denoted in <b>bold characters</b>
 
@@ -127,18 +85,20 @@ To explore the full sequence please open the corresponding DNAzyme entry. Entrie
 <td><embed src="http://localhost:4000/images/VSD1.svg" style="display:block;width:500px;height:400px" border=0 /></td>
 <!--<td><img src="http://localhost:4000/images/VS_ribozymePic/VS2D.svg" alt="drawing" style="height:400px" border=0></td>-->
 <td>
-<link rel="stylesheet" type="text/css" href="{{ site.url }}{{ site.baseurl }}/css/fornac.css" media="screen" />
+<html>
+<meta charset="utf-8">
+
 
 This is an RNA container.
 <div id='rna_ss'> </div>
 This is after the RNA container.
-<meta charset="utf-8">
-    <script type='text/javascript' src='{{ site.url }}{{ site.baseurl }}/js/jquery.js'></script>
-    <script type='text/javascript' src='{{ site.url }}{{ site.baseurl }}/js/d3.js'></script>
-    <script type='text/javascript' src='{{ site.url }}{{ site.baseurl }}/js/fornac.js'></script>
-  
+
+    <link rel="stylesheet" type="text/css" href="{{ site.url }}{{ site.baseurl }}/css/fornac.css" media="screen" />
+    <script type='text/javascript' src='{{ site.url }}{{ site.baseurl }}/js/forna/jquery.js'></script>
+    <script type='text/javascript' src='{{ site.url }}{{ site.baseurl }}/js/forna/d3.js'></script>
+    <script type='text/javascript' src='{{ site.url }}{{ site.baseurl }}/js/forna/fornac.js'></script>
     <script type='text/javascript'>
-        var container = new FornaContainer("#rna_ss", {'applyForce': false});
+        var container = new FornaContainer("#rna_ss", {'animation': false});
 
         var options = {'structure': '((..((....)).(((....))).))',
                        'sequence':             'CGCUUCAUAUAAUCCUAAUGACCUAU'};
@@ -148,5 +108,14 @@ This is after the RNA container.
 <!--<iframe src="http://nibiru.tbi.univie.ac.at/forna/forna.html?id=fasta&file=%3Ecircular_rna\nCUGCUCCACGCAAGGAGGUGGACUUAAGCGGCUCAUCCGGGUCUGCGAUAUCCACUGCGCGGUAUGCGCUCGCGAGUUCGAAUCUCGUCGCCAGUACACUGACUUCACUGGCGUGUCCGAGUGGUUAGGCAA\n..(((((((....(((((((((.....(((((((....))).))))....))))))((((.....))))..(((((.......)))))(((((((...........)))))))..)))..))))...)))..*" align="center" height="450px" width="450px" seamless='seamless' frameBorder="0" AllowFullScreen></iframe>-->
 </td>
 </tr></table><br>
+
+<script>
+</script>
+
+If the sequence is longer than 50 nucleotides it is trimmed to render the page correctly and three dots are added at the end of it.
+To explore the full sequence please open the corresponding DNAzyme entry. Entries for which kinetics parameters and yield data are reported are denoted in <b>bold characters</b>
+
+
+
 
 
