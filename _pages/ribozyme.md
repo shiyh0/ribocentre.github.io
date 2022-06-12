@@ -10,7 +10,7 @@ permalink: /ribozyme/
 
 **Known ribozymes**
 
-[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme.html)
+[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/docs/2022-04-19-VS-ribozyme.md)
 <!--Read more [here]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme.html)-->
 [Twister]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/twister.html)
 [VS_ribozyme]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme.html)
@@ -19,16 +19,6 @@ permalink: /ribozyme/
 <!--Read more [here]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme.html)-->
 <!--[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/structure/index.html?id=VS_ribozyme)-->
 [VS_ribozyme]({{ site.url }}{{ site.baseurl }}/_site/ribozyme/2022/04/19/VS-ribozyme.html)
-# Ribozyme
-
-
-
-
-  
-       
-    
-
-
 
 
 <!--<div  style="padding-top: 0px; padding-bottom: 50px; padding-left: 30px; padding-right: 30px;">
@@ -66,12 +56,11 @@ To explore the full sequence please open the corresponding DNAzyme entry. Entrie
 <html>
 <meta charset="utf-8">
 
-
 This is an RNA container.
 <div id='rna_ss'> </div>
 This is after the RNA container.
 
-    <link rel="stylesheet" type="text/css" href="{{ site.url }}{{ site.baseurl }}/css/fornac.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="{{ site.url }}{{ site.baseurl }}/css/fornac.css" />
     <script type='text/javascript' src='{{ site.url }}{{ site.baseurl }}/js/forna/jquery.js'></script>
     <script type='text/javascript' src='{{ site.url }}{{ site.baseurl }}/js/forna/d3.js'></script>
     <script type='text/javascript' src='{{ site.url }}{{ site.baseurl }}/js/forna/fornac.js'></script>
@@ -83,15 +72,12 @@ This is after the RNA container.
 
         container.addRNA(options.structure, options);
     </script>
-<!--<iframe src="http://nibiru.tbi.univie.ac.at/forna/forna.html?id=fasta&file=%3Ecircular_rna\nCUGCUCCACGCAAGGAGGUGGACUUAAGCGGCUCAUCCGGGUCUGCGAUAUCCACUGCGCGGUAUGCGCUCGCGAGUUCGAAUCUCGUCGCCAGUACACUGACUUCACUGGCGUGUCCGAGUGGUUAGGCAA\n..(((((((....(((((((((.....(((((((....))).))))....))))))((((.....))))..(((((.......)))))(((((((...........)))))))..)))..))))...)))..*" align="center" height="450px" width="450px" seamless='seamless' frameBorder="0" AllowFullScreen></iframe>-->
 </td>
 </tr></table><br>
 
 <script>
 </script>
 
-If the sequence is longer than 50 nucleotides it is trimmed to render the page correctly and three dots are added at the end of it.
-To explore the full sequence please open the corresponding DNAzyme entry. Entries for which kinetics parameters and yield data are reported are denoted in <b>bold characters</b>
 
 
 
