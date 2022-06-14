@@ -23,7 +23,7 @@ permalink: /ribozyme/
       <div class="posts">
         <div class="post">
         <h1 class="post-title">
-          <a href>="{{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme/">  VS_ribozyme </a>
+          <a href>="{{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme/"> VS_ribozyme </a>
         </h1>
         </div>
         <div class="post">
@@ -70,25 +70,7 @@ permalink: /ribozyme/
    </button>
 </div>
 
-   <!-- mendeleyWebImporter = {
-       downloadPdfs(e,t) { return this._call('downloadPdfs', [e,t]); },
-       open() { return this._call('open', []); },
-       setLoginToken(e) { return this._call('setLoginToken', [e]); },
-       _call(methodName, methodArgs) {
-        const id = Math.random();
-        window.postMessage({ id, token: '0.33825165297613125', methodName, methodArgs }, 'https://lanyon.getpoole.com');
-        return new Promise(resolve => {
-          const listener = window.addEventListener('message', event => {
-            const data = event.data;
-            if (typeof data !== 'object' || !('result' in data) || data.id !== id) return;
-            window.removeEventListener('message', listener);
-            resolve(data.result);
-             });
-         });
-      }
-    };-->
-</html>
-
+   
 [VS_ribozyme]({{ site.url }}{{ site.baseurl }}/docs/2022/04/19/VS-ribozyme.html)
 <!--Read more [here]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme)-->
 [Twister]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/twister/)
@@ -101,7 +83,7 @@ permalink: /ribozyme/
 [VS_ribozyme]({{ site.url }}{{ site.baseurl }}/_site/ribozyme/2022/04/19/VS-ribozyme.html)
 
 
-<!--<div  style="padding-top: 0px; padding-bottom: 50px; padding-left: 30px; padding-right: 30px;">
+
 
 <table id="dnazymes_table" class="table table-striped table-bordered" cellspacing="0" width="100%">
   <thead>
