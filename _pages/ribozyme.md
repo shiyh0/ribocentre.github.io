@@ -58,17 +58,7 @@ permalink: /ribozyme/
   </thead>
 </table>
 
-<div class="dt-buttons btn-group flex-wrap">
-   <button class="btn btn-secondary buttons-pdf buttons-html5" tabindex="0" aria-controls="table_id" type="button">
-   <span>PDF</span>
-   </button> 
-   <button class="btn btn-secondary buttons-csv buttons-html5" tabindex="0" aria-controls="table_id" type="button">
-   <span>CSV</span>
-   </button> 
-   <button class="btn btn-secondary buttons-print" tabindex="0" aria-controls="table_id" type="button">
-   <span>Print</span>
-   </button>
-</div>
+
 
    
 [VS_ribozyme]({{ site.url }}{{ site.baseurl }}/docs/2022/04/19/VS-ribozyme.html)
@@ -113,7 +103,7 @@ To explore the full sequence please open the corresponding DNAzyme entry. Entrie
 > 2D representation
 
 <table><tr>
-<td><embed src="/images/VSD1.svg" style="display:block;width:400px;height:300px" border=0 /></td>
+<td><embed src="{{ site.url }}{{ site.baseurl }}/images/VSD1.svg" style="display:block;width:400px;height:300px" border=0 /></td>
 <!--<td><img src="/images/VS_ribozymePic/VS2D.svg" alt="drawing" style="height:400px" border=0></td>-->
 <td><html>
 <meta charset="utf-8">
