@@ -202,7 +202,7 @@ The glmS riboswitch is a self‐cleavage ribozyme located in the 5' untranslated
 <td name="td5">Y<br></td>
            </tr>
            <tr>
-                 <td name="td0">Twister</td>
+                 <td name="td0"><a href="https://www.ribocentre.org/docs/twister.html">Twister</a></td>
 <td name="td1">
 The twister ribozyme is a nucleolytic ribozyme. The nucleolytic activity of this ribozyme has been demonstrated both in vivo and in vitro and has one of the fastest catalytic rates of naturally occurring ribozymes with similar functions.
 </td>
