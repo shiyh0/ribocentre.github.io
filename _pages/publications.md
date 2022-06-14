@@ -78,10 +78,10 @@ permalink: /publications/
 		    background-color: #fff;
         }
 		  th {
-        background-color: #008080;
-        background-color: #008080;
-        background-color: #008080;
-        color: rgba(255,255,255,0.66);
+        background-color: #0874c4;
+        background-color: #0874c4;
+        background-color: #0874c4;
+        color: rgba(255,255,255,0.9);
 		    cursor: pointer;
         }
 		  td {
