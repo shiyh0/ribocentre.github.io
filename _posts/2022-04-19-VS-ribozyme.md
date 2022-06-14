@@ -287,7 +287,7 @@ categories: ribozyme
 > 2D representation
 
 <table><tr>
-<td><embed src="http://localhost:4000/images/VSD1.svg" style="display:block;width:500px;height:400px" border=0 /></td>
+<td><embed src="/images/VSD1.svg" style="display:block;width:500px;height:400px" border=0 /></td>
 <!--<td><img src="http://localhost:4000/images/VS_ribozymePic/VS2D.svg" alt="drawing" style="height:400px" border=0></td>-->
 <td>
 <link rel="stylesheet" type="text/css" href="fornac.css" media="screen" />
@@ -314,9 +314,8 @@ This is after the RNA container.
 
 
 > 3D visualisation
-
 <table><tr>
-<td><img src="http://localhost:4000/images/VS_ribozymePic/VS3d.png" alt="drawing" style="height:350px" border=0></td>
+<td><img src="/images/VS_ribozymePic/VS3d.png" alt="drawing" style="height:350px" border=0></td>
 <td>
 <html>
   <head>
@@ -325,9 +324,14 @@ This is after the RNA container.
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>PDBe Molstar</title>
     <!-- Molstar CSS & JS -->
-    <link rel="stylesheet" type="text/css" href="https://www.ebi.ac.uk/pdbe/pdb-component-library/css/pdbe-molstar-3.0.0.css">
-    <script type="text/javascript" src="https://www.ebi.ac.uk/pdbe/pdb-component-library/js/pdbe-molstar-plugin-3.0.0.js"></script>
-    <!--<script src="{{ site.url }}{{ site.baseurl }}/js/pdbe-molstar-plugin-1.2.1.js"></script>-->
+    <link rel="stylesheet" type="text/css" href="https://www.ebi.ac.uk/pdbe/pdb-component-library/css/pdbe-molstar-1.2.1.css">
+    <script src="https://www.ebi.ac.uk/pdbe/pdb-component-library/js/pdbe-molstar-plugin-1.2.1.js"></script>
+        <script>
+        function customize()
+        {
+            viewerInstance.canvas.setBgColor({r:255, g:255, b:255})
+        }
+        </script>
   <style>
       * {
           margin: 0;
@@ -335,40 +339,38 @@ This is after the RNA container.
           box-sizing: border-box;
       }
       .msp-plugin ::-webkit-scrollbar-thumb {
-          background-color: #474748  !important;
+          background-color: #ffffff !important;
       }
       .viewerSection {
-        padding-top: 0px;
+        padding-top: 40px;
       }
       .controlsSection {
         width: 300px;
-        float: margin-right;
-        padding: 10px 0 0 0px;
-        margin-right: 10px;
+        float: left;
+        padding: 40px 0 0 40px;
+        margin-right: 30px;
+      }
+      .controlBox {
+        border: 1px solid lightgray;
+        padding: 10px;
+        margin-bottom: 20px;
+        background-color: #fff;
       }
       #myViewer{
         width:450px;
         height: 450px;
         position:relative;  
+        
       }
       
   </style>
   </head>
-  <body>
-      <div class="controlsSection">
-      <div class="controlBox">
-        <button onclick="viewerInstance.canvas.setBgColor({r:255, g:255, b:255})">White</button>&nbsp;
-        <button onclick="viewerInstance.canvas.setBgColor({r:0, g:0, b:0})">Black</button><br>
-      </div>
-    </div>
-    <div class="viewerSection">
-    <!-- Molstar container -->
-    <div id="myViewer"></div>
-    </div>
+  <body onload="customize()">
+  <!-- Molstar container -->
+  <div id="myViewer">
+  </div>
   <script>
-    //Create plugin instance
     var viewerInstance = new PDBeMolstarPlugin();
-    //Set options (Checkout available options list in the documentation)
     var options = {
       moleculeId: '4r4v',
       expanded: false,
@@ -381,6 +383,7 @@ This is after the RNA container.
   </body>
 </html></td>
 </tr></table><br>
+
 
 
 > catalytic centre
