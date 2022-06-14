@@ -156,8 +156,6 @@ categories: ribozyme
 }
 
 </style>
-
-<!--<div class="container" width: 1026px></div>-->
     <ul class="timeline">
         <li>
           <div class="timeline-badge warning"></div>
@@ -286,36 +284,38 @@ categories: ribozyme
 ***
 > 2D representation
 
+**VS ribozyme catalyses site-specific phosphodiester cleavage by using a guanine, G638, and an adenine, A756, as a general base and acid, respectively.**
+
 <table><tr>
-<td><embed src="/images/VSD1.svg" style="display:block;width:500px;height:400px" border=0 /></td>
-<!--<td><img src="http://localhost:4000/images/VS_ribozymePic/VS2D.svg" alt="drawing" style="height:400px" border=0></td>-->
+<!--<td><embed src="{{ site.url }}{{ site.baseurl }}/images/VS_ribozymePic/VS2D.svg" style="display:block; width:500px;height:300px" border=0 /></td>-->
+<!--<td><img src="{{ site.url }}{{ site.baseurl }}/images/VS_ribozymePic/VS2D.png" alt="drawing" style="weight:150px;height:400px" border=0></td>-->
+<td><embed src="https://www.ribocentre.org/images/VS_ribozymePic/VS2D.png" style="display:block;width:400px;height:200px" border=1 /></td>
 <td>
-<link rel="stylesheet" type="text/css" href="fornac.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://www.ribocentre.org/css/fornac.css" media="screen" />
 
 This is an RNA container.
 <div id='rna_ss'> </div>
 This is after the RNA container.
 <meta charset="utf-8">
-    <script type='text/javascript' src='{{ site.url }}{{ site.baseurl }}/js/jquery.js'></script>
-    <script type='text/javascript' src='{{ site.url }}{{ site.baseurl }}/js/d3.js'></script>
-    <script type='text/javascript' src='{{ site.url }}{{ site.baseurl }}/js/fornac.js'></script>
+    <script type='text/javascript' src='https://www.ribocentre.org/js/jquery.js'></script>
+    <script type='text/javascript' src='https://www.ribocentre.org/js/d3.js'></script>
+    <script type='text/javascript' src='https://www.ribocentre.org/js/fornac.js'></script>
   
     <script type='text/javascript'>
         var container = new FornaContainer("#rna_ss", {'applyForce': false});
 
-        var options = {'structure': '((..((....)).(((....))).))',
-                       'sequence':             'CGCUUCAUAUAAUCCUAAUGACCUAU'};
+        var options = {'structure': '..(((((((....(((((((((.....(((((((....))).))))....))))))((((.....))))..(((((.......)))))(((((((...........)))))))..)))..))))...)))..',
+                       'sequence':'CUGCUCCACGCAAGGAGGUGGACUUAAGCGGCUCAUCCGGGUCUGCGAUAUCCACUGCGCGGUAUGCGCUCGCGAGUUCGAAUCUCGUCGCCAGUACACUGACUUCACUGGCGUGUCCGAGUGGUUAGGCAA'};
 
         container.addRNA(options.structure, options);
     </script>
-<!--<iframe src="http://nibiru.tbi.univie.ac.at/forna/forna.html?id=fasta&file=%3Ecircular_rna\nCUGCUCCACGCAAGGAGGUGGACUUAAGCGGCUCAUCCGGGUCUGCGAUAUCCACUGCGCGGUAUGCGCUCGCGAGUUCGAAUCUCGUCGCCAGUACACUGACUUCACUGGCGUGUCCGAGUGGUUAGGCAA\n..(((((((....(((((((((.....(((((((....))).))))....))))))((((.....))))..(((((.......)))))(((((((...........)))))))..)))..))))...)))..*" align="center" height="450px" width="450px" seamless='seamless' frameBorder="0" AllowFullScreen></iframe>-->
 </td>
 </tr></table><br>
-
+<!--<iframe src="http://nibiru.tbi.univie.ac.at/forna/forna.html?id=fasta&file=%3Ecircular_rna\nCUGCUCCACGCAAGGAGGUGGACUUAAGCGGCUCAUCCGGGUCUGCGAUAUCCACUGCGCGGUAUGCGCUCGCGAGUUCGAAUCUCGUCGCCAGUACACUGACUUCACUGGCGUGUCCGAGUGGUUAGGCAA\n..(((((((....(((((((((.....(((((((....))).))))....))))))((((.....))))..(((((.......)))))(((((((...........)))))))..)))..))))...)))..*" align="center" height="450px" width="450px" seamless='seamless' frameBorder="0" AllowFullScreen></iframe>-->
 
 > 3D visualisation
 <table><tr>
-<td><img src="/images/VS_ribozymePic/VS3d.png" alt="drawing" style="height:350px" border=0></td>
+<td><img src="https://www.ribocentre.org/images/VS_ribozymePic/VS3d.png" alt="drawing" style="height:350px" border=0></td>
 <td>
 <html>
   <head>
@@ -389,8 +389,8 @@ This is after the RNA container.
 > catalytic centre
 
 <table><tr>
-<td><img src="http://www.ribocentre.org/images/VS_ribozymePic/VSm1.png" alt="drawing" style="height:350px" border=0></td>
-<td><img src="http://www.ribocentre.org/images/VS_ribozymePic/VSm2.png" alt="drawing" style="height:400px" border=0></td>
+<td><img src="https://www.ribocentre.org/images/VS_ribozymePic/VSm1.png" alt="drawing" style="weight:600px;height:300px" border=0></td>
+<td><img src="https://www.ribocentre.org/images/VS_ribozymePic/VSm2.png" alt="drawing" style="height:350px" border=0></td>
 </tr></table><br>
 
 ## Reference
@@ -399,65 +399,65 @@ This is after the RNA container.
 
 **A site-specific self-cleavage reaction performed by a novel RNA in neurospora mitochondria.**<br>
 Saville, B. J. and R. A. Collins <br>
-[Cell 61(4): 685-696.(1990)]((https://www.ncbi.nlm.nih.gov/pubmed/14690435/))<br><br>
+[Cell 61(4): 685-696.(1990)]((https://www.ncbi.nlm.nih.gov/pubmed/2160856/))<br><br>
 
 
 **A secondary-structure model for the self-cleaving region of Neurospora VS RNA.**<br>
 Beattie, T. L., J. E. Olive and R. A. Collins <br>
-[Proc Natl Acad Sci U S A 92(10): 4686-4690.(1995)]((https://www.ncbi.nlm.nih.gov/pubmed/14690435/))<br><br>
+[Proc Natl Acad Sci U S A 92(10): 4686-4690.(1995)]((https://www.ncbi.nlm.nih.gov/pubmed/7753865/))<br><br>
 
 
 **The A730 loop is an important component of the active site of the VS ribozyme.**<br>
 Lafontaine, D. A., T. J. Wilson, D. G. Norman and D. M. Lilley <br>
-[J Mol Biol 312(4): 663-674.(2001)]((https://www.ncbi.nlm.nih.gov/pubmed/14690435/))<br><br>
+[J Mol Biol 312(4): 663-674.(2001)]((https://www.ncbi.nlm.nih.gov/pubmed/11575922/))<br><br>
 
 
 **A pH controlled conformational switch in the cleavage site of the VS ribozyme substrate RNA.**<br>
 Flinders, J. and T. Dieckmann <br>
-[J Mol Biol 308(4): 665-679.(2001)]((https://www.ncbi.nlm.nih.gov/pubmed/14690435/))<br><br>
+[J Mol Biol 308(4): 665-679.(2001)]((https://www.ncbi.nlm.nih.gov/pubmed/11350168/))<br><br>
 
 **Functional Group Requirements in the Probable Active Site of the VS Ribozyme.**<br>
 Lafontaine, D. A., T. J. Wilson, Z.-Y. Zhao and D. M. J. Lilley <br>
-[Journal of Molecular Biology 323(1): 23-34.(2002)]((https://www.ncbi.nlm.nih.gov/pubmed/14690435/))<br><br>
+[Journal of Molecular Biology 323(1): 23-34.(2002)]((https://www.ncbi.nlm.nih.gov/pubmed/12368096/))<br><br>
 
 **Nuclear magnetic resonance structure of the Varkud satellite ribozyme stem-loop V RNA and magnesium-ion binding from chemical-shift mapping.**<br>
 Campbell, D. O. and P. Legault <br>
-[Biochemistry 44(11): 4157-4170.(2005)]((https://www.ncbi.nlm.nih.gov/pubmed/14690435/))<br><br>
+[Biochemistry 44(11): 4157-4170.(2005)]((https://www.ncbi.nlm.nih.gov/pubmed/12206388/))<br><br>
 
 **A guanine nucleobase important for catalysis by the VS ribozyme.**<br>
 Wilson, T. J., A. C. McLeod and D. M. Lilley <br>
-[EMBO J 26(10): 2489-2500.(2007)]((https://www.ncbi.nlm.nih.gov/pubmed/14690435/))<br><br>
+[EMBO J 26(10): 2489-2500.(2007)]((https://www.ncbi.nlm.nih.gov/pubmed/17464286/))<br><br>
 
 **The complete VS ribozyme in solution studied by small-angle X-ray scattering.**<br>
 Lipfert, J., J. Ouellet, D. G. Norman, S. Doniach and D. M. Lilley <br>
-[Structure 16(9): 1357-1367.(2008)]((https://www.ncbi.nlm.nih.gov/pubmed/14690435/))<br><br>
+[Structure 16(9): 1357-1367.(2008)]((https://www.ncbi.nlm.nih.gov/pubmed/18786398/))<br><br>
 
 **Nucleobase-mediated general acid-base catalysis in the Varkud satellite ribozyme.**<br>
 Wilson, T. J., N. S. Li, J. Lu, J. K. Frederiksen, J. A. Piccirilli and D. M. Lilley <br>
-[Proc Natl Acad Sci U S A 107(26): 11751-11756.(2010)]((https://www.ncbi.nlm.nih.gov/pubmed/14690435/))<br><br>
+[Proc Natl Acad Sci U S A 107(26): 11751-11756.(2010)]((https://www.ncbi.nlm.nih.gov/pubmed/20547881/))<br><br>
 
 **NMR structure of the A730 loop of the Neurospora VS ribozyme: insights into the formation of the active site.**<br>
 Desjardins, G., E. Bonneau, N. Girard, J. Boisbouvier and P. Legault <br>
-[Nucleic Acids Res 39(10): 4427-4437.(2011)]((https://www.ncbi.nlm.nih.gov/pubmed/14690435/))<br><br>
+[Nucleic Acids Res 39(10): 4427-4437.(2011)]((https://www.ncbi.nlm.nih.gov/pubmed/21266483/))<br><br>
 
 **Nuclear magnetic resonance structure of the III-IV-V three-way junction from the Varkud satellite ribozyme and identification of magnesium-binding sites using paramagnetic relaxation enhancement.**<br>
 Bonneau, E. and P. Legault <br>
-[Biochemistry 53(39): 6264-6275.(2014)]((https://www.ncbi.nlm.nih.gov/pubmed/14690435/))<br><br>
+[Biochemistry 53(39): 6264-6275.(2014)]((https://www.ncbi.nlm.nih.gov/pubmed/25238589/))<br><br>
 
 **The NMR structure of the II-III-VI three-way junction from the Neurospora VS ribozyme reveals a critical tertiary interaction and provides new insights into the global ribozyme structure.**<br>
 Bonneau, E., N. Girard, S. Lemieux and P. Legault <br>
-[RNA 21(9): 1621-1632.(2014)]((https://www.ncbi.nlm.nih.gov/pubmed/14690435/))<br><br>
+[RNA 21(9): 1621-1632.(2014)]((https://www.ncbi.nlm.nih.gov/pubmed/26124200/))<br><br>
 
 **Crystal structure of the Varkud satellite ribozyme.**<br>
 Suslov, N. B., S. DasGupta, H. Huang, J. R. Fuller, D. M. Lilley, P. A. Rice and J. A. Piccirilli <br>
-[Nat Chem Biol 11(11): 840-846.(2015)]((https://www.ncbi.nlm.nih.gov/pubmed/14690435/))<br><br>
+[Nat Chem Biol 11(11): 840-846.(2015)]((https://www.ncbi.nlm.nih.gov/pubmed/26414446/))<br><br>
 
 **Structural Basis for Substrate Helix Remodeling and Cleavage Loop Activation in the Varkud Satellite Ribozyme.**<br>
 DasGupta, S., N. B. Suslov and J. A. Piccirilli <br>
-[J Am Chem Soc 139(28): 9591-9597.(2017)]((https://www.ncbi.nlm.nih.gov/pubmed/14690435/))<br><br>
+[J Am Chem Soc 139(28): 9591-9597.(2017)]((https://www.ncbi.nlm.nih.gov/pubmed/28625058/))<br><br>
 
 **Confluence of theory and experiment reveals the catalytic mechanism of the Varkud satellite ribozyme.**<br>
 Ganguly, A., B. P. Weissman, T. J. Giese, N. S. Li, S. Hoshika, S. Rao, S. A. Benner, J. A. Piccirilli and D. M. York<br>
-[Nat Chem 12(2): 193-201.(2020)]((https://www.ncbi.nlm.nih.gov/pubmed/14690435/))<br><br>
+[Nat Chem 12(2): 193-201.(2020)]((https://www.ncbi.nlm.nih.gov/pubmed/31959957/))<br><br>
 
 
