@@ -1,6 +1,6 @@
 - name: Zhichao (Chichau) Miao
   photo: Chichau_photo.jpg
-  info: Principal Investigator
+  info: Principal Investigator of guangzhou lab
   email: miao_zhichao@gzlab.ac.cn
   number_educ: 5
   education1: PhD  <a href="http://english.ibp.cas.cn/">Institute of Biophysics, CAS</a>
@@ -11,7 +11,7 @@
 
 - name: Lin Huang
   photo: Lin Huang.jpg
-  info: Principal Investigator
+  info: Principal Investigator of Sun Yat-sen University
   email: huanglin36@mail.sysu.edu.cn
   number_educ: 3
   education1: PhD <a href="https://en.whu.edu.cn/">Wuhan University</a>
@@ -31,8 +31,9 @@
   info: Graduate student
   email: shiyh@shanghaitech.edu.cn
   number_educ: 2
-  education1: Master at <a href="https://www.shanghaitech.edu.cn/">ShanghaiTech University</a>
-  education2: B.S. at <a href="https://www.htu.edu.cn/">Henan Normal University, China</a> 
+  education1: PhD at <a href="https://www.shanghaitech.edu.cn/">ShanghaiTech University</a>
+  education2: Master at <a href="https://www.shanghaitech.edu.cn/">ShanghaiTech University</a>
+  education3: B.S. at <a href="https://www.htu.edu.cn/">Henan Normal University, China</a> 
 
 - name: Xuemei Peng 
   photo: Xuemei Peng.jpg
