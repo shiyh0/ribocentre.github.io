@@ -128,8 +128,8 @@ permalink: /publications/
                 <td name="td0">1990</td>
                 <td name="td1">Saville, B. J. and R. A.Collins </td>
                 <td name="td2">A site-specific self-cleavage reaction performed by a novel RNA in neurospora mitochondria.</td>
-                <td name="td3">Cell 61(4): 685-696.<a href="https://www.ncbi.nlm.nih.gov/pubmed/14690435">(14690435)</a></td>
-                <td name="td4"><a href="https://www.ncbi.nlm.nih.gov/pubmed/14690435">14690435</a></td>
+                <td name="td3">Cell 61(4): 685-696.<a href="https://www.ncbi.nlm.nih.gov/pubmed/2160856">(2160856)</a></td>
+                <td name="td4">nan</td>
                 <td name="td5">VS ribozyme</td>
                 <td name="td6">Discovery</td> 
            </tr>
@@ -137,8 +137,8 @@ permalink: /publications/
                 <td name="td0">1995</td>
                 <td name="td1">Beattie, T. L., J. E. Olive and R. A. Collins</td>
                 <td name="td2">A secondary-structure model for the self-cleaving region of Neurospora VS RNA.</td>
-                <td name="td3">Proc Natl Acad Sci U S A 92(10): 4686-4690.</td>
-                <td name="td4"><a href="https://www.ncbi.nlm.nih.gov/pubmed/14690435">14690435</a></td>
+                <td name="td3">Proc Natl Acad Sci U S A 92(10): 4686-4690.<a href="https://www.ncbi.nlm.nih.gov/pubmed/7753865">(7753865)</a></td>
+                <td name="td4">nan</td>
                 <td name="td5">VS ribozyme</td>
                 <td name="td6">Secondary structure</td>
            </tr>
@@ -146,122 +146,195 @@ permalink: /publications/
                  <td name="td0">2001</td>
                  <td name="td1">Lafontaine, D. A., T. J. Wilson, D. G. Norman and D. M. Lilley</td>
                  <td name="td2">The A730 loop is an important component of the active site of the VS ribozyme.</td>
-                 <td name="td3">J Mol Biol 312(4): 663-674.</td>
-                 <td name="td4"><a href="https://www.ncbi.nlm.nih.gov/pubmed/18808125">18808125</a></td>
+                 <td name="td3">J Mol Biol 312(4): 663-674.<a href="https://www.ncbi.nlm.nih.gov/pubmed/11575922">(11575922)</a></td>
+                 <td name="td4">nan</td>
                  <td name="td5">VS ribozyme</td>
-                 <td name="td6">A730 loop is important<br></td>
+                 <td name="td6">A730 loop is important</td>
            </tr>
            <tr>
                  <td name="td0">2001</td>
                  <td name="td1">Flinders, J. and T. Dieckmann </td>
                  <td name="td2">A pH controlled conformational switch in the cleavage site of the VS ribozyme substrate RNA.</td>
-                 <td name="td3"> J Mol Biol 308(4): 665-679.</td>
-                 <td name="td4"><a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">14691255</a></td>
+                 <td name="td3"> J Mol Biol 308(4): 665-679.<a href="https://www.ncbi.nlm.nih.gov/pubmed/11350168">(11350168)</a></td>
+                 <td name="td4">1HWQ</td>
                  <td name="td5">VS ribozyme</td>
-                 <td name="td6">NMR structure of the isolated substrate helix<br></td>
+                 <td name="td6">NMR structure of the isolated substrate helix</td>
            </tr>
            <tr>
                  <td name="td0">2002</td>
                  <td name="td1">Lafontaine, D. A., T. J. Wilson, Z.-Y. Zhao and D. M. J. Lilley</td>
                  <td name="td2">Functional Group Requirements in the Probable Active Site of the VS Ribozyme.</td>
-                 <td name="td3"> Journal of Molecular Biology 323(1): 23-34.</td>
-                 <td name="td4"><a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">14691255</a></td>
+                 <td name="td3"> Journal of Molecular Biology 323(1): 23-34.<a href="https://www.ncbi.nlm.nih.gov/pubmed/12368096">(12368096)</a></td>
+                 <td name="td4">nan</td>
                  <td name="td5">VS ribozyme</td>
-                 <td name="td6">A756 is critical for catalysis<br></td>
+                 <td name="td6">A756 is critical for catalysis</td>
            </tr>
            <tr>
                  <td name="td0">2005</td>
                  <td name="td1">Campbell, D. O. and P. Legault</td>
                  <td name="td2">Nuclear magnetic resonance structure of the Varkud satellite ribozyme stem-loop V RNA and magnesium-ion binding from chemical-shift mapping.</td>
-                 <td name="td3">Biochemistry 44(11): 4157-4170.</td>
-                 <td name="td4"><a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">14691255</a></td>
+                 <td name="td3">Biochemistry 44(11): 4157-4170.<a href="https://www.ncbi.nlm.nih.gov/pubmed/12206388">(12206388)</a></td>
+                 <td name="td4">nan</td>
                  <td name="td5">VS ribozyme</td>
-                 <td name="td6">NMR structure of SL5<br></td>
+                 <td name="td6">NMR structure of SL5</td>
            </tr>
            <tr>
                  <td name="td0">2007</td>
                  <td name="td1">Wilson, T. J., A. C. McLeod and D. M. Lilley</td>
                  <td name="td2">A guanine nucleobase important for catalysis by the VS ribozyme.</td>
-                 <td name="td3">EMBO J 26(10): 2489-2500.</td>
-                 <td name="td4"><a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">14691255</a></td>
+                 <td name="td3">EMBO J 26(10): 2489-2500.<a href="https://www.ncbi.nlm.nih.gov/pubmed/17464286">(17464286)</a></td>
+                 <td name="td4">nan</td>
                  <td name="td5">VS ribozyme</td>
-                 <td name="td6">G638 is critical for catalysis<br></td>
+                 <td name="td6">G638 is critical for catalysis</td>
            </tr>
            <tr>
                  <td name="td0">2008</td>
                  <td name="td1">Lipfert, J., J. Ouellet, D. G. Norman, S. Doniach and D. M. Lilley</td>
                  <td name="td2">The complete VS ribozyme in solution studied by small-angle X-ray scattering.</td>
-                 <td name="td3"> Structure 16(9): 1357-1367.</td>
-                 <td name="td4"><a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">14691255</a></td>
+                 <td name="td3"> Structure 16(9): 1357-1367.<a href="https://www.ncbi.nlm.nih.gov/pubmed/18786398">(18786398)</a></td>
+                 <td name="td4">nan</a></td>
                  <td name="td5">VS ribozyme</td>
-                 <td name="td6">SAXS-deriverd structure<br></td>
+                 <td name="td6">SAXS-deriverd structure</td>
            </tr>
            <tr>
                  <td name="td0">2010</td>
                  <td name="td1">Wilson, T. J., N. S. Li, J. Lu, J. K. Frederiksen, J. A. Piccirilli and D. M. Lilley</td>
                  <td name="td2">Nucleobase-mediated general acid-base catalysis in the Varkud satellite ribozyme.</td>
-                 <td name="td3">Proc Natl Acad Sci U S A 107(26): 11751-11756.</td>
-                 <td name="td4"><a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">14691255</a></td>
+                 <td name="td3">Proc Natl Acad Sci U S A 107(26): 11751-11756.<a href="https://www.ncbi.nlm.nih.gov/pubmed/20547881">(20547881)</a></td>
+                 <td name="td4">nan</td>
                  <td name="td5">VS ribozyme</td>
-                 <td name="td6">A756 stabilizes leaving group<br></td>
+                 <td name="td6">A756 stabilizes leaving group</td>
            </tr>
            <tr>
                  <td name="td0">2011</td>
                  <td name="td1">Desjardins, G., E. Bonneau, N. Girard, J. Boisbouvier and P. Legault</td>
                  <td name="td2">NMR structure of the A730 loop of the Neurospora VS ribozyme: insights into the formation of the active site.</td>
-                 <td name="td3">Nucleic Acids Res 39(10): 4427-4437.</td>
-                 <td name="td4"><a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">14691255</a></td>
+                 <td name="td3">Nucleic Acids Res 39(10): 4427-4437.<a href="https://www.ncbi.nlm.nih.gov/pubmed/21266483">(21266483)</a></td>
+                 <td name="td4">nan</td>
                  <td name="td5">VS ribozyme</td>
-                 <td name="td6">NMR structure of A730 loop<br></td>
+                 <td name="td6">NMR structure of A730 loop</td>
            </tr>
            <tr>
                  <td name="td0">2014</td>
                  <td name="td1">Bonneau, E. and P. Legault</td>
                  <td name="td2">Nuclear magnetic resonance structure of the III-IV-V three-way junction from the Varkud satellite ribozyme and identification of magnesium-binding sites using paramagnetic relaxation enhancement.</td>
-                 <td name="td3"> Biochemistry 53(39): 6264-6275.</td>
-                 <td name="td4"><a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">14691255</a></td>
+                 <td name="td3"> Biochemistry 53(39): 6264-6275.<a href="https://www.ncbi.nlm.nih.gov/pubmed/25238589">(25238589)</a></td>
+                 <td name="td4">nan</td>
                  <td name="td5">VS ribozyme</td>
-                 <td name="td6">NMR structure of the III-IV-V three-way junction<br></td>
+                 <td name="td6">NMR structure of the III-IV-V three-way junction</td>
            </tr>
            <tr>
                  <td name="td0">2014</td>
                  <td name="td1">Bonneau, E., N. Girard, S. Lemieux and P. Legault</td>
                  <td name="td2">The NMR structure of the II-III-VI three-way junction from the Neurospora VS ribozyme reveals a critical tertiary interaction and provides new insights into the global ribozyme structure.</td>
-                 <td name="td3">RNA 21(9): 1621-1632.</td>
-                 <td name="td4"><a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">14691255</a></td>
+                 <td name="td3">RNA 21(9): 1621-1632.<a href="https://www.ncbi.nlm.nih.gov/pubmed/26124200">(26124200)</a></td>
+                 <td name="td4">nan</td>
                  <td name="td5">VS ribozyme</td>
-                 <td name="td6">NMR structure of the II-III-VI three-way junction<br></td>
+                 <td name="td6">NMR structure of the II-III-VI three-way junction</td>
            </tr>
            <tr>
                  <td name="td0">2015</td>
                  <td name="td1">Suslov, N. B., S. DasGupta, H. Huang, J. R. Fuller, D. M. Lilley, P. A. Rice and J. A. Piccirilli</td>
                  <td name="td2">Crystal structure of the Varkud satellite ribozyme.</td>
-                 <td name="td3">Nat Chem Biol 11(11): 840-846.</td>
-                 <td name="td4"><a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">14691255</a></td>
+                 <td name="td3">Nat Chem Biol 11(11): 840-846.<a href="https://www.ncbi.nlm.nih.gov/pubmed/26414446">(14690435)</a></td>
+                 <td name="td4">nan</td>
                  <td name="td5">VS ribozyme</td>
-                 <td name="td6">Crystal structure<br></td>
+                 <td name="td6">Crystal structure</td>
            </tr>
            <tr>
                  <td name="td0">2017</td>
                  <td name="td1">DasGupta, S., N. B. Suslov and J. A. Piccirilli</td>
                  <td name="td2">Structural Basis for Substrate Helix Remodeling and Cleavage Loop Activation in the Varkud Satellite Ribozyme.</td>
-                 <td name="td3"> J Am Chem Soc 139(28): 9591-9597.</td>
-                 <td name="td4"><a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">14691255</a></td>
+                 <td name="td3"> J Am Chem Soc 139(28): 9591-9597.<a href="https://www.ncbi.nlm.nih.gov/pubmed/28625058">(28625058)</a></td>
+                 <td name="td4">4R4V</td>
                  <td name="td5">VS ribozyme</td>
-                 <td name="td6">Crystal structure<br></td>
+                 <td name="td6">Crystal structure</td>
            </tr>
            <tr>
                  <td name="td0">2020</td>
                  <td name="td1">Ganguly, A., B. P. Weissman, T. J. Giese, N. S. Li, S. Hoshika, S. Rao, S. A. Benner, J. A. Piccirilli and D. M. York</td>
                  <td name="td2">Confluence of theory and experiment reveals the catalytic mechanism of the Varkud satellite ribozyme.</td>
-                 <td name="td3">Nat Chem 12(2): 193-201.</td>
-                 <td name="td4"><a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">14691255</a></td>
+                 <td name="td3">Nat Chem 12(2): 193-201.<a href="https://www.ncbi.nlm.nih.gov/pubmed/31959957">(31959957)</a></td>
+                 <td name="td4">5V3I</td>
                  <td name="td5">VS ribozyme</td>
-                 <td name="td6">Catalytic mechanism<br></td>
+                 <td name="td6">Catalytic mechanism</td>
            </tr>
-        </table>
-    </body>
-</html>
+           <tr>
+                 <td name="td0">2014</td>
+                 <td name="td1">Roth, A., Weinberg, Z., Chen, A. G., Kim, P. B., Ames, T. D. & Breaker, R. R. </td>
+                 <td name="td2">A widespread self-cleaving ribozyme class is revealed by bioinformatics.</td>
+                 <td name="td3"> Nat Chem Biol 10 (1): 56-60.<a href="https://www.ncbi.nlm.nih.gov/pubmed/24240507/">(24240507)</a></td>
+                 <td name="td4">nan</td>
+                 <td name="td5">twister ribozyme</td>
+                 <td name="td6">Discovery, Secondary structure</td>
+            </tr>
+            <tr>
+                 <td name="td0">2014</td>
+                 <td name="td1">Ren, A., Kosutic, M., Rajashankar, K. R., Frener, M., Santner, T., Westhof, E., Micura, R. & Patel, D. J. </td>
+                 <td name="td2">In-line alignment and Mg(2)(+) coordination at the cleavage site of the env22 twister ribozyme.</td>
+                 <td name="td3">Nat Commun 5: 5534.<a href="https://www.ncbi.nlm.nih.gov/pubmed/25410397">(25410397)</a></td>
+                 <td name="td4">4RGE，4RGF</td>
+                 <td name="td5">twister ribozyme</td>
+                 <td name="td6">Crystal structure<br></td>
+            </tr>
+            <tr>
+                 <td name="td0">2014</td>
+                 <td name="td1">Liu, Y., Wilson, T. J., McPhee, S. A. & Lilley, D. M. </td>
+                 <td name="td2">Crystal structure and mechanistic investigation of the twister ribozyme.</td>
+                 <td name="td3">Nat Chem Biol 10 (9): 739-44.<a href="https://www.ncbi.nlm.nih.gov/pubmed/25038788">(25038788)</a></td>
+                 <td name="td4">4OJI</td>
+                 <td name="td5">twister ribozyme</td>
+                 <td name="td6">Crystal structure</td>
+            </tr>
+            <tr>
+                 <td name="td0">2014</td>
+                 <td name="td1">Eiler, D., Wang, J. & Steitz, T. A. </td>
+                 <td name="td2">Structural basis for the fast self-cleavage reaction catalyzed by the twister ribozyme.</td>
+                 <td name="td3">Proc Natl Acad Sci U S A 111 (36): 13028-33.<a href="https://www.ncbi.nlm.nih.gov/pubmed/25157168">(25157168)</a></td>
+                 <td name="td4">4QJH，4QJD</td>
+                 <td name="td5">twister ribozyme</td>
+                 <td name="td6">Crystal structure</td>
+            </tr>
+            <tr>
+                 <td name="td0">2015</td>
+                 <td name="td1">Kosutic, M., Neuner, S., Ren, A., Flur, S., Wunderlich, C., Mairhofer, E., Vusurovic, N., Seikowski, J., Breuker, K., Hobartner, C., Patel, D. J., Kreutz, C. & Micura, R. </td>
+                 <td name="td2">A Mini-Twister Variant and Impact of Residues/Cations on the Phosphodiester Cleavage of this Ribozyme Class.</td>
+                 <td name="td3">Angew Chem Int Ed Engl 54 (50): 15128-15133.<a href="https://www.ncbi.nlm.nih.gov/pubmed/26473980">(26473980)</a></td>
+                 <td name="td4">nan</td>
+                 <td name="td5">twister ribozyme</td>
+                 <td name="td6">Catalytic mechanism of Mini-Twister Variant</td>
+            </tr>
+            <tr>
+                 <td name="td0">2016</td>
+                 <td name="td1">Wilson, T. J. and Y. Liu, et al. </td>
+                 <td name="td2">The Novel Chemical Mechanism of the Twister Ribozyme.</td>
+                 <td name="td3">J Am Chem Soc 138 (19): 6151-62.<a href="https://www.ncbi.nlm.nih.gov/pubmed/27153229">(27153229)</a></td>
+                 <td name="td4">5DUN</td>
+                 <td name="td5">twister ribozyme</td>
+                 <td name="td6">Novel chemical Mechanism</td>
+            </tr>
+            <tr>
+                 <td name="td0">2017</td>
+                 <td name="td1">Wilson, T. J., Liu, Y., Domnick, C., Kath-Schorr, S. & Lilley, D. M. </td>
+                 <td name="td2">Pseudoknot Formation Seeds the Twister Ribozyme Cleavage Reaction Coordinate.</td>
+                 <td name="td3">J Am Chem Soc 139 (24): 8186-8193.<a href="https://www.ncbi.nlm.nih.gov/pubmed/28598157">(28598157)</a></td>
+                 <td name="td4">nan</td>
+                 <td name="td5">twister ribozyme</td>
+                 <td name="td6">The role of pseudokno</td>
+            </tr>
+            <tr>
+                 <td name="td0">2017</td>
+                 <td name="td1">Vusurovic, N., Altman, R. B., Terry, D. S., Micura, R. & Blanchard, S. C </td>
+                 <td name="td2">Unwinding the twister ribozyme: from structure to mechanism.</td>
+                 <td name="td3">Wiley Interdiscip Rev RNA 8 (3).<a href="https://www.ncbi.nlm.nih.gov/pubmed/27863022">(27863022)</a></td>
+                 <td name="td4">nan</td>
+                 <td name="td5">twister ribozyme</td>
+                 <td name="td6">Chemical Mechanism<br></td>
+            </tr>
+         </table>
+     </body>
+  </html>
+
 <script type="text/javascript"> 
     var tag=1;
     function SortTable(obj){

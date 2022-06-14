@@ -5,164 +5,471 @@ excerpt: "Ribo centre - Ribozyme"
 sitemap: false
 permalink: /ribozyme/
 ---
-
 # Ribozyme
 
-**Known ribozymes**
+<br>
+**According to the size of the primary sequence, ribozymes can be divided into small ribozymes and large ribozymes.**<br><br>
 
-<html lang="en-us">
+> <font size=4>List of large ribozymes<font><br>
+
+<html lang="en">
   <head>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-  </head>
-
-  <body>
-  <div class="wrap">
-    <div class="container content">
-      <div class="posts">
-        <div class="post">
-        <h1 class="post-title">
-          <a href>="https://www.Ribocenter.org/ribozyme/2022/04/19/VS-ribozyme.html">  VS_ribozyme </a>
-        </h1>
-        </div>
-        <div class="post">
-        <h1 class="post-title">
-          <a href>="http://localhost:4000/ribozyme/2022/04/19/twister/">  Twister </a>
-        </h1>
-        </div>
-        <div class="post">
-        <h1 class="post-title"><a href>="http://localhost:4000/ribozyme/2022/04/19/twister/">  Twister </a>
-        </h1>
-      </div>
-    </div>
-  </div>
-  </body>
-
-  <table id="dnazymes_table" class="table table-striped table-bordered" cellspacing="0" width="100%">
-  <thead>
-    <tr>
-      <th><a href="<><i class="fas fa-question-circle"></i></a>&nbsp;Name</th>
-      <th>Length</th>
-      <th><a href="/DNAmoreDB/help#help12"><i class="fas fa-question-circle"></i></a>&nbsp;Catalytic region of the Ribozyme</th>
-      <th><a href="/DNAmoreDB/help#help4"><i class="fas fa-question-circle"></i></a>&nbsp;Reaction</th>
-      <th><a href="/DNAmoreDB/help#help6"><i class="fas fa-question-circle"></i></a>&nbsp;Metal ions/cofactors</th>
-    </tr>
-     <tr>
-      <td name="td0"><a href="http://localhost:4000/ribozyme/2022/04/19/VS-ribozyme.html">8XL1</a></td>
-      <td name="td1">50</td>
-      <td name="td2">CCCCGAGGTGTGGACATAGCGGGCTGGTGTGGCGCGCAGT...</td>
-      <td name="td3">RNA ligation</td>
-      <td name="td4">Mn2+</td>
-    </tr>
-  </thead>
-</table>
-
-<div class="dt-buttons btn-group flex-wrap">
-   <button class="btn btn-secondary buttons-pdf buttons-html5" tabindex="0" aria-controls="table_id" type="button">
-   <span>PDF</span>
-   </button> 
-   <button class="btn btn-secondary buttons-csv buttons-html5" tabindex="0" aria-controls="table_id" type="button">
-   <span>CSV</span>
-   </button> 
-   <button class="btn btn-secondary buttons-print" tabindex="0" aria-controls="table_id" type="button">
-   <span>Print</span>
-   </button>
-</div>
-
-   <!-- mendeleyWebImporter = {
-       downloadPdfs(e,t) { return this._call('downloadPdfs', [e,t]); },
-       open() { return this._call('open', []); },
-       setLoginToken(e) { return this._call('setLoginToken', [e]); },
-       _call(methodName, methodArgs) {
-        const id = Math.random();
-        window.postMessage({ id, token: '0.33825165297613125', methodName, methodArgs }, 'https://lanyon.getpoole.com');
-        return new Promise(resolve => {
-          const listener = window.addEventListener('message', event => {
-            const data = event.data;
-            if (typeof data !== 'object' || !('result' in data) || data.id !== id) return;
-            window.removeEventListener('message', listener);
-            resolve(data.result);
-             });
-         });
+    <meta charset="utf-8">
+    <title>Sort table example</title>
+    <style>
+	    body {
+			font-size: 14px;
+			margin: 50px 30px;
       }
-    };-->
-</html>
-
-
-[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme.html)
-<!--Read more [here]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme.html)-->
-[Twister]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/twister.html)
-[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme.html)
-[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme.html)
-[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/_site/ribozyme/2022/04/19/)
-<!--Read more [here]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme.html)-->
-<!--[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/structure/index.html?id=VS_ribozyme)-->
-[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/_site/ribozyme/2022/04/19/VS-ribozyme.html)
-# Ribozyme
-
-
-
-
-  
-       
-    
-
-
-
-
-<!--<div  style="padding-top: 0px; padding-bottom: 50px; padding-left: 30px; padding-right: 30px;">
-
-<table id="dnazymes_table" class="table table-striped table-bordered" cellspacing="0" width="100%">
-  <thead>
-    <tr>
-      <th><a href="/DNAmoreDB/help#help5"><i class="fas fa-question-circle"></i></a>&nbsp;Name</th>
-      <th>Length</th>
-      <th><a href="/DNAmoreDB/help#help12"><i class="fas fa-question-circle"></i></a>&nbsp;Catalytic region of the Ribozyme</th>
-      <th><a href="/DNAmoreDB/help#help4"><i class="fas fa-question-circle"></i></a>&nbsp;Reaction</th>
-      <th><a href="/DNAmoreDB/help#help6"><i class="fas fa-question-circle"></i></a>&nbsp;Metal ions/cofactors</th>
-    </tr>
-    <tr>
-      <td name="td0"><a href="https://www.ncbi.nlm.nih.gov/pubmed/16086354">8XL1</a></td>
-      <td name="td1">50</td>
-      <td name="td2">CCCCGAGGTGTGGACATAGCGGGCTGGTGTGGCGCGCAGT...</td>
-      <td name="td3">RNA ligation</td>
-      <td name="td4">Mn2+</td>
-    </tr>
-  </thead>
-</table>-->
-
-
-</script>-->
-If the sequence is longer than 50 nucleotides it is trimmed to render the page correctly and three dots are added at the end of it.
-To explore the full sequence please open the corresponding DNAzyme entry. Entries for which kinetics parameters and yield data are reported are denoted in <b>bold characters</b>
-
-
-> 2D representation
-
-<table><tr>
-<td><embed src="/images/VSD1.svg" style="display:block;width:500px;height:400px" border=0 /></td>
-<!--<td><img src="http://localhost:4000/images/VS_ribozymePic/VS2D.svg" alt="drawing" style="height:400px" border=0></td>-->
-<td>
-<link rel="stylesheet" type="text/css" href="{{ site.url }}{{ site.baseurl }}/css/fornac.css" media="screen" />
-
-This is an RNA container.
-<div id='rna_ss'> </div>
-This is after the RNA container.
-<meta charset="utf-8">
-    <script type='text/javascript' src='{{ site.url }}{{ site.baseurl }}/js/jquery.js'></script>
-    <script type='text/javascript' src='{{ site.url }}{{ site.baseurl }}/js/d3.js'></script>
-    <script type='text/javascript' src='{{ site.url }}{{ site.baseurl }}/js/fornac.js'></script>
-  
-    <script type='text/javascript'>
-        var container = new FornaContainer("#rna_ss", {'applyForce': false});
-
-        var options = {'structure': '((..((....)).(((....))).))',
-                       'sequence':             'CGCUUCAUAUAAUCCUAAUGACCUAU'};
-
-        container.addRNA(options.structure, options);
-    </script>
-<!--<iframe src="http://nibiru.tbi.univie.ac.at/forna/forna.html?id=fasta&file=%3Ecircular_rna\nCUGCUCCACGCAAGGAGGUGGACUUAAGCGGCUCAUCCGGGUCUGCGAUAUCCACUGCGCGGUAUGCGCUCGCGAGUUCGAAUCUCGUCGCCAGUACACUGACUUCACUGGCGUGUCCGAGUGGUUAGGCAA\n..(((((((....(((((((((.....(((((((....))).))))....))))))((((.....))))..(((((.......)))))(((((((...........)))))))..)))..))))...)))..*" align="center" height="450px" width="450px" seamless='seamless' frameBorder="0" AllowFullScreen></iframe>-->
+		  table {
+        border: 2px solid #f8f8ff;
+        border: 2px solid #767676;
+		    border: 2px solid #767676;
+		    border-radius: 5px;
+		    background-color: #fff;
+        }
+		  th {
+        background-color: #0874c4;
+        background-color: #0874c4;
+        background-color: #0874c4;
+        color: rgba(255,255,255,0.9);
+		    cursor: pointer;
+        }
+		  td {
+		    background-color: #ffffff;
+		    background-color: #f9f9f9;
+		    background-color: #f9f9f9;
+		    }		
+		  th, td {
+		  min-width: 90px;
+		  padding: 10px 10px;
+		}		
+		  .arrow {
+		  display: inline-block;
+		  vertical-align: middle;
+		  width: 0;
+		  height: 0;
+		  margin-left: 5px;
+		  opacity: 0.66;
+		}		
+		  .arrow.asc {
+		  border-left: 4px solid transparent;
+		  border-right: 4px solid transparent;
+		  border-bottom: 4px solid #fff;
+		} 
+		  .arrow.dsc {
+		  border-left: 4px solid transparent;
+		  border-right: 4px solid transparent;
+		  border-top: 4px solid #fff;
+		}
+	  </style>
+  </head>
+    <body>
+        <table id="table_id" class="table table-striped table-bordered" cellspacing="0" width="100%">
+            <tr>
+                <th id="th0" onclick="SortTable(this)" class="as">Name<span class="arrow asc"></span></th>
+                <th id="th1" onclick="SortTable(this)" class="as">Description<span class="arrow asc"></span></th>
+                <th id="th2" onclick="SortTable(this)" class="as">Discovery<span class="arrow asc"></span></th>
+                <th id="th3" onclick="SortTable(this)" class="as">Catalytic<span class="arrow asc"></span></th>
+                <th id="th4" onclick="SortTable(this)" class="as">Rfam<span class="arrow asc"></span></th>
+                <th id="th5" onclick="SortTable(this)" class="as">Structure(Y/N)<span class="arrow asc"></span></th>
+            </tr>
+            <tr>
+                <td name="td0">Hammerhead</td>
+                <td name="td1">The hammerhead ribozyme catalyzes the site‐specific self‐cleavage reaction and is named for the resemblance of early secondary structure diagrams to a hammerhead shark. It serves as a model system for research on the structure and properties of RNA and is used for targeted RNA cleavage experiments, some with proposed therapeutic applications.</td>
+                <td name="td2">1986</td>
+                <td name="td3">Hammerhead ribozyme (type III)</td>
+                <td name="td4">RF00008</td>
+                <td name="td5">Y</td>
+           </tr>
+           <tr>
+                <td name="td0">Hammerhead</td>
+                <td name="td1">The hammerhead ribozyme catalyzes the site‐specific self‐cleavage reaction and is named for the resemblance of early secondary structure diagrams to a hammerhead shark. It serves as a model system for research on the structure and properties of RNA and is used for targeted RNA cleavage experiments, some with proposed therapeutic applications.</td>
+                <td name="td2">1986</td>
+                <td name="td3">Hammerhead ribozyme (type I)</td>
+                <td name="td4">RF00163</td>
+                <td name="td5">Y</td>
+           </tr>
+           <tr>
+                 <td name="td0">Hammerhead</td>
+                 <td name="td1">The hammerhead ribozyme catalyzes the site‐specific self‐cleavage reaction and is named for the resemblance of early secondary structure diagrams to a hammerhead shark. It serves as a model system for research on the structure and properties of RNA and is used for targeted RNA cleavage experiments, some with proposed therapeutic applications.</td>
+                 <td name="td2">1986</td>
+                 <td name="td3">Hammerhead ribozyme HH9</td>
+                 <td name="td4">RF02275</td>
+                 <td name="td5">Y</td>
+           </tr>
+           <tr>
+                <td name="td0">Hammerhead</td>
+<td name="td1">The hammerhead ribozyme catalyzes the site‐specific self‐cleavage reaction and is named for the resemblance of early secondary structure diagrams to a hammerhead shark. It serves as a model system for research on the structure and properties of RNA and is used for targeted RNA cleavage experiments, some with proposed therapeutic applications.</td>
+<td name="td2">1986</td>
+<td name="td3">Hammerhead ribozyme (type II)</td>
+<td name="td4">RF02276</td>
+<td name="td5">Y</td>
+           </tr>
+           <tr>
+                 <td name="td0">Hammerhead</td>
+<td name="td1">The hammerhead ribozyme catalyzes the site‐specific self‐cleavage reaction and is named for the resemblance of early secondary structure diagrams to a hammerhead shark. It serves as a model system for research on the structure and properties of RNA and is used for targeted RNA cleavage experiments, some with proposed therapeutic applications.</td>
+<td name="td2">1986</td>
+<td name="td3">Hammerhead_HH10</td>
+<td name="td4">RF02277</td>
+<td name="td5">Y</td>
+           </tr>
+           <tr>
+                 <td name="td0">Hammerhead</td>
+<td name="td1">
+The hammerhead ribozyme catalyzes the site‐specific self‐cleavage reaction and is named for the resemblance of early secondary structure diagrams to a hammerhead shark. It serves as a model system for research on the structure and properties of RNA and is used for targeted RNA cleavage experiments, some with proposed therapeutic applications.
 </td>
-</tr></table><br>
+<td name="td2">1986</td>
+<td name="td3">RAGATH-1-hammerhead</td>
+<td name="td4">RF03152</td>
+<td name="td5">Y</td>
+           </tr>
+           <tr>
+                 <td name="td0">HDV </td>
+<td name="td1">The hepatitis delta virus (HDV) ribozyme is a viral-derived small ribozyme that catalyzes the site‐specific self‐cleavage reaction. These RNAs fold into a double-nested pseudoknot structure.
+</td>
+<td name="td2">1988</td>
+<td name="td3">Hepatitis delta virus ribozyme</td>
+<td name="td4">RF00094</td>
+<td name="td5">Y</td>
+           </tr>
+           <tr>
+                 <td name="td0">HDV-like ribozymes </td>
+<td name="td1">The HDV-like ribozymes are a series of ribozymes structurally and biochemically related to HDV ribozymes. HDV-like ribozymes include the mammalian CPEB3 ribozyme, retrotransposons members and sequences from bacteria.
+</td>
+<td name="td2">1988</td>
+<td name="td3">HDV ribozyme from F. prausnitzii</td>
+<td name="td4">RF02682</td>
+<td name="td5">Y</td>
+           </tr>
+           <tr>
+                 <td name="td0">CPEB3</td>
+<td name="td1">
+The CPEB3 ribozyme is the first HDV-like ribozyme isolated outside of the virus, which was found embedded within the second intron of the mammalian gene encoding cytoplasmic polyadenylation element binding protein 3 (CPEB3).
+</td>
+<td name="td2">1988</td>
+<td name="td3">Mammalian CPEB3 ribozyme</td>
+<td name="td4">RF00622</td>
+<td name="td5">Y</td>
+           </tr>
+           <tr>
+                <td name="td0">Hairpin </td>
+<td name="td1">
+Hairpin ribozymes initially found in plant RNA viruses catalyze the site‐specific self‐cleavage reaction and consist of four stems in two general domains. The overall secondary structure of this RNA is hairpin-like and named the hairpin ribozyme.
+</td><td name="td2">1989</td>
+<td name="td3">Hairpin ribozyme</td>
+<td name="td4">RF00173</td>
+<td name="td5">Y</td>
+           </tr>
+           <tr>
+                 <td name="td0">Hairpin </td>
+<td name="td1">
+Hairpin ribozymes initially found in plant RNA viruses catalyze the site‐specific self‐cleavage reaction and consist of four stems in two general domains. The overall secondary structure of this RNA is hairpin-like and named the hairpin ribozyme.
+</td>
+<td name="td2">1989</td>
+<td name="td3">Hairpin ribozyme 1 from viruses-like metatranscriptomes</td>
+<td name="td4">RF04190</td>
+<td name="td5">Y</td>
+           </tr>
+           <tr>
+                <td name="td0">Hairpin </td>
+<td name="td1">
+Hairpin ribozymes initially found in plant RNA viruses catalyze the site‐specific self‐cleavage reaction and consist of four stems in two general domains. The overall secondary structure of this RNA is hairpin-like and named the hairpin ribozyme.
+</td>
+<td name="td2">1989</td>
+<td name="td3">Hairpin ribozyme 2 from viruses-like metatranscriptomes</td>
+<td name="td4">RF04191</td>
+<td name="td5">Y<br></td>
+           </tr>
+           <tr>
+                 <td name="td0"><a href="https://www.ribocentre.org/docs/VS-ribozyme.html">VS</a></td>
+<td name="td1">
+The Varkud satellite (VS) ribozyme exists in the Neurospora mitochondria and performs site-specific scission of poly VS RNAs into linear monomers. The VS ribozyme is the largest known self-cleaving ribozyme.
+</td>
+<td name="td2">1990</td>
+<td name="td3">nan</td>
+<td name="td4">nan</td>
+<td name="td5">Y<br></td>
+           </tr>
+           <tr>
+                 <td name="td0">glmS </td>
+<td name="td1">
+The glmS riboswitch is a self‐cleavage ribozyme located in the 5' untranslated region of the glmS gene. The glmS riboswitch can fold into two conformations depending on the presence or absence of glucosamine-6-phosphate. In one of these two conformations, the RNA cleaves itself, thereby inhibiting the synthesis of glucosamine-6-phosphate.
+</td>
+<td name="td2">2004</td>
+<td name="td3">glmS glucosamine-6-phosphate activated ribozyme</td>
+<td name="td4">RF00234</td>
+<td name="td5">Y<br></td>
+           </tr>
+           <tr>
+                <td name="td0"><a href="https://www.ribocentre.org/docs/twister.html">Twister</a></td>
+                <td name="td1">The twister ribozyme is a nucleolytic ribozyme. The nucleolytic activity of this ribozyme has been demonstrated both in vivo and in vitro and has one of the fastest catalytic rates of naturally occurring ribozymes with similar functions.</td>
+                <td name="td2">2014</td>
+                <td name="td3">type-P1 twister ribozyme</td>
+                <td name="td4">RF03160</td>
+                <td name="td5">Y</td>
+           </tr>
+            <tr>
+                <td name="td0"><a href="https://www.ribocentre.org/docs/twister.html">Twister</a></td>
+<td name="td1">
+The twister ribozyme is a nucleolytic ribozyme. The nucleolytic activity of this ribozyme has been demonstrated both in vivo and in vitro and has one of the fastest catalytic rates of naturally occurring ribozymes with similar functions.
+</td>
+<td name="td2">2014</td>
+<td name="td3">Type-P5 twister ribozyme</td>
+<td name="td4">RF02684</td>
+<td name="td5">Y</td>
+           </tr>
+            <tr>
+                <td name="td0">Twister</td>
+<td name="td1">
+The twister ribozyme is a nucleolytic ribozyme. The nucleolytic activity of this ribozyme has been demonstrated both in vivo and in vitro and has one of the fastest catalytic rates of naturally occurring ribozymes with similar functions.
+</td>
+<td name="td2">2014</td>
+<td name="td3">type-P3 twister ribozyme</td>
+<td name="td4">RF03154</td>
+<td name="td5">Y</td>
+           </tr>
+            <tr>
+               <td name="td0">Twister-sister</td>
+<td name="td1">
+The twister sister ribozyme (TS) is a nucleolytic ribozyme. It has a possible structural similarity to twister ribozymes. Some striking similarities were noted, but also surprising differences, such as the absence of the two pseudoknot interactions in the twister ribozyme.</td>
+<td name="td2">2015</td>
+<td name="td3">Twister_sister_ribozyme</td>
+<td name="td4">RF02681</td>
+<td name="td5">Y</td>
+           </tr>
+            <tr>
+                <td name="td0">Hatchet</td>
+<td name="td1">The hatchet ribozyme is a nucleolytic ribozyme. </td>
+<td name="td2">2015</td>
+<td name="td3">Hatchet ribozyme</td>
+<td name="td4">RF02678</td>
+<td name="td5">Y</td>
+           </tr>
+           <tr>
+                <td name="td0">Pistol</td>
+<td name="td1">
+The pistol ribozyme is a nucleolytic ribozyme. It was discovered by a bioinformatics strategy as an RNA Associated with Genes Associated with Twister and Hammerhead ribozymes, or RAGATH.
+</td>
+<td name="td2">2015</td>
+<td name="td3">Pistol ribozyme</td>
+<td name="td4">RF02679</td>
+<td name="td5">Y</td>
+           </tr>
+           <tr>
+                <td name="td0">Hovlinc</td>
+<td name="td1">
+Hovlinc (hominin vlincRNA-located) is a recently evolved class of ribozyme found in very long intergenic noncoding (vlinc) RNAs of humans. The secondary structure and biochemical properties of this ribozyme indicate that it belongs to an unidentified class of small, self-cleaving ribozymes.
+</td>
+<td name="td2">2021</td>
+<td name="td3">Hovlinc ribozyme (hominin vlincRNA-located)</td>
+<td name="td4">RF04188</td>
+<td name="td5">N</td>
+           </tr>
+           <tr>
+                <td name="td0">LINE-1</td>
+<td name="td1">
+The LongInterspersed Nuclear Element-1 (LINE-1) ribozyme is a nucleolytic ribozyme located in the 5′ untranslated region of a LINE-1 retrotransposon.
+</td>
+<td name="td2">2008</td>
+<td name="td3">Hovlinc ribozyme (hominin vlincRNA-located)</td>
+<td name="td4">RF04189</td>
+<td name="td5">N</td>
+           </tr>
+           <tr>
+                <td name="td0">Beta-globin co-transcriptional cleavage ribozyme</td>
+<td name="td1">
+Beta-globin co-transcriptional cleavage ribozyme (COTC ribozyme) is considered to be involved in β- RNA self-cleavage activity in the 3' flanking region of the globin gene. However, these findings have not been independently confirmed, and subsequent analysis has failed to prove the activity of the ribozyme.
+</td>
+<td name="td2">2008</td>
+<td name="td3">Beta-globin co-transcriptional cleavage ribozyme</td>
+<td name="td4">RF00621</td>
+<td name="td5">N</td>
+           </tr>
+           <tr>
+                <td name="td0">Manganese dependent ribozyme in Vg1 mRNA</td>
+<td name="td1">
+The Vg1 ribozyme is the smallest ribozyme to be identified which is a manganese-dependent ribozyme. The Vg1 ribozyme catalyzes a first-order reaction where its mechanism of cleavage is similar to the manganese ribozyme present in Tetrahymena group I introns.
+</td>
+<td name="td2">2008</td>
+<td name="td3">Manganese dependent ribozyme in Vg1 mRNA</td>
+<td name="td4">RF01865</td>
+<td name="td5">N</td>
+           </tr>
+        </table>
+    </body>
+</html>
+<script type="text/javascript"> 
+    var tag=1;
+    function SortTable(obj){
+        var td0s=document.getElementsByName("td0");//得到id为td0的一串列表，下相同
+        var td1s=document.getElementsByName("td1");
+        var td2s=document.getElementsByName("td2");
+        var td3s=document.getElementsByName("td3");
+        var td4s=document.getElementsByName("td4");
+        var td5s=document.getElementsByName("td5");
+        var tdArray0=[];
+        var tdArray1=[];
+        var tdArray2=[];
+        var tdArray3=[];
+        var tdArray4=[];
+        var tdArray5=[];
+        for(var i=0;i<td0s.length;i++){
+            tdArray0.push(td0s[i].innerHTML);
+        }//每串都写到数组中
+        for(var i=0;i<td1s.length;i++){
+            tdArray1.push(td1s[i].innerHTML);
+        }
+        for(var i=0;i<td2s.length;i++){
+            tdArray2.push(td2s[i].innerHTML);
+        }
+        for(var i=0;i<td3s.length;i++){
+            tdArray3.push(td3s[i].innerHTML);
+        }
+        for(var i=0;i<td4s.length;i++){
+            tdArray4.push(td4s[i].innerHTML);
+        }
+        for(var i=0;i<td5s.length;i++){
+            tdArray5.push(td5s[i].innerHTML);
+        }
+        var tds = document.getElementsByName("td" + obj.id.substr(2, 1));
+        //得到当前传入对象的那一列
+        var columnArray=[];
+        for(var i=0;i<tds.length;i++){
+            columnArray.push(tds[i].innerHTML);
+        }//当前那一列都写入column这个栈，是逆序的
+        var orginArray=[];
+        for(var i=0;i<columnArray.length;i++){
+            orginArray.push(columnArray[i]);
+        }//将这一列的内容再存储一遍，一会原来列表修改以后，
+        //通过比对值的方式对应到当前行的内容，实现同行内容一起修改
+        columnArray.sort();   //排序后的新值，只排序了当前列
+        for(var i=0;i<columnArray.length;i++){
+            for(var j=0;j<orginArray.length;j++){
+                if(orginArray[j]==columnArray[i]){
+                    document.getElementsByName("td0")[i].innerHTML=tdArray0[j];
+                    document.getElementsByName("td1")[i].innerHTML=tdArray1[j];
+                    document.getElementsByName("td2")[i].innerHTML=tdArray2[j];
+                    document.getElementsByName("td3")[i].innerHTML=tdArray3[j];
+                    document.getElementsByName("td4")[i].innerHTML=tdArray4[j];
+                    document.getElementsByName("td5")[i].innerHTML=tdArray5[j];
+                    orginArray[j]=null;
+                    break;
+                }
+            }
+        }
+    }
+</script>
 
+***
 
+> <font size=4>List of small ribozymes<font><br>
+
+ <table id="table_id" class="table table-striped table-bordered" cellspacing="0" width="100%">
+            <tr>
+                <th id="th0" onclick="SortTable(this)" class="as">Name<span class="arrow asc"></span></th>
+                <th id="th1" onclick="SortTable(this)" class="as">Description<span class="arrow asc"></span></th>
+                <th id="th2" onclick="SortTable(this)" class="as">Discovery<span class="arrow asc"></span></th>
+                <th id="th3" onclick="SortTable(this)" class="as">catalytic<span class="arrow asc"></span></th>
+                <th id="th4" onclick="SortTable(this)" class="as">Rfam<span class="arrow asc"></span></th>
+                <th id="th5" onclick="SortTable(this)" class="as">Structure(Y/N)<span class="arrow asc"></span></th>
+            </tr>
+            <tr>
+                <td name="td0">Group I self-splicing intron</td>
+<td name="td1">
+Group I introns are the first ribozymes discovered in the 1980s. They can use exogenous guanosine as a cofactor to catalyze self-cleavage and exon ligation through sequential ester-transfer reactions. They are found in genes encoding rRNA, mRNA and tRNA in the nucleus, mitochondria and chloroplast in various organisms, from prokaryotes to eukaryotes.
+</td>
+<td name="td2">1983</td>
+<td name="td3">nan</td>
+<td name="td4">RF01807</td>
+<td name="td5">Y<br></td>
+           </tr>
+           <tr>
+                <td name="td0">Lariat capping ribozyme</td>
+<td name="td1">The Lariat capping ribozyme is a ~180 nt ribozyme with an apparent resemblance to a group I ribozyme. It is found within a complex type of group I introns, also termed twin-ribozyme introns. It catalyses a branching reaction in which the 2'OH of an internal residue is involved in a nucleophilic attack at a nearby phosphodiester bond. </td>
+<td name="td2">2002</td>
+<td name="td3">GIR1 branching ribozyme</td>
+<td name="td4">RF01807</td>
+<td name="td5">Y<br></td>
+           </tr>
+           <tr>
+                 <td name="td0">A natural ribozyme with 3′,5′ RNA ligase activity</td>
+<td name="td1">Group I intron from the cyanobacterium Anabaena sp. PCC 7120 catalyzes phosphodiester bond formation using a triphosphate on the 5′-terminal nucleotide, like protein polymerases and engineered ribozymes. This ribozyme forms a unique circular RNA that incorporates the exogenous guanosine cofactor added during self-splicing.</td>
+<td name="td2">2009</td>
+<td name="td3">nan</td>
+<td name="td4">RF01808</td>
+<td name="td5">Y<br></td>
+           </tr>
+           <tr>
+               <td name="td0">Group II self-splicing intron</td>
+<td name="td1">Group II introns are one of the largest ribozymes, with sequences ranging from 400 to 1000 nt in length. It is also the evolutionary ancestor of the spliceosome. Group II introns can catalyze RNA self-splicing through an autocatalytic two-step reaction and mediate reverse-splicing. It plays an essential role in the metabolism of organisms and is now being developed as a tool in biotechnology and gene therapy.</td>
+<td name="td2">1986</td>
+<td name="td3">nan</td>
+<td name="td4">RF01809</td>
+<td name="td5">Y<br></td>
+           </tr>
+           <tr>
+                 <td name="td0">RNase P</td>
+<td name="td1">Ribonuclease (RNase) P is a ribozyme responsible for processing the 5′-leader of precursor transfer RNA (pre-tRNA) and is widely distributed in all three kingdoms of life: Archaea, Bacteria and Eucarya. RNase P is a ribonucleoprotein (RNP) complex consisting of catalytic RNA and one or more protein components.</td>
+<td name="td2">1989</td>
+<td name="td3">Nuclear RNase P</td>
+<td name="td4">RF01810</td>
+<td name="td5">Y<br></td>
+           </tr>
+           <tr>
+                <td name="td0">RNase P</td>
+<td name="td1">Ribonuclease (RNase) P is a ribozyme responsible for processing the 6′-leader of precursor transfer RNA (pre-tRNA) and is widely distributed in all three kingdoms of life: Archaea, Bacteria and Eucarya. RNase P is a ribonucleoprotein (RNP) complex consisting of catalytic RNA and one or more protein components.</td>
+<td name="td2">1989</td>
+<td name="td3">Bacterial RNase P class A</td>
+<td name="td4">RF01811</td>
+<td name="td5">Y<br></td>
+           </tr>
+           <tr>
+                 <td name="td0">RNase P</td>
+<td name="td1">Ribonuclease (RNase) P is a ribozyme responsible for processing the 7′-leader of precursor transfer RNA (pre-tRNA) and is widely distributed in all three kingdoms of life: Archaea, Bacteria and Eucarya. RNase P is a ribonucleoprotein (RNP) complex consisting of catalytic RNA and one or more protein components.</td>
+<td name="td2">1989</td>
+<td name="td3">Bacterial RNase P class B</td>
+<td name="td4">RF00011</td>
+<td name="td5">Y<br></td>
+           </tr>
+           <tr>
+                 <td name="td0">RNase MRP</td>
+<td name="td1">Ribonuclease mitochondrial RNA processing (RNase MRP) is a eukaryotic ribonucleoprotein (RNP) that is evolutionarily related to RNase P. RNase MRP processes pre-rRNA by recognizing a short, loosely defined consensus sequence.</td>
+<td name="td2">1989</td>
+<td name="td3">RNase MRP</td>
+<td name="td4">RF00030</td>
+<td name="td5">Y<br></td>
+           </tr>
+           <tr>
+                 <td name="td0">RNase MRP</td>
+<td name="td1">Ribonuclease mitochondrial RNA processing (RNase MRP) is a eukaryotic ribonucleoprotein (RNP) that is evolutionarily related to RNase P. RNase MRP processes pre-rRNA by recognizing a short, loosely defined consensus sequence.</td>
+<td name="td2">1989</td>
+<td name="td3">Archaeal RNase P</td>
+<td name="td4">RF00373</td>
+<td name="td5">Y<br></td>
+           </tr>
+           <tr>
+                <td name="td0">RNase MRP</td>
+<td name="td1">Ribonuclease mitochondrial RNA processing (RNase MRP) is a eukaryotic ribonucleoprotein (RNP) that is evolutionarily related to RNase P. RNase MRP processes pre-rRNA by recognizing a short, loosely defined consensus sequence.</td>
+<td name="td2">1989</td>
+<td name="td3">RNaseP truncated form</td>
+<td name="td4">RF02357</td>
+<td name="td5">Y<br></td>
+           </tr>
+           <tr>
+                 <td name="td0">Ribosome</td>
+<td name="td1">Ribosomes are the most critical macromolecules that widely exist in all three kingdoms of life, which catalyze the peptidyl transfer reaction to translate mRNA to proteins. It is the most abundant natural ribozyme with polymerase activity in nature.</td>
+<td name="td2">1992</td>
+<td name="td3">Rfam rRNA</td>
+<td name="td4">RF02358</td>
+<td name="td5">Y<br></td>
+           </tr>
+           <tr>
+               <td name="td0">Spliceosome</td>
+<td name="td1">The spliceosome is a highly dynamic and heterogeneous metal ribozyme; During the splicing reaction, the dynamic spliceosome has an immobile core of about 20 protein and RNA components, which are organized around a conserved splicing active site. The divalent metal ions, coordinated by U6 small nuclear RNA (snRNA), catalyze the branching reaction and exon ligation.</td>
+<td name="td2">1977</td>
+<td name="td3">Rfam snRNA</td>
+<td name="td4">RF02359</td>
+<td name="td5">Y<br></td>
+           </tr>
+        </table>
