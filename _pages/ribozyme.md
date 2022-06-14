@@ -10,6 +10,7 @@ permalink: /ribozyme/
 
 **Known ribozymes**
 
+
 <html lang="en-us">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -22,16 +23,16 @@ permalink: /ribozyme/
       <div class="posts">
         <div class="post">
         <h1 class="post-title">
-          <a href>="https://www.Ribocenter.org/ribozyme/2022/04/19/VS-ribozyme.html">  VS_ribozyme </a>
+          <a href>="{{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme/">  VS_ribozyme </a>
         </h1>
         </div>
         <div class="post">
         <h1 class="post-title">
-          <a href>="http://localhost:4000/ribozyme/2022/04/19/twister/">  Twister </a>
+          <a href>="https://www.ribocentre.org/ribozyme/2022/04/19/twister/">  Twister </a>
         </h1>
         </div>
         <div class="post">
-        <h1 class="post-title"><a href>="http://localhost:4000/ribozyme/2022/04/19/twister/">  Twister </a>
+        <h1 class="post-title"><a href>="https://www.ribocentre.org/ribozyme/2022/04/19/twister/">  Twister </a>
         </h1>
       </div>
     </div>
@@ -48,7 +49,7 @@ permalink: /ribozyme/
       <th><a href="/DNAmoreDB/help#help6"><i class="fas fa-question-circle"></i></a>&nbsp;Metal ions/cofactors</th>
     </tr>
      <tr>
-      <td name="td0"><a href="http://localhost:4000/ribozyme/2022/04/19/VS-ribozyme.html">8XL1</a></td>
+      <td name="td0"><a href="https://www.ribocentre.org/ribozyme/2022/04/19/VS-ribozyme.html">8XL1</a></td>
       <td name="td1">50</td>
       <td name="td2">CCCCGAGGTGTGGACATAGCGGGCTGGTGTGGCGCGCAGT...</td>
       <td name="td3">RNA ligation</td>
@@ -88,26 +89,16 @@ permalink: /ribozyme/
     };-->
 </html>
 
+[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/docs/2022/04/19/VS-ribozyme.html)
+<!--Read more [here]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme)-->
+[Twister]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/twister/)
 
 [VS_ribozyme]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme.html)
-<!--Read more [here]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme.html)-->
-[Twister]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/twister.html)
-[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme.html)
-[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme.html)
+[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/ribozyme/VS-ribozyme.html)
 [VS_ribozyme]({{ site.url }}{{ site.baseurl }}/_site/ribozyme/2022/04/19/)
 <!--Read more [here]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme.html)-->
 <!--[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/structure/index.html?id=VS_ribozyme)-->
 [VS_ribozyme]({{ site.url }}{{ site.baseurl }}/_site/ribozyme/2022/04/19/VS-ribozyme.html)
-# Ribozyme
-
-
-
-
-  
-       
-    
-
-
 
 
 <!--<div  style="padding-top: 0px; padding-bottom: 50px; padding-left: 30px; padding-right: 30px;">
@@ -140,19 +131,18 @@ To explore the full sequence please open the corresponding DNAzyme entry. Entrie
 > 2D representation
 
 <table><tr>
-<td><embed src="/images/VSD1.svg" style="display:block;width:500px;height:400px" border=0 /></td>
-<!--<td><img src="http://localhost:4000/images/VS_ribozymePic/VS2D.svg" alt="drawing" style="height:400px" border=0></td>-->
-<td>
-<link rel="stylesheet" type="text/css" href="{{ site.url }}{{ site.baseurl }}/css/fornac.css" media="screen" />
-
+<td><embed src="/images/VSD1.svg" style="display:block;width:400px;height:300px" border=0 /></td>
+<!--<td><img src="/images/VS_ribozymePic/VS2D.svg" alt="drawing" style="height:400px" border=0></td>-->
+<td><html>
+<meta charset="utf-8">
 This is an RNA container.
 <div id='rna_ss'> </div>
 This is after the RNA container.
-<meta charset="utf-8">
-    <script type='text/javascript' src='{{ site.url }}{{ site.baseurl }}/js/jquery.js'></script>
-    <script type='text/javascript' src='{{ site.url }}{{ site.baseurl }}/js/d3.js'></script>
-    <script type='text/javascript' src='{{ site.url }}{{ site.baseurl }}/js/fornac.js'></script>
-  
+<script>
+    <link rel="stylesheet" type="text/css" href="{{ site.url }}{{ site.baseurl }}/css/fornac.css" />
+    <script type='text/javascript' src='{{ site.url }}{{ site.baseurl }}/js/forna/jquery.js'></script>
+    <script type='text/javascript' src='{{ site.url }}{{ site.baseurl }}/js/forna/d3.js'></script>
+    <script type='text/javascript' src='{{ site.url }}{{ site.baseurl }}/js/forna/fornac.js'></script>
     <script type='text/javascript'>
         var container = new FornaContainer("#rna_ss", {'applyForce': false});
 
@@ -160,9 +150,14 @@ This is after the RNA container.
                        'sequence':             'CGCUUCAUAUAAUCCUAAUGACCUAU'};
 
         container.addRNA(options.structure, options);
-    </script>
-<!--<iframe src="http://nibiru.tbi.univie.ac.at/forna/forna.html?id=fasta&file=%3Ecircular_rna\nCUGCUCCACGCAAGGAGGUGGACUUAAGCGGCUCAUCCGGGUCUGCGAUAUCCACUGCGCGGUAUGCGCUCGCGAGUUCGAAUCUCGUCGCCAGUACACUGACUUCACUGGCGUGUCCGAGUGGUUAGGCAA\n..(((((((....(((((((((.....(((((((....))).))))....))))))((((.....))))..(((((.......)))))(((((((...........)))))))..)))..))))...)))..*" align="center" height="450px" width="450px" seamless='seamless' frameBorder="0" AllowFullScreen></iframe>-->
+</script>
 </td>
 </tr></table><br>
+
+
+
+
+
+
 
 
