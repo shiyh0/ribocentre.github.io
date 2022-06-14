@@ -8,13 +8,12 @@ permalink: /ribozyme/
 # Ribozyme
 
 <br>
-**According to the size of the primary sequence, ribozymes can be divided into small ribozymes and large ribozymes.**<br><br>
+**According to the size of the primary sequence, ribozymes can be divided into large ribozymes and small ribozymes.**<br><br>
 
 > <font size=4>List of large ribozymes<font><br>
 
 <html lang="en">
   <head>
-
     <meta charset="utf-8">
     <title>Sort table example</title>
     <style>
@@ -362,12 +361,13 @@ The Vg1 ribozyme is the smallest ribozyme to be identified which is a manganese-
             }
         }
     }
+</script>
 
 ***
 
 > <font size=4>List of small ribozymes<font><br>
 
- <table id="table_id" class="table table-striped table-bordered" cellspacing="0" width="100%">
+  <table id="table_id" class="table table-striped table-bordered" cellspacing="0" width="100%">
             <tr>
                 <th id="th0" onclick="SortTable(this)" class="as">Name<span class="arrow asc"></span></th>
                 <th id="th1" onclick="SortTable(this)" class="as">Description<span class="arrow asc"></span></th>
@@ -378,100 +378,98 @@ The Vg1 ribozyme is the smallest ribozyme to be identified which is a manganese-
             </tr>
             <tr>
                 <td name="td0">Group I self-splicing intron</td>
-<td name="td1">
-Group I introns are the first ribozymes discovered in the 1980s. They can use exogenous guanosine as a cofactor to catalyze self-cleavage and exon ligation through sequential ester-transfer reactions. They are found in genes encoding rRNA, mRNA and tRNA in the nucleus, mitochondria and chloroplast in various organisms, from prokaryotes to eukaryotes.
-</td>
-<td name="td2">1983</td>
-<td name="td3">nan</td>
-<td name="td4">RF01807</td>
-<td name="td5">Y<br></td>
+                <td name="td1">Group I introns are the first ribozymes discovered in the 1980s. They can use exogenous guanosine as a cofactor to catalyze self-cleavage and exon ligation through sequential ester-transfer reactions. They are found in genes encoding rRNA, mRNA and tRNA in the nucleus, mitochondria and chloroplast in various organisms, from prokaryotes to eukaryotes.</td>
+                <td name="td2">1983</td>
+                <td name="td3">nan</td>
+                <td name="td4">RF01807</td>
+                <td name="td5">Y<br></td>
            </tr>
            <tr>
                 <td name="td0">Lariat capping ribozyme</td>
-<td name="td1">The Lariat capping ribozyme is a ~180 nt ribozyme with an apparent resemblance to a group I ribozyme. It is found within a complex type of group I introns, also termed twin-ribozyme introns. It catalyses a branching reaction in which the 2'OH of an internal residue is involved in a nucleophilic attack at a nearby phosphodiester bond. </td>
-<td name="td2">2002</td>
-<td name="td3">GIR1 branching ribozyme</td>
-<td name="td4">RF01807</td>
-<td name="td5">Y<br></td>
+                <td name="td1">The Lariat capping ribozyme is a ~180 nt ribozyme with an apparent resemblance to a group I ribozyme. It is found within a complex type of group I introns, also termed twin-ribozyme introns. It catalyses a branching reaction in which the 2'OH of an internal residue is involved in a nucleophilic attack at a nearby phosphodiester bond. </td>
+                <td name="td2">2002</td>
+                <td name="td3">GIR1 branching ribozyme</td>
+                <td name="td4">RF01807</td>
+                <td name="td5">Y<br></td>
            </tr>
            <tr>
                  <td name="td0">A natural ribozyme with 3′,5′ RNA ligase activity</td>
-<td name="td1">Group I intron from the cyanobacterium Anabaena sp. PCC 7120 catalyzes phosphodiester bond formation using a triphosphate on the 5′-terminal nucleotide, like protein polymerases and engineered ribozymes. This ribozyme forms a unique circular RNA that incorporates the exogenous guanosine cofactor added during self-splicing.</td>
-<td name="td2">2009</td>
-<td name="td3">nan</td>
-<td name="td4">RF01808</td>
-<td name="td5">Y<br></td>
+                <td name="td1">Group I intron from the cyanobacterium Anabaena sp. PCC 7120 catalyzes phosphodiester bond formation using a triphosphate on the 5′-terminal nucleotide, like protein polymerases and engineered ribozymes. This ribozyme forms a unique circular RNA that incorporates the exogenous guanosine cofactor added during self-splicing.</td>
+                <td name="td2">2009</td>
+                <td name="td3">nan</td>
+                <td name="td4">RF01808</td>
+                <td name="td5">Y<br></td>
            </tr>
            <tr>
                <td name="td0">Group II self-splicing intron</td>
-<td name="td1">Group II introns are one of the largest ribozymes, with sequences ranging from 400 to 1000 nt in length. It is also the evolutionary ancestor of the spliceosome. Group II introns can catalyze RNA self-splicing through an autocatalytic two-step reaction and mediate reverse-splicing. It plays an essential role in the metabolism of organisms and is now being developed as a tool in biotechnology and gene therapy.</td>
-<td name="td2">1986</td>
-<td name="td3">nan</td>
-<td name="td4">RF01809</td>
-<td name="td5">Y<br></td>
+                <td name="td1">Group II introns are one of the largest ribozymes, with sequences ranging from 400 to 1000 nt in length. It is also the evolutionary ancestor of the spliceosome. Group II introns can catalyze RNA self-splicing through an autocatalytic two-step reaction and mediate reverse-splicing. It plays an essential role in the metabolism of organisms and is now being developed as a tool in biotechnology and gene therapy.</td>
+                <td name="td2">1986</td>
+                <td name="td3">nan</td>
+                <td name="td4">RF01809</td>
+                <td name="td5">Y<br></td>
            </tr>
            <tr>
                  <td name="td0">RNase P</td>
-<td name="td1">Ribonuclease (RNase) P is a ribozyme responsible for processing the 5′-leader of precursor transfer RNA (pre-tRNA) and is widely distributed in all three kingdoms of life: Archaea, Bacteria and Eucarya. RNase P is a ribonucleoprotein (RNP) complex consisting of catalytic RNA and one or more protein components.</td>
-<td name="td2">1989</td>
-<td name="td3">Nuclear RNase P</td>
-<td name="td4">RF01810</td>
-<td name="td5">Y<br></td>
+                <td name="td1">Ribonuclease (RNase) P is a ribozyme responsible for processing the 5′-leader of precursor transfer RNA (pre-tRNA) and is widely distributed in all three kingdoms of life: Archaea, Bacteria and Eucarya. RNase P is a ribonucleoprotein (RNP) complex consisting of catalytic RNA and one or more protein components.</td>
+                <td name="td2">1989</td>
+                <td name="td3">Nuclear RNase P</td>
+                <td name="td4">RF01810</td>
+                <td name="td5">Y<br></td>
            </tr>
            <tr>
                 <td name="td0">RNase P</td>
-<td name="td1">Ribonuclease (RNase) P is a ribozyme responsible for processing the 6′-leader of precursor transfer RNA (pre-tRNA) and is widely distributed in all three kingdoms of life: Archaea, Bacteria and Eucarya. RNase P is a ribonucleoprotein (RNP) complex consisting of catalytic RNA and one or more protein components.</td>
-<td name="td2">1989</td>
-<td name="td3">Bacterial RNase P class A</td>
-<td name="td4">RF01811</td>
-<td name="td5">Y<br></td>
+                <td name="td1">Ribonuclease (RNase) P is a ribozyme responsible for processing the 6′-leader of precursor transfer RNA (pre-tRNA) and is widely distributed in all three kingdoms of life: Archaea, Bacteria and Eucarya. RNase P is a ribonucleoprotein (RNP) complex consisting of catalytic RNA and one or more protein components.</td>
+                <td name="td2">1989</td>
+                <td name="td3">Bacterial RNase P class A</td>
+                <td name="td4">RF01811</td>
+                <td name="td5">Y<br></td>
            </tr>
            <tr>
-                 <td name="td0">RNase P</td>
-<td name="td1">Ribonuclease (RNase) P is a ribozyme responsible for processing the 7′-leader of precursor transfer RNA (pre-tRNA) and is widely distributed in all three kingdoms of life: Archaea, Bacteria and Eucarya. RNase P is a ribonucleoprotein (RNP) complex consisting of catalytic RNA and one or more protein components.</td>
-<td name="td2">1989</td>
-<td name="td3">Bacterial RNase P class B</td>
-<td name="td4">RF00011</td>
-<td name="td5">Y<br></td>
-           </tr>
-           <tr>
-                 <td name="td0">RNase MRP</td>
-<td name="td1">Ribonuclease mitochondrial RNA processing (RNase MRP) is a eukaryotic ribonucleoprotein (RNP) that is evolutionarily related to RNase P. RNase MRP processes pre-rRNA by recognizing a short, loosely defined consensus sequence.</td>
-<td name="td2">1989</td>
-<td name="td3">RNase MRP</td>
-<td name="td4">RF00030</td>
-<td name="td5">Y<br></td>
-           </tr>
-           <tr>
-                 <td name="td0">RNase MRP</td>
-<td name="td1">Ribonuclease mitochondrial RNA processing (RNase MRP) is a eukaryotic ribonucleoprotein (RNP) that is evolutionarily related to RNase P. RNase MRP processes pre-rRNA by recognizing a short, loosely defined consensus sequence.</td>
-<td name="td2">1989</td>
-<td name="td3">Archaeal RNase P</td>
-<td name="td4">RF00373</td>
-<td name="td5">Y<br></td>
+                <td name="td0">RNase P</td>
+                <td name="td1">Ribonuclease (RNase) P is a ribozyme responsible for processing the 7′-leader of precursor transfer RNA (pre-tRNA) and is widely distributed in all three kingdoms of life: Archaea, Bacteria and Eucarya. RNase P is a ribonucleoprotein (RNP) complex consisting of catalytic RNA and one or more protein components.</td>
+                <td name="td2">1989</td>
+                <td name="td3">Bacterial RNase P class B</td>
+                <td name="td4">RF00011</td>
+                <td name="td5">Y<br></td>
            </tr>
            <tr>
                 <td name="td0">RNase MRP</td>
-<td name="td1">Ribonuclease mitochondrial RNA processing (RNase MRP) is a eukaryotic ribonucleoprotein (RNP) that is evolutionarily related to RNase P. RNase MRP processes pre-rRNA by recognizing a short, loosely defined consensus sequence.</td>
-<td name="td2">1989</td>
-<td name="td3">RNaseP truncated form</td>
-<td name="td4">RF02357</td>
-<td name="td5">Y<br></td>
+                <td name="td1">Ribonuclease mitochondrial RNA processing (RNase MRP) is a eukaryotic ribonucleoprotein (RNP) that is evolutionarily related to RNase P. RNase MRP processes pre-rRNA by recognizing a short, loosely defined consensus sequence.</td>
+                <td name="td2">1989</td>
+                <td name="td3">RNase MRP</td>
+                <td name="td4">RF00030</td>
+                <td name="td5">Y<br></td>
            </tr>
            <tr>
-                 <td name="td0">Ribosome</td>
-<td name="td1">Ribosomes are the most critical macromolecules that widely exist in all three kingdoms of life, which catalyze the peptidyl transfer reaction to translate mRNA to proteins. It is the most abundant natural ribozyme with polymerase activity in nature.</td>
-<td name="td2">1992</td>
-<td name="td3">Rfam rRNA</td>
-<td name="td4">RF02358</td>
-<td name="td5">Y<br></td>
+                <td name="td0">RNase MRP</td>
+                <td name="td1">Ribonuclease mitochondrial RNA processing (RNase MRP) is a eukaryotic ribonucleoprotein (RNP) that is evolutionarily related to RNase P. RNase MRP processes pre-rRNA by recognizing a short, loosely defined consensus sequence.</td>
+                <td name="td2">1989</td>
+                <td name="td3">Archaeal RNase P</td>
+                <td name="td4">RF00373</td>
+                <td name="td5">Y<br></td>
+           </tr>
+           <tr>
+                <td name="td0">RNase MRP</td>
+                <td name="td1">Ribonuclease mitochondrial RNA processing (RNase MRP) is a eukaryotic ribonucleoprotein (RNP) that is evolutionarily related to RNase P. RNase MRP processes pre-rRNA by recognizing a short, loosely defined consensus sequence.</td>
+                <td name="td2">1989</td>
+                <td name="td3">RNaseP truncated form</td>
+                <td name="td4">RF02357</td>
+                <td name="td5">Y<br></td>
+           </tr>
+           <tr>
+                <td name="td0">Ribosome</td>
+                <td name="td1">Ribosomes are the most critical macromolecules that widely exist in all three kingdoms of life, which catalyze the peptidyl transfer reaction to translate mRNA to proteins. It is the most abundant natural ribozyme with polymerase activity in nature.</td>
+                <td name="td2">1992</td>
+                <td name="td3">Rfam rRNA</td>
+                <td name="td4">RF02358</td>
+                <td name="td5">Y<br></td>
            </tr>
            <tr>
                <td name="td0">Spliceosome</td>
-<td name="td1">The spliceosome is a highly dynamic and heterogeneous metal ribozyme; During the splicing reaction, the dynamic spliceosome has an immobile core of about 20 protein and RNA components, which are organized around a conserved splicing active site. The divalent metal ions, coordinated by U6 small nuclear RNA (snRNA), catalyze the branching reaction and exon ligation.</td>
-<td name="td2">1977</td>
-<td name="td3">Rfam snRNA</td>
-<td name="td4">RF02359</td>
-<td name="td5">Y<br></td>
+                <td name="td1">The spliceosome is a highly dynamic and heterogeneous metal ribozyme; During the splicing reaction, the dynamic spliceosome has an immobile core of about 20 protein and RNA components, which are organized around a conserved splicing active site. The divalent metal ions, coordinated by U6 small nuclear RNA (snRNA), catalyze the branching reaction and exon ligation.</td>
+                <td name="td2">1977</td>
+                <td name="td3">Rfam snRNA</td>
+                <td name="td4">RF02359</td>
+                <td name="td5">Y<br></td>
            </tr>
-        </table><br><br>
+</table><br><br>
