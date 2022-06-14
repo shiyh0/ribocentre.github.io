@@ -10,16 +10,6 @@ permalink: /ribozyme/
 
 **Known ribozymes**
 
-
-
-
-
-
-[a relative link](({{ site.url }}{{ site.baseurl }}/ribozyme/2022-04-19-VS-ribozyme.md)
-# Ribozyme
-
-**Known ribozymes**
-
 <html lang="en-us">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -99,33 +89,28 @@ permalink: /ribozyme/
 </html>
 
 
+[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme.html)
+<!--Read more [here]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme.html)-->
+[Twister]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/twister.html)
+[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme.html)
+[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme.html)
+[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/_site/ribozyme/2022/04/19/)
+<!--Read more [here]({{ site.url }}{{ site.baseurl }}/ribozyme/2022/04/19/VS-ribozyme.html)-->
+<!--[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/structure/index.html?id=VS_ribozyme)-->
+[VS_ribozyme]({{ site.url }}{{ site.baseurl }}/_site/ribozyme/2022/04/19/VS-ribozyme.html)
+# Ribozyme
 
 
 
 
+  
+       
+    
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-     
-
-
-
-
+<!--<div  style="padding-top: 0px; padding-bottom: 50px; padding-left: 30px; padding-right: 30px;">
 
 <table id="dnazymes_table" class="table table-striped table-bordered" cellspacing="0" width="100%">
   <thead>
@@ -144,7 +129,7 @@ permalink: /ribozyme/
       <td name="td4">Mn2+</td>
     </tr>
   </thead>
-</table>
+</table>-->
 
 
 </script>-->
