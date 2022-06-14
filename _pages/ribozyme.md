@@ -103,7 +103,7 @@ To explore the full sequence please open the corresponding DNAzyme entry. Entrie
 > 2D representation
 
 <table><tr>
-<td><embed src="{{ site.url }}{{ site.baseurl }}/images/VSD1.svg" style="display:block;width:400px;height:300px" border=0 /></td>
+<td><embed src="{{ site.url }}{{ site.baseurl }}/images/VSD1.svg" style="width:400px;height:300px" border=1 /></td>
 <!--<td><img src="/images/VS_ribozymePic/VS2D.svg" alt="drawing" style="height:400px" border=0></td>-->
 <td><html>
 <meta charset="utf-8">
