@@ -84,11 +84,11 @@ permalink: /ribozyme/
            </tr>
            <tr>
                 <td name="td0">Hammerhead</td>
-                <td name="td1">The hammerhead ribozyme catalyzes the site‐specific self‐cleavage reaction and is named for the resemblance of early secondary structure diagrams to a hammerhead shark. It serves as a model system for research on the structure and properties of RNA and is used for targeted RNA cleavage experiments, some with proposed therapeutic applications.</td>
-                <td name="td2">1986</td>
-                <td name="td3">Hammerhead ribozyme (type I)</td>
-                <td name="td4">RF00163</td>
-                <td name="td5">Y</td>
+<td name="td1">The hammerhead ribozyme catalyzes the site‐specific self‐cleavage reaction and is named for the resemblance of early secondary structure diagrams to a hammerhead shark. It serves as a model system for research on the structure and properties of RNA and is used for targeted RNA cleavage experiments, some with proposed therapeutic applications.</td>
+<td name="td2">1986</td>
+<td name="td3">Hammerhead ribozyme (type I)</td>
+<td name="td4">RF00163</td>
+<td name="td5">Y</td>
            </tr>
            <tr>
                  <td name="td0">Hammerhead</td>
@@ -116,11 +116,13 @@ permalink: /ribozyme/
            </tr>
            <tr>
                  <td name="td0">Hammerhead</td>
-                 <td name="td1">The hammerhead ribozyme catalyzes the site‐specific self‐cleavage reaction and is named for the resemblance of early secondary structure diagrams to a hammerhead shark. It serves as a model system for research on the structure and properties of RNA and is used for targeted RNA cleavage experiments, some with proposed therapeutic applications.</td>
-                 <td name="td2">1986</td>
-                 <td name="td3">RAGATH-1-hammerhead</td>
-                 <td name="td4">RF03152</td>
-                 <td name="td5">Y</td>
+<td name="td1">
+The hammerhead ribozyme catalyzes the site‐specific self‐cleavage reaction and is named for the resemblance of early secondary structure diagrams to a hammerhead shark. It serves as a model system for research on the structure and properties of RNA and is used for targeted RNA cleavage experiments, some with proposed therapeutic applications.
+</td>
+<td name="td2">1986</td>
+<td name="td3">RAGATH-1-hammerhead</td>
+<td name="td4">RF03152</td>
+<td name="td5">Y</td>
            </tr>
            <tr>
                  <td name="td0">HDV </td>
@@ -200,15 +202,17 @@ The glmS riboswitch is a self‐cleavage ribozyme located in the 5' untranslated
 <td name="td5">Y<br></td>
            </tr>
            <tr>
-                <td name="td0"><a href="https://www.ribocentre.org/docs/twister.html">Twister</a></td>
-                <td name="td1">The twister ribozyme is a nucleolytic ribozyme. The nucleolytic activity of this ribozyme has been demonstrated both in vivo and in vitro and has one of the fastest catalytic rates of naturally occurring ribozymes with similar functions.</td>
-                <td name="td2">2014</td>
-                <td name="td3">type-P1 twister ribozyme</td>
-                <td name="td4">RF03160</td>
-                <td name="td5">Y</td>
+                 <td name="td0">Twister</td>
+<td name="td1">
+The twister ribozyme is a nucleolytic ribozyme. The nucleolytic activity of this ribozyme has been demonstrated both in vivo and in vitro and has one of the fastest catalytic rates of naturally occurring ribozymes with similar functions.
+</td>
+<td name="td2">2014</td>
+<td name="td3">type-P1 twister ribozyme</td>
+<td name="td4">RF03160</td>
+<td name="td5">Y</td>
            </tr>
             <tr>
-                <td name="td0"><a href="https://www.ribocentre.org/docs/twister.html">Twister</a></td>
+                <td name="td0">Twister</td>
 <td name="td1">
 The twister ribozyme is a nucleolytic ribozyme. The nucleolytic activity of this ribozyme has been demonstrated both in vivo and in vitro and has one of the fastest catalytic rates of naturally occurring ribozymes with similar functions.
 </td>
@@ -470,4 +474,4 @@ Group I introns are the first ribozymes discovered in the 1980s. They can use ex
 <td name="td4">RF02359</td>
 <td name="td5">Y<br></td>
            </tr>
-        </table>
+        </table><br><br>
