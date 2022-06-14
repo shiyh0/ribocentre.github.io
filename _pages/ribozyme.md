@@ -14,6 +14,7 @@ permalink: /ribozyme/
 
 <html lang="en">
   <head>
+
     <meta charset="utf-8">
     <title>Sort table example</title>
     <style>
@@ -361,7 +362,6 @@ The Vg1 ribozyme is the smallest ribozyme to be identified which is a manganese-
             }
         }
     }
-</script>
 
 ***
 
