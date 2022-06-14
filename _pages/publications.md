@@ -192,7 +192,7 @@ permalink: /publications/
                  <td name="td1">Lipfert, J., J. Ouellet, D. G. Norman, S. Doniach and D. M. Lilley</td>
                  <td name="td2">The complete VS ribozyme in solution studied by small-angle X-ray scattering.</td>
                  <td name="td3"> Structure 16(9): 1357-1367.<a href="https://www.ncbi.nlm.nih.gov/pubmed/18786398">(18786398)</a></td>
-                 <td name="td4">nan</a></td>
+                 <td name="td4">nan</td>
                  <td name="td5">VS ribozyme</td>
                  <td name="td6">SAXS-deriverd structure</td>
            </tr>
@@ -401,4 +401,4 @@ permalink: /publications/
             }
         }
     }
-</script>
+</script><br><br>
