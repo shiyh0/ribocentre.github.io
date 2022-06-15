@@ -27,6 +27,13 @@ categories: ribozyme
 
 </head>
 <style>
+  table {
+        border: 2px solid #f8f8ff;
+        border: 2px solid #767676;
+		    border: 2px solid #767676;
+		    border-radius: 5px;
+		    background-color: #fff;
+        }
 .timeline {
   list-style: none;
   padding: 10px 0 10px;
@@ -74,7 +81,7 @@ categories: ribozyme
 }
 .timeline > li > .timeline-panel:before {
   position: absolute;
-  top: 10px;
+  top: 16px;
   right: -12px;
   display: inline-block;
   border-top: 10px solid transparent;
@@ -85,10 +92,10 @@ categories: ribozyme
 }
 .timeline > li > .timeline-panel:after {
   position: absolute;
-  top: 10px;
+  top: 16px;
   right: -10px;
   display: inline-block;
-  border-top: 10px solid transparent;
+  border-top: 9px solid transparent;
   border-left: 10px solid #fff;
   border-right: 0 solid #fff;
   border-bottom: 10px solid transparent;
@@ -161,7 +168,7 @@ categories: ribozyme
           <div class="timeline-badge warning"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">1990</a>  Discovery</h4>
+              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/2160856" target="_blank" style="font-size:25px;" >1990</a>  Discovery</h4>
             </div>
           </div>
         </li>
@@ -169,7 +176,7 @@ categories: ribozyme
           <div class="timeline-badge primary"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">1995</a>  Secondary structure</h4>
+              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/7753865" target="_blank" style="font-size:25px;" >1995</a>  Secondary structure</h4>
             </div>
             <div class="timeline-body">
             </div>
@@ -179,7 +186,7 @@ categories: ribozyme
           <div class="timeline-badge warning"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">2001</a>  A730 loop is important.</h4>
+              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/11575922"  target="_blank" style="font-size:25px;">2001</a>  A730 loop is important.</h4>
             </div>
           </div>
         </li>
@@ -187,7 +194,7 @@ categories: ribozyme
           <div class="timeline-badge primary"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">2001</a>  NMR structure of the isolated substrate helix</h4>
+              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/11350168" target="_blank" style="font-size:25px;">2001</a>  NMR structure of the isolated substrate helix</h4>
             </div>
           </div>
         </li>
@@ -195,7 +202,7 @@ categories: ribozyme
           <div class="timeline-badge warning"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">2002</a>  A756 is critical for catalysis</h4>
+              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/12368096" target="_blank" style="font-size:25px;">2002</a>  A756 is critical for catalysis</h4>
             </div>
           </div>
         </li>
@@ -203,7 +210,7 @@ categories: ribozyme
           <div class="timeline-badge primary"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">2005</a>  NMR structure of SL5</h4>
+              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/12206388" target="_blank" style="font-size:25px;">2005</a>  NMR structure of SL5</h4>
             </div>
           </div>
         </li>
@@ -211,7 +218,7 @@ categories: ribozyme
           <div class="timeline-badge warning"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">2007</a>  G638 is critical for catalysis</h4>
+              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/17464286" target="_blank" style="font-size:25px;">2007</a>  G638 is critical for catalysis</h4>
             </div>
           </div>
         </li>
@@ -219,7 +226,7 @@ categories: ribozyme
           <div class="timeline-badge primary"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">2008</a>  SAXS-deriverd structure</h4>
+              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/18786398" target="_blank" style="font-size:25px;">2008</a>  SAXS-deriverd structure</h4>
             </div>
             <!--<div class="timeline-body">
               <p>SAXS-deriverd structure</p>
@@ -230,7 +237,7 @@ categories: ribozyme
           <div class="timeline-badge warning"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">2011</a>  NMR structure of A730 loop</h4>
+              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/21266483" target="_blank" style="font-size:25px;">2011</a>  NMR structure of A730 loop</h4>
             </div>
           </div>
         </li>
@@ -238,7 +245,7 @@ categories: ribozyme
           <div class="timeline-badge primary"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">2014</a>  NMR structure of the III-IV-V three-way junction</h4>
+              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/25238589" target="_blank" style="font-size:25px;">2014</a>  NMR structure of the III-IV-V three-way junction</h4>
             </div>
           </div>
         </li>
@@ -246,7 +253,7 @@ categories: ribozyme
           <div class="timeline-badge warning"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">2014</a>  NMR structure of the II-III-VI three-way junction</h4>
+              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/26124200" target="_blank" style="font-size:25px;">2014</a>  NMR structure of the II-III-VI three-way junction</h4>
             </div>
           </div>
         </li>
@@ -254,7 +261,7 @@ categories: ribozyme
           <div class="timeline-badge primary"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">2015</a>  Crystal structure</h4>
+              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/26414446" target="_blank" style="font-size:25px;">2015</a>  Crystal structure</h4>
             </div>
           </div>
         </li>
@@ -262,7 +269,7 @@ categories: ribozyme
           <div class="timeline-badge warning"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/14691255">2020</a> Catalytic mechanism</h4>
+              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/31959957" target="_blank" style="font-size:25px;">2020</a> Catalytic mechanism</h4>
             </div>
           </div>
         </li>
@@ -289,20 +296,22 @@ categories: ribozyme
 <table><tr>
 <!--<td><embed src="{{ site.url }}{{ site.baseurl }}/images/VS_ribozymePic/VS2D.svg" style="display:block; width:500px;height:300px" border=0 /></td>-->
 <!--<td><img src="{{ site.url }}{{ site.baseurl }}/images/VS_ribozymePic/VS2D.png" alt="drawing" style="weight:150px;height:400px" border=0></td>-->
-<td><embed src="https://www.ribocentre.org/images/VS_ribozymePic/VS2D.png" style="display:block;width:400px;height:200px" border=1 /></td>
+<td><embed src="https://www.ribocentre.org/images/VS_ribozymePic/VS2D.png" style="display:block;width:450px;height:200px" border=1 /></td>
 <td>
-<link rel="stylesheet" type="text/css" href="https://www.ribocentre.org/css/fornac.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="{{ site.url }}{{ site.baseurl }}/css/fornac.css" media="screen" />
 
-This is an RNA container.
-<div id='rna_ss'> </div>
-This is after the RNA container.
+
+<div id='rna_ss' tabindex="1">
+ 
+</div>
+
 <meta charset="utf-8">
     <script type='text/javascript' src='https://www.ribocentre.org/js/jquery.js'></script>
     <script type='text/javascript' src='https://www.ribocentre.org/js/d3.js'></script>
     <script type='text/javascript' src='https://www.ribocentre.org/js/fornac.js'></script>
   
     <script type='text/javascript'>
-        var container = new FornaContainer("#rna_ss", {'applyForce': false});
+        var container = new FornaContainer("#rna_ss", {'applyForce': 1,'editable':'true', 'initialSize':[465,450]});
 
         var options = {'structure': '..(((((((....(((((((((.....(((((((....))).))))....))))))((((.....))))..(((((.......)))))(((((((...........)))))))..)))..))))...)))..',
                        'sequence':'CUGCUCCACGCAAGGAGGUGGACUUAAGCGGCUCAUCCGGGUCUGCGAUAUCCACUGCGCGGUAUGCGCUCGCGAGUUCGAAUCUCGUCGCCAGUACACUGACUUCACUGGCGUGUCCGAGUGGUUAGGCAA'};
@@ -390,7 +399,7 @@ This is after the RNA container.
 
 <table><tr>
 <td><img src="https://www.ribocentre.org/images/VS_ribozymePic/VSm1.png" alt="drawing" style="weight:600px;height:300px" border=0></td>
-<td><img src="https://www.ribocentre.org/images/VS_ribozymePic/VSm2.png" alt="drawing" style="height:350px" border=0></td>
+<td><img src="https://www.ribocentre.org/images/VS_ribozymePic/VSm2.png" alt="drawing" style="weight:600px;height:424px" border=0></td>
 </tr></table><br>
 
 ## Reference
