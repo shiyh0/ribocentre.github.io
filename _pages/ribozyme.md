@@ -187,7 +187,7 @@ Hairpin ribozymes initially found in plant RNA viruses catalyze the site‐speci
 The Varkud satellite (VS) ribozyme exists in the Neurospora mitochondria and performs site-specific scission of poly VS RNAs into linear monomers. The VS ribozyme is the largest known self-cleaving ribozyme.
 </td>
 <td name="td2">1990</td>
-<td name="td3">nan</td>
+<td name="td3">NA</td>
 <td name="td4">nan</td>
 <td name="td5">Y<br></td>
            </tr>
@@ -380,7 +380,7 @@ The Vg1 ribozyme is the smallest ribozyme to be identified which is a manganese-
                 <td name="td0">Group I self-splicing intron</td>
                 <td name="td1">Group I introns are the first ribozymes discovered in the 1980s. They can use exogenous guanosine as a cofactor to catalyze self-cleavage and exon ligation through sequential ester-transfer reactions. They are found in genes encoding rRNA, mRNA and tRNA in the nucleus, mitochondria and chloroplast in various organisms, from prokaryotes to eukaryotes.</td>
                 <td name="td2">1983</td>
-                <td name="td3">nan</td>
+                <td name="td3">NA</td>
                 <td name="td4">RF01807</td>
                 <td name="td5">Y<br></td>
            </tr>
@@ -396,7 +396,7 @@ The Vg1 ribozyme is the smallest ribozyme to be identified which is a manganese-
                  <td name="td0">A natural ribozyme with 3′,5′ RNA ligase activity</td>
                 <td name="td1">Group I intron from the cyanobacterium Anabaena sp. PCC 7120 catalyzes phosphodiester bond formation using a triphosphate on the 5′-terminal nucleotide, like protein polymerases and engineered ribozymes. This ribozyme forms a unique circular RNA that incorporates the exogenous guanosine cofactor added during self-splicing.</td>
                 <td name="td2">2009</td>
-                <td name="td3">nan</td>
+                <td name="td3">NA</td>
                 <td name="td4">RF01808</td>
                 <td name="td5">Y<br></td>
            </tr>
@@ -404,7 +404,7 @@ The Vg1 ribozyme is the smallest ribozyme to be identified which is a manganese-
                <td name="td0">Group II self-splicing intron</td>
                 <td name="td1">Group II introns are one of the largest ribozymes, with sequences ranging from 400 to 1000 nt in length. It is also the evolutionary ancestor of the spliceosome. Group II introns can catalyze RNA self-splicing through an autocatalytic two-step reaction and mediate reverse-splicing. It plays an essential role in the metabolism of organisms and is now being developed as a tool in biotechnology and gene therapy.</td>
                 <td name="td2">1986</td>
-                <td name="td3">nan</td>
+                <td name="td3">NA</td>
                 <td name="td4">RF01809</td>
                 <td name="td5">Y<br></td>
            </tr>
