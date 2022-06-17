@@ -1,0 +1,49 @@
+I"a<html>
+<head>
+	<title>图片放大</title>
+</head>
+<style type="text/css">
+	.main_div{
+		margin: 20px auto;
+		text-align: center;
+
+	}
+	.pic_div{
+		position: relative;
+		background-color: white;
+		border: 1px dotted black;
+		margin: 10px auto;
+		width: 450px;
+		height: 4500px;
+	}
+	img{
+		width: 400px;
+		height:250px;
+	}
+
+</style>
+<script type="text/javascript">
+	function bigit(){
+		var image=document.getElementsByClassName("pic")[0];
+		image.style.height=image.height*1.1+'px';
+		image.style.width=image.width*1.1+'px';
+	}
+	function littleit(){
+		var image=document.getElementsByClassName("pic")[0];
+		image.style.height=image.height/1.1+'px';
+		image.style.width=image.width/1.1+'px';
+	}
+</script>
+<body>
+	<div style="" class="main_div">
+		<button onclick="bigit()">bigger</button>&nbsp;&nbsp;<button onclick="littleit()">smaller</button>
+		<div class="pic_div">
+			<img src="http://localhost:4000/images/VS_ribozymePic/VS2D.png" class="pic" />
+		</div>
+	</div>
+
+</body>
+</html>
+
+<iframe src="http://localhost:4000/images/VS_ribozymePic/VS2D.svg" style="display:block;width:330px;height:240px;border:none;"></iframe>
+:ET

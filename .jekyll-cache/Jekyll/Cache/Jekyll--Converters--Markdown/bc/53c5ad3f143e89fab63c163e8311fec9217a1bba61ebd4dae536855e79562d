@@ -1,0 +1,139 @@
+I"�<p>&lt;!DOCTYPE html&gt;
+&lt;!–&lt;html&gt;</p>
+
+<head>
+    <script src="http://localhost:4000/js/svg-pan-zoom.js"></script>
+  </head>
+
+<body>
+  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;h1&gt;Demo for svg-pan-zoom: In-line SVG&lt;/h1&gt;
+&lt;div id="container" style="width: 500px; height: 500px; border:1px solid black; "&gt;
+  &lt;object type="image/svg+xml" data="http://localhost:4000/images/VS2D.svg"&gt;Your browser does not support SVG&lt;/object&gt;
+  &lt;!--&lt;svg id="svg-id" xmlns="http://www.w3.org/2000/svg" style="display: inline; width: inherit; min-width: inherit; max-width: inherit; height: inherit; min-height: inherit; max-height: inherit;" version="1.1"&gt;
+    &lt;defs&gt;
+      &lt;linearGradient id="linear-gradient" x1="0%" y1="0%" x2="0%" y2="100%"&gt;
+        &lt;stop offset="0%" style="stop-color:rgb(56,121,217);stop-opacity:1" /&gt;
+        &lt;stop offset="100%" style="stop-color:rgb(138,192,7);stop-opacity:1" /&gt;
+      &lt;/linearGradient&gt;
+    &lt;/defs&gt;
+    &lt;g fill="none"&gt;
+      &lt;g stroke="#000" fill="#FFF"&gt;
+        &lt;rect x="5" y="5" width="240" height="240" fill="url(#linear-gradient)"/&gt;
+        &lt;path d="M 5 5  L 245 245 Z"/&gt;
+      &lt;/g&gt;
+    &lt;/g&gt;
+  &lt;/svg&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  // Don't use window.onLoad like this in production, because it can only listen to one function.
+  window.onload = function() {
+    // Expose to window namespase for testing purposes
+    window.panZoomInstance = svgPanZoom('#svg-id', {
+      zoomEnabled: true,
+      controlIconsEnabled: true,
+      fit: true,
+      center: true,
+      minZoom: 0.1
+    });
+
+    // Zoom out
+    panZoomInstance.zoom(0.2);
+
+    function customPanBy(amount){ // {x: 1, y: 2}
+      var animationTime = 300 // ms
+        , animationStepTime = 15 // one frame per 30 ms
+        , animationSteps = animationTime / animationStepTime
+        , animationStep = 0
+        , intervalID = null
+        , stepX = amount.x / animationSteps
+        , stepY = amount.y / animationSteps
+
+      intervalID = setInterval(function(){
+        if (animationStep++ &lt; animationSteps) {
+          panZoomInstance.panBy({x: stepX, y: stepY})
+        } else {
+          // Cancel interval
+          clearInterval(intervalID)
+        }
+      }, animationStepTime)
+    }
+
+    var button = document.getElementById("animate")
+    button.addEventListener("click", function() {
+      // Pan by any values from -80 to 80
+      customPanBy({x: Math.round(Math.random() * 160 - 80), y: Math.round(Math.random() * 160 - 80)})
+    });
+  };
+&lt;/script&gt;
+</code></pre></div>  </div>
+
+</body>
+
+<p>&lt;/html&gt;–&gt;</p>
+
+<html>
+
+  <head>
+    <script src="http://localhost:4000/js/svg-pan-zoom.js"></script>
+  </head>
+
+  <body>
+    <h1>Demo for svg-pan-zoom: SVG in HTML 'object' element</h1>
+    <object id="demo-tiger" type="image/svg+xml" data="tiger.svg" style="width: 500px; height: 500px; border:1px solid black; ">Your browser does not support SVG</object>
+
+   <!-- <script>
+      // Don't use window.onLoad like this in production, because it can only listen to one function.
+      window.onload = function() {
+        svgPanZoom('#demo-tiger', {
+          zoomEnabled: true,
+          controlIconsEnabled: true
+        });
+      };
+    </script>-->
+    <script>
+      // Don't use window.onLoad like this in production, because it can only listen to one function.
+      window.onload = function() {
+        // Expose to window namespase for testing purposes
+        window.panZoomInstance = svgPanZoom('#svg-id', {
+          zoomEnabled: true,
+          controlIconsEnabled: true,
+          fit: true,
+          center: true,
+          minZoom: 0.1
+        });
+
+        // Zoom out
+        panZoomInstance.zoom(0.2);
+
+        function customPanBy(amount){ // {x: 1, y: 2}
+          var animationTime = 300 // ms
+            , animationStepTime = 15 // one frame per 30 ms
+            , animationSteps = animationTime / animationStepTime
+            , animationStep = 0
+            , intervalID = null
+            , stepX = amount.x / animationSteps
+            , stepY = amount.y / animationSteps
+
+          intervalID = setInterval(function(){
+            if (animationStep++ < animationSteps) {
+              panZoomInstance.panBy({x: stepX, y: stepY})
+            } else {
+              // Cancel interval
+              clearInterval(intervalID)
+            }
+          }, animationStepTime)
+        }
+
+        var button = document.getElementById("animate")
+        button.addEventListener("click", function() {
+          // Pan by any values from -80 to 80
+          customPanBy({x: Math.round(Math.random() * 160 - 80), y: Math.round(Math.random() * 160 - 80)})
+        });
+      };
+    </script>
+
+  </body>
+
+</html>
+:ET
