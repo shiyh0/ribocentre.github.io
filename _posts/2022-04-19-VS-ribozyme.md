@@ -294,15 +294,58 @@ categories: ribozyme
 **VS ribozyme catalyses site-specific phosphodiester cleavage by using a guanine, G638, and an adenine, A756, as a general base and acid, respectively.**
 
 <table><tr>
-<!--<td><embed src="{{ site.url }}{{ site.baseurl }}/images/VS_ribozymePic/VS2D.svg" style="display:block; width:500px;height:300px" border=0 /></td>-->
-<!--<td><img src="{{ site.url }}{{ site.baseurl }}/images/VS_ribozymePic/VS2D.png" alt="drawing" style="weight:150px;height:400px" border=0></td>-->
-<td><embed src="https://www.ribocentre.org/images/VS_ribozymePic/VS2D.png" style="display:block;width:450px;height:200px" border=1 /></td>
+<td>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<style>
+   body {
+    width: 100%;
+    height: 100vh;
+}
+   button {
+   margin-right: 0px;
+}
+   .main-container {
+    display: flex;
+    align-items: left;
+    justify-content: center;
+    height: 100%;
+}
+   .zoom-wrapper1 {
+    width: 460px;
+    height: 400px;
+    border: 1px solid #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+</style>
+    <div class="main-container">
+        <div class="zoom-wrapper1">
+            <div class="zoom-area1">
+                <img src="http://localhost:4000/images/VS_ribozymePic/VS2D.svg" alt="drawing" style="width:150px;height:110px" />
+            </div>
+        </div>
+    </div>
+    <script src="https://timmywil.com/panzoom/demo/panzoom.js"></script>
+    <script type='text/javascript'>
+      var zoomWraper1 = document.querySelector(".zoom-wrapper1");
+      var panzoom1 = Panzoom(document.querySelector(".zoom-area1"), {
+      maxScale: 6
+      });
+      zoomWraper1.addEventListener("wheel", panzoom1.zoomWithWheel);
+      panzoom1.zoom(300 / document.querySelector(".zoom-area1 img").height);
+      panzoom2.pan(0, 0);
+      </script>
+</td>
 <td>
 <link rel="stylesheet" type="text/css" href="{{ site.url }}{{ site.baseurl }}/css/fornac.css" media="screen" />
-
-
 <div id='rna_ss' tabindex="1">
- 
 </div>
 
 <meta charset="utf-8">
@@ -311,7 +354,7 @@ categories: ribozyme
     <script type='text/javascript' src='https://www.ribocentre.org/js/fornac.js'></script>
   
     <script type='text/javascript'>
-        var container = new FornaContainer("#rna_ss", {'applyForce': 1,'editable':'true', 'initialSize':[465,450]});
+        var container = new FornaContainer("#rna_ss", {'applyForce': 1,'editable':'true', 'initialSize':[450,450]});
 
         var options = {'structure': '..(((((((....(((((((((.....(((((((....))).))))....))))))((((.....))))..(((((.......)))))(((((((...........)))))))..)))..))))...)))..',
                        'sequence':'CUGCUCCACGCAAGGAGGUGGACUUAAGCGGCUCAUCCGGGUCUGCGAUAUCCACUGCGCGGUAUGCGCUCGCGAGUUCGAAUCUCGUCGCCAGUACACUGACUUCACUGGCGUGUCCGAGUGGUUAGGCAA'};
@@ -375,13 +418,12 @@ categories: ribozyme
   </style>
   </head>
   <body onload="customize()">
-  <!-- Molstar container -->
-  <div id="myViewer">
+    <div id="myViewer">
   </div>
   <script>
     var viewerInstance = new PDBeMolstarPlugin();
     var options = {
-      moleculeId: '4r4v',
+      moleculeId: '4oji',
       expanded: false,
       expanded: false,
       hideControls: true
@@ -392,8 +434,6 @@ categories: ribozyme
   </body>
 </html></td>
 </tr></table><br>
-
-
 
 > catalytic centre
 
