@@ -1,21 +1,16 @@
----
-title: "Ribo centre - Ribozyme"
-layout: ribozyme
-excerpt: "Ribo centre - Ribozyme"
-sitemap: false
-permalink: /ribozyme/
----
-# Ribozyme
+I"Q><h1 id="ribozyme">Ribozyme</h1>
 
+<p><br />
+<strong>According to the size of the primary sequence, ribozymes can be divided into large ribozymes and small ribozymes.</strong><br /><br /></p>
 
-<br>
-**According to the size of the primary sequence, ribozymes can be divided into large ribozymes and small ribozymes.**<br><br>
-
-> <font size=4>List of large ribozymes<font><br>
+<blockquote>
+  <font size="4">List of large ribozymes<font><br />
+</font></font>
+</blockquote>
 
 <html lang="en">
   <head>
-    <meta charset="utf-8">
+    <meta charset="utf-8" />
     <title>Sort table example</title>
     <style>
 	    body {
@@ -120,17 +115,17 @@ permalink: /ribozyme/
             <td name="td1">Hairpin ribozymes initially found in plant RNA viruses catalyze the site‐specific self‐cleavage reaction and consist of four stems in two general domains. The overall secondary structure of this RNA is hairpin-like and named the hairpin ribozyme.</td>
             <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/">1989</a></td>
             <td name="td3">
-            Hairpin ribozyme,
-            Hairpin ribozyme 1 from viruses-like metatranscriptomes,
-            Hairpin ribozyme 2 from viruses-like metatranscriptomes,
+            Hairpin ribozyme
+            Hairpin ribozyme 1 from viruses-like metatranscriptomes
+            Hairpin ribozyme 2 from viruses-like metatranscriptomes
             </td>
             <td name="td4">
-              <a href="https://rfam.xfam.org/family/RF00173">RF00173,</a>
-              <a href="https://rfam.xfam.org/family/RF04190">RF04190,</a>
+              <a href="https://rfam.xfam.org/family/RF00173">RF00173</a>
+              <a href="https://rfam.xfam.org/family/RF04190">RF04190</a>
               <a href="https://rfam.xfam.org/family/RF04191">RF04191</a></td>
             </tr>
             <tr>
-            <td name="td0"><a href="https://www.ribocentre.org/docs/VS-ribozyme.html">VS</a></td>
+            <td name="td0">VS</td>
             <td name="td1">The Varkud satellite (VS) ribozyme exists in the Neurospora mitochondria and performs site-specific scission of poly VS RNAs into linear monomers. The VS ribozyme is the largest known self-cleaving ribozyme.</td>
             <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/">1990</a></td>
             <td name="td3">nan</td>
@@ -144,26 +139,25 @@ permalink: /ribozyme/
             <td name="td4"><a href="https://rfam.xfam.org/family/RF00234">RF00234</a></td>
             </tr>
             <tr>
-            <td name="td0"><a href="https://www.ribocentre.org/docs/twister.html">Twister</a></td>
+            <td name="td0"><a href="https://www.ncbi.nlm.nih.gov/pubmed/">Twister</a></td>
             <td name="td1">The twister ribozyme is a nucleolytic ribozyme. The nucleolytic activity of this ribozyme has been demonstrated both in vivo and in vitro and has one of the fastest catalytic rates of naturally occurring ribozymes with similar functions.</td>
             <td name="td2"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/">2014</a></td>
             <td name="td3">
-           <p>Type-P1 twister ribozyme,</p>
-           Type-P5 twister ribozyme,
-           Type-P3 twister ribozyme
-            </td>
-            <td name="td4">
-            <a href="https://rfam.xfam.org/family/RF03160">RF03160,</a>
-            <a href="https://rfam.xfam.org/family/RF02684">RF02684,</a>
-            <a href="https://rfam.xfam.org/family/RF03154">RF03154</a></td>
-            </tr>
+           Type-P1 twister ribozyme
+           Type-P5 twister ribozyme
+           Type-P3 twister ribozyme</td>
+           <td name="td4">
+           <a href="https://rfam.xfam.org/family/RF03160">RF03160</a>
+           <a href="https://rfam.xfam.org/family/RF02684">RF02684</a>
+           <a href="https://rfam.xfam.org/family/RF03154">RF03154</a></td>
+           </tr>
             <tr>
             <td name="td0">Twister-sister</td>
             <td name="td1">The twister sister ribozyme (TS) is a nucleolytic ribozyme. It has a possible structural similarity to twister ribozymes. Some striking similarities were noted, but also surprising differences, such as the absence of the two pseudoknot interactions in the twister ribozyme.</td>
-            <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/">2015</a></td>
+            <td name="td2">2015<a href="https://www.ncbi.nlm.nih.gov/pubmed/">&lt;/td&gt;
             <td name="td3">Twister_sister_ribozyme</td>
             <td name="td4"><a href="https://rfam.xfam.org/family/RF00622">RF00622</a></td>
-            </tr>
+            &lt;/tr&gt;
             <tr>
             <td name="td0">Hatchet</td>
             <td name="td1">The hatchet ribozyme is a nucleolytic ribozyme. </td>
@@ -178,7 +172,7 @@ permalink: /ribozyme/
             <td name="td3">Pistol ribozyme</td>
             <td name="td4"><a href="https://rfam.xfam.org/family/RF02679">RF02679</a></td>
             </tr>
-             <tr>
+            <tr>
             <td name="td0">Hovlinc</td>
             <td name="td1">Hovlinc (hominin vlincRNA-located) is a recently evolved class of ribozyme found in very long intergenic noncoding (vlinc) RNAs of humans. The secondary structure and biochemical properties of this ribozyme indicate that it belongs to an unidentified class of small, self-cleaving ribozymes.</td>
             <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/">2021</a></td>
@@ -206,9 +200,9 @@ permalink: /ribozyme/
             <td name="td3">Manganese dependent ribozyme in Vg1 mRNA</td>
             <td name="td4"><a href="https://rfam.xfam.org/family/RF00622">RF00622</a></td>
             </tr>
-        </table>
-    </body>
-</html>
+        &lt;/table&gt;
+    &lt;/body&gt;
+&lt;/html&gt;
 <script type="text/javascript"> 
     var tag=1;
     function SortTable(obj){
@@ -267,7 +261,7 @@ permalink: /ribozyme/
 
 ***
 
-> <font size=4>List of small ribozymes<font><br>
+&gt; <font size="4">List of small ribozymes<font><br />
 
   <table id="table_id" class="table table-striped table-bordered" cellspacing="0" width="100%">
             <tr>
@@ -280,69 +274,10 @@ permalink: /ribozyme/
             <tr>
                 <td name="td0">Group I self-splicing intron</td>
                 <td name="td1">Group I introns are the first ribozymes discovered in the 1980s. They can use exogenous guanosine as a cofactor to catalyze self-cleavage and exon ligation through sequential ester-transfer reactions. They are found in genes encoding rRNA, mRNA and tRNA in the nucleus, mitochondria and chloroplast in various organisms, from prokaryotes to eukaryotes.</td>
-                <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/">1983</a></td>
+                <td name="td2">1983</td>
                 <td name="td3">NA</td>
-                <td name="td4"><a href="https://rfam.xfam.org/family/RF01807">RF01807</a></td>
+                <td name="td4">RF01807</td>
            </tr>
-           <tr>
-           <td name="td0">Lariat capping ribozyme</td>
-<td name="td1">The Lariat capping ribozyme is a ~180 nt ribozyme with an apparent resemblance to a group I ribozyme. It is found within a complex type of group I introns, also termed twin-ribozyme introns. It catalyses a branching reaction in which the 2'OH of an internal residue is involved in a nucleophilic attack at a nearby phosphodiester bond. </td>
-<td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/2002.0">2002</a></td>
-<td name="td3">GIR1 branching ribozyme</td>
-<td name="td4"><a href="https://rfam.xfam.org/family/RF01807">RF01807</a></td>
-           </tr>
-           <tr>
-           <td name="td0">A natural ribozyme with 3′,5′ RNA ligase activity</td>
-<td name="td1">Group I intron from the cyanobacterium Anabaena sp. PCC 7120 catalyzes phosphodiester bond formation using a triphosphate on the 5′-terminal nucleotide, like protein polymerases and engineered ribozymes. This ribozyme forms a unique circular RNA that incorporates the exogenous guanosine cofactor added during self-splicing.</td>
-<td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/">2009</a></td>
-<td name="td3">nan</td>
-<td name="td4"><a href="https://rfam.xfam.org/family/">nan</a></td>
-           </tr>
-           <tr>
-           <td name="td0">Group II self-splicing intron</td>
-<td name="td1">Group II introns are one of the largest ribozymes, with sequences ranging from 400 to 1000 nt in length. It is also the evolutionary ancestor of the spliceosome. Group II introns can catalyze RNA self-splicing through an autocatalytic two-step reaction and mediate reverse-splicing. It plays an essential role in the metabolism of organisms and is now being developed as a tool in biotechnology and gene therapy.</td>
-<td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/">1986</a></td>
-<td name="td3">NA</td>
-<td name="td4"><a href="https://rfam.xfam.org/family/">na</a></td>
-           </tr>
-           <tr>
-           <td name="td0">RNase P</td>
-<td name="td1">Ribonuclease (RNase) P is a ribozyme responsible for processing the 5′-leader of precursor transfer RNA (pre-tRNA) and is widely distributed in all three kingdoms of life: Archaea, Bacteria and Eucarya. RNase P is a ribonucleoprotein (RNP) complex consisting of catalytic RNA and one or more protein components.</td>
-<td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/">1989</a></td>
-<td name="td3">
-Nuclear RNase P,
-Bacterial RNase P class A,
-Bacterial RNase P class B,
-Archaeal RNase P,
-RNaseP truncated form</td>
-<td name="td4">
-<a href="https://rfam.xfam.org/family/RF00009">RF00009,</a>
-<a href="https://rfam.xfam.org/family/RF00010">RF00010,</a>
-<a href="https://rfam.xfam.org/family/RF00011">RF00011,</a>
-<a href="https://rfam.xfam.org/family/RF00373">RF00373,</a>
-<a href="https://rfam.xfam.org/family/RF02357">RF02357.</a></td>
-           </tr>
-           <tr>
-           <td name="td0">RNase MRP</td>
-<td name="td1">Ribonuclease mitochondrial RNA processing (RNase MRP) is a eukaryotic ribonucleoprotein (RNP) that is evolutionarily related to RNase P. RNase MRP processes pre-rRNA by recognizing a short, loosely defined consensus sequence.</td>
-<td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/">nan</a></td>
-<td name="td3">RNase MRP</td>
-<td name="td4"><a href="https://rfam.xfam.org/family/RF00373">RF00373</a></td>
-           </tr>
-           <tr>
-           <td name="td0">Ribosome</td>
-<td name="td1">Ribosomes are the most critical macromolecules that widely exist in all three kingdoms of life, which catalyze the peptidyl transfer reaction to translate mRNA to proteins. It is the most abundant natural ribozyme with polymerase activity in nature.</td>
-<td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/">1992</a></td>
-<td name="td3">Rfam rRNA</td>
-<td name="td4"><a href="https://rfam.xfam.org/family/">nan</a></td>
-           </tr>
-           <tr>
-           <td name="td0">Spliceosome</td>
-<td name="td1">The spliceosome is a highly dynamic and heterogeneous metal ribozyme; During the splicing reaction, the dynamic spliceosome has an immobile core of about 20 protein and RNA components, which are organized around a conserved splicing active site. The divalent metal ions, coordinated by U6 small nuclear RNA (snRNA), catalyze the branching reaction and exon ligation.</td>
-<td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/">1977</a></td>
-<td name="td3">Rfam snRNA</td>
-<td name="td4"><a href="https://rfam.xfam.org/family/">nan</a></td>
-           </tr>
-           
-
-</table><br><br>
+</table><br /><br />
+</font></font></a></td></tr></table></body></html>
+:ET
