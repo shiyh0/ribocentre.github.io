@@ -28,17 +28,17 @@ permalink: /
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/VS_ribozymePic/VS2D.png" alt="Slide 1" style="height:400px;"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/vs.png" alt="Slide 1" style="height:400px;"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/mm1.png" alt="Slide 2" style="height:400px;"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/twister.png" alt="Slide 2" style="height:400px;"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/respic/nonWC_design.png" alt="Slide 3" style="height:400px;"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/glms.png" alt="Slide 3" style="height:400px;"/>
         </div>
 
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/mm3.png" alt="Slide 4" style="height:400px;"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/HDV.png" alt="Slide 4" style="height:400px;"/>
         </div>
 
     </div>

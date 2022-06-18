@@ -367,7 +367,7 @@ categories: ribozyme
 
 > 3D visualisation
 <table><tr>
-<td><img src="https://www.ribocentre.org/images/VS_ribozymePic/VS3d.png" alt="drawing" style="height:350px" border=0></td>
+<td><img src="https://www.ribocentre.org/images/VS_ribozymePic/vs3D-1.png" alt="drawing" style="height:350px" border=0></td>
 <td>
 <html>
   <head>
@@ -423,7 +423,7 @@ categories: ribozyme
   <script>
     var viewerInstance = new PDBeMolstarPlugin();
     var options = {
-      moleculeId: '4oji',
+      moleculeId: '4r4v',
       expanded: false,
       expanded: false,
       hideControls: true
@@ -438,8 +438,8 @@ categories: ribozyme
 > catalytic centre
 
 <table><tr>
-<td><img src="https://www.ribocentre.org/images/VS_ribozymePic/VSm1.png" alt="drawing" style="weight:600px;height:300px" border=0></td>
-<td><img src="https://www.ribocentre.org/images/VS_ribozymePic/VSm2.png" alt="drawing" style="weight:600px;height:424px" border=0></td>
+<td><img src="https://www.ribocentre.org/images/VS_ribozymePic/vs-m1.png" alt="drawing" style="weight:600px;height:300px" border=0></td>
+<td><img src="https://www.ribocentre.org/images/VS_ribozymePic/vs-m2.png" alt="drawing" style="weight:600px;height:424px" border=0></td>
 </tr></table><br>
 
 ## Reference
