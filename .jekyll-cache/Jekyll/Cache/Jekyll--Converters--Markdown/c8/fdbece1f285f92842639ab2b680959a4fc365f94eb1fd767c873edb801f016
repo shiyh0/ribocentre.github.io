@@ -1,0 +1,212 @@
+I"�&<h1 id="ribozyme">Ribozyme</h1>
+
+<p><br />
+<strong>According to the size of the primary sequence, ribozymes can be divided into large ribozymes and small ribozymes.</strong><br /><br /></p>
+
+<blockquote>
+  <font size="4">List of large ribozymes<font><br />
+</font></font>
+</blockquote>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Sort table example</title>
+    <style>
+	    body {
+			font-size: 14px;
+			margin: 50px 30px;
+      }
+		  table {
+        border: 2px solid #f8f8ff;
+        border: 2px solid #767676;
+		    border: 2px solid #767676;
+		    border-radius: 5px;
+		    background-color: #fff;
+        }
+		  th {
+        background-color: #0874c4;
+        background-color: #0874c4;
+        background-color: #0874c4;
+        color: rgba(255,255,255,0.9);
+		    cursor: pointer;
+        }
+		  td {
+		    background-color: #ffffff;
+		    background-color: #f9f9f9;
+		    background-color: #f9f9f9;
+		    }		
+		  th, td {
+		  min-width: 90px;
+		  padding: 10px 10px;
+		}		
+		  .arrow {
+		  display: inline-block;
+		  vertical-align: middle;
+		  width: 0;
+		  height: 0;
+		  margin-left: 5px;
+		  opacity: 0.66;
+		}		
+		  .arrow.asc {
+		  border-left: 4px solid transparent;
+		  border-right: 4px solid transparent;
+		  border-bottom: 4px solid #fff;
+		} 
+		  .arrow.dsc {
+		  border-left: 4px solid transparent;
+		  border-right: 4px solid transparent;
+		  border-top: 4px solid #fff;
+		}
+	  </style>
+  </head>
+    <body>
+        <table id="table_id" class="table table-striped table-bordered" cellspacing="0" width="100%">
+            <tr>
+                <th id="th0" onclick="SortTable(this)" class="as">Name<span class="arrow asc"></span></th>
+                <th id="th1" onclick="SortTable(this)" class="as">Description<span class="arrow asc"></span></th>
+                <th id="th2" onclick="SortTable(this)" class="as">Discovery<span class="arrow asc"></span></th>
+                <th id="th3" onclick="SortTable(this)" class="as">Rfam-name<span class="arrow asc"></span></th>
+                <th id="th4" onclick="SortTable(this)" class="as">Rfam-ID<span class="arrow asc"></span></th>
+            </tr>
+            <tr>
+               <td name="td0">Hammerhead</td>
+               <td name="td1">The hammerhead ribozyme catalyzes the site‐specific self‐cleavage reaction and is named for the resemblance of early secondary structure diagrams to a hammerhead shark. It serves as a model system for research on the structure and properties of RNA and is used for targeted RNA cleavage experiments, some with proposed therapeutic applications.</td>
+               <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/">1986 </a></td>
+               <td name="td3">
+               Hammerhead ribozyme (type III),
+               Hammerhead ribozyme (type I),
+               Hammerhead ribozyme HH9,
+               Hammerhead ribozyme (type II),
+               Hammerhead_HH10,
+               RAGATH-1-hammerhead
+               </td>
+               <td name="td4">
+               <a href="https://rfam.xfam.org/family/RF00008">RF00008,</a>
+               <a href="https://rfam.xfam.org/family/RF00163">RF00163,</a>
+               <a href="https://rfam.xfam.org/family/RF02275">RF02275,</a>
+               <a href="https://rfam.xfam.org/family/RF02276">RF02276,</a>
+               <a href="https://rfam.xfam.org/family/RF02277">RF02277,</a>
+               <a href="https://rfam.xfam.org/family/RF03152">RF03152</a></td>
+            </tr>
+            <tr>
+ <td name="td0">HDV </td>
+ <td name="td1">The hepatitis delta virus (HDV) ribozyme is a viral-derived small ribozyme that catalyzes the site‐specific self‐cleavage reaction. These RNAs fold into a double-nested pseudoknot structure.</td>
+ <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/">1988</a></td>
+ <td name="td3">Hepatitis delta virus ribozyme</td>
+ <td name="td4"><a href="https://rfam.xfam.org/family/RF00094">RF00094</a></td>
+            </tr>
+            <tr>
+            <td name="td0">HDV-like ribozymes </td>
+            <td name="td1">The HDV-like ribozymes are a series of ribozymes structurally and biochemically related to HDV ribozymes. HDV-like ribozymes include the mammalian CPEB3 ribozyme, retrotransposons members and sequences from bacteria.</td>
+            <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/">nan</a></td>
+            <td name="td3">HDV ribozyme from F. prausnitzii</td>
+            <td name="td4"><a href="https://rfam.xfam.org/family/RF02682">RF02682</a></td>
+            </tr>
+            <tr>
+            <td name="td0">CPEB3</td>
+            <td name="td1">The CPEB3 ribozyme is the first HDV-like ribozyme isolated outside of the virus, which was found embedded within the second intron of the mammalian gene encoding cytoplasmic polyadenylation element binding protein 3 (CPEB3).</td>
+            <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/">nan</a></td>
+            <td name="td3">Mammalian CPEB3 ribozyme</td>
+            <td name="td4"><a href="https://rfam.xfam.org/family/RF00622">RF00622</a></td>
+            </tr>
+            <tr>
+            <td name="td0">Hairpin </td>
+            <td name="td1">Hairpin ribozymes initially found in plant RNA viruses catalyze the site‐specific self‐cleavage reaction and consist of four stems in two general domains. The overall secondary structure of this RNA is hairpin-like and named the hairpin ribozyme.</td>
+            <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/">1989</a></td>
+            <td name="td3">
+            Hairpin ribozyme
+            Hairpin ribozyme 1 from viruses-like metatranscriptomes
+            Hairpin ribozyme 2 from viruses-like metatranscriptomes
+            </td>
+            <td name="td4">
+              <a href="https://rfam.xfam.org/family/RF00173">RF00173</a>
+              <a href="https://rfam.xfam.org/family/RF04190">RF04190</a>
+              <a href="https://rfam.xfam.org/family/RF04191">RF04191</a></td>
+            </tr>
+            
+
+        </table>
+    </body>
+</html>
+<script type="text/javascript"> 
+    var tag=1;
+    function SortTable(obj){
+        var td0s=document.getElementsByName("td0");//得到id为td0的一串列表，下相同
+        var td1s=document.getElementsByName("td1");
+        var td2s=document.getElementsByName("td2");
+        var td3s=document.getElementsByName("td3");
+        var td4s=document.getElementsByName("td4");
+        var tdArray0=[];
+        var tdArray1=[];
+        var tdArray2=[];
+        var tdArray3=[];
+        var tdArray4=[];
+        for(var i=0;i<td0s.length;i++){
+            tdArray0.push(td0s[i].innerHTML);
+        }//每串都写到数组中
+        for(var i=0;i<td1s.length;i++){
+            tdArray1.push(td1s[i].innerHTML);
+        }
+        for(var i=0;i<td2s.length;i++){
+            tdArray2.push(td2s[i].innerHTML);
+        }
+        for(var i=0;i<td3s.length;i++){
+            tdArray3.push(td3s[i].innerHTML);
+        }
+        for(var i=0;i<td4s.length;i++){
+            tdArray4.push(td4s[i].innerHTML);
+        }
+        var tds = document.getElementsByName("td" + obj.id.substr(2, 1));
+        //得到当前传入对象的那一列
+        var columnArray=[];
+        for(var i=0;i<tds.length;i++){
+            columnArray.push(tds[i].innerHTML);
+        }//当前那一列都写入column这个栈，是逆序的
+        var orginArray=[];
+        for(var i=0;i<columnArray.length;i++){
+            orginArray.push(columnArray[i]);
+        }//将这一列的内容再存储一遍，一会原来列表修改以后，
+        //通过比对值的方式对应到当前行的内容，实现同行内容一起修改
+        columnArray.sort();   //排序后的新值，只排序了当前列
+        for(var i=0;i<columnArray.length;i++){
+            for(var j=0;j<orginArray.length;j++){
+                if(orginArray[j]==columnArray[i]){
+                    document.getElementsByName("td0")[i].innerHTML=tdArray0[j];
+                    document.getElementsByName("td1")[i].innerHTML=tdArray1[j];
+                    document.getElementsByName("td2")[i].innerHTML=tdArray2[j];
+                    document.getElementsByName("td3")[i].innerHTML=tdArray3[j];
+                    document.getElementsByName("td4")[i].innerHTML=tdArray4[j];
+                    orginArray[j]=null;
+                    break;
+                }
+            }
+        }
+    }
+</script>
+
+<hr />
+
+<blockquote>
+  <font size="4">List of small ribozymes<font><br />
+</font></font>
+</blockquote>
+
+<table id="table_id" class="table table-striped table-bordered" cellspacing="0" width="100%">
+            <tr>
+                <th id="th0" onclick="SortTable(this)" class="as">Name<span class="arrow asc"></span></th>
+                <th id="th1" onclick="SortTable(this)" class="as">Description<span class="arrow asc"></span></th>
+                <th id="th2" onclick="SortTable(this)" class="as">Discovery<span class="arrow asc"></span></th>
+                <th id="th3" onclick="SortTable(this)" class="as">Rfam-name<span class="arrow asc"></span></th>
+                <th id="th4" onclick="SortTable(this)" class="as">Rfam-ID<span class="arrow asc"></span></th>
+            </tr>
+            <tr>
+                <td name="td0">Group I self-splicing intron</td>
+                <td name="td1">Group I introns are the first ribozymes discovered in the 1980s. They can use exogenous guanosine as a cofactor to catalyze self-cleavage and exon ligation through sequential ester-transfer reactions. They are found in genes encoding rRNA, mRNA and tRNA in the nucleus, mitochondria and chloroplast in various organisms, from prokaryotes to eukaryotes.</td>
+                <td name="td2">1983</td>
+                <td name="td3">NA</td>
+                <td name="td4">RF01807</td>
+           </tr>
+</table>
+<p><br /><br /></p>
+:ET

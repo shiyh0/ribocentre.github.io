@@ -1,21 +1,16 @@
----
-title: "Ribo centre - Ribozyme"
-layout: ribozyme
-excerpt: "Ribo centre - Ribozyme"
-sitemap: false
-permalink: /ribozyme/
----
-# Ribozyme
+I"¦P<h1 id="ribozyme">Ribozyme</h1>
 
+<p><br />
+<strong>According to the size of the primary sequence, ribozymes can be divided into large ribozymes and small ribozymes.</strong><br /><br /></p>
 
-<br>
-**According to the size of the primary sequence, ribozymes can be divided into large ribozymes and small ribozymes.**<br><br>
-
-> <font size=4>List of large ribozymes<font><br>
+<blockquote>
+  <font size="4">List of large ribozymes<font><br />
+</font></font>
+</blockquote>
 
 <html lang="en">
   <head>
-    <meta charset="utf-8">
+    <meta charset="utf-8" />
     <title>Sort table example</title>
     <style>
 	    body {
@@ -130,7 +125,7 @@ permalink: /ribozyme/
               <a href="https://rfam.xfam.org/family/RF04191">RF04191</a></td>
             </tr>
             <tr>
-            <td name="td0"><a href="https://www.ribocentre.org/docs/VS-ribozyme.html">VS</a></td>
+            <td name="td0">VS</td>
             <td name="td1">The Varkud satellite (VS) ribozyme exists in the Neurospora mitochondria and performs site-specific scission of poly VS RNAs into linear monomers. The VS ribozyme is the largest known self-cleaving ribozyme.</td>
             <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/">1990</a></td>
             <td name="td3">nan</td>
@@ -144,7 +139,7 @@ permalink: /ribozyme/
             <td name="td4"><a href="https://rfam.xfam.org/family/RF00234">RF00234</a></td>
             </tr>
             <tr>
-            <td name="td0"><a href="https://www.ribocentre.org/docs/twister.html">Twister</a></td>
+            <td name="td0"><a href="https://www.ncbi.nlm.nih.gov/pubmed/">Twister</a></td>
             <td name="td1">The twister ribozyme is a nucleolytic ribozyme. The nucleolytic activity of this ribozyme has been demonstrated both in vivo and in vitro and has one of the fastest catalytic rates of naturally occurring ribozymes with similar functions.</td>
             <td name="td2"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/">2014</a></td>
             <td name="td3">
@@ -265,11 +260,14 @@ permalink: /ribozyme/
     }
 </script>
 
-***
+<hr />
 
-> <font size=4>List of small ribozymes<font><br>
+<blockquote>
+  <font size="4">List of small ribozymes<font><br />
+</font></font>
+</blockquote>
 
-  <table id="table_id" class="table table-striped table-bordered" cellspacing="0" width="100%">
+<table id="table_id" class="table table-striped table-bordered" cellspacing="0" width="100%">
             <tr>
                 <th id="th0" onclick="SortTable(this)" class="as">Name<span class="arrow asc"></span></th>
                 <th id="th1" onclick="SortTable(this)" class="as">Description<span class="arrow asc"></span></th>
@@ -332,7 +330,7 @@ RNaseP truncated form</td>
            <tr>
            <td name="td0">Ribosome</td>
 <td name="td1">Ribosomes are the most critical macromolecules that widely exist in all three kingdoms of life, which catalyze the peptidyl transfer reaction to translate mRNA to proteins. It is the most abundant natural ribozyme with polymerase activity in nature.</td>
-<td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/">1992</a></td>
+<td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/">1992.0</a></td>
 <td name="td3">Rfam rRNA</td>
 <td name="td4"><a href="https://rfam.xfam.org/family/">nan</a></td>
            </tr>
@@ -345,4 +343,6 @@ RNaseP truncated form</td>
            </tr>
            
 
-</table><br><br>
+</table>
+<p><br /><br /></p>
+:ET
