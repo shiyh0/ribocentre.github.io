@@ -11,7 +11,7 @@ permalink: /ribozyme/
 <br>
 **According to the size of the primary sequence, ribozymes can be divided into large ribozymes and small ribozymes.**<br><br>
 
-> <font size=4>List of large ribozymes<font><br>
+> <font size=4>List of small ribozymes<font><br>
 
 <html lang="en">
   <head>
@@ -267,7 +267,7 @@ permalink: /ribozyme/
 
 ***
 
-> <font size=4>List of small ribozymes<font><br>
+> <font size=4>List of large ribozymes<font><br>
 
   <table id="table_id" class="table table-striped table-bordered" cellspacing="0" width="100%">
             <tr>
