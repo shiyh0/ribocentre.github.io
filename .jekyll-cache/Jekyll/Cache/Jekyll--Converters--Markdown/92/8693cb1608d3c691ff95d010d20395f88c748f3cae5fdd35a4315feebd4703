@@ -1,30 +1,24 @@
----
-layout: post
-title:  "Twister"
-date:   2022-04-18T14:25:52-05:00
-author: Chichau Miao
-categories: ribozyme
----
+I"J2<h4 id="click-into-different-sections">click into different sections:</h4>
 
-#### click into different sections:
+<ul>
+  <li><a href="#timeline">Timeline</a></li>
+  <li><a href="#description">Description</a></li>
+  <li><a href="#structure">Structure</a></li>
+  <li><a href="#reference">Reference</a></li>
+</ul>
 
-- [Timeline](#timeline)
-- [Description](#description)
-- [Structure](#structure)
-- [Reference](#reference)
+<p><strong>Rfam ID:RF03160</strong></p>
 
-**Rfam ID:RF03160** 
+<p><a href="/user/test/xxxx.jpg" download="文件名.jpg">点击下载</a></p>
 
-<a href="/user/test/xxxx.jpg" download="文件名.jpg">点击下载</a>
+<h2 id="timeline">Timeline</h2>
 
-## Timeline
-
-***
+<hr />
 <html lang="zh-cn">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title></title>
 
 </head>
@@ -171,7 +165,7 @@ categories: ribozyme
           <div class="timeline-badge warning"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/24240507" target="_blank" style="font-size:25px;" >2014</a>  Discovery</h4>
+              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/24240507" target="_blank" style="font-size:25px;">2014</a>  Discovery</h4>
             </div>
           </div>
         </li>
@@ -189,7 +183,7 @@ categories: ribozyme
           <div class="timeline-badge warning"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/25410397" target="_blank" style="font-size:25px;" >2014</a>  Crystal structure</h4>
+              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/25410397" target="_blank" style="font-size:25px;">2014</a>  Crystal structure</h4>
             </div>
           </div>
         </li>
@@ -197,7 +191,7 @@ categories: ribozyme
           <div class="timeline-badge primary"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/27863022"  target="_blank" style="font-size:25px;">2016</a>  Catalytic mechanism</h4>
+              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/27863022" target="_blank" style="font-size:25px;">2016</a>  Catalytic mechanism</h4>
             </div>
           </div>
         </li>
@@ -205,27 +199,28 @@ categories: ribozyme
 
 </html>
 
+<h2 id="description">Description</h2>
 
-## Description
+<hr />
 
-***
+<font size="4">The twister ribozyme is a catalytic RNA structure capable of self-cleavage. The nucleolytic activity of this ribozyme has been demonstrated both in vivo and in vitro and has one of the fastest catalytic rates of naturally occurring ribozymes with similar function. The twister ribozyme is considered to be a member of the small self-cleaving ribozyme family which includes the hammerhead, hairpin, hepatitis delta virus (HDV), Varkud satellite (VS), and glmS ribozymes.</font>
+<p><br /></p>
 
-<font size=4>The twister ribozyme is a catalytic RNA structure capable of self-cleavage. The nucleolytic activity of this ribozyme has been demonstrated both in vivo and in vitro and has one of the fastest catalytic rates of naturally occurring ribozymes with similar function. The twister ribozyme is considered to be a member of the small self-cleaving ribozyme family which includes the hammerhead, hairpin, hepatitis delta virus (HDV), Varkud satellite (VS), and glmS ribozymes.</font><br>
+<h2 id="structure">Structure</h2>
 
+<hr />
 
-## Structure
-
-***
-
-> 2D representation
+<blockquote>
+  <p>2D representation</p>
+</blockquote>
 
 <table><tr>
 <td>
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
     <title>Document</title>
 </head>
 <style>
@@ -259,7 +254,7 @@ categories: ribozyme
         </div>
     </div>
     <script src="https://timmywil.com/panzoom/demo/panzoom.js"></script>
-    <script type='text/javascript'>
+    <script type="text/javascript">
       var zoomWraper1 = document.querySelector(".zoom-wrapper1");
       var panzoom1 = Panzoom(document.querySelector(".zoom-area1"), {
       maxScale: 6
@@ -272,15 +267,15 @@ categories: ribozyme
 <td>
 <link rel="stylesheet" type="text/css" href="https://www.ribocentre.org/css/fornac.css" media="screen" />
 
-<div id='rna_ss'> </div>
+<div id="rna_ss"> </div>
     
        
-<meta charset="utf-8">
-    <script type='text/javascript' src='https://www.ribocentre.org/js/jquery.js'></script>
-    <script type='text/javascript' src='https://www.ribocentre.org/js/d3.js'></script>
-    <script type='text/javascript' src='https://www.ribocentre.org/js/fornac.js'></script>
+<meta charset="utf-8" />
+    <script type="text/javascript" src="https://www.ribocentre.org/js/jquery.js"></script>
+    <script type="text/javascript" src="https://www.ribocentre.org/js/d3.js"></script>
+    <script type="text/javascript" src="https://www.ribocentre.org/js/fornac.js"></script>
   
-    <script type='text/javascript'>
+    <script type="text/javascript">
         var container = new FornaContainer("#rna_ss", {'applyForce': 1,'editable':'true', 'initialSize':[450,400]});
 
         var options = {'structure': '((((((..((((.......((((........)))).....))))....))))))',
@@ -290,20 +285,23 @@ categories: ribozyme
     </script>
 
 </td>
-</tr></table><br>
+</tr></table>
+<p><br /></p>
 
-> 3D visualisation
+<blockquote>
+  <p>3D visualisation</p>
+</blockquote>
 <table><tr>
-<td><img src="https://www.ribocentre.org/images/twisterPic/3D.png" alt="drawing" style="weight:900px;height:450px" border=0></td>
+<td><img src="https://www.ribocentre.org/images/twisterPic/3D.png" alt="drawing" style="weight:900px;height:450px" border="0" /></td>
 <td>
 <html>
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <title>PDBe Molstar</title>
     <!-- Molstar CSS & JS -->
-    <link rel="stylesheet" type="text/css" href="https://www.ebi.ac.uk/pdbe/pdb-component-library/css/pdbe-molstar-1.2.1.css">
+    <link rel="stylesheet" type="text/css" href="https://www.ebi.ac.uk/pdbe/pdb-component-library/css/pdbe-molstar-1.2.1.css" />
     <script src="https://www.ebi.ac.uk/pdbe/pdb-component-library/js/pdbe-molstar-plugin-1.2.1.js"></script>
         <script>
         function customize()
@@ -355,57 +353,53 @@ categories: ribozyme
   </script>
   </body>
 </html></td>
-</tr></table><br>
+</tr></table>
+<p><br /></p>
 
-
-> catalytic centre
+<blockquote>
+  <p>catalytic centre</p>
+</blockquote>
 
 <table><tr>
-<td><img src="https://www.ribocentre.org/images/twisterPic/twister-m1.png" alt="drawing" style="width:450px;height:340px" border=1 px></td>
-<td><img src="https://www.ribocentre.org/images/twisterPic/m2.png" alt="drawing" style="width:450px;height:350px" border=1 px></td>
-</tr></table><br>
+<td><img src="https://www.ribocentre.org/images/twisterPic/twister-m1.png" alt="drawing" style="width:450px;height:340px" border="1" px="" /></td>
+<td><img src="https://www.ribocentre.org/images/twisterPic/m2.png" alt="drawing" style="width:450px;height:350px" border="1" px="" /></td>
+</tr></table>
+<p><br /></p>
 
+<h2 id="reference">Reference</h2>
 
+<hr />
 
+<p><strong>A widespread self-cleaving ribozyme class is revealed by bioinformatics.</strong><br />
+Roth, A., Weinberg, Z., Chen, A. G., Kim, P. B., Ames, T. D. &amp; Breaker, R. R. <br />
+<a href="(https://www.ncbi.nlm.nih.gov/pubmed/24240507)">Nat Chem Biol 10 (1): 56-60.(2014)</a><br /><br /></p>
 
-## Reference
+<p><strong>In-line alignment and Mg(2)(+) coordination at the cleavage site of the env22 twister ribozyme.</strong><br />
+Ren, A., Kosutic, M., Rajashankar, K. R., Frener, M., Santner, T., Westhof, E., Micura, R. &amp; Patel, D. J. <br />
+<a href="(https://www.ncbi.nlm.nih.gov/pubmed/25410397)">Nat Commun 5: 5534.(2014)</a><br /><br /></p>
 
-***
+<p><strong>Crystal structure and mechanistic investigation of the twister ribozyme.</strong><br />
+Liu, Y., Wilson, T. J., McPhee, S. A. &amp; Lilley, D. M. <br />
+<a href="(https://www.ncbi.nlm.nih.gov/pubmed/25038788)">Nat Chem Biol 10 (9): 739-44.(2014)</a><br /><br /></p>
 
-**A widespread self-cleaving ribozyme class is revealed by bioinformatics.**<br>
-Roth, A., Weinberg, Z., Chen, A. G., Kim, P. B., Ames, T. D. & Breaker, R. R. <br>
-[Nat Chem Biol 10 (1): 56-60.(2014)]((https://www.ncbi.nlm.nih.gov/pubmed/24240507))<br><br>
+<p><strong>Structural basis for the fast self-cleavage reaction catalyzed by the twister ribozyme.</strong><br />
+Eiler, D., Wang, J. &amp; Steitz, T. A. <br /> 
+<a href="(https://www.ncbi.nlm.nih.gov/pubmed/25157168)">Proc Natl Acad Sci U S A 111 (36): 13028-33.(2014)</a><br /><br /></p>
 
+<p><strong>A Mini-Twister Variant and Impact of Residues/Cations on the Phosphodiester Cleavage of this Ribozyme Class.</strong><br />
+Kosutic, M., Neuner, S., Ren, A., Flur, S., Wunderlich, C., Mairhofer, E., Vusurovic, N., Seikowski, J., Breuker, K., Hobartner, C., Patel, D. J., Kreutz, C. &amp; Micura, R. <br />
+<a href="(https://www.ncbi.nlm.nih.gov/pubmed/26473980)">Angew Chem Int Ed Engl 54 (50): 15128-15133.(2015)</a><br /><br /></p>
 
-**In-line alignment and Mg(2)(+) coordination at the cleavage site of the env22 twister ribozyme.**<br>
-Ren, A., Kosutic, M., Rajashankar, K. R., Frener, M., Santner, T., Westhof, E., Micura, R. & Patel, D. J. <br>
-[Nat Commun 5: 5534.(2014)]((https://www.ncbi.nlm.nih.gov/pubmed/25410397))<br><br>
+<p><strong>The Novel Chemical Mechanism of the Twister Ribozyme.</strong><br />
+Wilson, T. J. and Y. Liu, et al. <br />
+<a href="(https://www.ncbi.nlm.nih.gov/pubmed/27153229)">J Am Chem Soc 138 (19): 6151-62.(2016)</a><br /><br /></p>
 
-**Crystal structure and mechanistic investigation of the twister ribozyme.**<br>
-Liu, Y., Wilson, T. J., McPhee, S. A. & Lilley, D. M. <br>
-[Nat Chem Biol 10 (9): 739-44.(2014)]((https://www.ncbi.nlm.nih.gov/pubmed/25038788))<br><br>
+<p><strong>Pseudoknot Formation Seeds the Twister Ribozyme Cleavage Reaction Coordinate.</strong><br />
+Wilson, T. J., Liu, Y., Domnick, C., Kath-Schorr, S. &amp; Lilley, D. M. <br />
+<a href="(https://www.ncbi.nlm.nih.gov/pubmed/28598157)">J Am Chem Soc 139 (24): 8186-8193.(2017)</a><br /><br /></p>
 
-**Structural basis for the fast self-cleavage reaction catalyzed by the twister ribozyme.**<br>
-Eiler, D., Wang, J. & Steitz, T. A. <br> 
-[Proc Natl Acad Sci U S A 111 (36): 13028-33.(2014)]((https://www.ncbi.nlm.nih.gov/pubmed/25157168))<br><br>
+<p><strong>Unwinding the twister ribozyme: from structure to mechanism.</strong><br />
+Vusurovic, N., Altman, R. B., Terry, D. S., Micura, R. &amp; Blanchard, S. C <br />
+<a href="(https://www.ncbi.nlm.nih.gov/pubmed/27863022)">Wiley Interdiscip Rev RNA 8 (3).(2017)</a><br /><br /></p>
 
-**A Mini-Twister Variant and Impact of Residues/Cations on the Phosphodiester Cleavage of this Ribozyme Class.**<br>
-Kosutic, M., Neuner, S., Ren, A., Flur, S., Wunderlich, C., Mairhofer, E., Vusurovic, N., Seikowski, J., Breuker, K., Hobartner, C., Patel, D. J., Kreutz, C. & Micura, R. <br>
-[Angew Chem Int Ed Engl 54 (50): 15128-15133.(2015)]((https://www.ncbi.nlm.nih.gov/pubmed/26473980))<br><br>
-
-**The Novel Chemical Mechanism of the Twister Ribozyme.**<br>
-Wilson, T. J. and Y. Liu, et al. <br>
-[J Am Chem Soc 138 (19): 6151-62.(2016)]((https://www.ncbi.nlm.nih.gov/pubmed/27153229))<br><br>
-
-**Pseudoknot Formation Seeds the Twister Ribozyme Cleavage Reaction Coordinate.**<br>
-Wilson, T. J., Liu, Y., Domnick, C., Kath-Schorr, S. & Lilley, D. M. <br>
-[J Am Chem Soc 139 (24): 8186-8193.(2017)]((https://www.ncbi.nlm.nih.gov/pubmed/28598157))<br><br>
-
-**Unwinding the twister ribozyme: from structure to mechanism.**<br>
-Vusurovic, N., Altman, R. B., Terry, D. S., Micura, R. & Blanchard, S. C <br>
-[Wiley Interdiscip Rev RNA 8 (3).(2017)]((https://www.ncbi.nlm.nih.gov/pubmed/27863022))<br><br>
-
-
-
-
-
+:ET
