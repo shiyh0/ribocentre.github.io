@@ -270,6 +270,348 @@ permalink: /publications/
                  <td name="td5">twister ribozyme</td>
                  <td name="td6">Chemical Mechanism<br></td>
             </tr>
+            <tr>
+            <td>2004</td>
+<td>Winkler, W., A. Nahvi, A. Roth, J. Collins and R. Breaker </td>
+<td>Control of gene expression by a natural metabolite-responsive ribozyme.</td>
+<td>Nature 428(6980): 281-286.<a href="https://www.ncbi.nlm.nih.gov/pubmed/15029187">(15029187)</a></td>
+<td>NA</td>
+<td>glms ribozyme</td>
+<td>discovery,Secondary structure</td>
+            </tr>
+            <tr>
+            <td>2006</td>
+<td>Soukup, G. </td>
+<td>Core requirements for glmS ribozyme self-cleavage reveal a putative pseudoknot structure.</td>
+<td>Nucleic acids research 34(3): 968-975.<a href="https://www.ncbi.nlm.nih.gov/pubmed/16464827">(16464827)</a></td>
+<td>NA</td>
+<td>glms ribozyme</td>
+<td>pseudoknot structure</td>
+            </tr>
+            <tr>
+            <td>2006</td>
+<td>Klein, D. and A. Ferré-D'Amaré </td>
+<td>Structural basis of glmS ribozyme activation by glucosamine-6-phosphate.</td>
+<td>Science (New York, N.Y.) 313(5794): 1752-1756.<a href="https://www.ncbi.nlm.nih.gov/pubmed/16990543">(16990543)</a></td>
+<td>2H0X,2HO7</td>
+<td>glms ribozyme</td>
+<td>Crystal structure</td>
+            </tr>
+            <tr>
+            <td>2007</td>
+<td>Cochrane, J., S. Lipchock and S. Strobel </td>
+<td>Structural investigation of the GlmS ribozyme bound to Its catalytic cofactor.</td>
+<td>Chemistry & biology 14(1): 97-105.<a href="https://www.ncbi.nlm.nih.gov/pubmed/17196404">(17196404)</a></td>
+<td>2Z74</td>
+<td>glms ribozyme</td>
+<td>Crystal structure</td>
+            </tr>
+            <tr>
+            <td>2007</td>
+<td>Klein, D., M. Been and A. Ferré-D'Amaré </td>
+<td>Essential role of an active-site guanine in glmS ribozyme catalysis.</td>
+<td>Journal of the American Chemical Society 129(48): 14858-14859.<a href="https://www.ncbi.nlm.nih.gov/pubmed/17990888">(17990888)</a></td>
+<td>NA</td>
+<td>glms ribozyme</td>
+<td>Essential role of an active-site guanine G40 in glmS ribozyme catalysis</td>
+            </tr>
+            <tr>
+            <td>2007</td>
+<td>Collins, J., I. Irnov, S. Baker and W. Winkler </td>
+<td>Mechanism of mRNA destabilization by the glmS ribozyme.</td>
+<td>Genes & development 21(24): 3356-3368.<a href="https://www.ncbi.nlm.nih.gov/pubmed/18079181">(18079181)</a></td>
+<td>NA</td>
+<td>glms ribozyme</td>
+<td>Mechanism of mRNA destabilization by the glms ribozyme</td>
+            </tr>
+            <tr>
+            <td>2009</td>
+<td>Cochrane, J., S. Lipchock, K. Smith and S. Strobel </td>
+<td>Structural and chemical basis for glucosamine 6-phosphate binding and activation of the glmS ribozyme.</td>
+<td>Biochemistry 48(15): 3239-3246.<a href="https://www.ncbi.nlm.nih.gov/pubmed/19228039">(19228039)</a></td>
+<td>NA</td>
+<td>glms ribozyme</td>
+<td>Chemical Mechanism</td>
+            </tr>
+            <tr>
+            <td>2010</td>
+<td>Ferré-D'Amaré, A. </td>
+<td>The glmS ribozyme: use of a small molecule coenzyme by a gene-regulatory RNA.</td>
+<td>Quarterly reviews of biophysics 43(4): 423-447.<a href="https://www.ncbi.nlm.nih.gov/pubmed/20822574">(20822574)</a></td>
+<td>NA</td>
+<td>glms ribozyme</td>
+<td>Use of a small molecule coenzyme by a gene-regulatory RNA</td>
+            </tr>
+            <tr>
+            <td>2010</td>
+<td>Klawuhn, K., J. Jansen, J. Souchek, G. Soukup and J. Soukup </td>
+<td>Analysis of metal ion dependence in glmS ribozyme self-cleavage and coenzyme binding.</td>
+<td>Chembiochem : a European journal of chemical biology 11(18): 2567-2571.<a href="https://www.ncbi.nlm.nih.gov/pubmed/21108273">(21108273)</a></td>
+<td>NA</td>
+<td>glms ribozyme</td>
+<td>The role of Mg2+ in active sites</td>
+            </tr>
+            <tr>
+            <td>2011</td>
+<td>Watson, P. and M. Fedor </td>
+<td>The glmS riboswitch integrates signals from activating and inhibitory metabolites in vivo.</td>
+<td>Nature structural & molecular biology 18(3): 359-363.<a href="https://www.ncbi.nlm.nih.gov/pubmed/21317896">(21317896)</a></td>
+<td>NA</td>
+<td>glms ribozyme</td>
+<td>The glmS riboswitch integrates signals from activating and inhibitory metabolites in vivo</td>
+            </tr>
+            <tr>
+            <td>2011</td>
+<td>McCown, P., A. Roth and R. Breaker </td>
+<td>An expanded collection and refined consensus model of glmS ribozymes.</td>
+<td>RNA(New York, N.Y.) 17(4): 728-736.<a href="https://www.ncbi.nlm.nih.gov/pubmed/21367971">(21367971)</a></td>
+<td>NA</td>
+<td>glms ribozyme</td>
+<td>An expanded collection and refined consensus model of glmS ribozymes</td>
+            </tr>
+            <tr>
+            <td>2012</td>
+<td>Viladoms, J. and M. Fedor </td>
+<td>The glmS ribozyme cofactor is a general acid-base catalyst.</td>
+<td>Journal of the American Chemical Society 134(46): 19043-19049.<a href="https://www.ncbi.nlm.nih.gov/pubmed/23113700">(23113700)</a></td>
+<td>NA</td>
+<td>glms ribozyme</td>
+<td>The glmS ribozyme cofactor is a general acid-base catalyst</td>
+            </tr>
+            <tr>
+            <td>2013</td>
+<td>Lau, M. W. L. and A. R. Ferré-D.Amaré </td>
+<td>An in vitro evolved glmS ribozyme has the wild-type fold but loses coenzyme dependence.</td>
+<td>Nature Chemical Biology 9(12): 805.<a href="https://www.ncbi.nlm.nih.gov/pubmed/24096303">(24096303)</a></td>
+<td>NA</td>
+<td>glms ribozyme</td>
+<td>An in vitro evolved glmS ribozyme has the wild-type fold but loses coenzyme dependence</td>
+            </tr>
+            <tr>
+            <td>2017</td>
+<td>Schüller, A., D. Matzner, C. Lünse, V. Wittmann, C. Schumacher, S. Unsleber, H. Brötz-Oesterhelt, C. Mayer, G. Bierbaum and G. Mayer </td>
+<td>Activation of the glmS Ribozyme Confers Bacterial Growth Inhibition.</td>
+<td>Chembiochem : a European journal of chemical biology 18(5): 435-440.<a href="https://www.ncbi.nlm.nih.gov/pubmed/28012261">(28012261)</a></td>
+<td>NA</td>
+<td>glms ribozyme</td>
+<td>GlcN6P cofactor play a variety of catalytic roles in glmS ribozyme</td>
+            </tr>
+            <tr>
+            <td>2017</td>
+<td>Bingaman, J., S. Zhang, D. Stevens, N. Yennawar, S. Hammes-Schiffer and P. Bevilacqua </td>
+<td>The GlcN6P cofactor plays multiple catalytic roles in the glmS ribozyme.</td>
+<td>Nature chemical biology 13(4): 439-445.<a href="https://www.ncbi.nlm.nih.gov/pubmed/28192411">(28192411)</a></td>
+<td>NA</td>
+<td>glms ribozyme</td>
+<td>GlcN6P cofactor play a variety of catalytic roles in glmS ribozyme</td>
+            </tr>
+            <tr>
+            <td>2018</td>
+<td>Cruz-Bustos, T., S. Ramakrishnan, C. Cordeiro, M. Ahmed and R. Docampo </td>
+<td>A Riboswitch-based Inducible Gene Expression System for Trypanosoma brucei.</td>
+<td>The Journal of eukaryotic microbiology 65(3): 412-421.<a href="https://www.ncbi.nlm.nih.gov/pubmed/29265590">(29265590)</a></td>
+<td>NA</td>
+<td>glms ribozyme</td>
+<td>The glmS ribozyme could be used as a tool to study essential genes in T. brucei</td>
+            </tr>
+            <tr>
+            <td>2020</td>
+<td>Andreasson, J., A. Savinov, S. Block and W. Greenleaf </td>
+<td>Comprehensive sequence-to-function mapping of cofactor-dependent RNA catalysis in the glmS ribozyme.</td>
+<td>Nature communications 11(1): 1663.<a href="https://www.ncbi.nlm.nih.gov/pubmed/32245964">(32245964)</a></td>
+<td>NA</td>
+<td>glms ribozyme</td>
+<td>Comprehensive sequence-to-function mapping of cofactor-dependent RNA catalysis in the glmS ribozyme</td>
+            </tr>
+            <tr>
+            <td>2021</td>
+<td>Traykovska, M., K. Popova and R. Penchovsky </td>
+<td>Targeting glmS Ribozyme with Chimeric Antisense Oligonucleotides for Antibacterial Drug Development.</td>
+<td>ACS synthetic biology 10(11): 3167-3176.<a href="https://www.ncbi.nlm.nih.gov/pubmed/34734706">(34734706)</a></td>
+<td>NA</td>
+<td>glms ribozyme</td>
+<td>The glmS ribozyme is a very suitable target for antibacterial drug development with antisense oligonucleotides</td>
+            </tr>
+            <tr>
+            <td>1988</td>
+<td>Kuo, M. Y., L. Sharmeen, G. Dinter-Gottlieb and J. Taylor </td>
+<td>Characterization of self-cleaving RNA sequences on the genome and antigenome of human hepatitis delta virus.</td>
+<td>J Virol 62(12): 4439-4444.<a href="https://www.ncbi.nlm.nih.gov/pubmed/3184270">(3184270)</a></td>
+<td>NA</td>
+<td>HDV ribozyme</td>
+<td>Discovery</td>
+            </tr>
+            <tr>
+            <td>1988</td>
+<td>Sharmeen, L., M. Y. Kuo, G. Dinter-Gottlieb and J. Taylor </td>
+<td>Antigenomic RNA of human hepatitis delta virus can undergo self-cleavage.</td>
+<td>J Virol 62(8): 2674-2679.<a href="https://www.ncbi.nlm.nih.gov/pubmed/2455816">(2455816)</a></td>
+<td>NA</td>
+<td>HDV ribozyme</td>
+<td>Discovery</td>
+            </tr>
+            <tr>
+            <td>1989</td>
+<td>Wu, H. N., Y. J. Lin, F. P. Lin, S. Makino, M. F. Chang and M. M. Lai </td>
+<td>Human hepatitis delta virus RNA subfragments contain an autocleavage activity.</td>
+<td>Proceedings of the National Academy of Sciences 86(6): 1831-1835.<a href="https://www.ncbi.nlm.nih.gov/pubmed/2648383">(2648383)</a></td>
+<td>NA</td>
+<td>HDV ribozyme</td>
+<td>Discovery</td>
+            </tr>
+            <tr>
+            <td>1990</td>
+<td>Perrotta, A. T. and M. D. Been </td>
+<td>The self-cleaving domain from the genomic RNA of hepatitis delta virus: sequence requirements and the effects of denaturant.</td>
+<td>Nucleic Acids Res 18(23): 6821-6827.<a href="https://www.ncbi.nlm.nih.gov/pubmed/2263447">(2263447)</a></td>
+<td>NA</td>
+<td>HDV ribozyme</td>
+<td>84 nucleotides are required for rapid and efficient self-cleavage</td>
+            </tr>
+            <tr>
+            <td>1991</td>
+<td>Rosenstein, S. P. and M. D. Been </td>
+<td>Evidence that genomic and antigenomic RNA self-cleaving elements from hepatitis delta virus have similar secondary structures.</td>
+<td>Nucleic Acids Research 19(19): 5409-5416.<a href="https://www.ncbi.nlm.nih.gov/pubmed/1923826">(1923826)</a></td>
+<td>NA</td>
+<td>HDV ribozyme</td>
+<td>Pseudoknot-like secondary structure</td>
+            </tr>
+            <tr>
+            <td>1991</td>
+<td>Perrotta, A. T. and M. D. Been </td>
+<td>A pseudoknot-like structure required for efficient self-cleavage of hepatitis delta virus RNA.</td>
+<td>Nature 350(6317): 434-436.<a href="https://www.ncbi.nlm.nih.gov/pubmed/2011192">(2011192)</a></td>
+<td>NA</td>
+<td>HDV ribozyme</td>
+<td>Pseudoknot-like secondary structure</td>
+            </tr>
+            <tr>
+            <td>1992</td>
+<td>Been, M. D., A. T. Perrotta and S. P. Rosenstein </td>
+<td>Secondary structure of the self-cleaving RNA of hepatitis delta virus: applications to catalytic RNA design.</td>
+<td>Biochemistry 31(47): 11843-11852.<a href="https://www.ncbi.nlm.nih.gov/pubmed/1445917">(1445917)</a></td>
+<td>NA</td>
+<td>HDV ribozyme</td>
+<td>The P4 duplex can reduce the minimum size to about 65 nucleotides</td>
+            </tr>
+            <tr>
+            <td>1993</td>
+<td>Suh, Y. A., P. K. Kumar, K. Taira and S. Nishikawa </td>
+<td>Self-cleavage activity of the genomic HDV ribozyme in the presence of various divalent metal ions.</td>
+<td>Nucleic Acids Res 21(14): 3277-3280.<a href="https://www.ncbi.nlm.nih.gov/pubmed/8341602">(8341602)</a></td>
+<td>NA</td>
+<td>HDV ribozyme</td>
+<td>Nonspecifific divalent cations are required for self-cleavage</td>
+            </tr>
+            <tr>
+            <td>1996</td>
+<td>Ferre-D'Amare, A. R. and J. A. Doudna </td>
+<td>Use of cis- and trans-ribozymes to remove 5' and 3' heterogeneities from milligrams of in vitro transcribed RNA.</td>
+<td>Nucleic Acids Res 24(5): 977-978<a href="https://www.ncbi.nlm.nih.gov/pubmed/8600468">(8600468)</a></td>
+<td>NA</td>
+<td>HDV ribozyme</td>
+<td>Use of cis-delta ribozyme generated 3′homogeneous RNA ends</td>
+            </tr>
+            <tr>
+            <td>1997</td>
+<td>Kolk, M. H. </td>
+<td>The structure of the isolated, central hairpin of the HDV antigenomic ribozyme: novel structural features and similarity of the loop in the ribozyme and free in solution.</td>
+<td>The EMBO Journal 16(12): 3685-3692.<a href="https://www.ncbi.nlm.nih.gov/pubmed/9218809">(9218809)</a></td>
+<td>1ATO</td>
+<td>HDV ribozyme</td>
+<td>NMR structure</td>
+            </tr>
+            <tr>
+            <td>1998</td>
+<td>Ferré-D'Amaré, A. R., K. Zhou and J. A. Doudna </td>
+<td>Crystal structure of a hepatitis delta virus ribozyme.</td>
+<td>Nature 395(6702): 567-574.<a href="https://www.ncbi.nlm.nih.gov/pubmed/9783582">(9783582)</a></td>
+<td>1DRZ</td>
+<td>HDV ribozyme</td>
+<td>Crystal structure</td>
+            </tr>
+            <tr>
+            <td>2000</td>
+<td>Nakano, S., D. M. Chadalavada and P. C. Bevilacqua</td>
+<td>General acid-base catalysis in the mechanism of a hepatitis delta virus ribozyme.</td>
+<td>Science 287(5457): 1493-1497.<a href="https://www.ncbi.nlm.nih.gov/pubmed/10688799">(10688799)</a></td>
+<td>NA</td>
+<td>HDV ribozyme</td>
+<td>C75 acts as the general acid and ribozyme-bound hydrated metal hydroxide as the general base</td>
+            </tr>
+            <tr>
+            <td>2004</td>
+<td>Ke, A., K. Zhou, F. Ding, J. H. Cate and J. A. Doudna </td>
+<td>A conformational switch controls hepatitis delta virus ribozyme catalysis.</td>
+<td>Nature 429(6988): 201-205.<a href="https://www.ncbi.nlm.nih.gov/pubmed/15141216">(15141216)</a></td>
+<td>1VC5</td>
+<td>HDV ribozyme</td>
+<td>Precursor structures</td>
+            </tr>
+            <tr>
+            <td>2005</td>
+<td>Das, S. R. and J. A. Piccirilli </td>
+<td>General acid catalysis by the hepatitis delta virus ribozyme.</td>
+<td>Nat Chem Biol 1(1): 45-52.<a href="https://www.ncbi.nlm.nih.gov/pubmed/16407993">(16407993)</a></td>
+<td>NA</td>
+<td>HDV ribozyme</td>
+<td>It is prooved that C75 acts as the general acid</td>
+            </tr>
+            <tr>
+            <td>2010</td>
+<td>Chen, J. H., R. Yajima, D. M. Chadalavada, E. Chase, P. C. Bevilacqua and B. L. Golden </td>
+<td>A 1.9 A crystal structure of the HDV ribozyme precleavage suggests both Lewis acid and general acid mechanisms contribute to phosphodiester cleavage.</td>
+<td>Biochemistry 49(31): 6508-6518.<a href="https://www.ncbi.nlm.nih.gov/pubmed/20677830">(20677830)</a></td>
+<td>3NKB</td>
+<td>HDV ribozyme</td>
+<td>Precleavage structures</td>
+            </tr>
+            <tr>
+            <td>2015</td>
+<td>Weinberg, Z., P. B. Kim, T. H. Chen, S. Li, K. A. Harris, C. E. Lünse and R. R. Breaker </td>
+<td>New classes of self-cleaving ribozymes revealed by comparative genomics analysis.</td>
+<td>Nature Chemical Biology 11(8): 606-610.<a href="https://www.ncbi.nlm.nih.gov/pubmed/26167874">(26167874)</a></td>
+<td>NA</td>
+<td>HDV ribozyme</td>
+<td>The HDV ribozyme variants were discovered</td>
+            </tr>
+            <tr>
+            <td>2015</td>
+<td>Koo, S. C., J. Lu, N. S. Li, E. Leung, S. R. Das, M. E. Harris and J. A. Piccirilli </td>
+<td>Transition State Features in the Hepatitis Delta Virus Ribozyme Reaction Revealed by Atomic Perturbations.</td>
+<td>J Am Chem Soc 137(28): 8973-8982.<a href="https://www.ncbi.nlm.nih.gov/pubmed/26125657">(26125657)</a></td>
+<td>NA</td>
+<td>HDV ribozyme</td>
+<td>Transition state features</td>
+            </tr>
+            <tr>
+            <td>2016</td>
+<td>Lee, T. S., B. K. Radak, M. E. Harris and D. M. York </td>
+<td>A Two-Metal-Ion-Mediated Conformational Switching Pathway for HDV Ribozyme Activation.</td>
+<td>ACS Catal 6(3): 1853-1869.<a href="https://www.ncbi.nlm.nih.gov/pubmed/27774349">(27774349)</a></td>
+<td>NA</td>
+<td>HDV ribozyme</td>
+<td>Dynamic reaction mechanism model with two Mg2+ ions</td>
+            </tr>
+            <tr>
+            <td>2019</td>
+<td>Lilley, D. M. J. </td>
+<td>Classification of the nucleolytic ribozymes based upon catalytic mechanism.</td>
+<td>F1000Res 8.<a href="https://www.ncbi.nlm.nih.gov/pubmed/31489181">(31489181)</a></td>
+<td>NA</td>
+<td>HDV ribozyme</td>
+<td>Review</td>
+            </tr>
+            <tr>
+            <td>2019</td>
+<td>Yamagami, R., M. Kayedkhordeh, D. H. Mathews and P. C. Bevilacqua </td>
+<td>Design of highly active double-pseudoknotted ribozymes: a combined computational and experimental study.</td>
+<td>Nucleic Acids Res 47(1): 29-42.<a href="https://www.ncbi.nlm.nih.gov/pubmed/30462314">(30462314)</a></td>
+<td>NA</td>
+<td>HDV ribozyme</td>
+<td>Double-pseudoknot HDV can self-cleavge with the same mechanism as the WT ribozyme</td>
+            </tr>
       </table>
     </div>
 </body>
