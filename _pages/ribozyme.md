@@ -96,7 +96,7 @@ permalink: /ribozyme/
                <a href="https://rfam.xfam.org/family/RF03152">RF03152</a></td>
             </tr>
             <tr>
- <td name="td0">HDV </td>
+ <td name="td0"><a href="https://www.ribocentre.org/docs/HDV.html">HDV</a></td>
  <td name="td1">The hepatitis delta virus (HDV) ribozyme is a viral-derived small ribozyme that catalyzes the site‐specific self‐cleavage reaction. These RNAs fold into a double-nested pseudoknot structure.</td>
  <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/3184270">1988</a></td>
  <td name="td3">Hepatitis delta virus ribozyme</td>
@@ -138,7 +138,7 @@ permalink: /ribozyme/
             <td name="td4">nan</td>
             </tr>
             <tr>
-            <td name="td0">glmS </td>
+            <td name="td0"><a href="https://www.ribocentre.org/docs/glms.html">glms</a></td>
             <td name="td1">The glmS riboswitch is a self‐cleavage ribozyme located in the 5' untranslated region of the glmS gene. The glmS riboswitch can fold into two conformations depending on the presence or absence of glucosamine-6-phosphate. In one of these two conformations, the RNA cleaves itself, thereby inhibiting the synthesis of glucosamine-6-phosphate.</td>
             <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/15029187">2004</a></td>
             <td name="td3">glmS glucosamine-6-phosphate activated ribozyme</td>
