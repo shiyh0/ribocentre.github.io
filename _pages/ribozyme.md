@@ -208,7 +208,7 @@ permalink: /ribozyme/
             <td name="td4"><a href="https://rfam.xfam.org/family/RF00622">RF00622</a></td>
             </tr>
 	    <tr>
-            <td name="td2">//Large Ribozyme</td>
+            <td name="td2">//</td>
             </tr>
             <tr>
                 <td name="td0">Group I self-splicing intron</td>
@@ -279,7 +279,7 @@ RNaseP truncated form</td>
 
         </table>
     </body>
-</html>
+</html><br><br>
 <script type="text/javascript"> 
     var tag=1;
     function SortTable(obj){
