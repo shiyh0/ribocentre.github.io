@@ -1,22 +1,17 @@
----
-title: "Ribo centre - Publications"
-layout: gridlay
-excerpt: "Ribo centre -- Publications."
-sitemap: false
-permalink: /publications/
----
+I"9K<h1 id="publications">Publications</h1>
 
-# Publications
-
-> <font size=4>List of all the articles of Ribozyme.<font><br>
+<blockquote>
+  <font size="4">List of all the articles of Ribozyme.<font><br />
+</font></font>
+</blockquote>
 
 <html>
 <head>
-	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
-	<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no" />
 	<title>Ribozyme publication - export</title>
-	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css">
-	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/2.2.3/css/buttons.dataTables.min.css">
+	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css" />
+	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/2.2.3/css/buttons.dataTables.min.css" />
 </head>
     <style>
 		th {
@@ -27,14 +22,14 @@ permalink: /publications/
 		    cursor: pointer;
         }
 	</style>
-    <script type="text/javascript"  src="https://code.jquery.com/jquery-3.5.1.js"></script>
-	<script type="text/javascript"  src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
-	<script type="text/javascript"  src="https://cdn.datatables.net/buttons/2.2.3/js/dataTables.buttons.min.js"></script>
-	<script type="text/javascript"  src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
-	<script type="text/javascript"  src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/pdfmake.min.js"></script>
-	<script type="text/javascript"  src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js"></script>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+	<script type="text/javascript" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+	<script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/dataTables.buttons.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/pdfmake.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js"></script>
 	<script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.html5.min.js"></script>
-	<script type="text/javascript" l src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.print.min.js"></script>
+	<script type="text/javascript" l="" src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.print.min.js"></script>
 	<script type="text/javascript">
 
 		$(document).ready(function() {
@@ -200,7 +195,7 @@ permalink: /publications/
            </tr>
            <tr>
                  <td name="td0">2014</td>
-                 <td name="td1">Roth, A., Weinberg, Z., Chen, A. G., Kim, P. B., Ames, T. D. & Breaker, R. R. </td>
+                 <td name="td1">Roth, A., Weinberg, Z., Chen, A. G., Kim, P. B., Ames, T. D. &amp; Breaker, R. R. </td>
                  <td name="td2">A widespread self-cleaving ribozyme class is revealed by bioinformatics.</td>
                  <td name="td3"> Nat Chem Biol 10 (1): 56-60.<a href="https://www.ncbi.nlm.nih.gov/pubmed/24240507/">(24240507)</a></td>
                  <td name="td4">NA</td>
@@ -209,16 +204,16 @@ permalink: /publications/
             </tr>
             <tr>
                  <td name="td0">2014</td>
-                 <td name="td1">Ren, A., Kosutic, M., Rajashankar, K. R., Frener, M., Santner, T., Westhof, E., Micura, R. & Patel, D. J. </td>
+                 <td name="td1">Ren, A., Kosutic, M., Rajashankar, K. R., Frener, M., Santner, T., Westhof, E., Micura, R. &amp; Patel, D. J. </td>
                  <td name="td2">In-line alignment and Mg(2)(+) coordination at the cleavage site of the env22 twister ribozyme.</td>
                  <td name="td3">Nat Commun 5: 5534.<a href="https://www.ncbi.nlm.nih.gov/pubmed/25410397">(25410397)</a></td>
                  <td name="td4">4RGE，4RGF</td>
                  <td name="td5">twister ribozyme</td>
-                 <td name="td6">Crystal structure<br></td>
+                 <td name="td6">Crystal structure<br /></td>
             </tr>
             <tr>
                  <td name="td0">2014</td>
-                 <td name="td1">Liu, Y., Wilson, T. J., McPhee, S. A. & Lilley, D. M. </td>
+                 <td name="td1">Liu, Y., Wilson, T. J., McPhee, S. A. &amp; Lilley, D. M. </td>
                  <td name="td2">Crystal structure and mechanistic investigation of the twister ribozyme.</td>
                  <td name="td3">Nat Chem Biol 10 (9): 739-44.<a href="https://www.ncbi.nlm.nih.gov/pubmed/25038788">(25038788)</a></td>
                  <td name="td4">4OJI</td>
@@ -227,7 +222,7 @@ permalink: /publications/
             </tr>
             <tr>
                  <td name="td0">2014</td>
-                 <td name="td1">Eiler, D., Wang, J. & Steitz, T. A. </td>
+                 <td name="td1">Eiler, D., Wang, J. &amp; Steitz, T. A. </td>
                  <td name="td2">Structural basis for the fast self-cleavage reaction catalyzed by the twister ribozyme.</td>
                  <td name="td3">Proc Natl Acad Sci U S A 111 (36): 13028-33.<a href="https://www.ncbi.nlm.nih.gov/pubmed/25157168">(25157168)</a></td>
                  <td name="td4">4QJH，4QJD</td>
@@ -236,7 +231,7 @@ permalink: /publications/
             </tr>
             <tr>
                  <td name="td0">2015</td>
-                 <td name="td1">Kosutic, M., Neuner, S., Ren, A., Flur, S., Wunderlich, C., Mairhofer, E., Vusurovic, N., Seikowski, J., Breuker, K., Hobartner, C., Patel, D. J., Kreutz, C. & Micura, R. </td>
+                 <td name="td1">Kosutic, M., Neuner, S., Ren, A., Flur, S., Wunderlich, C., Mairhofer, E., Vusurovic, N., Seikowski, J., Breuker, K., Hobartner, C., Patel, D. J., Kreutz, C. &amp; Micura, R. </td>
                  <td name="td2">A Mini-Twister Variant and Impact of Residues/Cations on the Phosphodiester Cleavage of this Ribozyme Class.</td>
                  <td name="td3">Angew Chem Int Ed Engl 54 (50): 15128-15133.<a href="https://www.ncbi.nlm.nih.gov/pubmed/26473980">(26473980)</a></td>
                  <td name="td4">NA</td>
@@ -254,7 +249,7 @@ permalink: /publications/
             </tr>
             <tr>
                  <td name="td0">2017</td>
-                 <td name="td1">Wilson, T. J., Liu, Y., Domnick, C., Kath-Schorr, S. & Lilley, D. M. </td>
+                 <td name="td1">Wilson, T. J., Liu, Y., Domnick, C., Kath-Schorr, S. &amp; Lilley, D. M. </td>
                  <td name="td2">Pseudoknot Formation Seeds the Twister Ribozyme Cleavage Reaction Coordinate.</td>
                  <td name="td3">J Am Chem Soc 139 (24): 8186-8193.<a href="https://www.ncbi.nlm.nih.gov/pubmed/28598157">(28598157)</a></td>
                  <td name="td4">NA</td>
@@ -263,12 +258,12 @@ permalink: /publications/
             </tr>
             <tr>
                  <td name="td0">2017</td>
-                 <td name="td1">Vusurovic, N., Altman, R. B., Terry, D. S., Micura, R. & Blanchard, S. C </td>
+                 <td name="td1">Vusurovic, N., Altman, R. B., Terry, D. S., Micura, R. &amp; Blanchard, S. C </td>
                  <td name="td2">Unwinding the twister ribozyme: from structure to mechanism.</td>
                  <td name="td3">Wiley Interdiscip Rev RNA 8 (3).<a href="https://www.ncbi.nlm.nih.gov/pubmed/27863022">(27863022)</a></td>
                  <td name="td4">NA</td>
                  <td name="td5">twister ribozyme</td>
-                 <td name="td6">Chemical Mechanism<br></td>
+                 <td name="td6">Chemical Mechanism<br /></td>
             </tr>
       </table>
     </div>
@@ -342,4 +337,5 @@ permalink: /publications/
         }
     }
 </script>-->
-<br><br>
+<p><br /><br /></p>
+:ET
