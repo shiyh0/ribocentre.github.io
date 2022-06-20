@@ -208,7 +208,7 @@ permalink: /ribozyme/
             <td name="td4"><a href="https://rfam.xfam.org/family/RF00622">RF00622</a></td>
             </tr>
 	    <tr>
-            <td name="td2">//</td>
+            <td colspan="5"> </td>
             </tr>
             <tr>
                 <td name="td0">Group I self-splicing intron</td>
