@@ -1,0 +1,197 @@
+I"‹<!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script type="text/javascript" src="http://localhost:4000/js/ribozyme.js"></script>
+<div id="ribozymewikisection0"></div>-->
+
+<!--var id = location.search.split(`id=`)[1];-->
+<!--</script>-->
+
+<p><img src="http://localhost:4000/images/Ribozyme_structure_picutres.png" alt="drawing" style="height:300px;" /></p>
+
+<!--<script type="text/javascript">
+document.write(`${id}`);
+document.write(`<div id="${id}wikisection1"></div>`);
+</script>-->
+
+<h1 id="publications">Publications</h1>
+
+<blockquote>
+  <font size="4">List of all the articles of Ribozyme.<font><br />
+</font></font>
+</blockquote>
+
+<html>
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no" />
+	<title>Ribozyme structure - export</title>
+	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css" />
+	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/2.2.3/css/buttons.dataTables.min.css" />
+</head>
+    <style>
+		th {
+        background-color: #0874c4;
+        background-color: #0874c4;
+        background-color: #0874c4;
+        color: rgba(255,255,255,0.9);
+		    cursor: pointer;
+        }
+	</style>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+	<script type="text/javascript" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+	<script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/dataTables.buttons.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/pdfmake.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js"></script>
+	<script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.html5.min.js"></script>
+	<script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.print.min.js"></script>
+	<script type="text/javascript">
+
+		$(document).ready(function() {
+			$.noConflict();
+			$('#mytable').DataTable( {
+				dom: 'Bfrtip', 
+				buttons: [
+					'copy', 'csv', 'excel', 'pdf', 'print'
+				]
+				
+			} );
+		} );
+   </script>
+
+<body>
+    <div>
+	  <table id="mytable" class="table table-striped table-bordered" cellspacing="0" width="100%">
+    <thead>
+            <tr>
+                <th>Name</th>
+                <th>Description(PDB)</th>
+                <th>Species</th>
+                <th>Phasing</th>
+                <th>Structure Determination</th>
+                <th>PDB</th>
+                <th>Res(Ã…)</th>
+                <th>Year</th>
+       	        <th>Journal</th>
+            </tr>
+	  </thead>
+            <tr>
+                <td rowspan="24">Hammerhead</td>
+                <td>Three dimensional structure of a hammerhead ribozyme</td>
+                <td>N/A</td>
+                <td>6</td>
+                <td>X-ray diffraction</td>
+                <td>1HMH</td>
+                <td>2.6 </td>
+                <td>1994</td>
+                <td>Nature</td>
+           </tr>
+           <tr>
+                <td>Three dimensional structure of a hammerhead ribozyme</td>
+<td>nan</td>
+<td>0</td>
+<td>X-ray diffraction</td>
+<td>1HMH</td>
+<td>2.6</td>
+<td>1994</td>
+<td>Nature</td>
+           </tr>
+           <tr>
+           <td>The 2.2 A structure of a full-length catalytically active hammerhead ribozyme</td>
+<td>Schistosoma mansoni</td>
+<td>0</td>
+<td>X-ray diffraction</td>
+<td>3ZD5</td>
+<td>2.2</td>
+<td>2006</td>
+<td>Cell</td>
+           </tr>
+           <tr>
+           <td>Hammerhead Ribozyme G12A mutant pre-cleavage</td>
+<td>nan</td>
+<td>0</td>
+<td>X-ray diffraction</td>
+<td>2QUS</td>
+<td>2.4</td>
+<td>2008</td>
+<td>PLoS Biol</td>
+           </tr>
+           <tr>
+           <td>High-resolution full-length hammerhead ribozyme</td>
+<td>synthetic construct</td>
+<td>0</td>
+<td>X-ray diffraction</td>
+<td>3ZP8</td>
+<td>1.55</td>
+<td>2013</td>
+<td>J Mol Biol</td>
+           </tr>
+           <tr>
+           </tr>
+           <tr>
+           </tr>
+           <tr>
+           </tr>
+           <tr>
+           </tr>
+           <tr>
+           </tr>
+           <tr>
+           </tr>
+           <tr>
+           </tr>
+           <tr>
+           </tr>
+           <tr>
+           </tr>
+           <tr>
+           </tr>
+           <tr>
+           </tr>
+          </table>
+    </div>
+</body>
+</html>
+
+<!--<table id="table_id" class="table table-striped table-bordered" cellspacing="0" width="100%">
+   <thead>
+      <tr>
+        <th>Ribozyme Name</th>
+        <th>Structures Available</th>
+       	<th>Reaction</th>
+      </tr>
+   </thead>
+   <tbody>
+     <tr>
+       <td><a href="/DNAmoreDB/dnazyme/256/">VS-ribozyme*</a></td>
+       <td>
+                <a href="/DNAmoreDB/structure/7/">1HWQ,</a>
+                <a href="/DNAmoreDB/structure/6/">4R4V,</a>
+                <a href="/DNAmoreDB/structure/5/">5V3I.</a>
+           </td>
+       <td>RNA ligation</td>
+     </tr>
+     <tr>
+       <td><a href="/DNAmoreDB/dnazyme/444/">twister</a></td>
+       <td>
+                <a href="/DNAmoreDB/structure/7/">4RGE,</a>
+                <a href="/DNAmoreDB/structure/6/">4RGF,</a>
+                <a href="/DNAmoreDB/structure/5/">4OJI,</a>
+                <a href="/DNAmoreDB/structure/5/">4QJH,</a>
+                <a href="/DNAmoreDB/structure/5/">4QJD,</a>
+                <a href="/DNAmoreDB/structure/7/">5DUN.</a>
+           </td>
+       <td>RNA cleavage</td>
+     </tr>
+     <tr>
+       <td><a href="/DNAmoreDB/dnazyme/445/">10-23</a></td>
+       <td>
+                <a href="/DNAmoreDB/structure/8/">1BR3,</a>
+                <a href="/DNAmoreDB/structure/9/">1EGK.</a>
+           </td>
+       <td>RNA cleavage</td>
+     </tr>
+   
+   </tbody>
+</table>-->
+
+:ET

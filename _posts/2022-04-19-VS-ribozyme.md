@@ -6,6 +6,9 @@ author: Chichau Miao
 categories: ribozyme
 ---
 
+
+**Rfam ID:na** <br>
+
 #### click into different sections:
 
 - [Timeline](#timeline)
@@ -13,7 +16,6 @@ categories: ribozyme
 - [Structure](#structure)
 - [Reference](#reference)
 
-**Rfam ID:** na
 
 ## Timeline
 
@@ -356,7 +358,7 @@ categories: ribozyme
     <script type='text/javascript'>
         var container = new FornaContainer("#rna_ss", {'applyForce': 1,'editable':'true', 'initialSize':[450,450]});
 
-        var options = {'structure': '..(((((((....(((((((((.....(((((((....))).))))....))))))((((.....))))..(((((.......)))))(((((((...........)))))))..)))..))))...)))..',
+        var options = {'structure':'((((((((((.....((((...((((.......))))..))))..((((((.(((..((((((..(((((.....)))))..(((((((.......)))))))......))).)))(((..(((.((((((((((....))))))))))...)))))).....)))))))))..))).)))))))',
                        'sequence':'CUGCUCCACGCAAGGAGGUGGACUUAAGCGGCUCAUCCGGGUCUGCGAUAUCCACUGCGCGGUAUGCGCUCGCGAGUUCGAAUCUCGUCGCCAGUACACUGACUUCACUGGCGUGUCCGAGUGGUUAGGCAA'};
 
         container.addRNA(options.structure, options);

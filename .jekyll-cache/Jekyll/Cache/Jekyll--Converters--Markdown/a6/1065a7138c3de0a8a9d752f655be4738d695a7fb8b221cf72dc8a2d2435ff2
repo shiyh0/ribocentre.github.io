@@ -1,0 +1,401 @@
+I"5/<!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script type="text/javascript" src="http://localhost:4000/js/ribozyme.js"></script>
+<div id="ribozymewikisection0"></div>-->
+
+<!--var id = location.search.split(`id=`)[1];-->
+<!--</script>-->
+
+<!--<script type="text/javascript">
+document.write(`${id}`);
+document.write(`<div id="${id}wikisection1"></div>`);
+</script>-->
+
+<blockquote>
+  <font size="4">Shows the structure of Ribozymes.<font><br />
+</font></font>
+</blockquote>
+
+<html>
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no" />
+	<title>Ribozyme structure - export</title>
+	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css" />
+	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/2.2.3/css/buttons.dataTables.min.css" />
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.2/css/uikit.min.css" />
+  <link rel="stylesheet" type="text/css" href="file:///E:/jekyll/DataTables-master/media/css/dataTables.uikit.css" />
+</head>
+    <style>
+		th {
+        background-color: #0874c4;
+        background-color: #0874c4;
+        background-color: #0874c4;
+        color: rgba(255,255,255,0.1);
+		    cursor: pointer;
+        }
+	</style>
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+	<script type="text/javascript" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+	<script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/dataTables.buttons.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/pdfmake.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js"></script>
+	<script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.html5.min.js"></script>
+	<script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.print.min.js"></script>
+  <script type="text/javascript" src="file:///E:/jekyll/DataTables-master/media/js/dataTables.uikit.js"></script>
+
+	<script type="text/javascript">
+
+		$(document).ready(function() {
+			$.noConflict();
+			$('#mytable').DataTable( {
+				dom: 'Bfrtip', 
+				buttons: [
+					'copy', 'csv', 'excel', 'pdf', 'print'
+				]
+				
+			} );
+		} );
+   </script>
+
+<body>
+    <div>
+	  <table id="mytable" class="uk-table uk-table-hover uk-table-striped" cellspacing="0" width="100%">
+    <thead>
+            <tr>
+                <th>Name</th>
+                <th>Description(PDB)</th>
+                <th>Species</th>
+                <th>Phasing</th>
+                <th>Structure Determination</th>
+                <th>PDB</th>
+                <th>Res(Å)</th>
+                <th>Year</th>
+       	        <th>Journal</th>
+            </tr>
+	  </thead>
+            <tr>
+                <!--<td rowspan="25">Hammerhead</td>-->
+                <td>Hammerhead</td>
+                <td>Three dimensional structure of a hammerhead ribozyme</td>
+                <td>N/A</td>
+                <td>6</td>
+                <td>X-ray diffraction</td>
+                <td>1HMH</td>
+                <td>2.6 </td>
+                <td>1994</td>
+                <td>Nature</td>
+           </tr>
+           <tr>
+                <td>Hammerhead</td>
+                <td>Three dimensional structure of a hammerhead ribozyme</td>
+<td>nan</td>
+<td>0</td>
+<td>X-ray diffraction</td>
+<td>1HMH</td>
+<td>2.6</td>
+<td>1994</td>
+<td>Nature</td>
+           </tr>
+           <tr>
+           <td>Hammerhead</td>
+           <td>The 2.2 A structure of a full-length catalytically active hammerhead ribozyme</td>
+<td>Schistosoma mansoni</td>
+<td>0</td>
+<td>X-ray diffraction</td>
+<td>3ZD5</td>
+<td>2.2</td>
+<td>2006</td>
+<td>Cell</td>
+           </tr>
+           <tr>
+           <td>Hammerhead</td>
+           <td>Hammerhead Ribozyme G12A mutant pre-cleavage</td>
+<td>nan</td>
+<td>0</td>
+<td>X-ray diffraction</td>
+<td>2QUS</td>
+<td>2.4</td>
+<td>2008</td>
+<td>PLoS Biol</td>
+           </tr>
+           <tr>
+           <td>Hammerhead</td>
+           <td>High-resolution full-length hammerhead ribozyme</td>
+<td>synthetic construct</td>
+<td>0</td>
+<td>X-ray diffraction</td>
+<td>3ZP8</td>
+<td>1.55</td>
+<td>2013</td>
+<td>J Mol Biol</td>
+           </tr>
+           <tr>
+           <td>Hammerhead</td>
+           <td>the crystal structure of an all-rna hammerhead ribozyme: a proposed mechanism for rna catalytic cleavage</td>
+<td>nan</td>
+<td>0</td>
+<td>X-ray diffraction</td>
+<td>1MME</td>
+<td>3.1</td>
+<td>1995</td>
+<td>Cell</td>
+           </tr>
+           <tr>
+           <td>Hammerhead</td>
+           <td>Full-Length Hammerhead Ribozyme with G12A substitution at the general base position</td>
+<td>synthetic construct</td>
+<td>0</td>
+<td>X-ray diffraction</td>
+<td>3ZD4</td>
+<td>2.2</td>
+<td>2014</td>
+<td>Acta Crystallogr D Biol Crystallogr</td>
+           </tr>
+           <tr>
+           <td>Hammerhead</td>
+           <td>inhibition of the hammerhead ribozyme cleavage reaction by site-specific binding of tb(iii)</td>
+<td>nan</td>
+<td>0</td>
+<td>X-ray diffraction</td>
+<td>359D</td>
+<td>2.9</td>
+<td>1998</td>
+<td>Science</td>
+           </tr>
+           <tr>
+           <td>Hammerhead</td>
+           <td>capturing the structure of a catalytic rna intermediate: rna hammerhead ribozyme, mg(ii)-soaked</td>
+<td>nan</td>
+<td>0</td>
+<td>X-ray diffraction</td>
+<td>301D</td>
+<td>3.0</td>
+<td>1996</td>
+<td>Science</td>
+           </tr>
+           <tr>
+           <td>Hammerhead</td>
+           <td>capturing the structure of a catalytic rna intermediate: the hammerhead ribozyme</td>
+<td>nan</td>
+<td>0</td>
+<td>X-ray diffraction</td>
+<td>299D</td>
+<td>3</td>
+<td>1996</td>
+<td>Science</td>
+           </tr>
+           <tr>
+           <td>Hammerhead</td>
+           <td>Hammerhead Ribozyme G12A mutant after cleavage</td>
+<td>nan</td>
+<td>0</td>
+<td>X-ray diffraction</td>
+<td>2QUW</td>
+<td>2.2</td>
+<td>2008</td>
+<td>PLoS Biol</td>
+           </tr>
+           <tr>
+           <td>Hammerhead</td>
+           <td>The structural basis of hammerhead ribozyme self-cleavage</td>
+<td>nan</td>
+<td>0</td>
+<td>X-ray diffraction</td>
+<td>379D</td>
+<td>3.1</td>
+<td>1998</td>
+<td>Cell</td>
+           </tr>
+           <tr>
+           <td>Hammerhead</td>
+           <td>Hammerhead Ribozyme with 5'-5' G-G linkage: Conformational change experiment</td>
+<td>nan</td>
+<td>0</td>
+<td>X-ray diffraction</td>
+<td>1Q29</td>
+<td>3</td>
+<td>2003</td>
+<td>J Mol Biol</td>
+           </tr>
+           <tr>
+           <td>Hammerhead</td>
+           <td>Two divalent metal ions and conformational changes play roles in the hammerhead ribozyme cleavage reaction-G12A mutant in Mg2+</td>
+<td>synthetic construct</td>
+<td>0</td>
+<td>X-ray diffraction</td>
+<td>5DH6</td>
+<td>2.78</td>
+<td>2015</td>
+<td>Biochemistry</td>
+           </tr>
+           <tr>
+           <td>Hammerhead</td>
+           <td>a three-dimensional model for the hammerhead ribozyme based on fluorescence measurements</td>
+<td>nan</td>
+<td>0</td>
+<td>Fluorescence transfer</td>
+<td>1RMN</td>
+<td>nan</td>
+<td>1994</td>
+<td>Science</td>
+           </tr>
+           <tr>
+           <td>Hammerhead</td>
+           <td>capturing the structure of a catalytic rna intermediate: rna hammerhead ribozyme, mn(ii)-soaked</td>
+<td>nan</td>
+<td>0</td>
+<td>X-ray diffraction</td>
+<td>300D</td>
+<td>3</td>
+<td>1996</td>
+<td>Science</td>
+           </tr>
+           <tr>
+           <td>Hammerhead</td>
+           <td>Crosslinked Hammerhead Ribozyme Initial State</td>
+<td>nan</td>
+<td>0</td>
+<td>X-ray diffraction</td>
+<td>1NYI</td>
+<td>2.85</td>
+<td>2003</td>
+<td>J Mol Biol</td>
+           </tr>
+           <tr>
+           <td>Hammerhead</td>
+           <td>Two divalent metal ions and conformational changes play roles in the hammerhead ribozyme cleavage reaction-WT ribozyme in Mg2+</td>
+<td>synthetic construct</td>
+<td>0</td>
+<td>X-ray diffraction</td>
+<td>5DQK</td>
+<td>2.71</td>
+<td>2015</td>
+<td>Biochemistry</td>
+           </tr>
+           <tr>
+           <td>Hammerhead</td>
+           <td>Full-length hammerhead ribozyme with Mn(II) bound</td>
+<td>nan</td>
+<td>0</td>
+<td>X-ray diffraction</td>
+<td>2OEU</td>
+<td>2</td>
+<td>2008</td>
+<td>Chem Biol</td>
+           </tr>
+           <tr>
+           <td>Hammerhead</td>
+           <td>Two divalent metal ions and conformational changes play roles in the hammerhead ribozyme cleavage reaction- G12A mutant in Zn2+</td>
+<td>synthetic construct</td>
+<td>0</td>
+<td>X-ray diffraction</td>
+<td>5DH8</td>
+<td>3.3</td>
+<td>2015</td>
+<td>Biochemistry</td>
+           </tr>
+           <tr>
+           <td>Hammerhead</td>
+           <td>Two active site divalent ion in the crystal structure of the hammerhead ribozyme bound to a transition state analog-Mg2+</td>
+<td>synthetic construct</td>
+<td>0</td>
+<td>X-ray diffraction</td>
+<td>5EAO</td>
+<td>2.99</td>
+<td>2016</td>
+<td>Biochemistry</td>
+           </tr>
+           <tr>
+           <td>Hammerhead</td>
+           <td>Two divalent metal ions and conformational changes play roles in the hammerhead ribozyme cleavage reaction-WT ribozyme in Mn2+ at low pH</td>
+<td>synthetic construct</td>
+<td>0</td>
+<td>X-ray diffraction</td>
+<td>5DI4</td>
+<td>2.95</td>
+<td>2015</td>
+<td>Biochemistry</td>
+           </tr>
+           <tr>
+           <td>Hammerhead</td>
+           <td>Two divalent metal ions and conformational changes play roles in the hammerhead ribozyme cleavage reaction-WT ribozyme in Mn2+ at high pH</td>
+<td>synthetic construct</td>
+<td>0</td>
+<td>X-ray diffraction</td>
+<td>5DI2</td>
+<td>2.99</td>
+<td>2015</td>
+<td>Biochemistry</td>
+           </tr>
+           <tr>
+           <td>Hammerhead</td>
+           <td>Two divalent metal ions and conformational changes play roles in the hammerhead ribozyme cleavage reaction-G12A mutant in Mn+</td>
+<td>synthetic construct</td>
+<td>0</td>
+<td>X-ray diffraction</td>
+<td>5DH7</td>
+<td>3.06</td>
+<td>2015</td>
+<td>Biochemistry</td>
+           </tr>
+           <tr>
+           <td>Hammerhead</td>
+           <td>Two active site divalent ion in the crystal structure of the hammerhead ribozyme bound to a transition state analog-Mn2+</td>
+           <td>synthetic construct</td>
+<td>0</td>
+<td>X-ray diffraction</td>
+<td>5EAQ</td>
+<td>3.2</td>
+<td>2016</td>
+<td>Biochemistry</td>
+           </tr>
+          </table>
+    </div>
+</body>
+</html>
+<p><br /><br /></p>
+
+<!--<table id="table_id" class="table table-striped table-bordered" cellspacing="0" width="100%">
+   <thead>
+      <tr>
+        <th>Ribozyme Name</th>
+        <th>Structures Available</th>
+       	<th>Reaction</th>
+      </tr>
+   </thead>
+   <tbody>
+     <tr>
+       <td><a href="/DNAmoreDB/dnazyme/256/">VS-ribozyme*</a></td>
+       <td>
+                <a href="/DNAmoreDB/structure/7/">1HWQ,</a>
+                <a href="/DNAmoreDB/structure/6/">4R4V,</a>
+                <a href="/DNAmoreDB/structure/5/">5V3I.</a>
+           </td>
+       <td>RNA ligation</td>
+     </tr>
+     <tr>
+       <td><a href="/DNAmoreDB/dnazyme/444/">twister</a></td>
+       <td>
+                <a href="/DNAmoreDB/structure/7/">4RGE,</a>
+                <a href="/DNAmoreDB/structure/6/">4RGF,</a>
+                <a href="/DNAmoreDB/structure/5/">4OJI,</a>
+                <a href="/DNAmoreDB/structure/5/">4QJH,</a>
+                <a href="/DNAmoreDB/structure/5/">4QJD,</a>
+                <a href="/DNAmoreDB/structure/7/">5DUN.</a>
+           </td>
+       <td>RNA cleavage</td>
+     </tr>
+     <tr>
+       <td><a href="/DNAmoreDB/dnazyme/445/">10-23</a></td>
+       <td>
+                <a href="/DNAmoreDB/structure/8/">1BR3,</a>
+                <a href="/DNAmoreDB/structure/9/">1EGK.</a>
+           </td>
+       <td>RNA cleavage</td>
+     </tr>
+   
+   </tbody>
+</table>-->
+
+:ET
