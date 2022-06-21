@@ -207,71 +207,6 @@ permalink: /ribozyme/
             <td name="td3">Manganese dependent ribozyme in Vg1 mRNA</td>
             <td name="td4"><a href="https://rfam.xfam.org/family/RF00622"><b>RF00622</b></a></td>
             </tr>
-
-        </table>
-    </body>
-</html>
-<script type="text/javascript"> 
-    var tag=1;
-    function SortTable(obj){
-        var td0s=document.getElementsByName("td0");//得到id为td0的一串列表，下相同
-        var td1s=document.getElementsByName("td1");
-        var td2s=document.getElementsByName("td2");
-        var td3s=document.getElementsByName("td3");
-        var td4s=document.getElementsByName("td4");
-        var tdArray0=[];
-        var tdArray1=[];
-        var tdArray2=[];
-        var tdArray3=[];
-        var tdArray4=[];
-        for(var i=0;i<td0s.length;i++){
-            tdArray0.push(td0s[i].innerHTML);
-        }//每串都写到数组中
-        for(var i=0;i<td1s.length;i++){
-            tdArray1.push(td1s[i].innerHTML);
-        }
-        for(var i=0;i<td2s.length;i++){
-            tdArray2.push(td2s[i].innerHTML);
-        }
-        for(var i=0;i<td3s.length;i++){
-            tdArray3.push(td3s[i].innerHTML);
-        }
-        for(var i=0;i<td4s.length;i++){
-            tdArray4.push(td4s[i].innerHTML);
-        }
-        var tds = document.getElementsByName("td" + obj.id.substr(2, 1));
-        //得到当前传入对象的那一列
-        var columnArray=[];
-        for(var i=0;i<tds.length;i++){
-            columnArray.push(tds[i].innerHTML);
-        }//当前那一列都写入column这个栈，是逆序的
-        var orginArray=[];
-        for(var i=0;i<columnArray.length;i++){
-            orginArray.push(columnArray[i]);
-        }//将这一列的内容再存储一遍，一会原来列表修改以后，
-        //通过比对值的方式对应到当前行的内容，实现同行内容一起修改
-        columnArray.sort();   //排序后的新值，只排序了当前列
-        for(var i=0;i<columnArray.length;i++){
-            for(var j=0;j<orginArray.length;j++){
-                if(orginArray[j]==columnArray[i]){
-                    document.getElementsByName("td0")[i].innerHTML=tdArray0[j];
-                    document.getElementsByName("td1")[i].innerHTML=tdArray1[j];
-                    document.getElementsByName("td2")[i].innerHTML=tdArray2[j];
-                    document.getElementsByName("td3")[i].innerHTML=tdArray3[j];
-                    document.getElementsByName("td4")[i].innerHTML=tdArray4[j];
-                    orginArray[j]=null;
-                    break;
-                }
-            }
-        }
-    }
-</script>
-
-***
-
-> <font size=4>List of large ribozymes<font><br>
-
-  <table id="table_id" class="table table-striped table-bordered" cellspacing="0" width="100%">
             <tr>
             <td colspan="5"> </td>
             </tr>
@@ -344,6 +279,63 @@ RNaseP truncated form</td>
         </table>
     </body>
 </html><br><br>
+  
+<script type="text/javascript"> 
+    var tag=1;
+    function SortTable(obj){
+        var td0s=document.getElementsByName("td0");//得到id为td0的一串列表，下相同
+        var td1s=document.getElementsByName("td1");
+        var td2s=document.getElementsByName("td2");
+        var td3s=document.getElementsByName("td3");
+        var td4s=document.getElementsByName("td4");
+        var tdArray0=[];
+        var tdArray1=[];
+        var tdArray2=[];
+        var tdArray3=[];
+        var tdArray4=[];
+        for(var i=0;i<td0s.length;i++){
+            tdArray0.push(td0s[i].innerHTML);
+        }//每串都写到数组中
+        for(var i=0;i<td1s.length;i++){
+            tdArray1.push(td1s[i].innerHTML);
+        }
+        for(var i=0;i<td2s.length;i++){
+            tdArray2.push(td2s[i].innerHTML);
+        }
+        for(var i=0;i<td3s.length;i++){
+            tdArray3.push(td3s[i].innerHTML);
+        }
+        for(var i=0;i<td4s.length;i++){
+            tdArray4.push(td4s[i].innerHTML);
+        }
+        var tds = document.getElementsByName("td" + obj.id.substr(2, 1));
+        //得到当前传入对象的那一列
+        var columnArray=[];
+        for(var i=0;i<tds.length;i++){
+            columnArray.push(tds[i].innerHTML);
+        }//当前那一列都写入column这个栈，是逆序的
+        var orginArray=[];
+        for(var i=0;i<columnArray.length;i++){
+            orginArray.push(columnArray[i]);
+        }//将这一列的内容再存储一遍，一会原来列表修改以后，
+        //通过比对值的方式对应到当前行的内容，实现同行内容一起修改
+        columnArray.sort();   //排序后的新值，只排序了当前列
+        for(var i=0;i<columnArray.length;i++){
+            for(var j=0;j<orginArray.length;j++){
+                if(orginArray[j]==columnArray[i]){
+                    document.getElementsByName("td0")[i].innerHTML=tdArray0[j];
+                    document.getElementsByName("td1")[i].innerHTML=tdArray1[j];
+                    document.getElementsByName("td2")[i].innerHTML=tdArray2[j];
+                    document.getElementsByName("td3")[i].innerHTML=tdArray3[j];
+                    document.getElementsByName("td4")[i].innerHTML=tdArray4[j];
+                    orginArray[j]=null;
+                    break;
+                }
+            }
+        }
+    }
+</script>
+
 <!--<script type="text/javascript"> 
     var tag=1;
     function SortTable(obj){
