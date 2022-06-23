@@ -170,7 +170,7 @@ categories: ribozyme
           <div class="timeline-badge warning"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/2160856" target="_blank" style="font-size:25px;" >1990</a>  Discovery</h4>
+              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/2160856" target="_blank" style="font-size:25px;" >1990</a>  Discovery[1]</h4>
             </div>
           </div>
         </li>
@@ -178,7 +178,7 @@ categories: ribozyme
           <div class="timeline-badge primary"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/7753865" target="_blank" style="font-size:25px;" >1995</a>  Secondary structure</h4>
+              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/7753865" target="_blank" style="font-size:25px;" >1995</a>  Secondary structure[2]</h4>
             </div>
             <div class="timeline-body">
             </div>
@@ -188,7 +188,7 @@ categories: ribozyme
           <div class="timeline-badge warning"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/11575922"  target="_blank" style="font-size:25px;">2001</a>  A730 loop is important.</h4>
+              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/11250907"  target="_blank" style="font-size:25px;">2001</a>  Importance of the 2-3-6 helical junction[3]</h4>
             </div>
           </div>
         </li>
@@ -196,7 +196,7 @@ categories: ribozyme
           <div class="timeline-badge primary"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/11350168" target="_blank" style="font-size:25px;">2001</a>  NMR structure of the isolated substrate helix</h4>
+              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/11575922" target="_blank" style="font-size:25px;">2001</a>  A730 loop is important[4]</h4>
             </div>
           </div>
         </li>
@@ -204,7 +204,7 @@ categories: ribozyme
           <div class="timeline-badge warning"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/12368096" target="_blank" style="font-size:25px;">2002</a>  A756 is critical for catalysis</h4>
+              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/12368096" target="_blank" style="font-size:25px;">2002</a>  A756 is critical for catalysis[7]</h4>
             </div>
           </div>
         </li>
@@ -212,7 +212,7 @@ categories: ribozyme
           <div class="timeline-badge primary"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/12206388" target="_blank" style="font-size:25px;">2005</a>  NMR structure of SL5</h4>
+              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/17464286" target="_blank" style="font-size:25px;">2007</a>  G638 is critical for catalysis[10]</h4>
             </div>
           </div>
         </li>
@@ -220,7 +220,7 @@ categories: ribozyme
           <div class="timeline-badge warning"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/17464286" target="_blank" style="font-size:25px;">2007</a>  G638 is critical for catalysis</h4>
+              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/18786398" target="_blank" style="font-size:25px;">2008</a>  SAXS-deriverd structure[11]</h4>
             </div>
           </div>
         </li>
@@ -228,18 +228,15 @@ categories: ribozyme
           <div class="timeline-badge primary"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/18786398" target="_blank" style="font-size:25px;">2008</a>  SAXS-deriverd structure</h4>
+              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/18786398" target="_blank" style="font-size:25px;">2009null</a> The soixante-neuf experiment[12]</h4>
             </div>
-            <!--<div class="timeline-body">
-              <p>SAXS-deriverd structure</p>
-            </div>-->
           </div>
         </li>
         <li>
           <div class="timeline-badge warning"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/21266483" target="_blank" style="font-size:25px;">2011</a>  NMR structure of A730 loop</h4>
+              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/20547881" target="_blank" style="font-size:25px;">2010</a>  catalytic mechanism[13]</h4>
             </div>
           </div>
         </li>
@@ -247,7 +244,7 @@ categories: ribozyme
           <div class="timeline-badge primary"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/25238589" target="_blank" style="font-size:25px;">2014</a>  NMR structure of the III-IV-V three-way junction</h4>
+              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/" target="_blank" style="font-size:25px;">2011null</a> Detailed discussion of the chemical mechanism[14]</h4>
             </div>
           </div>
         </li>
@@ -255,7 +252,7 @@ categories: ribozyme
           <div class="timeline-badge warning"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/26124200" target="_blank" style="font-size:25px;">2014</a>  NMR structure of the II-III-VI three-way junction</h4>
+              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/26414446" target="_blank" style="font-size:25px;">2015</a> Crystal structure[18]</h4>
             </div>
           </div>
         </li>
@@ -263,20 +260,11 @@ categories: ribozyme
           <div class="timeline-badge primary"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/26414446" target="_blank" style="font-size:25px;">2015</a>  Crystal structure</h4>
-            </div>
-          </div>
-        </li>
-        <li>
-          <div class="timeline-badge warning"></div>
-          <div class="timeline-panel">
-            <div class="timeline-heading">
-              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/31959957" target="_blank" style="font-size:25px;">2020</a> Catalytic mechanism</h4>
+              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/31959957" target="_blank" style="font-size:25px;">2020</a> Additional experiments to summarize the structure and function of VS ribozyme[20]</h4>
             </div>
           </div>
         </li>
     </ul>
-
 </html>
 
 
@@ -365,7 +353,7 @@ categories: ribozyme
     </script>
 </td>
 </tr></table><br>
-<!--<iframe src="http://nibiru.tbi.univie.ac.at/forna/forna.html?id=fasta&file=%3Ecircular_rna\nCUGCUCCACGCAAGGAGGUGGACUUAAGCGGCUCAUCCGGGUCUGCGAUAUCCACUGCGCGGUAUGCGCUCGCGAGUUCGAAUCUCGUCGCCAGUACACUGACUUCACUGGCGUGUCCGAGUGGUUAGGCAA\n..(((((((....(((((((((.....(((((((....))).))))....))))))((((.....))))..(((((.......)))))(((((((...........)))))))..)))..))))...)))..*" align="center" height="450px" width="450px" seamless='seamless' frameBorder="0" AllowFullScreen></iframe>-->
+
 
 > 3D visualisation
 <table><tr>
@@ -448,67 +436,84 @@ categories: ribozyme
 
 ***
 
-**A site-specific self-cleavage reaction performed by a novel RNA in neurospora mitochondria.**<br>
+**[1] A site-specific self-cleavage reaction performed by a novel RNA in neurospora mitochondria.**<br>
 Saville, B. J. and R. A. Collins <br>
-[Cell 61(4): 685-696.(1990)]((https://www.ncbi.nlm.nih.gov/pubmed/2160856/))<br><br>
+[Cell 61(4): 685-696.(1990)]((https://www.ncbi.nlm.nih.gov/pubmed/2160856))<br><br>
 
-
-**A secondary-structure model for the self-cleaving region of Neurospora VS RNA.**<br>
+**[2] A secondary-structure model for the self-cleaving region of Neurospora VS RNA.**<br>
 Beattie, T. L., J. E. Olive and R. A. Collins <br>
-[Proc Natl Acad Sci U S A 92(10): 4686-4690.(1995)]((https://www.ncbi.nlm.nih.gov/pubmed/7753865/))<br><br>
+[Proc Natl Acad Sci U S A 92(10): 4686-4690.(1995)]((https://www.ncbi.nlm.nih.gov/pubmed/7753865))<br><br>
 
+**[3] Structure, folding and activity of the VS ribozyme : Importance of the 2-3-6 helical junction**<br>
+D.A. Lafontaine, D.G. Norman and D.M.J. Lilley   <br>
+[EMBO J. 20 1415-1424 (2001)]((https://www.ncbi.nlm.nih.gov/pubmed/11250907))<br><br>
 
-**The A730 loop is an important component of the active site of the VS ribozyme.**<br>
+**[4] The A730 loop is an important component of the active site of the VS ribozyme.**<br>
 Lafontaine, D. A., T. J. Wilson, D. G. Norman and D. M. Lilley <br>
-[J Mol Biol 312(4): 663-674.(2001)]((https://www.ncbi.nlm.nih.gov/pubmed/11575922/))<br><br>
+[J Mol Biol 312(4): 663-674.(2001)]((https://www.ncbi.nlm.nih.gov/pubmed/11575922))<br><br>
 
-
-**A pH controlled conformational switch in the cleavage site of the VS ribozyme substrate RNA.**<br>
+**[5] A pH controlled conformational switch in the cleavage site of the VS ribozyme substrate RNA.**<br>
 Flinders, J. and T. Dieckmann <br>
-[J Mol Biol 308(4): 665-679.(2001)]((https://www.ncbi.nlm.nih.gov/pubmed/11350168/))<br><br>
+[J Mol Biol 308(4): 665-679.(2001)]((https://www.ncbi.nlm.nih.gov/pubmed/11350168))<br><br>
 
-**Functional Group Requirements in the Probable Active Site of the VS Ribozyme.**<br>
+**[6] The global structure of the VS ribozyme.**<br>
+D.A. Lafontaine, D.G. Norman and D. M.J. Lilley<br>
+[EMBO J. 21, 2461-2471(2002)]((https://www.ncbi.nlm.nih.gov/pubmed/nan))<br><br>
+
+**[7] Functional Group Requirements in the Probable Active Site of the VS Ribozyme.**<br>
 Lafontaine, D. A., T. J. Wilson, Z.-Y. Zhao and D. M. J. Lilley <br>
-[Journal of Molecular Biology 323(1): 23-34.(2002)]((https://www.ncbi.nlm.nih.gov/pubmed/12368096/))<br><br>
+[Journal of Molecular Biology 323(1): 23-34.
+(2002)]((https://www.ncbi.nlm.nih.gov/pubmed/12368096))<br><br>
 
-**Nuclear magnetic resonance structure of the Varkud satellite ribozyme stem-loop V RNA and magnesium-ion binding from chemical-shift mapping.**<br>
+**[8] Efficient, pH-dependent RNA ligation by the VS ribozyme in trans**<br>
+A.C. McLeod and D.M.J. Lilley<br>
+[Biochemistry 43, 1118 – 1125(2004)]((https://www.ncbi.nlm.nih.gov/pubmed/nan))<br><br>
+
+**[9] Nuclear magnetic resonance structure of the Varkud satellite ribozyme stem-loop V RNA and magnesium-ion binding from chemical-shift mapping.**<br>
 Campbell, D. O. and P. Legault <br>
-[Biochemistry 44(11): 4157-4170.(2005)]((https://www.ncbi.nlm.nih.gov/pubmed/12206388/))<br><br>
+[Biochemistry 44(11): 4157-4170.(2005)]((https://www.ncbi.nlm.nih.gov/pubmed/15766243))<br><br>
 
-**A guanine nucleobase important for catalysis by the VS ribozyme.**<br>
-Wilson, T. J., A. C. McLeod and D. M. Lilley <br>
-[EMBO J 26(10): 2489-2500.(2007)]((https://www.ncbi.nlm.nih.gov/pubmed/17464286/))<br><br>
+**[10] A guanine nucleobase important for catalysis by the VS ribozyme.**<br>
+Wilson, T. J., A. C. McLeod and D. M. Lilley<br>
+[EMBO J 26(10): 2489-2500.(2007)]((https://www.ncbi.nlm.nih.gov/pubmed/17464286))<br><br>
 
-**The complete VS ribozyme in solution studied by small-angle X-ray scattering.**<br>
+**[11] The complete VS ribozyme in solution studied by small-angle X-ray scattering.**<br>
 Lipfert, J., J. Ouellet, D. G. Norman, S. Doniach and D. M. Lilley <br>
-[Structure 16(9): 1357-1367.(2008)]((https://www.ncbi.nlm.nih.gov/pubmed/18786398/))<br><br>
+[Structure 16(9): 1357-1367.(2008)]((https://www.ncbi.nlm.nih.gov/pubmed/18786398))<br><br>
 
-**Nucleobase-mediated general acid-base catalysis in the Varkud satellite ribozyme.**<br>
-Wilson, T. J., N. S. Li, J. Lu, J. K. Frederiksen, J. A. Piccirilli and D. M. Lilley <br>
-[Proc Natl Acad Sci U S A 107(26): 11751-11756.(2010)]((https://www.ncbi.nlm.nih.gov/pubmed/20547881/))<br><br>
+**[12] Formation of an active site in trans by interaction of two complete Varkud Satellite ribozymes**<br>
+J. Ouellet, M. Byrne and D. M. J. Lilley<br>
+[RNA 15, 1822-1826(2009)]((https://www.ncbi.nlm.nih.gov/pubmed/nan))<br><br>
 
-**NMR structure of the A730 loop of the Neurospora VS ribozyme: insights into the formation of the active site.**<br>
+**[13] Nucleobase-mediated general acid-base catalysis in the Varkud satellite ribozyme.**<br>
+Wilson, T. J., N. S. Li, J. Lu, J. K. Frederiksen, J. A. Piccirilli and D. M. Lilley<br>
+[Proc Natl Acad Sci U S A 107(26): 11751-11756.(2010)]((https://www.ncbi.nlm.nih.gov/pubmed/20547881))<br><br>
+
+**[14] Do the hairpin and VS ribozymes share a common catalytic mechanism based on general acid-base catalysis ? A critical assessment of available experimental data.**<br>
+T. J. Wilson and D. M. J. Lilley.  <br>
+[RNA 17, 213-221 (2011)]((https://www.ncbi.nlm.nih.gov/pubmed/nan))<br><br>
+
+**[15] NMR structure of the A730 loop of the Neurospora VS ribozyme: insights into the formation of the active site.**<br>
 Desjardins, G., E. Bonneau, N. Girard, J. Boisbouvier and P. Legault <br>
-[Nucleic Acids Res 39(10): 4427-4437.(2011)]((https://www.ncbi.nlm.nih.gov/pubmed/21266483/))<br><br>
+[Nucleic Acids Res 39(10): 4427-4437.(2011)]((https://www.ncbi.nlm.nih.gov/pubmed/21266483))<br><br>
 
-**Nuclear magnetic resonance structure of the III-IV-V three-way junction from the Varkud satellite ribozyme and identification of magnesium-binding sites using paramagnetic relaxation enhancement.**<br>
+**[16] Nuclear magnetic resonance structure of the III-IV-V three-way junction from the Varkud satellite ribozyme and identification of magnesium-binding sites using paramagnetic relaxation enhancement.**<br>
 Bonneau, E. and P. Legault <br>
-[Biochemistry 53(39): 6264-6275.(2014)]((https://www.ncbi.nlm.nih.gov/pubmed/25238589/))<br><br>
+[Biochemistry 53(39): 6264-6275.(2014)]((https://www.ncbi.nlm.nih.gov/pubmed/25238589))<br><br>
 
-**The NMR structure of the II-III-VI three-way junction from the Neurospora VS ribozyme reveals a critical tertiary interaction and provides new insights into the global ribozyme structure.**<br>
+**[17] The NMR structure of the II-III-VI three-way junction from the Neurospora VS ribozyme reveals a critical tertiary interaction and provides new insights into the global ribozyme structure.**<br>
 Bonneau, E., N. Girard, S. Lemieux and P. Legault <br>
-[RNA 21(9): 1621-1632.(2014)]((https://www.ncbi.nlm.nih.gov/pubmed/26124200/))<br><br>
+[RNA 21(9): 1621-1632.(2015)]((https://www.ncbi.nlm.nih.gov/pubmed/26124200))<br><br>
 
-**Crystal structure of the Varkud satellite ribozyme.**<br>
+**[18] Crystal structure of the Varkud satellite ribozyme.**<br>
 Suslov, N. B., S. DasGupta, H. Huang, J. R. Fuller, D. M. Lilley, P. A. Rice and J. A. Piccirilli <br>
-[Nat Chem Biol 11(11): 840-846.(2015)]((https://www.ncbi.nlm.nih.gov/pubmed/26414446/))<br><br>
+[Nat Chem Biol 11(11): 840-846.(2015)]((https://www.ncbi.nlm.nih.gov/pubmed/26414446))<br><br>
 
-**Structural Basis for Substrate Helix Remodeling and Cleavage Loop Activation in the Varkud Satellite Ribozyme.**<br>
+**[19] Structural Basis for Substrate Helix Remodeling and Cleavage Loop Activation in the Varkud Satellite Ribozyme.**<br>
 DasGupta, S., N. B. Suslov and J. A. Piccirilli <br>
-[J Am Chem Soc 139(28): 9591-9597.(2017)]((https://www.ncbi.nlm.nih.gov/pubmed/28625058/))<br><br>
+[J Am Chem Soc 139(28): 9591-9597.(2017)]((https://www.ncbi.nlm.nih.gov/pubmed/28625058))<br><br>
 
-**Confluence of theory and experiment reveals the catalytic mechanism of the Varkud satellite ribozyme.**<br>
-Ganguly, A., B. P. Weissman, T. J. Giese, N. S. Li, S. Hoshika, S. Rao, S. A. Benner, J. A. Piccirilli and D. M. York<br>
-[Nat Chem 12(2): 193-201.(2020)]((https://www.ncbi.nlm.nih.gov/pubmed/31959957/))<br><br>
-
+**[1] Confluence of theory and experiment reveals the catalytic mechanism of the Varkud satellite ribozyme.**<br>
+Ganguly, A., B. P. Weissman, T. J. Giese, N. S. Li, S. Hoshika, S. Rao, S. A. Benner, J. A. Piccirilli and D. M. York <br>
+[Nat Chem 12(2): 193-201.(2020)]((https://www.ncbi.nlm.nih.gov/pubmed/31959957))<br><br>
 
