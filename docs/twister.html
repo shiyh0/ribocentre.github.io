@@ -7,12 +7,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Twister</title>
   <meta name="description" content="Rfam ID:RF03160 ">
-
-
+  <!--<link rel="stylesheet" href="http://localhost:4000/css/main.css>-->
   <link rel="stylesheet" href="https://www.ribocentre.org/css/main.css">
-  <link rel="canonical" href="https://www.ribocentre.org/ribozyme/2022/04/19/twister.html">
-<link rel="shortcut icon" type ="image/x-icon" href="https://www.ribocentre.org/images/favicon.ico">
-
+  <link rel="canonical" href="http://localhost:4000/ribozyme/2022/04/19/twister.html">
+  <link rel="shortcut icon" type ="image/x-icon" href="https://www.ribocentre.org/images/favicon.ico">
 
 
 
@@ -387,12 +385,16 @@
       </script>
 </td>
 <td>
-<link href="https://www.ribocentre.org/css/fornac.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="https://www.ribocentre.org/css/fornac.css" media="screen" />
 
 <div id="rna_ss"> </div>
-
+    
        
 <meta charset="utf-8" />
+    <script type="text/javascript" src="https://www.ribocentre.org/js/jquery.js"></script>
+    <script type="text/javascript" src="https://www.ribocentre.org/js/d3.js"></script>
+    <script type="text/javascript" src="https://taolab.atlasbioinfo.com/rsvdb%2Fjs%2Ffornac.js"></script>
+    <meta charset="utf-8" />
     <script type="text/javascript" src="https://www.ribocentre.org/js/jquery.js"></script>
     <script type="text/javascript" src="https://www.ribocentre.org/js/d3.js"></script>
     <script type="text/javascript" src="https://taolab.atlasbioinfo.com/rsvdb%2Fjs%2Ffornac.js"></script>
@@ -406,7 +408,6 @@
 
       container.addRNA(options.structure, options);
   </script>
-
 </td>
 </tr></table>
 <p><br /></p>
@@ -489,6 +490,20 @@
 </tr></table>
 <p><br /></p>
 
+<blockquote>
+  <p>Chemical mechanism</p>
+</blockquote>
+
+<p>The twister ribozyme employs general acid-base catalysis, using guanine and adenine nucleobases like the hairpin and VS ribozymes, but with some important differences. The pH dependence of cleavage rate is bell shaped, corresponding to apparent pKa values of 6.9 and 9.5 [2]. Substitutions led to the assignment of the upper pKa as resulting from G33, and like hairpin and VS, G N1 is used as the general base in cleavage. An adenine is again used as general acid in the cleavage reaction, but twister differs from the other two ribozymes in two significant respects. First, it is the highly-conserved A1, immediately 3’ to the cleavage site that acts as the general acid in cleavage, and an A1G mutation led to a 104-fold loss in activity.  An A1 N7C atomic mutation led to a ribozyme in which the lower pKa was shifted up by 1.5 units. In its position adjacent to the scissile phosphate it is sterically impossible to employ its N1 in proton transfer. So unusually it uses the much more acidic N3 (pKa ~ 1.5) as the general acid in the cleavage reaction [[6]. However, its apparent pKa is raised by formation of two hydrogen bonds from A1 N6 to negatively-charged backbone phosphate groups. The role of A1 N3 was confirmed by atomic mutation, when it was found that the activity of A1 N3C twister ribozyme was virtually undetectable while A1 N1C twister ribozyme actually became faster.</p>
+
+<p>The twister ribozyme has probably the best understood catalytic mechanism at the present time. The observed rate enhancement arises from four contributions [6] :</p>
+<ol>
+  <li>The structure observed in the crystal may be readily remodeled into a conformation that is well aligned for SN2 attack of the O2′ nucleophile on the scissile phosphate in the cleavage reaction.</li>
+  <li>The transition state is stabilized by accepting a hydrogen bond from G33 N2.</li>
+  <li>G33 N1 removes a proton from the O2′ to make it a stronger nucleophile.</li>
+  <li>A1 N3 donates a proton to the O5’ oxyanion leaving group.</li>
+</ol>
+
 <h2 id="reference">Reference</h2>
 
 <hr />
@@ -555,8 +570,7 @@ Gaines, C. S., T. J. Giese and D. M. York <br />
 
 <p><strong>[16] Classification of the nucleolytic ribozymes based upon catalytic mechanism.</strong><br />
 Lilley, D. <br />
-<a href="(https://www.ncbi.nlm.nih.gov/pubmed/
-31489181)">F1000Res 8.(2019)</a><br /><br /></p>
+<a href="(https://www.ncbi.nlm.nih.gov/pubmed/31489181)">F1000Res 8.(2019)</a><br /><br /></p>
 
 <p><strong>[17] Highly efficient expression of circular RNA aptamers in cells using autocatalytic transcripts.</strong><br />
 Litke, J. L. and S. R. Jaffrey <br />

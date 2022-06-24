@@ -1,29 +1,22 @@
----
-layout: post
-title:  "Lariat-capping ribozyme"
-date:   2022-04-18T14:25:52-05:00
-author: 
-categories: ribozyme
----
-**[Rfam ID:RF01807](https://rfam.xfam.org/family/RF01807)** <br>
+I"9<p><strong><a href="https://rfam.xfam.org/family/RF01807">Rfam ID:RF01807</a></strong> <br /></p>
 
+<h4 id="click-into-different-sections">click into different sections:</h4>
 
-#### click into different sections:
+<ul>
+  <li><a href="#timeline">Timeline</a></li>
+  <li><a href="#description">Description</a></li>
+  <li><a href="#structure">Structure</a></li>
+  <li><a href="#reference">Reference</a></li>
+</ul>
 
-- [Timeline](#timeline)
-- [Description](#description)
-- [Structure](#structure)
-- [Reference](#reference)
+<h2 id="timeline">Timeline</h2>
 
-
-## Timeline
-
-***
+<hr />
 <html lang="zh-cn">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title></title>
 
 </head>
@@ -169,7 +162,7 @@ categories: ribozyme
           <div class="timeline-badge warning"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/8124711"  target="_blank" style="font-size:25px;">1994</a> Sequence discovered[1]</h4>
+              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/8124711" target="_blank" style="font-size:25px;">1994</a> Sequence discovered[1]</h4>
             </div>
           </div>
         </li>
@@ -177,7 +170,7 @@ categories: ribozyme
           <div class="timeline-badge primary"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/7556099"  target="_blank" style="font-size:25px;">1995</a> Catalytic RNA element renamed as the group I-like ribozyme, GIR1[2]</h4>
+              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/7556099" target="_blank" style="font-size:25px;">1995</a> Catalytic RNA element renamed as the group I-like ribozyme, GIR1[2]</h4>
             </div>
             <div class="timeline-body">
             </div>
@@ -187,7 +180,7 @@ categories: ribozyme
           <div class="timeline-badge warning"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/16141078"  target="_blank" style="font-size:25px;">2005</a> GIR1 makes tiny lariats[5]</h4>
+              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/16141078" target="_blank" style="font-size:25px;">2005</a> GIR1 makes tiny lariats[5]</h4>
             </div>
           </div>
         </li>
@@ -195,7 +188,7 @@ categories: ribozyme
           <div class="timeline-badge primary"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/18219270"  target="_blank" style="font-size:25px;">2008</a> Molecular modelling of the GIR1 branching ribozyme[6]</h4>
+              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/18219270" target="_blank" style="font-size:25px;">2008</a> Molecular modelling of the GIR1 branching ribozyme[6]</h4>
             </div>
           </div>
         </li>
@@ -203,7 +196,7 @@ categories: ribozyme
           <div class="timeline-badge warning"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/24821772"  target="_blank" style="font-size:25px;">2014</a> Crystal structures of the precleavage and postcleavage lariat-capping ribozymes[7]</h4>
+              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/24821772" target="_blank" style="font-size:25px;">2014</a> Crystal structures of the precleavage and postcleavage lariat-capping ribozymes[7]</h4>
             </div>
           </div>
         </li>
@@ -211,34 +204,36 @@ categories: ribozyme
           <div class="timeline-badge primary"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/28159804"  target="_blank" style="font-size:25px;">2017</a>  Lariat capping as a tool to manipulate the 5' end of mRNA[9]</h4>
+              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/28159804" target="_blank" style="font-size:25px;">2017</a>  Lariat capping as a tool to manipulate the 5' end of mRNA[9]</h4>
             </div>
           </div>
         </li>
     </ul>
 </html>
 
-## Description
-***
+<h2 id="description">Description</h2>
+<hr />
 
-<font size=4></font><br>
+<font size="4"></font>
+<p><br /></p>
 
+<h2 id="structure">Structure</h2>
 
-## Structure
+<hr />
 
-***
+<blockquote>
+  <p>2D representation</p>
+</blockquote>
 
-> 2D representation
-
-Secondary structure diagrams of the active form of the DirLC ribozyme.
+<p>Secondary structure diagrams of the active form of the DirLC ribozyme.</p>
 
 <table><tr>
 <td>
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
     <title>Document</title>
 </head>
 <style>
@@ -272,7 +267,7 @@ Secondary structure diagrams of the active form of the DirLC ribozyme.
         </div>
     </div>
     <script src="https://timmywil.com/panzoom/demo/panzoom.js"></script>
-    <script type='text/javascript'>
+    <script type="text/javascript">
       var zoomWraper1 = document.querySelector(".zoom-wrapper1");
       var panzoom1 = Panzoom(document.querySelector(".zoom-area1"), {
       maxScale: 6
@@ -284,39 +279,41 @@ Secondary structure diagrams of the active form of the DirLC ribozyme.
 </td>
 <td>
 <link rel="stylesheet" type="text/css" href="https://www.ribocentre.org/css/fornac.css" media="screen" />
-<div id='rna_ss'> </div>
+<div id="rna_ss"> </div>
 
-<meta charset="utf-8">
-    <script type='text/javascript' src='https://www.ribocentre.org/js/jquery.js'></script>
-    <script type='text/javascript' src='https://www.ribocentre.org/js/d3.js'></script>
-    <script type='text/javascript' src='https://taolab.atlasbioinfo.com/rsvdb%2Fjs%2Ffornac.js'></script>
+<meta charset="utf-8" />
+    <script type="text/javascript" src="https://www.ribocentre.org/js/jquery.js"></script>
+    <script type="text/javascript" src="https://www.ribocentre.org/js/d3.js"></script>
+    <script type="text/javascript" src="https://taolab.atlasbioinfo.com/rsvdb%2Fjs%2Ffornac.js"></script>
    
     <script type="text/javascript">
       var container = new fornac.FornaContainer("#rna_ss", {'applyForce': 1,'editable':'true', 'initialSize':[450,400]});
 
-      var options = {'structure': '..(((((...(((((..(((((....)))))..)))))..(((((((((...[[[.)))))))))..)))).{{{.{{{{......{{{{{)..((((..(((...]]]))).......))))((....)).....(((((...}}}}}.(((...)))}}}}.}}}....))))).((((....)))).',
+      var options = {'structure': '..(((((...(((((..(((((....)))))..)))))..(((((((((...[[[.)))))))))..)))).}}}.(((...)))}}}}.}}}....))))).((((....)))).',
                      'sequence': 'CAUCCGGUAUCCCAAGACAAUCUUCGGGUUGGGUUGGGAAGUAUCAUGGCUAAUCACCAUGAUGCAAUCGGGUUGAACACUUAAUUGGGUUAAAACGGUGGGGGACGAUCCCGUAACAUCCGUCCUAACGGCGACAGACUGCACGGCCCUGCCUCAGGUGUGUCCAAUGAACAGUCGUUCCGAAAGGAAG'};
 
       container.addRNA(options.structure, options);
   </script></td>
-</tr></table><br>
+</tr></table>
+<p><br /></p>
 
+<blockquote>
+  <p>3D visualisation</p>
+</blockquote>
 
-> 3D visualisation
-
-The crystal structure of DirLCrz. This structure is represented according to the orientation used for group I intron ribozymes with P9 in the upper right corner and P15 (corresponding to P1 and P2 in group I intron ribozymes)
+<p>The crystal structure of DirLCrz. This structure is represented according to the orientation used for group I intron ribozymes with P9 in the upper right corner and P15 (corresponding to P1 and P2 in group I intron ribozymes)</p>
 
 <table><tr>
-<td><img src="https://www.ribocentre.org/images/LCPic/LC3D.png" alt="drawing" style="weight:1000px;height:450px" border=0></td>
+<td><img src="https://www.ribocentre.org/images/LCPic/LC3D.png" alt="drawing" style="weight:1000px;height:450px" border="0" /></td>
 <td>
 <html>
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <title>PDBe Molstar</title>
     <!-- Molstar CSS & JS -->
-    <link rel="stylesheet" type="text/css" href="https://www.ebi.ac.uk/pdbe/pdb-component-library/css/pdbe-molstar-1.2.1.css">
+    <link rel="stylesheet" type="text/css" href="https://www.ebi.ac.uk/pdbe/pdb-component-library/css/pdbe-molstar-1.2.1.css" />
     <script src="https://www.ebi.ac.uk/pdbe/pdb-component-library/js/pdbe-molstar-plugin-1.2.1.js"></script>
         <script>
         function customize()
@@ -368,64 +365,63 @@ The crystal structure of DirLCrz. This structure is represented according to the
   </script>
   </body>
 </html></td>
-</tr></table><br>
+</tr></table>
+<p><br /></p>
 
-> Catalytic centre
+<blockquote>
+  <p>Catalytic centre</p>
+</blockquote>
 
-
-The structure represents a post‐cleavage situation with a distance of 5.1 Å from the nucleophilic O2′group of U232 to the 5′ OH group (the phosphate is lacking in the construct). The presence of an iridium hexamine ion in the vicinity of the lariat fold could indicate the involvement of a metal ion site in catalysis.<br>
+<p>The structure represents a post‐cleavage situation with a distance of 5.1 Å from the nucleophilic O2′group of U232 to the 5′ OH group (the phosphate is lacking in the construct). The presence of an iridium hexamine ion in the vicinity of the lariat fold could indicate the involvement of a metal ion site in catalysis.<br /></p>
 
 <table><tr>
-<td><img src="https://www.ribocentre.org/images/LCPic/LC-m1.png" alt="drawing" style="width:400px" border=1 px></td>
-<td><img src="https://www.ribocentre.org/images/LCPic/LC-m2.png" alt="drawing" style="width:500px;height:300px" border=1 px></td>
-</tr></table><br>
+<td><img src="https://www.ribocentre.org/images/LCPic/LC-m1.png" alt="drawing" style="width:400px" border="1" px="" /></td>
+<td><img src="https://www.ribocentre.org/images/LCPic/LC-m2.png" alt="drawing" style="width:500px;height:300px" border="1" px="" /></td>
+</tr></table>
+<p><br /></p>
 
+<h2 id="reference">Reference</h2>
 
-## Reference
+<hr />
 
-***
+<p><strong>[1] An intron in the nuclear ribosomal DNA of Didymium iridis codes for a group I ribozyme and a novel ribozyme that cooperate in self-splicing.</strong><br />
+Johansen, S. and V. M. Vogt <br />
+<a href="(https://www.ncbi.nlm.nih.gov/pubmed/8124711)">Cell 76(4): 725-734.(1994)</a><br /><br /></p>
 
-**[1] An intron in the nuclear ribosomal DNA of Didymium iridis codes for a group I ribozyme and a novel ribozyme that cooperate in self-splicing.**<br>
-Johansen, S. and V. M. Vogt <br>
-[Cell 76(4): 725-734.(1994)]((https://www.ncbi.nlm.nih.gov/pubmed/8124711))<br><br>
+<p><strong>[2] Two group I ribozymes with different functions in a nuclear rDNA intron.</strong><br />
+Decatur, W. A., C. Einvik, S. Johansen and V. M. Vogt <br />
+<a href="(https://www.ncbi.nlm.nih.gov/pubmed/7556099)">EMBO J 14(18): 4558-4568.(1995)</a><br /><br /></p>
 
-**[2] Two group I ribozymes with different functions in a nuclear rDNA intron.**<br>
-Decatur, W. A., C. Einvik, S. Johansen and V. M. Vogt <br>
-[EMBO J 14(18): 4558-4568.(1995)]((https://www.ncbi.nlm.nih.gov/pubmed/7556099))<br><br>
+<p><strong>[3] DiGIR1 and NaGIR1: naturally occurring group I-like ribozymes with unique core organization and evolved biological role.</strong><br />
+Johansen, S., C. Einvik and H. Nielsen <br />
+<a href="(https://www.ncbi.nlm.nih.gov/pubmed/12458083)">Biochimie 84(9): 905-912.(2002)</a><br /><br /></p>
 
-**[3] DiGIR1 and NaGIR1: naturally occurring group I-like ribozymes with unique core organization and evolved biological role.**<br>
-Johansen, S., C. Einvik and H. Nielsen <br>
-[Biochimie 84(9): 905-912.(2002)]((https://www.ncbi.nlm.nih.gov/pubmed/12458083))<br><br>
+<p><strong>[4] The group I-like ribozyme DiGIR1 mediates alternative processing of pre-rRNA transcripts in Didymium iridis.</strong><br />
+Vader, A., S. Johansen and H. Nielsen <br />
+<a href="(https://www.ncbi.nlm.nih.gov/pubmed/12444968)">Eur J Biochem 269(23): 5804-5812.(2002)</a><br /><br /></p>
 
-**[4] The group I-like ribozyme DiGIR1 mediates alternative processing of pre-rRNA transcripts in Didymium iridis.**<br>
-Vader, A., S. Johansen and H. Nielsen <br>
-[Eur J Biochem 269(23): 5804-5812.(2002)]((https://www.ncbi.nlm.nih.gov/pubmed/12444968))<br><br>
+<p><strong>[5] An mRNA is capped by a 2’, 5’ lariat catalyzed by a group I-like ribozyme.</strong><br />
+Nielsen, H., E. Westhof and S. Johansen <br />
+<a href="(https://www.ncbi.nlm.nih.gov/pubmed/16141078)">Science 309(5740): 1584-1587.(2005)</a><br /><br /></p>
 
-**[5] An mRNA is capped by a 2', 5' lariat catalyzed by a group I-like ribozyme.**<br>
-Nielsen, H., E. Westhof and S. Johansen <br>
-[Science 309(5740): 1584-1587.(2005)]((https://www.ncbi.nlm.nih.gov/pubmed/16141078))<br><br>
+<p><strong>[6] Molecular modelling of the GIR1 branching ribozyme gives new insight into evolution of structurally related ribozymes.</strong><br />
+eckert, B., H. Nielsen, C. Einvik, S. D. Johansen, E. Westhof and B. Masquida <br />
+<a href="(https://www.ncbi.nlm.nih.gov/pubmed/18219270)">EMBO J 27(4): 667-678.(2008)</a><br /><br /></p>
 
-**[6] Molecular modelling of the GIR1 branching ribozyme gives new insight into evolution of structurally related ribozymes.**<br>
-eckert, B., H. Nielsen, C. Einvik, S. D. Johansen, E. Westhof and B. Masquida <br>
-[EMBO J 27(4): 667-678.(2008)]((https://www.ncbi.nlm.nih.gov/pubmed/18219270))<br><br>
+<p><strong>[7] Speciation of a group I intron into a lariat capping ribozyme.</strong><br />
+Meyer, M., H. Nielsen, V. Olieric, P. Roblin, S. D. Johansen, E. Westhof and B. Masquida <br />
+<a href="(https://www.ncbi.nlm.nih.gov/pubmed/24821772)">Proc Natl Acad Sci U S A 111(21): 7659-7664.(2014)</a><br /><br /></p>
 
-**[7] Speciation of a group I intron into a lariat capping ribozyme.**<br>
-Meyer, M., H. Nielsen, V. Olieric, P. Roblin, S. D. Johansen, E. Westhof and B. Masquida <br>
-[Proc Natl Acad Sci U S A 111(21): 7659-7664.(2014)]((https://www.ncbi.nlm.nih.gov/pubmed/24821772))<br><br>
+<p><strong>[8] Molecular characterization of a new member of the lariat capping twin-ribozyme introns.</strong><br />
+Tang, Y., H. Nielsen, B. Masquida, P. P. Gardner and S. D. Johansen <br />
+<a href="(https://www.ncbi.nlm.nih.gov/pubmed/25342998)">Mob DNA 5: 25.(2014)</a><br /><br /></p>
 
-**[8] Molecular characterization of a new member of the lariat capping twin-ribozyme introns.**<br>
-Tang, Y., H. Nielsen, B. Masquida, P. P. Gardner and S. D. Johansen <br>
-[Mob DNA 5: 25.(2014)]((https://www.ncbi.nlm.nih.gov/pubmed/25342998))<br><br>
+<p><strong>[9] Lariat capping as a tool to manipulate the 5’ end of individual yeast mRNA species in vivo.</strong><br />
+Krogh, N., M. Pietschmann, M. Schmid, T. H. Jensen and H. Nielsen <br />
+<a href="(https://www.ncbi.nlm.nih.gov/pubmed/28159804)">RNA 23(5): 683-695.(2017)</a><br /><br /></p>
 
-**[9] Lariat capping as a tool to manipulate the 5' end of individual yeast mRNA species in vivo.**<br>
-Krogh, N., M. Pietschmann, M. Schmid, T. H. Jensen and H. Nielsen <br>
-[RNA 23(5): 683-695.(2017)]((https://www.ncbi.nlm.nih.gov/pubmed/28159804))<br><br>
+<p><strong>[10] Use of a Lariat Capping Ribozyme to Study Cap Function In Vivo.</strong><br />
+Pietschmann, M., G. Tempel, M. Halladjian, N. Krogh and H. Nielsen <br />
+<a href="(https://www.ncbi.nlm.nih.gov/pubmed/32712925)">Methods Mol Biol 2167: 271-285.(2021)</a><br /><br /></p>
 
-**[10] Use of a Lariat Capping Ribozyme to Study Cap Function In Vivo.**<br>
-Pietschmann, M., G. Tempel, M. Halladjian, N. Krogh and H. Nielsen <br>
-[Methods Mol Biol 2167: 271-285.(2021)]((https://www.ncbi.nlm.nih.gov/pubmed/32712925))<br><br>
-
-
-
-
-
+:ET
