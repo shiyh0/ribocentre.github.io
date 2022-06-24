@@ -180,7 +180,7 @@ permalink: /ribozyme/
             <td name="td4"><a href="https://rfam.xfam.org/family/RF04188"><b>RF04188</b></a></td>
             </tr>
             <tr>
-            <td name="td0">LINE-1<a href="https://www.ribocentre.org/docs/Line1.html"><b>Line1</b></a></td>
+            <td name="td0"><a href="https://www.ribocentre.org/docs/Line1.html"><b>LINE-1</b></a></td>
             <td name="td1">The LongInterspersed Nuclear Element-1 (LINE-1) ribozyme is a nucleolytic ribozyme located in the 5′ untranslated region of a LINE-1 retrotransposon.</td>
             <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/16990549"><b>2006</b></a></td>
             <td name="td3">NA</td>
