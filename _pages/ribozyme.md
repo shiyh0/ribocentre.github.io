@@ -76,7 +76,7 @@ permalink: /ribozyme/
                 <th id="th4" onclick="SortTable(this)" class="as">Rfam-ID<span class="arrow asc"></span></th>
             </tr>
             <tr>
-               <td name="td0">Hammerhead</td>
+               <td name="td0"><a href="https://www.ribocentre.org/docs/hammer.html"><b>Hammerhead</b></a></td>
                <td name="td1">The hammerhead ribozyme catalyzes the site‐specific self‐cleavage reaction and is named for the resemblance of early secondary structure diagrams to a hammerhead shark. It serves as a model system for research on the structure and properties of RNA and is used for targeted RNA cleavage experiments, some with proposed therapeutic applications.</td>
                <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/17833317"><b>1986</b> </a></td>
                <td name="td3">
@@ -103,14 +103,14 @@ permalink: /ribozyme/
  <td name="td4"><a href="https://rfam.xfam.org/family/RF00094"><b>RF00094</b></a></td>
             </tr>
             <tr>
-            <td name="td0">HDV-like ribozymes </td>
+            <td name="td0"><a href="https://www.ribocentre.org/docs/HDV-like.html"><b>HDV-like ribozymes</b></a></td>
             <td name="td1">The HDV-like ribozymes are a series of ribozymes structurally and biochemically related to HDV ribozymes. HDV-like ribozymes include the mammalian CPEB3 ribozyme, retrotransposons members and sequences from bacteria.</td>
             <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/16990549"><b>2006</b></a></td>
             <td name="td3">HDV ribozyme from F. prausnitzii</td>
             <td name="td4"><a href="https://rfam.xfam.org/family/RF02682"><b>RF02682</b></a></td>
             </tr>
             <tr>
-            <td name="td0">Hairpin </td>
+            <td name="td0"><a href="https://www.ribocentre.org/docs/Hairpin.html"><b>Hairpin</b></a></td>
             <td name="td1">Hairpin ribozymes initially found in plant RNA viruses catalyze the site‐specific self‐cleavage reaction and consist of four stems in two general domains. The overall secondary structure of this RNA is hairpin-like and named the hairpin ribozyme.</td>
             <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/"><b>1986</b></a></td>
             <td name="td3">
@@ -159,42 +159,42 @@ permalink: /ribozyme/
             <td name="td4"><a href="https://rfam.xfam.org/family/RF00622"><b>RF00622</b></a></td>
             </tr>
             <tr>
-            <td name="td0">Hatchet</td>
+            <td name="td0"><a href="https://www.ribocentre.org/docs/Hatchet.html"><b>Hatchet</b></a></td>
             <td name="td1">The hatchet ribozyme is a nucleolytic ribozyme. </td>
             <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/26167874"><b>2015</b></a></td>
             <td name="td3">Hatchet ribozyme</td>
             <td name="td4"><a href="https://rfam.xfam.org/family/RF02678"><b>RF02678</b></a></td>
             </tr>
             <tr>
-            <td name="td0">Pistol</td>
+            <td name="td0"><a href="https://www.ribocentre.org/docs/Pistol.html"><b>Pistol</b></a></td>
             <td name="td1">The pistol ribozyme is a nucleolytic ribozyme. It was discovered by a bioinformatics strategy as an RNA Associated with Genes Associated with Twister and Hammerhead ribozymes, or RAGATH.</td>
             <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/26167874"><b>2015</b></a></td>
             <td name="td3">Pistol ribozyme</td>
             <td name="td4"><a href="https://rfam.xfam.org/family/RF02679"><b>RF02679</b></a></td>
             </tr>
              <tr>
-            <td name="td0">Hovlinc</td>
+            <td name="td0"><a href="https://www.ribocentre.org/docs/Hovlinc.html"><b>Hovlinc</b></a></td>
             <td name="td1">Hovlinc (hominin vlincRNA-located) is a recently evolved class of ribozyme found in very long intergenic noncoding (vlinc) RNAs of humans. The secondary structure and biochemical properties of this ribozyme indicate that it belongs to an unidentified class of small, self-cleaving ribozymes.</td>
             <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/33753927"><b>2021</b></a></td>
             <td name="td3">Hovlinc ribozyme (hominin vlincRNA-located)</td>
             <td name="td4"><a href="https://rfam.xfam.org/family/RF04188"><b>RF04188</b></a></td>
             </tr>
             <tr>
-            <td name="td0">LINE-1</td>
+            <td name="td0">LINE-1<a href="https://www.ribocentre.org/docs/Line1.html"><b>Line1</b></a></td>
             <td name="td1">The LongInterspersed Nuclear Element-1 (LINE-1) ribozyme is a nucleolytic ribozyme located in the 5′ untranslated region of a LINE-1 retrotransposon.</td>
             <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/16990549"><b>2006</b></a></td>
             <td name="td3">NA</td>
             <td name="td4"><a href="https://rfam.xfam.org/family/"><b>NA</b></a></td>
             </tr>
             <tr>
-            <td name="td0">COTC ribozyme（Beta-globin co-transcriptional cleavage ribozyme）</td>
+            <td name="td0"><a href="https://www.ribocentre.org/docs/Line1.html"><b>COTC ribozyme(Beta-globin co-transcriptional cleavage ribozyme)</b></a></td>
             <td name="td1">Beta-globin co-transcriptional cleavage ribozyme (COTC ribozyme) is considered to be involved in β- RNA self-cleavage activity in the 3' flanking region of the globin gene. However, these findings have not been independently confirmed, and subsequent analysis has failed to prove the activity of the ribozyme.</td>
             <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/15565159"><b>2004</b></a></td>
             <td name="td3">Beta-globin co-transcriptional cleavage ribozyme</td>
             <td name="td4"><a href="https://rfam.xfam.org/family/RF00621"><b>RF00621</b></a></td>
             </tr>
             <tr>
-            <td name="td0">Manganese dependent ribozyme in Vg1 mRNA</td>
+            <td name="td0"><a href="https://www.ribocentre.org/docs/Vg1.html"><b>Manganese dependent ribozyme in Vg1 mRNA</b></a></td>
             <td name="td1">The Vg1 ribozyme is the smallest ribozyme to be identified which is a manganese-dependent ribozyme. The Vg1 ribozyme catalyzes a first-order reaction where its mechanism of cleavage is similar to the manganese ribozyme present in Tetrahymena group I introns.</td>
             <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/18753150"><b>2008</b></a></td>
             <td name="td3">Manganese dependent ribozyme in Vg1 mRNA</td>
@@ -211,14 +211,14 @@ permalink: /ribozyme/
                 <td name="td4"><a href="https://rfam.xfam.org/family/RF01807"><b>RF01807</b></a></td>
            </tr>
            <tr>
-           <td name="td0">Lariat capping ribozyme</td>
+           <td name="td0"><a href="https://www.ribocentre.org/docs/LC-ribozyme.html"><b>Lariat capping ribozyme</b></a></td>
 <td name="td1">The Lariat capping ribozyme is a ~180 nt ribozyme with an apparent resemblance to a group I ribozyme. It is found within a complex type of group I introns, also termed twin-ribozyme introns. It catalyses a branching reaction in which the 2'OH of an internal residue is involved in a nucleophilic attack at a nearby phosphodiester bond. </td>
 <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/12458083"><b>2002</b></a></td>
 <td name="td3">GIR1 branching ribozyme</td>
 <td name="td4"><a href="https://rfam.xfam.org/family/RF01807"><b>RF01807</b></a></td>
            </tr>
            <tr>
-           <td name="td0">A natural ribozyme with 3′,5′ RNA ligase activity</td>
+           <td name="td0"><a href="https://www.ribocentre.org/docs/nature-ribozyme.html"><b>A natural ribozyme with 3′,5′ RNA ligase activity</b></a></td>
 <td name="td1">Group I intron from the cyanobacterium Anabaena sp. PCC 7120 catalyzes phosphodiester bond formation using a triphosphate on the 5′-terminal nucleotide, like protein polymerases and engineered ribozymes. This ribozyme forms a unique circular RNA that incorporates the exogenous guanosine cofactor added during self-splicing.</td>
 <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/19125157"><b>2009</b></a></td>
 <td name="td3">NA</td>
@@ -232,7 +232,7 @@ permalink: /ribozyme/
 <td name="td4"><a href="https://rfam.xfam.org/family/"><b>NA</b></a></td>
            </tr>
            <tr>
-           <td name="td0">RNase P</td>
+           <td name="td0"><a href="https://www.ribocentre.org/docs/RNaseP.html"><b>RNase P</b></a></td>
 <td name="td1">Ribonuclease (RNase) P is a ribozyme responsible for processing the 5′-leader of precursor transfer RNA (pre-tRNA) and is widely distributed in all three kingdoms of life: Archaea, Bacteria and Eucarya. RNase P is a ribonucleoprotein (RNP) complex consisting of catalytic RNA and one or more protein components.</td>
 <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/4938965"><b>1971</b></a></td>
 <td name="td3">
@@ -256,7 +256,7 @@ RNaseP truncated form</td>
 <td name="td4"><a href="https://rfam.xfam.org/family/"><b>NA</b></a></td>
            </tr>
            <tr>
-           <td name="td0">Spliceosome</td>
+           <td name="td0"><a href="https://www.ribocentre.org/docs/Spliceosome.html"><b>Spliceosome</b></a></td>
 <td name="td1">The spliceosome is a highly dynamic and heterogeneous metal ribozyme; During the splicing reaction, the dynamic spliceosome has an immobile core of about 20 protein and RNA components, which are organized around a conserved splicing active site. The divalent metal ions, coordinated by U6 small nuclear RNA (snRNA), catalyze the branching reaction and exon ligation.</td>
 <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/902310"><b>1977</b></a></td>
 <td name="td3"> snRNA</td>

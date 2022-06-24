@@ -267,7 +267,7 @@ Secondary structure diagrams of the active form of the DirLC ribozyme.
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="http://127.0.0.1:4000/images/LCPic/LC2D.svg" alt="drawing" style="width:135px;height:140px" />
+                <img src="https://www.ribocentre.org/images/LCPic/LC2D.svg" alt="drawing" style="width:135px;height:140px" />
             </div>
         </div>
     </div>
@@ -307,7 +307,7 @@ Secondary structure diagrams of the active form of the DirLC ribozyme.
 The crystal structure of DirLCrz. This structure is represented according to the orientation used for group I intron ribozymes with P9 in the upper right corner and P15 (corresponding to P1 and P2 in group I intron ribozymes)
 
 <table><tr>
-<td><img src="http://127.0.0.1:4000/images/LCPic/LC3D.png" alt="drawing" style="weight:1000px;height:450px" border=0></td>
+<td><img src="https://www.ribocentre.org/images/LCPic/LC3D.png" alt="drawing" style="weight:1000px;height:450px" border=0></td>
 <td>
 <html>
   <head>
@@ -376,8 +376,8 @@ The crystal structure of DirLCrz. This structure is represented according to the
 The structure represents a post‐cleavage situation with a distance of 5.1 Å from the nucleophilic O2′group of U232 to the 5′ OH group (the phosphate is lacking in the construct). The presence of an iridium hexamine ion in the vicinity of the lariat fold could indicate the involvement of a metal ion site in catalysis.<br>
 
 <table><tr>
-<td><img src="http://127.0.0.1:4000/images/LCPic/LC-m1.png" alt="drawing" style="width:400px" border=1 px></td>
-<td><img src="http://127.0.0.1:4000/images/LCPic/LC-m2.png" alt="drawing" style="width:500px;height:300px" border=1 px></td>
+<td><img src="https://www.ribocentre.org/images/LCPic/LC-m1.png" alt="drawing" style="width:400px" border=1 px></td>
+<td><img src="https://www.ribocentre.org/images/LCPic/LC-m2.png" alt="drawing" style="width:500px;height:300px" border=1 px></td>
 </tr></table><br>
 
 
