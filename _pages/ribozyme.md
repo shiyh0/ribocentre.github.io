@@ -76,7 +76,7 @@ permalink: /ribozyme/
                 <th id="th4" onclick="SortTable(this)" class="as">Rfam-ID<span class="arrow asc"></span></th>
             </tr>
             <tr>
-               <td name="td0">Hammerhead</td>
+               <td name="td0"><a href="https://www.ribocentre.org/docs/hammer.html"><b>Hammerhead</b></a></td>
                <td name="td1">The hammerhead ribozyme catalyzes the site‐specific self‐cleavage reaction and is named for the resemblance of early secondary structure diagrams to a hammerhead shark. It serves as a model system for research on the structure and properties of RNA and is used for targeted RNA cleavage experiments, some with proposed therapeutic applications.</td>
                <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/17833317"><b>1986</b> </a></td>
                <td name="td3">
@@ -103,14 +103,15 @@ permalink: /ribozyme/
  <td name="td4"><a href="https://rfam.xfam.org/family/RF00094"><b>RF00094</b></a></td>
             </tr>
             <tr>
-            <td name="td0">HDV-like ribozymes </td>
+            <td name="td0"><a href="https://www.ribocentre.org/docs/HDV-like.html"><b>HDV-like ribozymes</b></a></td>
             <td name="td1">The HDV-like ribozymes are a series of ribozymes structurally and biochemically related to HDV ribozymes. HDV-like ribozymes include the mammalian CPEB3 ribozyme, retrotransposons members and sequences from bacteria.</td>
             <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/16990549"><b>2006</b></a></td>
             <td name="td3">HDV ribozyme from F. prausnitzii</td>
             <td name="td4"><a href="https://rfam.xfam.org/family/RF02682"><b>RF02682</b></a></td>
             </tr>
             <tr>
-            <td name="td0">Hairpin </td>
+            <tr>
+            <td name="td0"><a href="https://www.ribocentre.org/docs/Hairpin.html"><b>Hairpin</b></a></td>
             <td name="td1">Hairpin ribozymes initially found in plant RNA viruses catalyze the site‐specific self‐cleavage reaction and consist of four stems in two general domains. The overall secondary structure of this RNA is hairpin-like and named the hairpin ribozyme.</td>
             <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/"><b>1986</b></a></td>
             <td name="td3">
@@ -156,17 +157,17 @@ permalink: /ribozyme/
             <td name="td1">The twister sister ribozyme (TS) is a nucleolytic ribozyme. It has a possible structural similarity to twister ribozymes. Some striking similarities were noted, but also surprising differences, such as the absence of the two pseudoknot interactions in the twister ribozyme.</td>
             <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/26167874"><b>2015</b></a></td>
             <td name="td3">Twister_sister_ribozyme</td>
-            <td name="td4"><a href="https://rfam.xfam.org/family/RF00622"><b>RF00622</b></a></td>
+            <td name="td4"><a href="https://rfam.xfam.org/family/RF02681"><b>RF02681</b></a></td>
             </tr>
             <tr>
-            <td name="td0">Hatchet</td>
+            <td name="td0"><a href="https://www.ribocentre.org/docs/Hatchet.html"><b>Hatchet</b></a></td>
             <td name="td1">The hatchet ribozyme is a nucleolytic ribozyme. </td>
             <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/26167874"><b>2015</b></a></td>
             <td name="td3">Hatchet ribozyme</td>
             <td name="td4"><a href="https://rfam.xfam.org/family/RF02678"><b>RF02678</b></a></td>
             </tr>
             <tr>
-            <td name="td0">Pistol</td>
+            <td name="td0"><a href="https://www.ribocentre.org/docs/Pistol.html"><b>Pistol</b></a></td>
             <td name="td1">The pistol ribozyme is a nucleolytic ribozyme. It was discovered by a bioinformatics strategy as an RNA Associated with Genes Associated with Twister and Hammerhead ribozymes, or RAGATH.</td>
             <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/26167874"><b>2015</b></a></td>
             <td name="td3">Pistol ribozyme</td>
@@ -198,7 +199,7 @@ permalink: /ribozyme/
             <td name="td1">The Vg1 ribozyme is the smallest ribozyme to be identified which is a manganese-dependent ribozyme. The Vg1 ribozyme catalyzes a first-order reaction where its mechanism of cleavage is similar to the manganese ribozyme present in Tetrahymena group I introns.</td>
             <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/18753150"><b>2008</b></a></td>
             <td name="td3">Manganese dependent ribozyme in Vg1 mRNA</td>
-            <td name="td4"><a href="https://rfam.xfam.org/family/RF00622"><b>RF00622</b></a></td>
+            <td name="td4"><a href="https://rfam.xfam.org/family/RF01865"><b>RF01865</b></a></td>
             </tr>
             <tr>
             <td colspan="5"> </td>
@@ -211,9 +212,9 @@ permalink: /ribozyme/
                 <td name="td4"><a href="https://rfam.xfam.org/family/RF01807"><b>RF01807</b></a></td>
            </tr>
            <tr>
-           <td name="td0">Lariat capping ribozyme</td>
+           <td name="td0"><a href="https://www.ribocentre.org/docs/LC-ribozyme.html"><b>Lariat capping ribozyme</b></a></td>
 <td name="td1">The Lariat capping ribozyme is a ~180 nt ribozyme with an apparent resemblance to a group I ribozyme. It is found within a complex type of group I introns, also termed twin-ribozyme introns. It catalyses a branching reaction in which the 2'OH of an internal residue is involved in a nucleophilic attack at a nearby phosphodiester bond. </td>
-<td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/12458083"><b>2002</b></a></td>
+<td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/7556099"><b>1995</b></a></td>
 <td name="td3">GIR1 branching ribozyme</td>
 <td name="td4"><a href="https://rfam.xfam.org/family/RF01807"><b>RF01807</b></a></td>
            </tr>
