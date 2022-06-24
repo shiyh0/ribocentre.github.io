@@ -432,6 +432,12 @@ categories: ribozyme
 <td><img src="https://www.ribocentre.org/images/VS_ribozymePic/vs-m2.png" alt="drawing" style="weight:600px;height:370px" border=0></td>
 </tr></table><br>
 
+
+> Chemical mechanism
+
+The VS ribozyme employs general acid-base catalysis, using the nucleobases of G638 (in its deprotonated form)[10] as general base to remove the proton from the 2’-OH nucleophile and A756 (in its protonated form)[4,7] as the general acid to protonate the leaving group. The pH - rate profile for the VS ribozyme is bell shaped, fitting pKa values of 5.2 and 8.4 corresponding to A756 and G638 respectively [10]. The acid and base were assigned by 5'-phosphorothiolate substitution experiments [13].  The pH dependence of a VS G638DAP ribozyme cleavage reaction indicated that proton transfer contributes at least 102-103 fold to the catalytic power of the ribozyme[10]. When the crystal structure of the VS ribozyme was eventually solved it was found that G638 and A756 were adjacent to the O2' and O5' atoms respectively, consistent with their proposed roles in catalysis[18]. Note that despite different overall RNA folds, the catalytic mechanisms of the VS and hairpin ribozymes are closely similar, both using G (general base) + A (general acid) mechanisms. 
+
+
 ## Reference
 
 ***
@@ -462,8 +468,7 @@ D.A. Lafontaine, D.G. Norman and D. M.J. Lilley<br>
 
 **[7] Functional Group Requirements in the Probable Active Site of the VS Ribozyme.**<br>
 Lafontaine, D. A., T. J. Wilson, Z.-Y. Zhao and D. M. J. Lilley <br>
-[Journal of Molecular Biology 323(1): 23-34.
-(2002)]((https://www.ncbi.nlm.nih.gov/pubmed/12368096))<br><br>
+[Journal of Molecular Biology 323(1): 23-34.(2002)]((https://www.ncbi.nlm.nih.gov/pubmed/12368096))<br><br>
 
 **[8] Efficient, pH-dependent RNA ligation by the VS ribozyme in trans**<br>
 A.C. McLeod and D.M.J. Lilley<br>

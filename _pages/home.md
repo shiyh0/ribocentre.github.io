@@ -23,22 +23,29 @@ permalink: /
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
+        <li data-target="#carousel" data-slide-to="4"></li>
+        <li data-target="#carousel" data-slide-to="5"></li>
     </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/vs.png" alt="Slide 1" style="height:400px;"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/VS_Home.png" alt="Slide 1" style="height:400px;"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/twister.png" alt="Slide 2" style="height:400px;"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/HDV_Home.png" alt="Slide 2" style="height:400px;"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/glms.png" alt="Slide 3" style="height:400px;"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/GlmS_Home.png" alt="Slide 3" style="height:400px;"/>
         </div>
-
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/HDV.png" alt="Slide 4" style="height:400px;"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/Hairpin_Home.png" alt="Slide 4" style="height:400px;"/>
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/Twister_Home.png" alt="Slide 5" style="height:400px;"/>
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/Twister-sister_Home.png" alt="Slide 6" style="height:400px;"/>
         </div>
 
     </div>
@@ -55,4 +62,6 @@ permalink: /
 <div id="ribozymewikisection1"></div>
 <div id="ribozymewikisection2"></div>
 <div id="ribozymewikisection3"></div>
+<div id="ribozymewikisection4"></div>
+<div id="ribozymewikisection5"></div>
 
