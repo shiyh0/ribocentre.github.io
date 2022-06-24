@@ -156,7 +156,7 @@ permalink: /ribozyme/
             <td name="td1">The twister sister ribozyme (TS) is a nucleolytic ribozyme. It has a possible structural similarity to twister ribozymes. Some striking similarities were noted, but also surprising differences, such as the absence of the two pseudoknot interactions in the twister ribozyme.</td>
             <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/26167874"><b>2015</b></a></td>
             <td name="td3">Twister_sister_ribozyme</td>
-            <td name="td4"><a href="https://rfam.xfam.org/family/RF00622"><b>RF00622</b></a></td>
+            <td name="td4"><a href="https://rfam.xfam.org/family/RF02681"><b>RF02681</b></a></td>
             </tr>
             <tr>
             <td name="td0"><a href="https://www.ribocentre.org/docs/Hatchet.html"><b>Hatchet</b></a></td>
@@ -198,7 +198,7 @@ permalink: /ribozyme/
             <td name="td1">The Vg1 ribozyme is the smallest ribozyme to be identified which is a manganese-dependent ribozyme. The Vg1 ribozyme catalyzes a first-order reaction where its mechanism of cleavage is similar to the manganese ribozyme present in Tetrahymena group I introns.</td>
             <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/18753150"><b>2008</b></a></td>
             <td name="td3">Manganese dependent ribozyme in Vg1 mRNA</td>
-            <td name="td4"><a href="https://rfam.xfam.org/family/RF00622"><b>RF00622</b></a></td>
+            <td name="td4"><a href="https://rfam.xfam.org/family/RF01865"><b>RF01865</b></a></td>
             </tr>
             <tr>
             <td colspan="5"> </td>
@@ -213,7 +213,7 @@ permalink: /ribozyme/
            <tr>
            <td name="td0"><a href="https://www.ribocentre.org/docs/LC-ribozyme.html"><b>Lariat capping ribozyme</b></a></td>
 <td name="td1">The Lariat capping ribozyme is a ~180 nt ribozyme with an apparent resemblance to a group I ribozyme. It is found within a complex type of group I introns, also termed twin-ribozyme introns. It catalyses a branching reaction in which the 2'OH of an internal residue is involved in a nucleophilic attack at a nearby phosphodiester bond. </td>
-<td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/12458083"><b>2002</b></a></td>
+<td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/7556099"><b>1995</b></a></td>
 <td name="td3">GIR1 branching ribozyme</td>
 <td name="td4"><a href="https://rfam.xfam.org/family/RF01807"><b>RF01807</b></a></td>
            </tr>
