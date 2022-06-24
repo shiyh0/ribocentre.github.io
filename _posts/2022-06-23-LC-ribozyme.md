@@ -290,14 +290,15 @@ Secondary structure diagrams of the active form of the DirLC ribozyme.
     <script type='text/javascript' src='https://www.ribocentre.org/js/jquery.js'></script>
     <script type='text/javascript' src='https://www.ribocentre.org/js/d3.js'></script>
     <script type='text/javascript' src='https://taolab.atlasbioinfo.com/rsvdb%2Fjs%2Ffornac.js'></script>
-    <!--<script type='text/javascript' src='https://www.ribocentre.org/js/forna/fornac.js'></script>-->
-    <script type='text/javascript'>
-        var container = new fornac.FornaContainer("#rna_ss", {'applyForce': true,
-         allowPanningAndZooming: false,  'initialSize':[450,400]});
-        var options = {'structure': '..(((((...(((((..(((((....)))))..)))))..(((((((((...[[[.)))))))))..)))).{{{.{{{{......{{{{{)..((((..(((...]]]))).......))))((....)).....(((((...}}}}}.(((...)))}}}}.}}}....))))).((((....)))).',
-                       'sequence': 'CAUCCGGUAUCCCAAGACAAUCUUCGGGUUGGGUUGGGAAGUAUCAUGGCUAAUCACCAUGAUGCAAUCGGGUUGAACACUUAAUUGGGUUAAAACGGUGGGGGACGAUCCCGUAACAUCCGUCCUAACGGCGACAGACUGCACGGCCCUGCCUCAGGUGUGUCCAAUGAACAGUCGUUCCGAAAGGAAG'};
-        container.addRNA(options.structure, options);
-    </script></td>
+   
+    <script type="text/javascript">
+      var container = new fornac.FornaContainer("#rna_ss", {'applyForce': 1,'editable':'true', 'initialSize':[450,400]});
+
+      var options = {'structure': '..(((((...(((((..(((((....)))))..)))))..(((((((((...[[[.)))))))))..)))).{{{.{{{{......{{{{{)..((((..(((...]]]))).......))))((....)).....(((((...}}}}}.(((...)))}}}}.}}}....))))).((((....)))).',
+                     'sequence': 'CAUCCGGUAUCCCAAGACAAUCUUCGGGUUGGGUUGGGAAGUAUCAUGGCUAAUCACCAUGAUGCAAUCGGGUUGAACACUUAAUUGGGUUAAAACGGUGGGGGACGAUCCCGUAACAUCCGUCCUAACGGCGACAGACUGCACGGCCCUGCCUCAGGUGUGUCCAAUGAACAGUCGUUCCGAAAGGAAG'};
+
+      container.addRNA(options.structure, options);
+  </script></td>
 </tr></table><br>
 
 
