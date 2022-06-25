@@ -425,7 +425,7 @@ categories: ribozyme
 </html></td>
 </tr></table><br>
 
-> catalytic centre
+> Catalytic centre
 
 <table><tr>
 <td><img src="https://www.ribocentre.org/images/VS_ribozymePic/vs-m1.png" alt="drawing" style="weight:600px;height:370px" border=0></td>

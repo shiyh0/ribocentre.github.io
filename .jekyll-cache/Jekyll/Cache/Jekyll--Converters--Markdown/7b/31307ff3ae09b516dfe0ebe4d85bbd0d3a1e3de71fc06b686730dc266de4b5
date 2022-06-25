@@ -1,31 +1,22 @@
----
-layout: post
-title:  "Hatchet"
-date:   2022-04-18T14:25:52-05:00
-author: Chichau Miao
-categories: ribozyme
----
+I"24<p><strong>Rfam ID: <a href="https://rfam.xfam.org/family/RF02678">RF02678</a></strong> <br /></p>
 
-**Rfam ID: [RF02678](https://rfam.xfam.org/family/RF02678)** <br>
+<h4 id="click-into-different-sections">click into different sections:</h4>
 
+<ul>
+  <li><a href="#timeline">Timeline</a></li>
+  <li><a href="#description">Description</a></li>
+  <li><a href="#structure">Structure</a></li>
+  <li><a href="#reference">Reference</a></li>
+</ul>
 
-#### click into different sections:
+<h2 id="timeline">Timeline</h2>
 
-- [Timeline](#timeline)
-- [Description](#description)
-- [Structure](#structure)
-- [Reference](#reference)
-
-
-
-## Timeline
-
-***
+<hr />
 <html lang="zh-cn">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title></title>
 
 </head>
@@ -172,7 +163,7 @@ categories: ribozyme
           <div class="timeline-badge warning"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/26167874" target="_blank" style="font-size:25px;" >2015</a> Discovery, Secondary structure[1]</h4>
+              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/26167874" target="_blank" style="font-size:25px;">2015</a> Discovery, Secondary structure[1]</h4>
             </div>
           </div>
         </li>
@@ -190,7 +181,7 @@ categories: ribozyme
           <div class="timeline-badge warning"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/29924364" target="_blank" style="font-size:25px;" >2018</a> SHAPE probing of pre-catalytic folds of hatchet ribozyme[3]</h4>
+              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/29924364" target="_blank" style="font-size:25px;">2018</a> SHAPE probing of pre-catalytic folds of hatchet ribozyme[3]</h4>
             </div>
           </div>
         </li>
@@ -198,7 +189,7 @@ categories: ribozyme
           <div class="timeline-badge primary"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/31088965"  target="_blank" style="font-size:25px;">2019</a> Crystal structure and cleavage mechanism[4]</h4>
+              <h4 class="timeline-title"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/31088965" target="_blank" style="font-size:25px;">2019</a> Crystal structure and cleavage mechanism[4]</h4>
             </div>
           </div>
         </li>
@@ -206,29 +197,30 @@ categories: ribozyme
 
 </html>
 
+<h2 id="description">Description</h2>
 
-## Description
+<hr />
 
-***
+<font size="4">The hatchet ribozyme is an RNA structure that catalyzes its own cleavage at a specific site. In other words, it is a self-cleaving ribozyme. Hatchet ribozymes were discovered by a bioinformatics strategy as RNAs Associated with Genes Associated with Twister and Hammerhead ribozymes, or RAGATH. The consensus sequence and secondary structure of this class includes 13 highly conserved and numerous other modestly conserved nucleotides inter-dispersed among bulges linking four base-paired substructures. A representative hatchet ribozyme requires divalent cations such as Mg2+ to promote RNA strand scission with a maximum rate constant of ~4/min. As with all other small self-cleaving ribozymes discovered to date, hatchet ribozymes employ a general mechanism for catalysis consisting of a nucleophilic attack of a ribose 2′-oxygen atom on the adjacent phosphorus center. Kinetic characteristics of the reaction demonstrate that members of this ribozyme class have an essential requirement for divalent metal cations and that they have a complex active site which employs multiple catalytic strategies to accelerate RNA cleavage by internal phosphoester transfer.</font>
+<p><br /></p>
 
-<font size=4>The hatchet ribozyme is an RNA structure that catalyzes its own cleavage at a specific site. In other words, it is a self-cleaving ribozyme. Hatchet ribozymes were discovered by a bioinformatics strategy as RNAs Associated with Genes Associated with Twister and Hammerhead ribozymes, or RAGATH. The consensus sequence and secondary structure of this class includes 13 highly conserved and numerous other modestly conserved nucleotides inter-dispersed among bulges linking four base-paired substructures. A representative hatchet ribozyme requires divalent cations such as Mg2+ to promote RNA strand scission with a maximum rate constant of ~4/min. As with all other small self-cleaving ribozymes discovered to date, hatchet ribozymes employ a general mechanism for catalysis consisting of a nucleophilic attack of a ribose 2′-oxygen atom on the adjacent phosphorus center. Kinetic characteristics of the reaction demonstrate that members of this ribozyme class have an essential requirement for divalent metal cations and that they have a complex active site which employs multiple catalytic strategies to accelerate RNA cleavage by internal phosphoester transfer.</font><br>
+<h2 id="structure">Structure</h2>
 
+<hr />
 
-## Structure
+<blockquote>
+  <p>2D representation</p>
+</blockquote>
 
-***
-
-> 2D representation
-
-Secondary structure of the Hatchet ribozyme. The sequence is color coded according to helical segments observed in the tertiary structure.
+<p>Secondary structure of the Hatchet ribozyme. The sequence is color coded according to helical segments observed in the tertiary structure.</p>
 
 <table><tr>
 <td>
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
     <title>Document</title>
 </head>
 <style>
@@ -262,7 +254,7 @@ Secondary structure of the Hatchet ribozyme. The sequence is color coded accordi
         </div>
     </div>
     <script src="https://timmywil.com/panzoom/demo/panzoom.js"></script>
-    <script type='text/javascript'>
+    <script type="text/javascript">
       var zoomWraper1 = document.querySelector(".zoom-wrapper1");
       var panzoom1 = Panzoom(document.querySelector(".zoom-area1"), {
       maxScale: 6
@@ -275,13 +267,13 @@ Secondary structure of the Hatchet ribozyme. The sequence is color coded accordi
 <td>
 <link rel="stylesheet" type="text/css" href="https://www.ribocentre.org/css/fornac.css" media="screen" />
 
-<div id='multi_ss'> </div>
+<div id="multi_ss"> </div>
     
        
-<meta charset="utf-8">
-    <script type='text/javascript' src='https://www.ribocentre.org/js/jquery.js'></script>
-    <script type='text/javascript' src='https://www.ribocentre.org/js/d3.js'></script>
-    <script type='text/javascript' src='https://taolab.atlasbioinfo.com/rsvdb%2Fjs%2Ffornac.js'></script>
+<meta charset="utf-8" />
+    <script type="text/javascript" src="https://www.ribocentre.org/js/jquery.js"></script>
+    <script type="text/javascript" src="https://www.ribocentre.org/js/d3.js"></script>
+    <script type="text/javascript" src="https://taolab.atlasbioinfo.com/rsvdb%2Fjs%2Ffornac.js"></script>
     <script type="text/javascript">
      "use strict"
      function multiContainer() {
@@ -295,24 +287,26 @@ Secondary structure of the Hatchet ribozyme. The sequence is color coded accordi
    </script>
 
 </td>
-</tr></table><br>
+</tr></table>
+<p><br /></p>
 
-> 3D visualisation
+<blockquote>
+  <p>3D visualisation</p>
+</blockquote>
 
- 
-Crystal structure of the Hatchet ribozyme. This representation was generated from PDB ID: 6JQ5 at 2.06 Å resolution. Helices are differentiated by color. 
+<p>Crystal structure of the Hatchet ribozyme. This representation was generated from PDB ID: 6JQ5 at 2.06 Å resolution. Helices are differentiated by color.</p>
 
 <table><tr>
-<td><img src="https://www.ribocentre.org/images/HatchetPic/Hatchet3D.png" alt="drawing" style="height:310px" border=0></td>
+<td><img src="https://www.ribocentre.org/images/HatchetPic/Hatchet3D.png" alt="drawing" style="height:310px" border="0" /></td>
 <td>
 <html>
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <title>PDBe Molstar</title>
     <!-- Molstar CSS & JS -->
-    <link rel="stylesheet" type="text/css" href="https://www.ebi.ac.uk/pdbe/pdb-component-library/css/pdbe-molstar-1.2.1.css">
+    <link rel="stylesheet" type="text/css" href="https://www.ebi.ac.uk/pdbe/pdb-component-library/css/pdbe-molstar-1.2.1.css" />
     <script src="https://www.ebi.ac.uk/pdbe/pdb-component-library/js/pdbe-molstar-plugin-1.2.1.js"></script>
         <script>
         function customize()
@@ -364,46 +358,43 @@ Crystal structure of the Hatchet ribozyme. This representation was generated fro
   </script>
   </body>
 </html></td>
-</tr></table><br>
+</tr></table>
+<p><br /></p>
 
+<blockquote>
+  <p>Catalytic centre</p>
+</blockquote>
 
-> Catalytic centre
-
-The proposed model of the cleavage site of the Hatchet ribozyme. The modeled in-line alignment conformation indicates the potential nucleotides that may contribute to general base and general acid catalysis in the cleavage process.
+<p>The proposed model of the cleavage site of the Hatchet ribozyme. The modeled in-line alignment conformation indicates the potential nucleotides that may contribute to general base and general acid catalysis in the cleavage process.</p>
 
 <table><tr>
-<td><img src="https://www.ribocentre.org/images/HatchetPic/Hatchet-m1.png" alt="drawing" style="width:900px;height:340px" ></td>
+<td><img src="https://www.ribocentre.org/images/HatchetPic/Hatchet-m1.png" alt="drawing" style="width:900px;height:340px" /></td>
 
-</tr></table><br>
+</tr></table>
+<p><br /></p>
 
+<h2 id="reference">Reference</h2>
 
-## Reference
+<hr />
 
-***
+<p><strong>[1] New classes of self-cleaving ribozymes revealed by comparative genomics analysis.</strong><br />
+Weinberg, Z., P. B. Kim, T. H. Chen, S. Li, K. A. Harris, C. E. Lunse and R. R. Breaker <br /> . 
+<a href="(https://www.ncbi.nlm.nih.gov/pubmed/26167874)">Nat Chem Biol 11(8): 606-10.(2015)</a><br /><br /></p>
 
-**[1] New classes of self-cleaving ribozymes revealed by comparative genomics analysis.**<br>
-Weinberg, Z., P. B. Kim, T. H. Chen, S. Li, K. A. Harris, C. E. Lunse and R. R. Breaker <br> . 
-[Nat Chem Biol 11(8): 606-10.(2015)]((https://www.ncbi.nlm.nih.gov/pubmed/26167874))<br><br>
- 
-**[2] Biochemical analysis of hatchet self-cleaving ribozymes.**<br>
-Li, S., C. E. Lunse, K. A. Harris and R. R. Breaker  <br> 
-[RNA 21(11): 1845-51.(2015)((https://www.ncbi.nlm.nih.gov/pubmed/26385510)])<br><br>
+<p><strong>[2] Biochemical analysis of hatchet self-cleaving ribozymes.</strong><br />
+Li, S., C. E. Lunse, K. A. Harris and R. R. Breaker  <br /> 
+[RNA 21(11): 1845-51.(2015)((https://www.ncbi.nlm.nih.gov/pubmed/26385510)])<br /><br /></p>
 
-**[3] SHAPE probing pictures Mg2+-dependent folding of small self-cleaving ribozymes.**<br>
-Gasser, C., J. Gebetsberger, M. Gebetsberger and R. Micura <br> 
-[Nucleic Acids Res 46(14): 6983-6995.(2018)((https://www.ncbi.nlm.nih.gov/pubmed/29924364))<br><br>
+<p><strong>[3] SHAPE probing pictures Mg2+-dependent folding of small self-cleaving ribozymes.</strong><br />
+Gasser, C., J. Gebetsberger, M. Gebetsberger and R. Micura <br /> 
+[Nucleic Acids Res 46(14): 6983-6995.(2018)((https://www.ncbi.nlm.nih.gov/pubmed/29924364))<br /><br /></p>
 
-**[4] Hatchet ribozyme structure and implications for cleavage mechanism.**<br>
-Zheng, L., C. Falschlunger, K. Huang, E. Mairhofer, S. Yuan, J. Wang, D. J. Patel, R. Micura and A. Ren  <br> 
-[Proc Natl Acad Sci U S A 116(22): 10783-10791.(2018)]((https://www.ncbi.nlm.nih.gov/pubmed/31088965))<br><br>
+<p><strong>[4] Hatchet ribozyme structure and implications for cleavage mechanism.</strong><br />
+Zheng, L., C. Falschlunger, K. Huang, E. Mairhofer, S. Yuan, J. Wang, D. J. Patel, R. Micura and A. Ren  <br /> 
+<a href="(https://www.ncbi.nlm.nih.gov/pubmed/31088965)">Proc Natl Acad Sci U S A 116(22): 10783-10791.(2018)</a><br /><br /></p>
 
-**[5] Fundamental studies of functional nucleic acids: aptamers, riboswitches, ribozymes and DNAzymes.**<br>
-Micura, R. and C. Hobartner  <br>
-[Chem Soc Rev 49(20): 7331-7353.(2020)]((https://www.ncbi.nlm.nih.gov/pubmed/32944725))<br><br>
+<p><strong>[5] Fundamental studies of functional nucleic acids: aptamers, riboswitches, ribozymes and DNAzymes.</strong><br />
+Micura, R. and C. Hobartner  <br />
+<a href="(https://www.ncbi.nlm.nih.gov/pubmed/32944725)">Chem Soc Rev 49(20): 7331-7353.(2020)</a><br /><br /></p>
 
-
-
-
-
-
-
+:ET
