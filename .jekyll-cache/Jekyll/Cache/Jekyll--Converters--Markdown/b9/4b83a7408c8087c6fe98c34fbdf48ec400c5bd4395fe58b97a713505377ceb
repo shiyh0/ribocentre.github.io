@@ -1,22 +1,16 @@
----
-title: "Ribo centre - Ribozyme"
-layout: ribozyme
-excerpt: "Ribo centre - Ribozyme"
-sitemap: false
-permalink: /ribozyme/
----
-# Ribozyme
+I"Z<h1 id="ribozyme">Ribozyme</h1>
 
+<p><br />
+<strong>According to the size of the primary sequence, ribozymes can be divided into large ribozymes and small ribozymes.</strong><br /><br /></p>
 
-<br>
-**According to the size of the primary sequence, ribozymes can be divided into large ribozymes and small ribozymes.**<br><br>
-
-
-> <font size=4>List of ribozymes<font><br>
+<blockquote>
+  <font size="4">List of ribozymes<font><br />
+</font></font>
+</blockquote>
 
 <html lang="en">
   <head>
-    <meta charset="utf-8">
+    <meta charset="utf-8" />
     <title>Sort table example</title>
     <style>
 	    body {
@@ -82,17 +76,17 @@ permalink: /ribozyme/
                <td name="td3">
                Hammerhead ribozyme (type III)
                Hammerhead ribozyme (type I)
-               Hammerhead ribozyme HH9<br>
-               Hammerhead ribozyme (type II)<br>
-               Hammerhead_HH10<br>
+               Hammerhead ribozyme HH9<br />
+               Hammerhead ribozyme (type II)<br />
+               Hammerhead_HH10<br />
                RAGATH-1-hammerhead
                </td>
                <td name="td4">
-               <a href="https://rfam.xfam.org/family/RF00008"><b>RF00008</b></a><br>
-               <a href="https://rfam.xfam.org/family/RF00163"><b>RF00163</b></a><br>
-               <a href="https://rfam.xfam.org/family/RF02275"><b>RF02275</b></a><br>
-               <a href="https://rfam.xfam.org/family/RF02276"><b>RF02276</b></a><br>
-               <a href="https://rfam.xfam.org/family/RF02277"><b>RF02277</b></a><br>
+               <a href="https://rfam.xfam.org/family/RF00008"><b>RF00008</b></a><br />
+               <a href="https://rfam.xfam.org/family/RF00163"><b>RF00163</b></a><br />
+               <a href="https://rfam.xfam.org/family/RF02275"><b>RF02275</b></a><br />
+               <a href="https://rfam.xfam.org/family/RF02276"><b>RF02276</b></a><br />
+               <a href="https://rfam.xfam.org/family/RF02277"><b>RF02277</b></a><br />
                <a href="https://rfam.xfam.org/family/RF03152"><b>RF03152</b></a></td>
             </tr>
             <tr>
@@ -114,13 +108,13 @@ permalink: /ribozyme/
             <td name="td1">Hairpin ribozymes initially found in plant RNA viruses catalyze the site‐specific self‐cleavage reaction and consist of four stems in two general domains. The overall secondary structure of this RNA is hairpin-like and named the hairpin ribozyme.</td>
             <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/"><b>1986</b></a></td>
             <td name="td3">
-            Hairpin ribozyme<br>
-            Hairpin ribozyme 1 from viruses-like metatranscriptomes<br>
+            Hairpin ribozyme<br />
+            Hairpin ribozyme 1 from viruses-like metatranscriptomes<br />
             Hairpin ribozyme 2 from viruses-like metatranscriptomes
             </td>
             <td name="td4">
-              <a href="https://rfam.xfam.org/family/RF00173"><b>RF00173</b></a><br>
-              <a href="https://rfam.xfam.org/family/RF04190"><b>RF04190</b></a><br>
+              <a href="https://rfam.xfam.org/family/RF00173"><b>RF00173</b></a><br />
+              <a href="https://rfam.xfam.org/family/RF04190"><b>RF04190</b></a><br />
               <a href="https://rfam.xfam.org/family/RF04191"><b>RF04191</b></a></td>
             </tr>
             <tr>
@@ -142,13 +136,13 @@ permalink: /ribozyme/
             <td name="td1">The twister ribozyme is a nucleolytic ribozyme. The nucleolytic activity of this ribozyme has been demonstrated both in vivo and in vitro and has one of the fastest catalytic rates of naturally occurring ribozymes with similar functions.</td>
             <td name="td2"> <a href="https://www.ncbi.nlm.nih.gov/pubmed/24240507"><b>2014</b></a></td>
             <td name="td3">
-           Type-P1 twister ribozyme<br>
-           Type-P5 twister ribozyme<br>
+           Type-P1 twister ribozyme<br />
+           Type-P5 twister ribozyme<br />
            Type-P3 twister ribozyme
             </td>
             <td name="td4">
-            <a href="https://rfam.xfam.org/family/RF03160"><b>RF03160</b></a><br>
-            <a href="https://rfam.xfam.org/family/RF02684"><b>RF02684</b></a><br>
+            <a href="https://rfam.xfam.org/family/RF03160"><b>RF03160</b></a><br />
+            <a href="https://rfam.xfam.org/family/RF02684"><b>RF02684</b></a><br />
             <a href="https://rfam.xfam.org/family/RF03154"><b>RF03154</b></a></td>
             </tr>
             <tr>
@@ -236,10 +230,10 @@ permalink: /ribozyme/
 <td name="td1">Ribonuclease (RNase) P is a ribozyme responsible for processing the 5′-leader of precursor transfer RNA (pre-tRNA) and is widely distributed in all three kingdoms of life: Archaea, Bacteria and Eucarya. RNase P is a ribonucleoprotein (RNP) complex consisting of catalytic RNA and one or more protein components.</td>
 <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/4938965"><b>1971</b></a></td>
 <td name="td3">
-Nuclear RNase P<br>
-Bacterial RNase P class A<br>
-Bacterial RNase P class B<br>
-Archaeal RNase P<br>
+Nuclear RNase P<br />
+Bacterial RNase P class A<br />
+Bacterial RNase P class B<br />
+Archaeal RNase P<br />
 RNaseP truncated form</td>
 <td name="td4">
 <a href="https://rfam.xfam.org/family/RF00009"><b>RF00009</b></a>
@@ -264,8 +258,9 @@ RNaseP truncated form</td>
            </tr>
         </table>
     </body>
-</html><br><br>
-  
+</html>
+<p><br /><br /></p>
+
 <script type="text/javascript"> 
     var tag=1;
     function SortTable(obj){
@@ -378,4 +373,4 @@ RNaseP truncated form</td>
     }
 </script>-->
 
-
+:ET
