@@ -5,7 +5,7 @@ date:   2022-04-18T14:25:52-05:00
 author: 
 categories: ribozyme
 ---
-**[Rfam ID:RF01807](https://rfam.xfam.org/family/RF01807)** <br>
+**Rfam ID: [RF01807](https://rfam.xfam.org/family/RF01807)** <br>
 
 
 #### click into different sections:
@@ -221,7 +221,7 @@ categories: ribozyme
 ## Description
 ***
 
-<font size=4></font><br>
+<font size=4>The Lariat capping ribozyme is a ~180 nt ribozyme with an apparent resemblance to a group I ribozyme. It is found within a complex type of group I introns, also termed twin-ribozyme introns. It catalyses a branching reaction in which the 2'OH of an internal residue is involved in a nucleophilic attack at a nearby phosphodiester bond.</font><br>
 
 
 ## Structure

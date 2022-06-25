@@ -177,7 +177,7 @@ categories: ribozyme
 ## Description
 ***
 
-<font size=4></font><br>
+<font size=4>Group I intron from the cyanobacterium Anabaena sp. PCC 7120 catalyzes phosphodiester bond formation using a triphosphate on the 5′-terminal nucleotide, like protein polymerases and engineered ribozymes. This ribozyme forms a unique circular RNA that incorporates the exogenous guanosine cofactor added during self-splicing.</font><br>
 
 
 
