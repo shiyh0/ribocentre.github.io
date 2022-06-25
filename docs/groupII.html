@@ -423,7 +423,7 @@
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="http://127.0.0.1:4000/images/groupIIPic/groupII2D.svg" alt="drawing" style="height:160px" />
+                <img src="https://www.ribocentre.org/images/groupIIPic/groupII2D.svg" alt="drawing" style="height:160px" />
             </div>
         </div>
     </div>
@@ -440,9 +440,26 @@
 </td>
 <td>
 <link rel="stylesheet" type="text/css" href="https://www.ribocentre.org/css/fornac.css" media="screen" />
-
 <div id="multi_ss"> </div>
-       
+   
+<meta charset="utf-8" />
+    <script type="text/javascript" src="https://www.ribocentre.org/js/jquery.js"></script>
+    <script type="text/javascript" src="https://www.ribocentre.org/js/d3.js"></script>
+    <!--<script type='text/javascript' src='https://www.ribocentre.org/js/fornac.js'></script>-->
+    <script type="text/javascript" src="https://taolab.atlasbioinfo.com/rsvdb%2Fjs%2Ffornac.js"></script>
+    <script type="text/javascript">
+     "use strict"
+     function multiContainer() {
+        var container = new fornac.FornaContainer("#multi_ss",
+                {'applyForce': 1,'editable':'true',  'initialSize':[450,400]});
+
+        container.addRNA('..((.[[[[[[..{{{{{{{{{{{...(((.......)))..(((((...{{{{{{{...)))))..{{{...{{{..((((.((((((....))))))))))...)]..}}}...}}}...(((((((((((.(.....)...(((((......(((....(..(((((((..((((........))))...)))).}}}}}}}...)))..)....)))...))))))))))...))))))...}}}}}}}}}}}...)]]]]](...((((....))))...).......(((.(....(((........)))...))))....(((((..((((....))))...))))).(((((((((((((....)))..))))))))))...', {'sequence': 'GUGUGCCCGGCAUGGGUGCAGUCUAUAGGGUGAGAGUCCCGAACUGUGAAGGCAGAAGUAACAGUUAGCCUAACGCAAGGGUGUCCGUGGCGACAUGGAAUCUGAAGGAAGCGGACGGCAAACCUUCGGUCUGAGGAACACGAACUUCAUAUGAGGCUAGGUAUCAAUGGAUGAGUUUGCAUAACAAAACAAAGUCCUUUCUGCCAAAGUUGGUACAGAGUAAAUGAAGCAGAUUGAUGAAGGGAAAGACUGCAUUCUUACCCGGGGAGGUCUGGAAACAGAAGUCAGCAGAAGUCAUAGUACCCUGUUCGCAGGGGAAGGACGGAACAAGUAUGGCGUUCGCGCCUAAGCUUGAACCGCCGUAUACCGAACGGUACGUACGGUGGUGUG'});
+        container.addRNA('.....', {'avoidOthers': true, 'sequence': 'GGUUAU'});
+    }
+    let nc =  multiContainer();
+   </script>
+
+<!--<div id="multi_ss"> </div>       
 <meta charset="utf-8" />
     <meta charset="utf-8" />
     <script type="text/javascript" src="https://www.ribocentre.org/js/jquery.js"></script>
@@ -452,12 +469,12 @@
      "use strict"
      function multiContainer() {
         var container = new fornac.FornaContainer("#multi_ss",
-                {'applyForce': true,'editable':'true',  'initialSize':[450,400]});
+                {'applyForce': 1,'editable':'true',  'initialSize':[450,400]});
         container.addRNA('..((.[[[[[[..}...}}}...(((((((((((.(.....)...(((((......(((....(..(((((((..((((........))))...)))).}}}}}}}...)))..)....)))...))))))))))...))))))...}}}}}}}}}}}...)]]]]](...((((....))))...).......(((.(....(((........)))...))))....(((((..((((....))))...))))).(((((((((((((....)))..))))))))))...', {'sequence': 'GUGUGCCCGGCAUGGGUGCAGUCUAUAGGGUGAGAGUCCCGAACUGUGAAGGCAGAAGUAACAGUUAGCCUAACGCAAGGGUGUCCGUGGCGACAUGGAAUCUGAAGGAAGCGGACGGCAAACCUUCGGUCUGAGGAACACGAACUUCAUAUGAGGCUAGGUAUCAAUGGAUGAGUUUGCAUAACAAAACAAAGUCCUUUCUGCCAAAGUUGGUACAGAGUAAAUGAAGCAGAUUGAUGAAGGGAAAGACUGCAUUCUUACCCGGGGAGGUCUGGAAACAGAAGUCAGCAGAAGUCAUAGUACCCUGUUCGCAGGGGAAGGACGGAACAAGUAUGGCGUUCGCGCCUAAGCUUGAACCGCCGUAUACCGAACGGUACGUACGGUGGUGUG'});
         container.addRNA('.....', {'avoidOthers': true, 'sequence': 'GUUAU'});
     }
      let nc =  multiContainer();
-   </script>
+   </script>-->
 </td>
 </tr></table>
 <p><br /></p>
