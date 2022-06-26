@@ -1,4 +1,4 @@
-I"QY<h1 id="ribozyme">Ribozyme</h1>
+I"Z<h1 id="ribozyme">Ribozyme</h1>
 
 <p><br />
 <strong>According to the size of the primary sequence, ribozymes can be divided into large ribozymes and small ribozymes.</strong><br /><br /></p>
@@ -146,7 +146,7 @@
             <a href="https://rfam.xfam.org/family/RF03154"><b>RF03154</b></a></td>
             </tr>
             <tr>
-            <td name="td0">Twister-sister</td>
+            <td name="td0"><a href="https://www.ribocentre.org/docs/twister-sister.html"><b>Twister-sister</b></a></td>
             <td name="td1">The twister sister ribozyme (TS) is a nucleolytic ribozyme. It has a possible structural similarity to twister ribozymes. Some striking similarities were noted, but also surprising differences, such as the absence of the two pseudoknot interactions in the twister ribozyme.</td>
             <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/26167874"><b>2015</b></a></td>
             <td name="td3">Twister_sister_ribozyme</td>
@@ -174,7 +174,7 @@
             <td name="td4"><a href="https://rfam.xfam.org/family/RF04188"><b>RF04188</b></a></td>
             </tr>
             <tr>
-            <td name="td0">LINE-1<a href="https://www.ribocentre.org/docs/Line1.html"><b>Line1</b></a></td>
+            <td name="td0"><a href="https://www.ribocentre.org/docs/Line1.html"><b>LINE-1</b></a></td>
             <td name="td1">The LongInterspersed Nuclear Element-1 (LINE-1) ribozyme is a nucleolytic ribozyme located in the 5′ untranslated region of a LINE-1 retrotransposon.</td>
             <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/16990549"><b>2006</b></a></td>
             <td name="td3">NA</td>
@@ -198,7 +198,7 @@
             <td colspan="5"> </td>
             </tr>
             <tr>
-                <td name="td0">Group I self-splicing intron</td>
+                <td name="td0"><a href="https://www.ribocentre.org/docs/groupI.html"><b>Group I self-splicing intron</b></a></td>
                 <td name="td1">Group I introns are the first ribozymes discovered in the 1980s. They can use exogenous guanosine as a cofactor to catalyze self-cleavage and exon ligation through sequential ester-transfer reactions. They are found in genes encoding rRNA, mRNA and tRNA in the nucleus, mitochondria and chloroplast in various organisms, from prokaryotes to eukaryotes.</td>
                 <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/6101203"><b>1981</b></a></td>
                 <td name="td3">NA</td>
@@ -219,7 +219,7 @@
 <td name="td4"><a href="https://rfam.xfam.org/family/"><b>NA</b></a></td>
            </tr>
            <tr>
-           <td name="td0">Group II self-splicing intron</td>
+           <td name="td0"><a href="https://www.ribocentre.org/docs/groupII.html"><b>Group II self-splicing intron</b></a></td>
 <td name="td1">Group II introns are one of the largest ribozymes, with sequences ranging from 400 to 1000 nt in length. It is also the evolutionary ancestor of the spliceosome. Group II introns can catalyze RNA self-splicing through an autocatalytic two-step reaction and mediate reverse-splicing. It plays an essential role in the metabolism of organisms and is now being developed as a tool in biotechnology and gene therapy.</td>
 <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/3510741"><b>1986</b></a></td>
 <td name="td3">NA</td>
@@ -250,7 +250,7 @@ RNaseP truncated form</td>
 <td name="td4"><a href="https://rfam.xfam.org/family/"><b>NA</b></a></td>
            </tr>
            <tr>
-           <td name="td0"><a href="https://www.ribocentre.org/docs/Spliceosome.html"><b>Spliceosome</b></a></td>
+           <td name="td0"><a href="https://www.ribocentre.org/docs/Splicesome.html"><b>Spliceosome</b></a></td>
 <td name="td1">The spliceosome is a highly dynamic and heterogeneous metal ribozyme; During the splicing reaction, the dynamic spliceosome has an immobile core of about 20 protein and RNA components, which are organized around a conserved splicing active site. The divalent metal ions, coordinated by U6 small nuclear RNA (snRNA), catalyze the branching reaction and exon ligation.</td>
 <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/902310"><b>1977</b></a></td>
 <td name="td3"> snRNA</td>
