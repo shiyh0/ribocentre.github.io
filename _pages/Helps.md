@@ -20,7 +20,7 @@ Ribocentre is designed to contain comprehensive information of all Ribozyme that
  
  This is a table of Ribozyme database .You could find the Ribozyme which you interested in and give the relative question or your own opinion!
  
- <img src="https://www.ribocentre.org/HelpsPic/summit1.png" alt="drawing" style="weight:450px;height:200px;display:block;margin:0 auto;"><br><br>
+ <img src="https://www.ribocentre.org/images/HelpsPic/summit1.png" alt="drawing" style="weight:450px;height:200px;display:block;margin:0 auto;"><br><br>
  This is a example if you want to summit a/some new ribozyme/ribozymes or the latest publication. Please as complete as possible give us the information of the new one. 
  
  <img src="https://www.ribocentre.org/images/HelpsPic/summit2.png" alt="drawing" style="weight:450px;height:200px;display:block;margin:0 auto;"><br><br>
