@@ -7,7 +7,7 @@ permalink: /catalysis/
 
 
 
-# Catalytic
+# Catalysis
 
 <br>
 
