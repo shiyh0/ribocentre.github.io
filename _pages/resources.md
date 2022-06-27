@@ -24,7 +24,7 @@ permalink: /resources/
 
 Ribocentre is designed to contain comprehensive information of all Ribozyme that have been isolated by in vitro selection and in vitro evolution. In addition to different Ribozyme pages, you will find links to the original publications which consist of timeline of the development. The reaction conditions, reaction substrates, metal-ion requirements, and structural information are showed whenever available. <br><br><br>
 
-<img src="http://127.0.0.1:4000/images/help.png" alt="drawing" style="text-align: center;weight:450px;height:335px">
+<img src="https://www.ribocentre.org/images/help.png" alt="drawing" style="text-align: center;weight:450px;height:335px">
 
 **You can add some information of your found about new Ribozyme ! We are pleasure if you could contact us with different opinion !**
 **Please feel free to contact us with some mistake you find! We need more feedback to complete our work to improve the convenience and applicability. You also could commit our work by the submit button.**
