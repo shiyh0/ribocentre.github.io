@@ -1,0 +1,521 @@
+I"�r<h1 id="application">Application</h1>
+
+<p><br /></p>
+
+<blockquote>
+  <p>Twister</p>
+</blockquote>
+
+<p>To establish RNA aptamers with high stability and expression levels, Jaffrey’s group designed the Tornado (twister-optimized RNA for durable overexpression) expression system for rapid RNA circularization. They use a P3 twister U2A ribozyme and a P1 twister ribozyme to generate RNAs of interest containing a 5’ hydroxyl and 2’,3’-cyclic phosphate. Then the 5’ and 3’ ends would become substrates for RtcB-mediated ligation.Finally, the RNAs of interest would be circularized.</p>
+
+<p><img src="http://127.0.0.1:4000/images/ApplyPic/twister.png" alt="drawing" style="weight:450px;height:600px;display:block;margin:0 auto;" /></p>
+
+<blockquote>
+  <p>HDV</p>
+</blockquote>
+
+<p>Schematic diagram for simple and effective generating in vitro transcripts with homogenous 5’ ends and 3’ ends. As show in this diagram, we use hammerhead and HDV ribozymes to produce homogenous RNA with any 5’- and 3’- terminal sequence.</p>
+
+<p><img src="http://127.0.0.1:4000/images/ApplyPic/HDV.png" alt="drawing" style="weight:450px;height:600px;display:block;margin:0 auto;" /><br /><br /></p>
+
+<html>
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no" />
+	<title>Ribozyme publication - export</title>
+	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css" />
+	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/2.2.3/css/buttons.dataTables.min.css" />
+</head>
+    <style>
+		th {
+        background-color: #0874c4;
+        background-color: #0874c4;
+        background-color: #0874c4;
+        color: rgba(255,255,255,0.9);
+		    cursor: pointer;
+        }
+	</style>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+	<script type="text/javascript" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+	<script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/dataTables.buttons.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/pdfmake.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js"></script>
+	<script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.html5.min.js"></script>
+	<script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.print.min.js"></script>
+	<script type="text/javascript">
+
+		$(document).ready(function() {
+			$.noConflict();
+			$('#mytable').DataTable( {
+				dom: 'Bfrtip', 
+				buttons: [
+					'copy', 'csv', 'excel', 'pdf', 'print'
+				]
+				
+			} );
+		} );
+   </script>
+
+<body>
+    <div>
+	  <table id="mytable" class="table table-striped table-bordered" cellspacing="0" width="100%">
+    <thead>
+            <tr>
+                <th>Ribozyme name</th>
+                <th>Description </th>
+                <th>First author</th>
+                <th>Corresponding author</th>
+                <th>Time</th>
+                <th>Reference</th>
+                <th>Journal</th>
+                <th>Pubmed ID</th>
+            </tr>
+	</thead>
+    <tbody>
+  <tr>
+    <td>Twister ribozyme</td>
+    <td>Established an outstandingly flexible expression platform, which in conjugation with three different aptamer domains, enables the construction of many different one- and two-input regulators of gene expression in both bacteria and yeast.</td>
+    <td>Michele Felletti</td>
+    <td>Jörg S. Hartig</td>
+    <td>2016</td>
+    <td>Twister ribozymes as highly versatile expression platforms for artificial riboswitches</td>
+    <td>Nat Commun</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/27670347" target="_blank"><b>27670347</b></a></td>
+  </tr>
+  <tr>
+    <td>Twister ribozyme</td>
+    <td>Established the Tornado (‘Twister-optimized RNA for durable overexpression’) expression system for rapid RNA circularization, resulting in RNA aptamers with high stability and expression levels.</td>
+    <td>Jacob L. Litke</td>
+    <td>Samie R. Jaffrey</td>
+    <td>2019</td>
+    <td>Highly efficient expression of circular RNA aptamers in cells using autocatalytic transcripts</td>
+    <td> Nat Biotechnol</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/30962542" target="_blank"><b>30962542</b></a></td>
+  </tr>
+  <tr>
+    <td>Twister ribozyme</td>
+    <td>Established a photocaged nucleotide that releases guanosine within microseconds upon photosolvolysis with blue light. Application of this tool to O. sativa twister achieved the spatial (75 µm) and temporal (≤30 ms) control required to resolve folding and self-cleavage events when combined with single-molecule fluorescence detection of the ribozyme folding pathway.</td>
+    <td>Arthur Korman</td>
+    <td>Sarah A Woodson </td>
+    <td>2020</td>
+    <td>Light-controlled twister ribozyme with single-molecule detection resolves RNA function in time and space</td>
+    <td>Proc Natl Acad Sci U S A</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/32430319" target="_blank"><b>32430319</b></a></td>
+  </tr>
+  <tr>
+    <td>Diverse ribozymes,include hammerhead ribozyme,twister ribozyme,twister sister ribozyme,pistol ribozyme,hairpin ribozyme,varkud satellite ribozyme</td>
+    <td>Established an RNA integrator comprising a ribozyme and an unfolded form of the fluorogenic aptamer Broccoli, which enables detection of low-abundance targets in vitro and in living cells.</td>
+    <td>Mingxu You</td>
+    <td>Samie R Jaffrey</td>
+    <td>2019</td>
+    <td>Detection of Low-Abundance Metabolites in Live Cells Using an RNA Integrator</td>
+    <td>Cell Chem Biol</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/30773480" target="_blank"><b>30773480</b></a></td>
+  </tr>
+  <tr>
+    <td>Circularly permuted variants of the pistol ribozyme</td>
+    <td>Investigated circularly permuted variants of the pistol ribozyme class (CPP) as a synthetic ribozyme scaffold for mammalian riboswitch, which allows chemical regulation of gene expression in mammalian cells.</td>
+    <td>Kamila Mustafina</td>
+    <td>Yohei Yokobayashi</td>
+    <td>2021</td>
+    <td>Circularly-Permuted Pistol Ribozyme: A Synthetic Ribozyme Scaffold for Mammalian Riboswitches</td>
+    <td>ACS Synth Biol</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/34374523" target="_blank"><b>34374523</b></a></td>
+  </tr>
+  <tr>
+    <td>Hairpin ribozyme</td>
+    <td>Engineering a number of hairpin ribozyme variants by programmed conformational design that carry out cascades of cleavage and ligation reactions, and as a result mediate more complex RNA processing reactions.</td>
+    <td>Robert Hieronymus </td>
+    <td>Sabine Müller </td>
+    <td>2019</td>
+    <td>Engineering of hairpin ribozyme variants for RNA recombination and splicing</td>
+    <td>Ann N Y Acad Sci</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/30941784" target="_blank"><b>30941784</b></a></td>
+  </tr>
+  <tr>
+    <td>Hairpin ribozyme</td>
+    <td>Situ activation of RNA substrates under reaction conditions amenable to catalysis by the hairpin ribozyme. Found that diamidophosphate (DAP) and imidazole drive the formation of 2',3'-cyclic phosphate RNA mono- and oligonucleotides from monophosphorylated precursors in frozen water-ice. This long-lived activation enables iterative enzymatic assembly of long RNAs.</td>
+    <td>Emilie Yeonwha Song </td>
+    <td>Hannes Mutschler </td>
+    <td>2021</td>
+    <td>Prebiotically Plausible RNA Activation Compatible with Ribozyme-Catalyzed Ligation</td>
+    <td>Angew Chem Int Ed Engl</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/33128282" target="_blank"><b>33128282</b></a></td>
+  </tr>
+  <tr>
+    <td>Hairpin ribozyme</td>
+    <td>Demonstrated the activity of engineered hairpin ribozyme variants, which as self-splicing introns are removed from their parent RNA.</td>
+    <td>Robert Hieronymus</td>
+    <td>Sabine Müller</td>
+    <td>2022</td>
+    <td>RNA self-splicing by engineered hairpin ribozyme variants</td>
+    <td>Nucleic Acids Res</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/27670347" target="_blank"><b>27670354</b></a></td>
+  </tr>
+  <tr>
+    <td>GlmS ribozyme</td>
+    <td>In addition to being a superb experimental system with which to analyze how RNA catalysts can exploit small molecule coenzymes to broaden their chemical versatility, the presence of the glmS ribozyme in numerous pathogenic bacteria make this RNA an attractive target for the development of new antibiotics and antibacterial strategies.</td>
+    <td>Adrian R Ferré-D'Amaré</td>
+    <td>Adrian R Ferré-D'Amaré</td>
+    <td>2010</td>
+    <td>The glmS ribozyme: use of a small molecule coenzyme by a gene-regulatory RNA</td>
+    <td>Q Rev Biophys</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/27670347" target="_blank"><b>27670355</b></a></td>
+  </tr>
+  <tr>
+    <td>GlmS ribozyme</td>
+    <td>Glucosamine-induced ribozyme activation can be rapidly reversed by removing the inducer.The glmS ribozyme could be used as a tool to study essential genes in T. brucei.</td>
+    <td>Teresa Cruz-Bustos</td>
+    <td>Roberto Docampo</td>
+    <td>2018 </td>
+    <td>A Riboswitch-based Inducible Gene Expression System for Trypanosoma brucei</td>
+    <td>J Eukaryot Microbiol</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/29265590" target="_blank"><b>29265590</b></a></td>
+  </tr>
+  <tr>
+    <td>GlmS ribozyme</td>
+    <td>The glmS riboswitch targeting the antisense oligonucleotide is sufficient to inhibit the growth of S. aureus with a MIC80 of 5 μg/mL. The glmS ribozyme is a very suitable target for antibacterial drug development with antisense oligonucleotides.</td>
+    <td>Martina Traykovska</td>
+    <td>Robert Penchovsky </td>
+    <td>2021</td>
+    <td>Targeting glmS Ribozyme with Chimeric Antisense Oligonucleotides for Antibacterial Drug Development</td>
+    <td>ACS Synth Biol</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/27670347" target="_blank"><b>27670357</b></a></td>
+  </tr>
+  <tr>
+    <td>HDV ribozyme</td>
+    <td>Use of Hepatitis delta virus (HDV) ribozyme allows preparation of homogeneous RNA with any 3′-terminal sequence.</td>
+    <td>A R Ferré-D'Amaré</td>
+    <td>J A Doudna</td>
+    <td>1996</td>
+    <td>Use of cis- and trans-ribozymes to remove 5' and 3' heterogeneities from milligrams of in vitro transcribed RNA</td>
+    <td>Nucleic Acids Res</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/8600468" target="_blank"><b>8600468</b></a></td>
+  </tr>
+  <tr>
+    <td>HDV ribozyme</td>
+    <td>Designed a small molecule responsive allosteric ribozymes based on the genomic hepatitis delta virus (HDV) ribozyme by replacing the P4-L4 stem-loop with an RNA aptamer through a connector stem，which can regulate  cis-gene expression by theophylline and guanine by up to 29.5-fold in mammalian cell culture.</td>
+    <td>Yoko Nomura</td>
+    <td>Yohei Yokobayashi</td>
+    <td>2013</td>
+    <td>Controlling mammalian gene expression by allosteric hepatitis delta virus ribozymes</td>
+    <td>ACS Synthetic Biology</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/23697539" target="_blank"><b>23697539</b></a></td>
+  </tr>
+  <tr>
+    <td>HDV ribozyme</td>
+    <td>Generating in vitro transcripts with homogenous 3' ends using HDV ribozyme.</td>
+    <td>Wichlacz, A</td>
+    <td>Ciesiolka, J</td>
+    <td>2004</td>
+    <td>Generating in vitro transcripts with homogenous 3' ends using trans-acting antigenomic delta ribozyme</td>
+    <td>Nucleic Acids Res</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/14973333" target="_blank"><b>14973333</b></a></td>
+  </tr>
+  <tr>
+    <td>HDV ribozyme</td>
+    <td>Designed a RNAi-regulatory system  integrating a theophylline aptamer-fused Hepatitis delta virus (HDV) ribozyme with a pri-miRNA analogue to control gene expression mediated by RNAi.The system can control gene expression by adding theophylline into the culture media in dose dependent fashion.</td>
+    <td>Yuanyuan Zhang</td>
+    <td>Renjun Pei</td>
+    <td>2017</td>
+    <td>Inducible Bcl-2 gene RNA interference mediated by aptamer-integrated HDV ribozyme switch</td>
+    <td>Integrative Biology</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/28548675" target="_blank"><b>28548675</b></a></td>
+  </tr>
+  <tr>
+    <td>HDV ribozyme</td>
+    <td>Designed an alternatively processed short hairpin RNA (shRNA) molecule termed AgoshRNA with a ~18 base pairs (bp) stem and a 3-5 nucleotides (nt) loop,included the hepatitis delta virus (HDV) ribozyme at the 3' terminus,which can enhance the silencing activity of the AgoshRNA molecules.</td>
+    <td>Ben Berkhout</td>
+    <td> Elena Herrera-Carrillo</td>
+    <td>2021</td>
+    <td>Design and Evaluation of AgoshRNAs with 3'-Terminal HDV Ribozymes to Enhance the Silencing Activity</td>
+    <td>Methods in Molecular Biology</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/32712923" target="_blank"><b>32712923</b></a></td>
+  </tr>
+  <tr>
+    <td>HDV ribozyme</td>
+    <td>Designed an improved CRISPR-Cas12a system included the Hepatitis delta virus (HDV) ribozyme  to facilitate accurate 3'-end processing of the crRNA transcript to produce precise molecules,which enhanced not only the gene editing efficiency, but also the activity of the catalytically inactive Cas12a-based CRISPR gene activation platform.</td>
+    <td>Ben Berkhout</td>
+    <td>Elena Herrera-Carrillo</td>
+    <td>2021</td>
+    <td>Design and Evaluation of Guide RNA Transcripts with a 3'-Terminal HDV Ribozyme to Enhance CRISPR-Based Gene Inactivation</td>
+    <td>Methods in Molecular Biology</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/32712922" target="_blank"><b>32712922</b></a></td>
+  </tr>
+  <tr>
+    <td>VS ribozyme</td>
+    <td>Describes an innovative approach for RNA engineering and establishes that the KLI of the trans VS ribozyme can be adapted to cleave other folded RNA substrates.</td>
+    <td>Julie Lacroix-Labonté</td>
+    <td>Pascale Legault</td>
+    <td>2016</td>
+    <td>Rational engineering of the Neurospora VS ribozyme to allow substrate recognition via different kissing-loop interactions</td>
+    <td>Nucleic Acids Res</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/27166370" target="_blank"><b>27166370</b></a></td>
+  </tr>
+  <tr>
+    <td>LC ribozyme</td>
+    <td>Lariat capping ribozyme functions in vivo in the budding yeast Saccharomyces cerevisiae presumably without cofactors and that lariat capping occurs cotranscriptionally.</td>
+    <td>Nicolai Krogh</td>
+    <td>Henrik Nielsen</td>
+    <td>2017</td>
+    <td>Lariat capping as a tool to manipulate the 5' end of individual yeast mRNA species in vivo.</td>
+    <td>RNA</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/28159804" target="_blank"><b>28159804</b></a></td>
+  </tr>
+  <tr>
+    <td>LC ribozyme</td>
+    <td>Lariat capping is thus a versatile tool for studying the importance of the 5' end structure of RNA molecules.</td>
+    <td>Max Pietschmann</td>
+    <td>Henrik Nielsen</td>
+    <td>2021</td>
+    <td>Use of a Lariat Capping Ribozyme to Study Cap Function In Vivo</td>
+    <td>Methods Mol Biol</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/32712925" target="_blank"><b>32712925</b></a></td>
+  </tr>
+  <tr>
+    <td>Group II intron</td>
+    <td>Implementation of targetrons in eukaryote provides the practical basis for potential applications of targeted group II introns in genetic engineering, functional genomics, and gene therapy.</td>
+    <td>H Guo</td>
+    <td>A M Lambowitz</td>
+    <td>2000</td>
+    <td>Group II introns designed to insert into therapeutically relevant DNA target sites in human cells</td>
+    <td>Science</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/10903206" target="_blank"><b>10903206</b></a></td>
+  </tr>
+  <tr>
+    <td>Group II intron</td>
+    <td>As controllable gene targeting vectors for genetic manipulation of bacteria.</td>
+    <td>M Karberg</td>
+    <td>A M Lambowitz</td>
+    <td>2001</td>
+    <td>Group II introns as controllable gene targeting vectors for genetic manipulation of bacteria</td>
+    <td>Nat Biotechnol</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/11731786" target="_blank"><b>11731786</b></a></td>
+  </tr>
+  <tr>
+    <td>Group II intron</td>
+    <td>Mobile group II introns have been used to develop a novel class of gene targeting vectors, targetrons, which employ base pairing for DNA target recognition and can thus be programmed to insert into any desired target DNA.</td>
+    <td>Jin Zhong</td>
+    <td>Alan M Lambowitz</td>
+    <td>2003</td>
+    <td>Targeted and random bacterial gene disruption using a group II intron (targetron) vector containing a retrotransposition-activated selectable marker</td>
+    <td>Nucleic Acids Res</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/12626707" target="_blank"><b>12626707</b></a></td>
+  </tr>
+  <tr>
+    <td>Group II intron</td>
+    <td>a universal gene knock-out system for the genus Clostridium.</td>
+    <td>John T Heap</td>
+    <td>Nigel P Minton</td>
+    <td>2007</td>
+    <td>The ClosTron: a universal gene knock-out system for the genus Clostridium</td>
+    <td>J Microbiol Methods</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/17658189" target="_blank"><b>17658189</b></a></td>
+  </tr>
+  <tr>
+    <td>Group II intron</td>
+    <td>New genetic engineering tools, such as the group II intron has shown promise for genetic manipulation of bacteria and forecast the dawn of a new era for a tumour-targeted bacterial vector system for gene therapy of solid tumours.</td>
+    <td>Ming Q Wei</td>
+    <td>Jozef Anné</td>
+    <td>2008</td>
+    <td>Bacterial targeted tumour therapy-dawn of a new era</td>
+    <td>Cancer Lett</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/18063294" target="_blank"><b>18063294</b></a></td>
+  </tr>
+  <tr>
+    <td>Group II intron</td>
+    <td>the diversity of mobile group II introns can be exploited to provide a large variety of different target specificities and potentially other useful properties for gene targeting.</td>
+    <td>Fanglei Zhuang </td>
+    <td>Alan M Lambowitz</td>
+    <td>2009</td>
+    <td>EcI5, a group IIB intron with high retrohoming frequency: DNA target site recognition and use in gene targeting</td>
+    <td>RNA</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/19155322" target="_blank"><b>19155322</b></a></td>
+  </tr>
+  <tr>
+    <td>Group II intron</td>
+    <td>Targetrons have found wide application in microbiological research, enabling gene targeting and genetic engineering of bacteria that had been intractable to other methods. </td>
+    <td>Peter J Enyeart</td>
+    <td> Alan M Lambowitz</td>
+    <td>2014</td>
+    <td>Biotechnological applications of mobile group II introns and their reverse transcriptases: gene targeting, RNA-seq, and non-coding RNA analysis</td>
+    <td>Mob DNA</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/24410776" target="_blank"><b>24410776</b></a></td>
+  </tr>
+  <tr>
+    <td>Group II intron</td>
+    <td>Because of their ability to recognize and modify target DNA sites with high efficiency, Group II intron pioneered the use of RNA guided site specific genome modification.</td>
+    <td>Jennifer A Doudna</td>
+    <td>Emmanuelle Charpentier</td>
+    <td>2014</td>
+    <td>Genome editing. The new frontier of genome engineering with CRISPR-Cas9</td>
+    <td>Science</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/25430774" target="_blank"><b>25430774</b></a></td>
+  </tr>
+  <tr>
+    <td>Group II intron</td>
+    <td>For gene targeting with the aid of computer algorithms.</td>
+    <td>Fernando M García-Rodríguez</td>
+    <td>Nicolás Toro </td>
+    <td>2014</td>
+    <td>Use of the computer-retargeted group II intron RmInt1 of Sinorhizobium meliloti for gene targeting</td>
+    <td>RNA Biol</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/24646865" target="_blank"><b>24646865</b></a></td>
+  </tr>
+  <tr>
+    <td>Group II intron</td>
+    <td>RT domains are particularly suitable for creation of RNA seq libraries.</td>
+    <td>Samuel T Carrell</td>
+    <td>Charles A Thornton</td>
+    <td>2018</td>
+    <td>Detection of expanded RNA repeats using thermostable group II intron reverse transcriptase</td>
+    <td>Nucleic Acids Res</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/29036654" target="_blank"><b>29036654</b></a></td>
+  </tr>
+  <tr>
+    <td>RNase P</td>
+    <td>Showed that the same riboswitch constructs are useful tools to investigate the impact of the 5′-leader structure on tRNA processing by different types of RNase P from A. thaliana and H. sapiens. Designed riboswitches can regulate not only bacterial RNase P-mediated tRNA processing, but also affect the maturation catalyzed by the corresponding eukaryotic enzymes, by the RNA/protein assemblies or protein-only versions. </td>
+    <td>Anna Ender</td>
+    <td>Mario Mörl</td>
+    <td>2022</td>
+    <td>Synthetic riboswitches for the analysis of tRNA processing by eukaryotic RNase P enzymes</td>
+    <td>RNA</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/35022261" target="_blank"><b>35022261</b></a></td>
+  </tr>
+  <tr>
+    <td>RNase P</td>
+    <td>Presented and discuss some computational and biochemical methods, which were applied, on the one hand, to design riboswitch candidates de novo and, on the other hand, to monitor the switching activity and for the investigation of the postulated switching mechanism.</td>
+    <td>Anna Ender </td>
+    <td> Sven Findeiß</td>
+    <td>2022</td>
+    <td>RNA Design Principles for Riboswitches that Regulate RNase P-Mediated tRNA Processing</td>
+    <td>Methods Mol Biol</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/35666446" target="_blank"><b>35666446</b></a></td>
+  </tr>
+  <tr>
+    <td>RNase P</td>
+    <td>Reported a biotechnology strategy based on the re-localization of plant protein-only RNase P to the cytosol (CytoRP) to target plant viruses tRNA-like structures and thus hamper virus replication. The results show the potential of using CytoRP for combating some plant viral diseases.</td>
+    <td>Anthony Gobert</td>
+    <td>Philippe Giegé</td>
+    <td>2021</td>
+    <td>Towards plant resistance to viruses using protein-only RNase P</td>
+    <td>Nat Commun </td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/33579946" target="_blank"><b>33579946</b></a></td>
+  </tr>
+  <tr>
+    <td>RNase P</td>
+    <td>Showed that the same riboswitch constructs are useful tools to investigate the impact of the 5′-leader structure on tRNA processing by different types of RNase P from A. thaliana and H. sapiens. Designed riboswitches can regulate not only bacterial RNase P-mediated tRNA processing, but also affect the maturation catalyzed by the corresponding eukaryotic enzymes, by the RNA/protein assemblies or protein-only versions. </td>
+    <td>Anna Ender</td>
+    <td>Mario Mörl</td>
+    <td>2022</td>
+    <td>Synthetic riboswitches for the analysis of tRNA processing by eukaryotic RNase P enzymes</td>
+    <td>RNA</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/35022261" target="_blank"><b>35022261</b></a></td>
+  </tr>
+  <tr>
+    <td>RNase P</td>
+    <td>Designed theophylline-dependent riboswitches regulating the processing of a specific precursor tRNA by directly controlling the accessibility for RNase P. The leader region is masked by the sequestor hairpin, and ligand binding induces a structural rearrangement that disrupts this hairpin, giving RNase P access to its cleavage position. Further, this design allows investigation of the impact of the tRNA 5′-leader structure on RNase P mediated processing.</td>
+    <td>Anna Ender</td>
+    <td>Mario Mörl</td>
+    <td>2021</td>
+    <td>Ligand-dependent tRNA processing by a rationally designed RNase P riboswitch</td>
+    <td>Nucleic Acids Res</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/33469651" target="_blank"><b>33469651</b></a></td>
+  </tr>
+  <tr>
+    <td>RNase P</td>
+    <td>The RNase P-based M1GS ribozyme is a promising antisense technique in HCV therapeutic studies. The M1GS ribozyme can function as an antiviral agent and effectively inhibit gene expression and multiplication of HCV.</td>
+    <td>Xinliang Mao</td>
+    <td>Gang Li</td>
+    <td>2014</td>
+    <td>Inhibition of hepatitis C virus by an M1GS ribozyme derived from the catalytic RNA subunit of Escherichia coli RNase P</td>
+    <td>Virology journal </td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/24885776" target="_blank"><b>24885776</b></a></td>
+  </tr>
+  <tr>
+    <td>RNase P</td>
+    <td>A sequence-specific ribozyme (M1GS RNA) derived from the catalytic RNA subunit of RNase P from Escherichia coli was used to target the overlapping exon 3 region of the mRNAs encoding the major transcription regulatory proteins IE1 and IE2 of human cytomegalovirus.  This study is the first to use M1GS ribozyme for inhibiting human cytomegalovirus replication and demonstrates the utility of this ribozyme for antiviral applications.</td>
+    <td>Phong Trang</td>
+    <td>Fenyong Liu</td>
+    <td>2000</td>
+    <td>Effective inhibition of human cytomegalovirus gene expression and replication by a ribozyme derived from the catalytic RNA subunit of RNase P from Escherichia coli</td>
+    <td>Proc Natl Acad Sci U S A</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/10811889" target="_blank"><b>10811889</b></a></td>
+  </tr>
+  <tr>
+    <td>Hammerhead ribozyme</td>
+    <td>Incorporating a hammerhead ribozyme on the 5′-end of d56 together with the VSsl at the3′-terminus to overcome 5′ heterogeneity.</td>
+    <td>Adrian R. Ferré-D’Amaré</td>
+    <td>Jennifer A. Doudna</td>
+    <td>1996</td>
+    <td>Use of cis- and trans-ribozymes to remove 5′ and 3′ heterogeneities from milligrams of in vitro transcribed RNA</td>
+    <td>Nucleic Acids Res<br /> &nbsp;&nbsp;</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/8600468" target="_blank"><b>8600468</b></a></td>
+  </tr>
+  <tr>
+    <td>Hammerhead ribozyme</td>
+    <td>The catalytic activity of the hammerhead ribozyme can be brought under the control of ATP and theophylline by designing conjoined aptamer-ribozyme complexes.</td>
+    <td>J Tang</td>
+    <td>R R Breaker</td>
+    <td>1997</td>
+    <td>Rational design of allosteric ribozymes</td>
+    <td>Chem Biol</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/9224568" target="_blank"><b>9224568</b></a></td>
+  </tr>
+  <tr>
+    <td>Hammerhead ribozyme</td>
+    <td>The hammerhead ribozyme is established RNA switches as designer molecular sensors of FMN.</td>
+    <td>G A Soukup</td>
+    <td>R R Breaker</td>
+    <td>1999</td>
+    <td>Engineering precision RNA molecular switches</td>
+    <td>Proc Natl Acad Sci U S A<br /> &nbsp;&nbsp;</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/10097080" target="_blank"><b>10097080</b></a></td>
+  </tr>
+  <tr>
+    <td>Hammerhead ribozyme</td>
+    <td>Heterogeneous-length RNA transcripts are processed with a hammerhead ribozyme to yield homogenous-length products.</td>
+    <td>T P Shields</td>
+    <td>A Pardi</td>
+    <td>1999</td>
+    <td>High-performance liquid chromatography purification of homogenous-length RNA produced by trans cleavage with a hammerhead ribozyme</td>
+    <td>RNA<br /> &nbsp;&nbsp;</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/10496226" target="_blank"><b>10496226</b></a></td>
+  </tr>
+  <tr>
+    <td>Hammerhead ribozyme</td>
+    <td>The hammerhead ribozyme is used to interfere with HIV-1 gene expression.</td>
+    <td>B Bramlage</td>
+    <td>E Luzi, F Eckstein</td>
+    <td>2000</td>
+    <td>HIV-1 LTR as a target for synthetic ribozyme-mediated inhibition of gene expression: site selection and inhibition in cell culture</td>
+    <td>Nucleic Acids Res<br /> &nbsp;&nbsp;</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/11058100" target="_blank"><b>11058100</b></a></td>
+  </tr>
+  <tr>
+    <td>Hammerhead ribozyme</td>
+    <td>The hammerhead ribozyme is integrated into the transcription unit of a gene or vector leading to potent inhibition of gene or vector expression.</td>
+    <td>Laising Yen</td>
+    <td>Richard C Mulligan</td>
+    <td>2004</td>
+    <td>Exogenous control of mammalian gene expression through modulation of RNA self-cleavage</td>
+    <td>Nature</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/15386015" target="_blank"><b>15386015</b></a></td>
+  </tr>
+  <tr>
+    <td>Hammerhead ribozyme</td>
+    <td>The hammerhead ribozyme constructs an aptazyme with a theophylline aptamer and a communication module,whose conformational switches inhibit or promote ribosome binding for regulating downstream gene expression.</td>
+    <td>Atsushi Ogawa</td>
+    <td>Mizuo Maeda</td>
+    <td>2008</td>
+    <td>An artificial aptazyme-based riboswitch and its cascading system in E. coli</td>
+    <td>Chembiochem<br /> &nbsp;&nbsp;</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/18098257" target="_blank"><b>18098257</b></a></td>
+  </tr>
+  </tbody>
+</table>
+
+
+</div></body></html>
+:ET

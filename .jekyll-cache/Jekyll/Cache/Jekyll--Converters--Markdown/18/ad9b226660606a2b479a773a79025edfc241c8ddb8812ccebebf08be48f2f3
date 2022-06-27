@@ -1,0 +1,77 @@
+I"Q<h1 id="application">Application</h1>
+
+<p><br /><br /></p>
+
+<blockquote>
+  <p>Twister</p>
+</blockquote>
+
+<p>To establish RNA aptamers with high stability and expression levels, Jaffrey’s group designed the Tornado (twister-optimized RNA for durable overexpression) expression system for rapid RNA circularization. They use a P3 twister U2A ribozyme and a P1 twister ribozyme to generate RNAs of interest containing a 5’ hydroxyl and 2’,3’-cyclic phosphate. Then the 5’ and 3’ ends would become substrates for RtcB-mediated ligation.Finally, the RNAs of interest would be circularized.</p>
+
+<p><img src="http://127.0.0.1:4000/images/ApplyPic/twister.png" alt="drawing" style="weight:450px;height:600px;display:block;margin:0 auto;" /></p>
+
+<blockquote>
+  <p>HDV</p>
+</blockquote>
+
+<p>Schematic diagram for simple and effective generating in vitro transcripts with homogenous 5’ ends and 3’ ends. As show in this diagram, we use Hammerhead and HDV ribozymes to produce homogenous RNA with any 5’- and 3’- terminal sequence.</p>
+
+<p><img src="http://127.0.0.1:4000/images/ApplyPic/HDV.png" alt="drawing" style="text-align: center;weight:450px;height:600px" /></p>
+
+<html>
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no" />
+	<title>Ribozyme publication - export</title>
+	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css" />
+	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/2.2.3/css/buttons.dataTables.min.css" />
+</head>
+    <style>
+		th {
+        background-color: #0874c4;
+        background-color: #0874c4;
+        background-color: #0874c4;
+        color: rgba(255,255,255,0.9);
+		    cursor: pointer;
+        }
+	</style>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+	<script type="text/javascript" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+	<script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/dataTables.buttons.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/pdfmake.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js"></script>
+	<script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.html5.min.js"></script>
+	<script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.print.min.js"></script>
+	<script type="text/javascript">
+
+		$(document).ready(function() {
+			$.noConflict();
+			$('#mytable').DataTable( {
+				dom: 'Bfrtip', 
+				buttons: [
+					'copy', 'csv', 'excel', 'pdf', 'print'
+				]
+				
+			} );
+		} );
+   </script>
+
+<body>
+    <div>
+	  <table id="mytable" class="table table-striped table-bordered" cellspacing="0" width="100%">
+    <thead>
+            <tr>
+                <th>Year</th>
+                <th>Author</th>
+                <th>Title</th>
+                <th>journal</th>
+                <th>PDB ID</th>
+                <th>ribozyme name</th>
+       	        <th>description</th>
+            </tr>
+	</thead>
+
+
+</table></div></body></html>
+:ET

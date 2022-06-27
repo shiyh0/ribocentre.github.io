@@ -8,11 +8,12 @@ permalink: /ribozyme/
 # Ribozyme
 
 
-<br>
-**According to the size of the primary sequence, ribozymes can be divided into large ribozymes and small ribozymes.**<br><br>
+<strong>The well-established natural ribozymes are the hammerhead, hairpin, hepatitis delta virus (HDV), Varkud Satellite (VS), glmS, twister, twister sister, pistol and hatchet ribozyme, which make up the category of small ribozymes, as well as the group I and II introns, the ribosome, spliceosome and RNase P, which are classified as large ribozymes</strong><br><br>
 
 
-> <font size=4>List of ribozymes<font><br>
+> List of small ribozymes (also called the nucleolytic ribozyme)
+
+The nucleolytic ribozymes are a group of relatively small RNA species (most are less than 100 nucleotides) that catalyze site‐specific cleavage reactions. In some ribozymes, the reverse reaction (ligation) can occur. <font>
 
 <html lang="en">
   <head>
@@ -201,7 +202,7 @@ permalink: /ribozyme/
             <td name="td4"><a href="https://rfam.xfam.org/family/RF01865"><b>RF01865</b></a></td>
             </tr>
             <tr>
-            <td colspan="5"> </td>
+            <td colspan="5"><font size=4>List of large ribozymes</font></td>
             </tr>
             <tr>
                 <td name="td0"><a href="https://www.ribocentre.org/docs/groupI.html"><b>Group I self-splicing intron</b></a></td>
@@ -249,7 +250,7 @@ RNaseP truncated form</td>
 <a href="https://rfam.xfam.org/family/RF02357"><b>RF02357</b></a></td>
            </tr>
            <tr>
-           <td name="td0">Ribosome</td>
+           <td name="td0"><a href="https://www.ribocentre.org/docs/Ribosome.html"><b>Ribosome</b></a></td></td>
 <td name="td1">Ribosomes are the most critical macromolecules that widely exist in all three kingdoms of life, which catalyze the peptidyl transfer reaction to translate mRNA to proteins. It is the most abundant natural ribozyme with polymerase activity in nature.</td>
 <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/808733"><b>1975</b></a></td>
 <td name="td3"> rRNA</td>
