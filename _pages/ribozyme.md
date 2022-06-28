@@ -257,7 +257,7 @@ RNaseP truncated form</td>
 <td name="td4"><a href="https://rfam.xfam.org/family/"><b>NA</b></a></td>
            </tr>
            <tr>
-           <td name="td0"><a href="https://www.ribocentre.org/docs/Splicesome.html"><b>Spliceosome</b></a></td>
+           <td name="td0"><a href="https://www.ribocentre.org/docs/Spliceosome.html"><b>Spliceosome</b></a></td>
 <td name="td1">The spliceosome is a highly dynamic and heterogeneous metal ribozyme; During the splicing reaction, the dynamic spliceosome has an immobile core of about 20 protein and RNA components, which are organized around a conserved splicing active site. The divalent metal ions, coordinated by U6 small nuclear RNA (snRNA), catalyze the branching reaction and exon ligation.</td>
 <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/902310"><b>1977</b></a></td>
 <td name="td3"> snRNA</td>

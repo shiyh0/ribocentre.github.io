@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Splicesome"
+title:  "Spliceosome"
 date:   2022-04-18T14:25:52-05:00
 author: Chichau Miao
 categories: ribozyme
