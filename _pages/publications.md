@@ -1682,7 +1682,7 @@ permalink: /publications/
     <td>1977</td>
     <td>Chow, L. T., R. E. Gelinas, T. R. Broker and R. J. Roberts </td>
     <td>An amazing sequence arrangement at the 5′ ends of adenovirus 2 messenger RNA.</td>
-    <td><a href="https://www.ribocentre.org/docs/Splicesome.html"  target="_blank" ><b>Spliceosome</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html"  target="_blank" ><b>Spliceosome</b></a></td>
     <td>Splicing phenomenon found</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/902310"  target="_blank" ><b> Cell 12(1): 1-8.</b></a></td>
   </tr>
@@ -1690,7 +1690,7 @@ permalink: /publications/
     <td>1983</td>
     <td>Mount, S. M., I. Pettersson, M. Hinterberger, A. Karmas and J. A. Steitz </td>
     <td>The U1 small nuclear RNA-protein complex selectively binds a 5' splice site in vitro.</td>
-    <td><a href="https://www.ribocentre.org/docs/Splicesome.html"  target="_blank" ><b>Spliceosome</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html"  target="_blank" ><b>Spliceosome</b></a></td>
     <td>First isolation of spliceosome subunits</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/6190573"  target="_blank" ><b> Cell 33(2): 509-518.</b></a></td>
   </tr>
@@ -1698,7 +1698,7 @@ permalink: /publications/
     <td>1985</td>
     <td>Frendewey, D. and W. Keller </td>
     <td>Stepwise assembly of a pre-mRNA splicing complex requires U-snRNPs and specific intron sequences.</td>
-    <td><a href="https://www.ribocentre.org/docs/Splicesome.html"  target="_blank" ><b>Spliceosome</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html"  target="_blank" ><b>Spliceosome</b></a></td>
     <td>In vitro splicing experiment</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/3160483"  target="_blank" ><b> Cell 42(1): 355-367.</b></a></td>
   </tr>
@@ -1706,7 +1706,7 @@ permalink: /publications/
     <td>1985</td>
     <td>Grabowski, P., S. Seiler and P. Sharp </td>
     <td>A multicomponent complex is involved in the splicing of messenger RNA precursors.</td>
-    <td><a href="https://www.ribocentre.org/docs/Splicesome.html"  target="_blank" ><b>Spliceosome</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html"  target="_blank" ><b>Spliceosome</b></a></td>
     <td>In vitro splicing experiment</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/3160482"  target="_blank" ><b> Cell 42(1): 345-353.</b></a></td>
   </tr>
@@ -1714,7 +1714,7 @@ permalink: /publications/
     <td>1992</td>
     <td>Madhani, H. D. and C. Guthrie </td>
     <td>A novel base-pairing interaction between U2 and U6 snRNAs suggests a mechanism for the catalytic activation of the spliceosome.</td>
-    <td><a href="https://www.ribocentre.org/docs/Splicesome.html"  target="_blank" ><b>Spliceosome</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html"  target="_blank" ><b>Spliceosome</b></a></td>
     <td>Demonstrate a conserved base-pairing interaction between the U6 and U2 snRNAs that is mutually exclusive with the U4-U6 interaction</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/1423631"  target="_blank" ><b> Cell 71(5): 803-817.</b></a></td>
   </tr>
@@ -1722,7 +1722,7 @@ permalink: /publications/
     <td>1993</td>
     <td>Steitz, T. A. and J. A. Steitz </td>
     <td>A general two-metal-ion mechanism for catalytic RNA.</td>
-    <td><a href="https://www.ribocentre.org/docs/Splicesome.html"  target="_blank" ><b>Spliceosome</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html"  target="_blank" ><b>Spliceosome</b></a></td>
     <td>Proposed that the two phosphotransesterifications of splicing are catalyzed by a two-metal mechanism</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/8341661"  target="_blank" ><b> Proc Natl Acad Sci U S A 90(14): 6498-6502.</b></a></td>
   </tr>
@@ -1730,7 +1730,7 @@ permalink: /publications/
     <td>1997</td>
     <td>Sontheimer, E. J., S. Sun and J. A. Piccirilli </td>
     <td>Metal ion catalysis during splicing of premessenger RNA.</td>
-    <td><a href="https://www.ribocentre.org/docs/Splicesome.html"  target="_blank" ><b>Spliceosome</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html"  target="_blank" ><b>Spliceosome</b></a></td>
     <td>Divalent metals stabilize the leaving group during each step of splicing</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/9285595"  target="_blank" ><b> Nature 388(6644): 801-805.</b></a></td>
   </tr>
@@ -1738,7 +1738,7 @@ permalink: /publications/
     <td>2000</td>
     <td>Yean, S. L., G. Wuenschell, J. Termini and R. J. Lin </td>
     <td>Metal-ion coordination by U6 small nuclear RNA contributes to catalysis in the spliceosome.</td>
-    <td><a href="https://www.ribocentre.org/docs/Splicesome.html"  target="_blank" ><b>Spliceosome</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html"  target="_blank" ><b>Spliceosome</b></a></td>
     <td>Metal-ion coordination by U6 small nuclear RNA contributes to catalysis in the spliceosome</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/11130730"  target="_blank" ><b> Nature 408(6814): 881-884.</b></a></td>
   </tr>
@@ -1746,7 +1746,7 @@ permalink: /publications/
     <td>2001</td>
     <td>Valadkhan, S. and J. L. Manley </td>
     <td>Splicing-related catalysis by protein-free snRNAs.</td>
-    <td><a href="https://www.ribocentre.org/docs/Splicesome.html"  target="_blank" ><b>Spliceosome</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html"  target="_blank" ><b>Spliceosome</b></a></td>
     <td>U2 and U6 can base-pair and fold in vitro into a structure that catalyzes reactions similar to the two steps of pre-mRNA splicing</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/11607023"  target="_blank" ><b> Nature 413(6857): 701-707.</b></a></td>
   </tr>
@@ -1754,7 +1754,7 @@ permalink: /publications/
     <td>2009</td>
     <td>Mefford, M. A. and J. P. Staley </td>
     <td>Evidence that U2/U6 helix I promotes both catalytic steps of pre-mRNA splicing and rearranges in between these steps.</td>
-    <td><a href="https://www.ribocentre.org/docs/Splicesome.html"  target="_blank" ><b>Spliceosome</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html"  target="_blank" ><b>Spliceosome</b></a></td>
     <td>U2/U6 helix I promotes both catalytic steps of pre-mRNA splicing and rearranges in between these steps</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/19458033"  target="_blank" ><b> RNA 15(7): 1386-1397.</b></a></td>
   </tr>
@@ -1762,7 +1762,7 @@ permalink: /publications/
     <td>2013</td>
     <td>Galej, W. P., C. Oubridge, A. J. Newman and K. Nagai </td>
     <td>Crystal structure of Prp8 reveals active site cavity of the spliceosome.</td>
-    <td><a href="https://www.ribocentre.org/docs/Splicesome.html"  target="_blank" ><b>Spliceosome</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html"  target="_blank" ><b>Spliceosome</b></a></td>
     <td>provides crucial insights into the architecture of the spliceosome active site, and reinforces the notion that nuclear pre-mRNA splicing and group II intron splicing have a common origin.</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/23354046"  target="_blank" ><b> Nature 493(7434): 638-643.</b></a></td>
   </tr>
@@ -1770,7 +1770,7 @@ permalink: /publications/
     <td>2013</td>
     <td>Fica, S. M., N. Tuttle, T. Novak, N. S. Li, J. Lu, P. Koodathingal, Q. Dai, J. P. Staley and J. A. Piccirilli </td>
     <td>RNA catalyses nuclear pre-mRNA splicing.</td>
-    <td><a href="https://www.ribocentre.org/docs/Splicesome.html"  target="_blank" ><b>Spliceosome</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html"  target="_blank" ><b>Spliceosome</b></a></td>
     <td>Demonstrate that RNA mediates catalysis within the spliceosome.</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/ 24196718"  target="_blank" ><b> Nature 503(7475): 229-234.</b></a></td>
   </tr>
@@ -1778,7 +1778,7 @@ permalink: /publications/
     <td>2015</td>
     <td>Yan, C., J. Hang, R. Wan, M. Huang, C. C. Wong and Y. Shi </td>
     <td>Structure of a yeast spliceosome at 3.6-angstrom resolution.</td>
-    <td><a href="https://www.ribocentre.org/docs/Splicesome.html"  target="_blank" ><b>Spliceosome</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html"  target="_blank" ><b>Spliceosome</b></a></td>
     <td>S.p ILS, 3.6 Å<br> &nbsp;&nbsp;The first atomic structure of the intact spliceosome</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/26292707"  target="_blank" ><b> Science 349(6253): 1182-1191.</b></a></td>
   </tr>
@@ -1786,7 +1786,7 @@ permalink: /publications/
     <td>2016</td>
     <td>Galej, W. P., M. E. Wilkinson, S. M. Fica, C. Oubridge, A. J. Newman and K. Nagai </td>
     <td>Cryo-EM structure of the spliceosome immediately after branching.</td>
-    <td><a href="https://www.ribocentre.org/docs/Splicesome.html"  target="_blank" ><b>Spliceosome</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html"  target="_blank" ><b>Spliceosome</b></a></td>
     <td>The resolution of tri-snRNP, a complex during splice assembly, was increased to 5.9 angstroms</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/27459055"  target="_blank" ><b> Nature 537(7619): 197-201.</b></a></td>
   </tr>
@@ -1794,7 +1794,7 @@ permalink: /publications/
     <td>2016</td>
     <td>Wan, R., C. Yan, R. Bai, G. Huang and Y. Shi </td>
     <td>Structure of a yeast catalytic step I spliceosome at 3.4 A resolution.</td>
-    <td><a href="https://www.ribocentre.org/docs/Splicesome.html"  target="_blank" ><b>Spliceosome</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html"  target="_blank" ><b>Spliceosome</b></a></td>
     <td>S.c C, 3.4 Å<br> &nbsp;&nbsp;Active site after branching</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/27445308"  target="_blank" ><b> Science 353(6302): 895-904.</b></a></td>
   </tr>
@@ -1802,7 +1802,7 @@ permalink: /publications/
     <td>2016</td>
     <td>Wan, R., C. Yan, R. Bai, L. Wang, M. Huang, C. C. Wong and Y. Shi </td>
     <td>The 3.8 A structure of the U4/U6.U5 tri-snRNP: Insights into spliceosome assembly and catalysis.</td>
-    <td><a href="https://www.ribocentre.org/docs/Splicesome.html"  target="_blank" ><b>Spliceosome</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html"  target="_blank" ><b>Spliceosome</b></a></td>
     <td>U4/U6.U5 tri-snRNP，3.8Å</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/26743623"  target="_blank" ><b> Science 351(6272): 466-475.</b></a></td>
   </tr>
@@ -1810,7 +1810,7 @@ permalink: /publications/
     <td>2016</td>
     <td>Yan, C., R. Wan, R. Bai, G. Huang and Y. Shi </td>
     <td>Structure of a yeast activated spliceosome at 3.5 A resolution.</td>
-    <td><a href="https://www.ribocentre.org/docs/Splicesome.html"  target="_blank" ><b>Spliceosome</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html"  target="_blank" ><b>Spliceosome</b></a></td>
     <td>B act , 3.5 Å<br> &nbsp;&nbsp;Catalytic center is formed</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/27445306"  target="_blank" ><b> Science 353(6302): 904-911.</b></a></td>
   </tr>
@@ -1818,7 +1818,7 @@ permalink: /publications/
     <td>2017</td>
     <td>Yan, C., R. Wan, R. Bai, G. Huang and Y. Shi </td>
     <td>Structure of a yeast step II catalytically activated spliceosome.</td>
-    <td><a href="https://www.ribocentre.org/docs/Splicesome.html"  target="_blank" ><b>Spliceosome</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html"  target="_blank" ><b>Spliceosome</b></a></td>
     <td>S.c C*, 4.0 Å</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/27980089"  target="_blank" ><b> Science 355(6321): 149-155.</b></a></td>
   </tr>
@@ -1826,7 +1826,7 @@ permalink: /publications/
     <td>2017</td>
     <td>Fica, S. M., C. Oubridge, W. P. Galej, M. E. Wilkinson, X. C. Bai, A. J. Newman and K. Nagai </td>
     <td>Structure of a spliceosome remodelled for exon ligation.</td>
-    <td><a href="https://www.ribocentre.org/docs/Splicesome.html"  target="_blank" ><b>Spliceosome</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html"  target="_blank" ><b>Spliceosome</b></a></td>
     <td>S.c C*, 3.8 Å</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/28076345"  target="_blank" ><b> Nature 542(7641): 377-380.</b></a></td>
   </tr>
@@ -1834,7 +1834,7 @@ permalink: /publications/
     <td>2017</td>
     <td>Plaschka, C., P. C. Lin and K. Nagai </td>
     <td>Structure of a pre-catalytic spliceosome.</td>
-    <td><a href="https://www.ribocentre.org/docs/Splicesome.html"  target="_blank" ><b>Spliceosome</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html"  target="_blank" ><b>Spliceosome</b></a></td>
     <td>S.c B, 7.2 (3.7) Å<br> &nbsp;&nbsp;</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/28530653"  target="_blank" ><b> Nature 546(7660): 617-621.</b></a></td>
   </tr>
@@ -1842,7 +1842,7 @@ permalink: /publications/
     <td>2017</td>
     <td>Wan, R., C. Yan, R. Bai, J. Lei and Y. Shi </td>
     <td>Structure of an Intron Lariat Spliceosome from Saccharomyces cerevisiae.</td>
-    <td><a href="https://www.ribocentre.org/docs/Splicesome.html"  target="_blank" ><b>Spliceosome</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html"  target="_blank" ><b>Spliceosome</b></a></td>
     <td>S.c ILS, 3.5 Å</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/28919079"  target="_blank" ><b> Cell 171(1): 120-132 e112.</b></a></td>
   </tr>
@@ -1850,7 +1850,7 @@ permalink: /publications/
     <td>2017</td>
     <td>Liu, S., X. Li, L. Zhang, J. Jiang, R. C. Hill, Y. Cui, K. C. Hansen, Z. H. Zhou and R. Zhao </td>
     <td>Structure of the yeast spliceosomal postcatalytic P complex.</td>
-    <td><a href="https://www.ribocentre.org/docs/Splicesome.html"  target="_blank" ><b>Spliceosome</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html"  target="_blank" ><b>Spliceosome</b></a></td>
     <td>S.c P, 3.3 Å</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/29146870"  target="_blank" ><b> Science 358(6368): 1278-1283.</b></a></td>
   </tr>
@@ -1858,7 +1858,7 @@ permalink: /publications/
     <td>2017</td>
     <td>Bai, R., C. Yan, R. Wan, J. Lei and Y. Shi </td>
     <td>Structure of the Post-catalytic Spliceosome from Saccharomyces cerevisiae.</td>
-    <td><a href="https://www.ribocentre.org/docs/Splicesome.html"  target="_blank" ><b>Spliceosome</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html"  target="_blank" ><b>Spliceosome</b></a></td>
     <td> &nbsp;&nbsp;S.c P, 3.6 Å</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/29153833"  target="_blank" ><b> Cell 171(7): 1589-1598 e1588.</b></a></td>
   </tr>
@@ -1866,7 +1866,7 @@ permalink: /publications/
     <td>2017</td>
     <td>Bertram, K., D. E. Agafonov, O. Dybkov, D. Haselbach, M. N. Leelaram, C. L. Will, H. Urlaub, B. Kastner, R. Luhrmann and H. Stark </td>
     <td>Cryo-EM Structure of a Pre-catalytic Human Spliceosome Primed for Activation.</td>
-    <td><a href="https://www.ribocentre.org/docs/Splicesome.html"  target="_blank" ><b>Spliceosome</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html"  target="_blank" ><b>Spliceosome</b></a></td>
     <td>C*, 5.9 Å<br> &nbsp;&nbsp;</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/28781166"  target="_blank" ><b> Cell 170(4): 701-713 e711.</b></a></td>
   </tr>
@@ -1874,7 +1874,7 @@ permalink: /publications/
     <td>2017</td>
     <td>Zhang, X., C. Yan, J. Hang, L. I. Finci, J. Lei and Y. Shi </td>
     <td>An Atomic Structure of the Human Spliceosome.</td>
-    <td><a href="https://www.ribocentre.org/docs/Splicesome.html"  target="_blank" ><b>Spliceosome</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html"  target="_blank" ><b>Spliceosome</b></a></td>
     <td>C*, 3.8 Å<br> &nbsp;&nbsp; The first atomic model of human spliceosom</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/28502770"  target="_blank" ><b> Cell 169(5): 918-929 e914.</b></a></td>
   </tr>
@@ -1882,7 +1882,7 @@ permalink: /publications/
     <td>2017</td>
     <td>Bertram, K., D. E. Agafonov, W. T. Liu, O. Dybkov, C. L. Will, K. Hartmuth, H. Urlaub, B. Kastner, H. Stark and R. Luhrmann </td>
     <td>Cryo-EM structure of a human spliceosome activated for step 2 of splicing.</td>
-    <td><a href="https://www.ribocentre.org/docs/Splicesome.html"  target="_blank" ><b>Spliceosome</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html"  target="_blank" ><b>Spliceosome</b></a></td>
     <td>B, 9.9 (4.5) Å<br> &nbsp;&nbsp;</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/28076346"  target="_blank" ><b> Nature 542(7641): 318-323.</b></a></td>
   </tr>
@@ -1890,7 +1890,7 @@ permalink: /publications/
     <td>2018</td>
     <td>Bai, R., R. Wan, C. Yan, J. Lei and Y. Shi </td>
     <td>Structures of the fully assembled Saccharomyces cerevisiae spliceosome before activation.</td>
-    <td><a href="https://www.ribocentre.org/docs/Splicesome.html"  target="_blank" ><b>Spliceosome</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html"  target="_blank" ><b>Spliceosome</b></a></td>
     <td>S.c pre–B, 3.3–4.6 Å<br> &nbsp;&nbsp;S.c B, 3.9 Å</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/29794219"  target="_blank" ><b> Science 360(6396): 1423-1429.</b></a></td>
   </tr>
@@ -1898,7 +1898,7 @@ permalink: /publications/
     <td>2018</td>
     <td>Plaschka, C., P. C. Lin, C. Charenton and K. Nagai </td>
     <td>Prespliceosome structure provides insights into spliceosome assembly and regulation.</td>
-    <td><a href="https://www.ribocentre.org/docs/Splicesome.html"  target="_blank" ><b>Spliceosome</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html"  target="_blank" ><b>Spliceosome</b></a></td>
     <td>S.c A, 4.9 (4.0) Å</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/29995849"  target="_blank" ><b> Nature 559(7714): 419-422.</b></a></td>
   </tr>
@@ -1906,7 +1906,7 @@ permalink: /publications/
     <td>2018</td>
     <td>Zhan, X., C. Yan, X. Zhang, J. Lei and Y. Shi </td>
     <td>Structure of a human catalytic step I spliceosome.</td>
-    <td><a href="https://www.ribocentre.org/docs/Splicesome.html"  target="_blank" ><b>Spliceosome</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html"  target="_blank" ><b>Spliceosome</b></a></td>
     <td> C, 4.1 Å<br> &nbsp;&nbsp;</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/29301961"  target="_blank" ><b> Science 359(6375): 537-545.</b></a></td>
   </tr>
@@ -1914,7 +1914,7 @@ permalink: /publications/
     <td>2018</td>
     <td>Haselbach, D., I. Komarov, D. E. Agafonov, K. Hartmuth, B. Graf, O. Dybkov, H. Urlaub, B. Kastner, R. Luhrmann and H. Stark </td>
     <td>Structure and Conformational Dynamics of the Human Spliceosomal B(act) Complex.</td>
-    <td><a href="https://www.ribocentre.org/docs/Splicesome.html"  target="_blank" ><b>Spliceosome</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html"  target="_blank" ><b>Spliceosome</b></a></td>
     <td> Bact , 3.4 Å (core)<br> &nbsp;&nbsp;</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/29361316"  target="_blank" ><b> Cell 172(3): 454-464 e411.</b></a></td>
   </tr>
@@ -1922,7 +1922,7 @@ permalink: /publications/
     <td>2018</td>
     <td>Zhan, X., C. Yan, X. Zhang, J. Lei and Y. Shi </td>
     <td>Structures of the human pre-catalytic spliceosome and its precursor spliceosome.</td>
-    <td><a href="https://www.ribocentre.org/docs/Splicesome.html"  target="_blank" ><b>Spliceosome</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html"  target="_blank" ><b>Spliceosome</b></a></td>
     <td> pre–B (5.7 Å) and B (3.8 Å)</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/30315277"  target="_blank" ><b> Cell Res 28(12): 1129-1140.</b></a></td>
   </tr>
@@ -1930,7 +1930,7 @@ permalink: /publications/
     <td>2019</td>
     <td>Wan, R., R. Bai, C. Yan, J. Lei and Y. Shi </td>
     <td>Structures of the Catalytically Activated Yeast Spliceosome Reveal the Mechanism of Branching.</td>
-    <td><a href="https://www.ribocentre.org/docs/Splicesome.html"  target="_blank" ><b>Spliceosome</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html"  target="_blank" ><b>Spliceosome</b></a></td>
     <td>S.c B*, 2.9–3.8 Å<br> &nbsp;&nbsp;Four distinct structures on two different substrates</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/30879786"  target="_blank" ><b> Cell 177(2): 339-351 e313.</b></a></td>
   </tr>
@@ -1938,7 +1938,7 @@ permalink: /publications/
     <td>2019</td>
     <td>Fica, S. M., C. Oubridge, M. E. Wilkinson, A. J. Newman and K. Nagai </td>
     <td>A human postcatalytic spliceosome structure reveals essential roles of metazoan factors for exon ligation.</td>
-    <td><a href="https://www.ribocentre.org/docs/Splicesome.html"  target="_blank" ><b>Spliceosome</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html"  target="_blank" ><b>Spliceosome</b></a></td>
     <td>P, 3.3 Å<br> &nbsp;&nbsp;</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/30705154"  target="_blank" ><b> Science 363(6428): 710-714.</b></a></td>
   </tr>
@@ -1946,7 +1946,7 @@ permalink: /publications/
     <td>2019</td>
     <td>Zhang, X., X. Zhan, C. Yan, W. Zhang, D. Liu, J. Lei and Y. Shi </td>
     <td>Structures of the human spliceosomes before and after release of the ligated exon.</td>
-    <td><a href="https://www.ribocentre.org/docs/Splicesome.html"  target="_blank" ><b>Spliceosome</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html"  target="_blank" ><b>Spliceosome</b></a></td>
     <td>P (3.0 Å) and ILS (2.9 Å)<br> &nbsp;&nbsp;</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/30728453"  target="_blank" ><b> Cell Res 29(4): 274-285.</b></a></td>
   </tr>
@@ -1954,7 +1954,7 @@ permalink: /publications/
     <td>2019</td>
     <td>Charenton, C., M. E. Wilkinson and K. Nagai </td>
     <td>Mechanism of 5' splice site transfer for human spliceosome activation.</td>
-    <td><a href="https://www.ribocentre.org/docs/Splicesome.html"  target="_blank" ><b>Spliceosome</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html"  target="_blank" ><b>Spliceosome</b></a></td>
     <td>pre–B, 3.3 Å <br> &nbsp;&nbsp;Mechanism of 5' splice site transfer for human spliceosome activation</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/30975767"  target="_blank" ><b> Science 364(6438): 362-367.</b></a></td>
   </tr>
@@ -1962,7 +1962,7 @@ permalink: /publications/
     <td>2019</td>
     <td>Wan, R., R. Bai, C. Yan, J. Lei and Y. Shi </td>
     <td>Structures of the Catalytically Activated Yeast Spliceosome Reveal the Mechanism of Branching.</td>
-    <td><a href="https://www.ribocentre.org/docs/Splicesome.html"  target="_blank" ><b>Spliceosome</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html"  target="_blank" ><b>Spliceosome</b></a></td>
     <td>Mechanism of Branching</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/30879786"  target="_blank" ><b> Cell 177(2): 339-351 e313.</b></a></td>
   </tr>
@@ -1970,7 +1970,7 @@ permalink: /publications/
     <td>2020</td>
     <td>Zhang, Z., C. L. Will, K. Bertram, O. Dybkov, K. Hartmuth, D. E. Agafonov, R. Hofele, H. Urlaub, B. Kastner, R. Luhrmann and H. Stark </td>
     <td>Molecular architecture of the human 17S U2 snRNP.</td>
-    <td><a href="https://www.ribocentre.org/docs/Splicesome.html"  target="_blank" ><b>Spliceosome</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html"  target="_blank" ><b>Spliceosome</b></a></td>
     <td>The structure of 17s U2 snRNP was analyzed and a complete molecular model of 17s U2 snRNP was obtained</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/32494006"  target="_blank" ><b> Nature 583(7815): 310-313.</b></a></td>
   </tr>
@@ -1978,7 +1978,7 @@ permalink: /publications/
     <td>2020</td>
     <td>Townsend, C., M. N. Leelaram, D. E. Agafonov, O. Dybkov, C. L. Will, K. Bertram, H. Urlaub, B. Kastner, H. Stark and R. Luhrmann </td>
     <td>Mechanism of protein-guided folding of the active site U2/U6 RNA during spliceosome activation.</td>
-    <td><a href="https://www.ribocentre.org/docs/Splicesome.html"  target="_blank" ><b>Spliceosome</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html"  target="_blank" ><b>Spliceosome</b></a></td>
     <td>Mechanism of protein-guided folding of the active site U2/U6 RNA during spliceosome activation</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/33243851"  target="_blank" ><b> Science 370(6523).</b></a></td>
   </tr>
@@ -1986,7 +1986,7 @@ permalink: /publications/
     <td>2021</td>
     <td>Bai, R., R. Wan, C. Yan, Q. Jia, J. Lei and Y. Shi </td>
     <td>Mechanism of spliceosome remodeling by the ATPase/helicase Prp2 and its coactivator Spp2.</td>
-    <td><a href="https://www.ribocentre.org/docs/Splicesome.html"  target="_blank" ><b>Spliceosome</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html"  target="_blank" ><b>Spliceosome</b></a></td>
     <td>Mechanism of spliceosome remodeling by the ATPase/helicase Prp2 and its coactivator Spp2</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/33243853"  target="_blank" ><b> Science 371(6525).</b></a></td>
   </tr>
@@ -1994,7 +1994,7 @@ permalink: /publications/
     <td>2022</td>
     <td>Tholen, J., M. Razew, F. Weis and W. P. Galej </td>
     <td>Structural basis of branch site recognition by the human spliceosome.</td>
-    <td><a href="https://www.ribocentre.org/docs/Splicesome.html"  target="_blank" ><b>Spliceosome</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html"  target="_blank" ><b>Spliceosome</b></a></td>
     <td>A series of high-resolution (2.0-2.2 Å) U2 snRNP structures were identified</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/34822310"  target="_blank" ><b> Science 375(6576): 50-57.</b></a></td>
   </tr>
@@ -2002,7 +2002,7 @@ permalink: /publications/
     <td>2019</td>
     <td>Yan, C., R. Wan and Y. Shi </td>
     <td>Molecular Mechanisms of pre-mRNA Splicing through Structural Biology of the Spliceosome.</td>
-    <td><a href="https://www.ribocentre.org/docs/Splicesome.html"  target="_blank" ><b>Spliceosome</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html"  target="_blank" ><b>Spliceosome</b></a></td>
     <td>Review</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/30602541"  target="_blank" ><b> Cold Spring Harb Perspect Biol 11(1).</b></a></td>
   </tr>
@@ -2010,7 +2010,7 @@ permalink: /publications/
     <td>2020</td>
     <td>Wan, R., R. Bai, X. Zhan and Y. Shi </td>
     <td>How Is Precursor Messenger RNA Spliced by the Spliceosome?</td>
-    <td><a href="https://www.ribocentre.org/docs/Splicesome.html"  target="_blank" ><b>Spliceosome</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html"  target="_blank" ><b>Spliceosome</b></a></td>
     <td>Review</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/31815536"  target="_blank" ><b> Annu Rev Biochem 89: 333-358.</b></a></td>
   </tr>
@@ -2018,7 +2018,7 @@ permalink: /publications/
     <td>2020</td>
     <td>Wilkinson, M. E., C. Charenton and K. Nagai </td>
     <td>RNA Splicing by the Spliceosome.</td>
-    <td><a href="https://www.ribocentre.org/docs/Splicesome.html"  target="_blank" ><b>Spliceosome</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Spliceosome.html"  target="_blank" ><b>Spliceosome</b></a></td>
     <td>Review</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/31794245"  target="_blank" ><b> Annu Rev Biochem 89: 359-388.</b></a></td>
   </tr>
