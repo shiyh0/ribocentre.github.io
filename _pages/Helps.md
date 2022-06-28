@@ -29,7 +29,7 @@ Ribocentre is designed to contain comprehensive information of all Ribozyme that
  <img src="https://www.ribocentre.org/images/HelpsPic/summit3.png" alt="drawing" style="weight:450px;height:200px;display:block;margin:0 auto;"><br><br>
  
 
-><a href="https://docs.google.com/spreadsheets/d/1dWzCMqP9_fmOxxBxpx6Rc0Ro2Her0YIn-07Rpx7fzEs/edit?usp=sharing"><button>Click here</button></a><br><br>
+><a href="https://docs.google.com/spreadsheets/d/1dWzCMqP9_fmOxxBxpx6Rc0Ro2Her0YIn-07Rpx7fzEs/edit?usp=sharing"  target="_blank"><button>Click here</button></a><br><br>
 > If we could get your feedback, we would try to update the database  as soon as possible!
 > For large datasets please contact the database team group directly by using the submission form.
 
