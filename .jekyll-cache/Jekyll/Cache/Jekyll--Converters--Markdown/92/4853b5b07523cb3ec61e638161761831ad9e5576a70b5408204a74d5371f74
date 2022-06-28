@@ -1,22 +1,14 @@
----
-title: "Ribo centre - Home"
-layout: homelay
-excerpt: "Ribo centre: A ribozyme database"
-sitemap: false
-permalink: /
----
+I"ú	<h1 id="ribozyme-wiki">Ribozyme wiki</h1>
 
-
-# Ribozyme wiki
-
-**The following information is adapted from [Wikipedia](https://en.wikipedia.org/)**
+<p><strong>The following information is adapted from <a href="https://en.wikipedia.org/">Wikipedia</a></strong></p>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-<script type="text/javascript" src="{{ site.url }}{{ site.baseurl }}/js/ribozyme.js"></script>
+
+<script type="text/javascript" src="http://localhost:4000/js/ribozyme.js"></script>
 
 <div id="ribozymewikisection0"></div>
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+<div id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -28,24 +20,24 @@ permalink: /
     </ol>
 
     <!-- Items -->
-    <div class="carousel-inner" markdown="0">
+    <div class="carousel-inner">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/VS_Home.png" alt="Slide 1" style="height:400px;"/>
+            <img src="http://localhost:4000/images/homepic/VS_Home.png" alt="Slide 1" style="height:400px;" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/HDV_Home.png" alt="Slide 2" style="height:400px;"/>
+            <img src="http://localhost:4000/images/homepic/HDV_Home.png" alt="Slide 2" style="height:400px;" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/GlmS_Home.png" alt="Slide 3" style="height:400px;"/>
+            <img src="http://localhost:4000/images/homepic/GlmS_Home.png" alt="Slide 3" style="height:400px;" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/Hairpin_Home.png" alt="Slide 4" style="height:400px;"/>
+            <img src="http://localhost:4000/images/homepic/Hairpin_Home.png" alt="Slide 4" style="height:400px;" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/Twister_Home.png" alt="Slide 5" style="height:400px;"/>
+            <img src="http://localhost:4000/images/homepic/Twister_Home.png" alt="Slide 5" style="height:400px;" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/Twister-sister_Home.png" alt="Slide 6" style="height:400px;"/>
+            <img src="http://localhost:4000/images/homepic/Twister-sister_Home.png" alt="Slide 6" style="height:400px;" />
         </div>
 
     </div>
@@ -65,6 +57,4 @@ permalink: /
 <div id="ribozymewikisection4"></div>
 <div id="ribozymewikisection5"></div>
 
-
-
-
+:ET
