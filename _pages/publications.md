@@ -346,7 +346,7 @@ permalink: /publications/
     <td>2006</td>
     <td>Klein, D. and A. Ferré-D'Amaré </td>
     <td>Structural basis of glmS ribozyme activation by glucosamine-6-phosphate.</td>
-    <td><a href="https://www.ribocentre.org/docs/glms.html"  target="_blank" ><b>glms ribozyme</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/glms.html"  target="_blank" ><b>Glms ribozyme</b></a></td>
     <td>Crystal structure</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/16990543"  target="_blank" ><b> Science (New York, N.Y.) 313(5794): 1752-1756.</b></a></td>
   </tr>
@@ -354,7 +354,7 @@ permalink: /publications/
     <td>2007</td>
     <td>Cochrane, J., S. Lipchock and S. Strobel </td>
     <td>Structural investigation of the GlmS ribozyme bound to Its catalytic cofactor.</td>
-    <td><a href="https://www.ribocentre.org/docs/glms.html"  target="_blank" ><b>glms ribozyme</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/glms.html"  target="_blank" ><b>Glms ribozyme</b></a></td>
     <td>Crystal structure</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/17196404"  target="_blank" ><b> Chemistry &amp; biology 14(1): 97-105.</b></a></td>
   </tr>
@@ -370,7 +370,7 @@ permalink: /publications/
     <td>2017</td>
     <td>Schüller, A., D. Matzner, C. Lünse, V. Wittmann, C. Schumacher, S. Unsleber, H. Brötz-Oesterhelt, C. Mayer, G. Bierbaum and G. Mayer </td>
     <td>Activation of the glmS Ribozyme Confers Bacterial Growth Inhibition.</td>
-    <td><a href="https://www.ribocentre.org/docs/glms.html"  target="_blank" ><b>glms ribozyme</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/glms.html"  target="_blank" ><b>Glms ribozyme</b></a></td>
     <td>GlcN6P cofactor play a variety of catalytic roles in glmS ribozyme</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/28012261"  target="_blank" ><b> Chembiochem : a European journal of chemical biology 18(5): 435-440.</b></a></td>
   </tr>
@@ -378,23 +378,23 @@ permalink: /publications/
     <td>2004</td>
     <td>Winkler, W., A. Nahvi, A. Roth, J. Collins and R. Breaker </td>
     <td>Control of gene expression by a natural metabolite-responsive ribozyme.</td>
-    <td><a href="https://www.ribocentre.org/docs/glms.html"  target="_blank" ><b>glms ribozyme</b></a></td>
-    <td>discovery,Secondary structure</td>
+    <td><a href="https://www.ribocentre.org/docs/glms.html"  target="_blank" ><b>Glms ribozyme</b></a></td>
+    <td>Discovery,Secondary structure</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/15029187"  target="_blank" ><b> Nature 428(6980): 281-286.</b></a></td>
   </tr>
   <tr>
     <td>2006</td>
     <td>Soukup, G. </td>
     <td>Core requirements for glmS ribozyme self-cleavage reveal a putative pseudoknot structure.</td>
-    <td><a href="https://www.ribocentre.org/docs/glms.html"  target="_blank" ><b>glms ribozyme</b></a></td>
-    <td>pseudoknot structure</td>
+    <td><a href="https://www.ribocentre.org/docs/glms.html"  target="_blank" ><b>Glms ribozyme</b></a></td>
+    <td>Pseudoknot structure</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/16464827"  target="_blank" ><b> Nucleic acids research 34(3): 968-975.</b></a></td>
   </tr>
   <tr>
     <td>2007</td>
     <td>Collins, J., I. Irnov, S. Baker and W. Winkler </td>
     <td>Mechanism of mRNA destabilization by the glmS ribozyme.</td>
-    <td><a href="https://www.ribocentre.org/docs/glms.html"  target="_blank" ><b>glms ribozyme</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/glms.html"  target="_blank" ><b>Glms ribozyme</b></a></td>
     <td>Mechanism of mRNA destabilization by the glms ribozyme</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/18079181"  target="_blank" ><b> Genes &amp; development 21(24): 3356-3368.</b></a></td>
   </tr>
@@ -402,7 +402,7 @@ permalink: /publications/
     <td>2009</td>
     <td>Cochrane, J., S. Lipchock, K. Smith and S. Strobel </td>
     <td>Structural and chemical basis for glucosamine 6-phosphate binding and activation of the glmS ribozyme.</td>
-    <td><a href="https://www.ribocentre.org/docs/glms.html"  target="_blank" ><b>glms ribozyme</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/glms.html"  target="_blank" ><b>Glms ribozyme</b></a></td>
     <td>Chemical Mechanism</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/19228039"  target="_blank" ><b> Biochemistry 48(15): 3239-3246.</b></a></td>
   </tr>
@@ -410,7 +410,7 @@ permalink: /publications/
     <td>2010</td>
     <td>Ferré-D'Amaré, A. </td>
     <td>The glmS ribozyme: use of a small molecule coenzyme by a gene-regulatory RNA.</td>
-    <td><a href="https://www.ribocentre.org/docs/glms.html"  target="_blank" ><b>glms ribozyme</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/glms.html"  target="_blank" ><b>Glms ribozyme</b></a></td>
     <td>Use of a small molecule coenzyme by a gene-regulatory RNA</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/20822574"  target="_blank" ><b> Quarterly reviews of biophysics 43(4): 423-447.</b></a></td>
   </tr>
@@ -418,7 +418,7 @@ permalink: /publications/
     <td>2010</td>
     <td>Klawuhn, K., J. Jansen, J. Souchek, G. Soukup and J. Soukup </td>
     <td>Analysis of metal ion dependence in glmS ribozyme self-cleavage and coenzyme binding.</td>
-    <td><a href="https://www.ribocentre.org/docs/glms.html"  target="_blank" ><b>glms ribozyme</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/glms.html"  target="_blank" ><b>Glms ribozyme</b></a></td>
     <td>The role of Mg2+ in active sites</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/21108273"  target="_blank" ><b> Chembiochem : a European journal of chemical biology 11(18): 2567-2571.</b></a></td>
   </tr>
@@ -426,7 +426,7 @@ permalink: /publications/
     <td>2011</td>
     <td>Watson, P. and M. Fedor </td>
     <td>The glmS riboswitch integrates signals from activating and inhibitory metabolites in vivo.</td>
-    <td><a href="https://www.ribocentre.org/docs/glms.html"  target="_blank" ><b>glms ribozyme</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/glms.html"  target="_blank" ><b>Glms ribozyme</b></a></td>
     <td>The glmS riboswitch integrates signals from activating and inhibitory metabolites in vivo</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/21317896"  target="_blank" ><b> Nature structural &amp; molecular biology 18(3): 359-363.</b></a></td>
   </tr>
@@ -434,7 +434,7 @@ permalink: /publications/
     <td>2011</td>
     <td>McCown, P., A. Roth and R. Breaker </td>
     <td>An expanded collection and refined consensus model of glmS ribozymes.</td>
-    <td><a href="https://www.ribocentre.org/docs/glms.html"  target="_blank" ><b>glms ribozyme</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/glms.html"  target="_blank" ><b>Glms ribozyme</b></a></td>
     <td>An expanded collection and refined consensus model of glmS ribozymes</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/21367971"  target="_blank" ><b> RNA (New York, N.Y.) 17(4): 728-736.</b></a></td>
   </tr>
@@ -442,7 +442,7 @@ permalink: /publications/
     <td>2012</td>
     <td>Viladoms, J. and M. Fedor </td>
     <td>The glmS ribozyme cofactor is a general acid-base catalyst.</td>
-    <td><a href="https://www.ribocentre.org/docs/glms.html"  target="_blank" ><b>glms ribozyme</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/glms.html"  target="_blank" ><b>Glms ribozyme</b></a></td>
     <td>The glmS ribozyme cofactor is a general acid-base catalyst</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/23113700"  target="_blank" ><b> Journal of the American Chemical Society 134(46): 19043-19049.</b></a></td>
   </tr>
@@ -450,7 +450,7 @@ permalink: /publications/
     <td>2013</td>
     <td>Lau, M. W. L. and A. R. Ferré-D Amaré</td>
     <td>An in vitro evolved glmS ribozyme has the wild-type fold but loses coenzyme dependence.</td>
-    <td><a href="https://www.ribocentre.org/docs/glms.html"  target="_blank" ><b>glms ribozyme</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/glms.html"  target="_blank" ><b>Glms ribozyme</b></a></td>
     <td>An in vitro evolved glmS ribozyme has the wild-type fold but loses coenzyme dependence</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/24096303"  target="_blank" ><b> Journal of the American Chemical Society 134(46): 19043-19049.</b></a></td>
   </tr>
@@ -458,7 +458,7 @@ permalink: /publications/
     <td>2017</td>
     <td>Bingaman, J., S. Zhang, D. Stevens, N. Yennawar, S. Hammes-Schiffer and P. Bevilacqua </td>
     <td>The GlcN6P cofactor plays multiple catalytic roles in the glmS ribozyme.</td>
-    <td><a href="https://www.ribocentre.org/docs/glms.html"  target="_blank" ><b>glms ribozyme</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/glms.html"  target="_blank" ><b>Glms ribozyme</b></a></td>
     <td>GlcN6P cofactor play a variety of catalytic roles in glmS ribozyme</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/28192411"  target="_blank" ><b> Nature chemical biology 13(4): 439-445.</b></a></td>
   </tr>
@@ -466,7 +466,7 @@ permalink: /publications/
     <td>2018</td>
     <td>Cruz-Bustos, T., S. Ramakrishnan, C. Cordeiro, M. Ahmed and R. Docampo </td>
     <td>A Riboswitch-based Inducible Gene Expression System for Trypanosoma brucei.</td>
-    <td><a href="https://www.ribocentre.org/docs/glms.html"  target="_blank" ><b>glms ribozyme</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/glms.html"  target="_blank" ><b>Glms ribozyme</b></a></td>
     <td>The glmS ribozyme could be used as a tool to study essential genes in T. brucei</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/29265590"  target="_blank" ><b> The Journal of eukaryotic microbiology 65(3): 412-421.</b></a></td>
   </tr>
@@ -474,7 +474,7 @@ permalink: /publications/
     <td>2020</td>
     <td>Andreasson, J., A. Savinov, S. Block and W. Greenleaf </td>
     <td>Comprehensive sequence-to-function mapping of cofactor-dependent RNA catalysis in the glmS ribozyme.</td>
-    <td><a href="https://www.ribocentre.org/docs/glms.html"  target="_blank" ><b>glms ribozyme</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/glms.html"  target="_blank" ><b>Glms ribozyme</b></a></td>
     <td>Comprehensive sequence-to-function mapping of cofactor-dependent RNA catalysis in the glmS ribozyme</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/32245964"  target="_blank" ><b> Nature communications 11(1): 1663.</b></a></td>
   </tr>
@@ -482,7 +482,7 @@ permalink: /publications/
     <td>2021</td>
     <td>Traykovska, M., K. Popova and R. Penchovsky </td>
     <td>Targeting glmS Ribozyme with Chimeric Antisense Oligonucleotides for Antibacterial Drug Development.</td>
-    <td><a href="https://www.ribocentre.org/docs/glms.html"  target="_blank" ><b>glms ribozyme</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/glms.html"  target="_blank" ><b>Glms ribozyme</b></a></td>
     <td>The glmS ribozyme is a very suitable target for antibacterial drug development with antisense oligonucleotides</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/34734706"  target="_blank" ><b> ACS synthetic biology 10(11): 3167-3176.</b></a></td>
   </tr>
@@ -490,7 +490,7 @@ permalink: /publications/
     <td>2002</td>
     <td>Zhang, L. and J. A. Doudna </td>
     <td>Structural insights into group II intron catalysis and branch-site selection.</td>
-    <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group Ⅱ intron</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group II intron</b></a></td>
     <td>Crystal structures of 70-nucleotide RNAs of yeast ai5γD5 and D6(3 Å)</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/11859154"  target="_blank" ><b> Science 295 (5562): 2084-8.</b></a></td>
   </tr>
@@ -498,7 +498,7 @@ permalink: /publications/
     <td>2008</td>
     <td>Toor, N., K. S. Keating, S. D. Taylor and A. M. Pyle </td>
     <td>Crystal structure of a self-spliced group II intron.</td>
-    <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group Ⅱ intron</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group II intron</b></a></td>
     <td>Crystal structure of the group II intron of Oceanobacillus iheyensis</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/18388288"  target="_blank" ><b> Science 320 (5872): 77-82.</b></a></td>
   </tr>
@@ -506,7 +506,7 @@ permalink: /publications/
     <td>2010</td>
     <td>Pyle, A. M. </td>
     <td>The tertiary structure of group II introns: implications for biological function  and evolution.</td>
-    <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group Ⅱ intron</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group II intron</b></a></td>
     <td>Common tertiary structure of the catalytic core</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/20446804"  target="_blank" ><b> Crit Rev Biochem Mol Biol 45 (3): 215-32.</b></a></td>
   </tr>
@@ -514,7 +514,7 @@ permalink: /publications/
     <td>2014</td>
     <td>Robart, A. R., R. T. Chan, J. K. Peters, K. R. Rajashankar and N. Toor </td>
     <td>Crystal structure of a eukaryotic group II intron lariat.</td>
-    <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group Ⅱ intron</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group II intron</b></a></td>
     <td>Crystal structure of the intronic lariat form of eukaryotic group IIB</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/25252982"  target="_blank" ><b> Nature 514 (7521): 193-7.</b></a></td>
   </tr>
@@ -522,7 +522,7 @@ permalink: /publications/
     <td>2019</td>
     <td>Haack, D. B., X. Yan, C. Zhang, J. Hingey, D. Lyumkis, T. S. Baker and N. Toor </td>
     <td>Cryo-EM Structures of a Group II Intron Reverse Splicing into DNA.</td>
-    <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group Ⅱ intron</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group II intron</b></a></td>
     <td>Cryo-EM structures of a group II intron reverse splicing into DNA</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/31348888"  target="_blank" ><b> Cell 178 (3): 612-623.e12.</b></a></td>
   </tr>
@@ -530,7 +530,7 @@ permalink: /publications/
     <td>1986</td>
     <td>Peebles, C. L., P. S. Perlman, K. L. Mecklenburg, M. L. Petrillo, J. H. Tabor, K. A. Jarrell and H. L. Cheng </td>
     <td>A self-splicing RNA excises an intron lariat.</td>
-    <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group Ⅱ intron</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group II intron</b></a></td>
     <td>Discovery</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/3510741"  target="_blank" ><b> Cell 44 (2): 213-23.</b></a></td>
   </tr>
@@ -538,7 +538,7 @@ permalink: /publications/
     <td>1989</td>
     <td>Michel, F., K. Umesono and H. Ozeki </td>
     <td>Comparative and functional anatomy of group II catalytic introns--a review.</td>
-    <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group Ⅱ intron</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group II intron</b></a></td>
     <td>Common model for group II introns</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/2684776"  target="_blank" ><b> Gene 82 (1): 5-30.</b></a></td>
   </tr>
@@ -546,7 +546,7 @@ permalink: /publications/
     <td>1995</td>
     <td>Peebles, C. L., M. Zhang, P. S. Perlman and J. S. Franzen </td>
     <td>Catalytically critical nucleotide in domain 5 of a group II intron.</td>
-    <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group Ⅱ intron</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group II intron</b></a></td>
     <td>AGC is an important nucleotide in D5</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/7538669"  target="_blank" ><b> Proc Natl Acad Sci U S A 92 (10): 4422-6.</b></a></td>
   </tr>
@@ -554,7 +554,7 @@ permalink: /publications/
     <td>1995</td>
     <td>Boulanger, S. C., S. M. Belcher, U. Schmidt, S. D. Dib-Hajj, T. Schmidt and P. S. Perlman </td>
     <td>Studies of point mutants define three essential paired nucleotides in the domain  5 substructure of a group II intron.</td>
-    <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group Ⅱ intron</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group II intron</b></a></td>
     <td>AGC is an important nucleotide in D5</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/7623838"  target="_blank" ><b> Mol Cell Biol 15 (8): 4479-88.</b></a></td>
   </tr>
@@ -562,7 +562,7 @@ permalink: /publications/
     <td>1996</td>
     <td>Schmidt, U., M. Podar, U. Stahl and P. S. Perlman </td>
     <td>Mutations of the two-nucleotide bulge of D5 of a group II intron block splicing in vitro and in vivo: phenotypes and suppressor mutations.</td>
-    <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group Ⅱ intron</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group II intron</b></a></td>
     <td>Two nucleotide bulges in D5 are important</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/8903346"  target="_blank" ><b> RNA 2 (11): 1161-72.</b></a></td>
   </tr>
@@ -570,7 +570,7 @@ permalink: /publications/
     <td>1996</td>
     <td>Abramovitz, D. L., R. A. Friedman and A. M. Pyle </td>
     <td>Catalytic role of 2'-hydroxyl groups within a group II intron active site.</td>
-    <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group Ⅱ intron</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group II intron</b></a></td>
     <td>Eight hydroxyl groups in D5 are the key to activity</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/8596912"  target="_blank" ><b> Science 271 (5254): 1410-3.</b></a></td>
   </tr>
@@ -578,7 +578,7 @@ permalink: /publications/
     <td>1997</td>
     <td>Costa, M., E. Deme, A. Jacquier and F. Michel </td>
     <td>Multiple tertiary interactions involving domain II of group II self-splicing introns.</td>
-    <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group Ⅱ intron</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group II intron</b></a></td>
     <td>D2 stabilizes the ribozyme core and controls the location of D6 and branching sites</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/9126835"  target="_blank" ><b> J Mol Biol 267 (3): 520-36.</b></a></td>
   </tr>
@@ -586,7 +586,7 @@ permalink: /publications/
     <td>2000</td>
     <td>Boudvillain, M., A. de Lencastre and A. M. Pyle </td>
     <td>A tertiary interaction that links active-site domains to the 5' splice site of a  group II intron.</td>
-    <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group Ⅱ intron</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group II intron</b></a></td>
     <td>Demonstration of tertiary interactions linking the catalytically critical regions of D1 to D5 and anchoring them at the 5' splice site</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/10917534"  target="_blank" ><b> Nature 406 (6793): 315-8.</b></a></td>
   </tr>
@@ -594,7 +594,7 @@ permalink: /publications/
     <td>2005</td>
     <td>Fedorova, O. and A. M. Pyle </td>
     <td>Linking the group II intron catalytic domains: tertiary contacts and structural features of domain 3.</td>
-    <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group Ⅱ intron</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group II intron</b></a></td>
     <td>D3 is a functional group important for catalytic activity, and the interaction of D3 and D5 promotes catalysis</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/16252007"  target="_blank" ><b> EMBO J 24 (22): 3906-16.</b></a></td>
   </tr>
@@ -602,7 +602,7 @@ permalink: /publications/
     <td>2007</td>
     <td>Fedorova, O. and N. Zingler </td>
     <td>Group II introns: structure, folding and splicing mechanism.</td>
-    <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group Ⅱ intron</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group II intron</b></a></td>
     <td>Splicing mechanism</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/17570818"  target="_blank" ><b> Biol Chem 388 (7): 665-78.</b></a></td>
   </tr>
@@ -610,7 +610,7 @@ permalink: /publications/
     <td>2008</td>
     <td>Toor, N., K. S. Keating, S. D. Taylor and A. M. Pyle </td>
     <td>Crystal structure of a self-spliced group II intron.</td>
-    <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group Ⅱ intron</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group II intron</b></a></td>
     <td>Clarify the role of J2/3: it forms a triple helix with the protrusion of D5 and the "catalytic tribase", bringing together the intronic residues necessary for catalysis</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/18388288"  target="_blank" ><b> Science 320 (5872): 77-82.</b></a></td>
   </tr>
@@ -875,7 +875,7 @@ permalink: /publications/
     <td>Jimenez, R. M., E. Delwart and A. Lupták </td>
     <td>Structure-based search reveals hammerhead ribozymes in the human microbiome.</td>
     <td><a href="https://www.ribocentre.org/docs/hammer.html"  target="_blank" ><b>Hammerhead ribozyme</b></a></td>
-    <td>Secondary structure of type Ⅱ HHR</td>
+    <td>Secondary structure of type II HHR</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/21257745"  target="_blank" ><b> J Biol Chem 286(10): 7737-7743.</b></a></td>
   </tr>
   <tr>

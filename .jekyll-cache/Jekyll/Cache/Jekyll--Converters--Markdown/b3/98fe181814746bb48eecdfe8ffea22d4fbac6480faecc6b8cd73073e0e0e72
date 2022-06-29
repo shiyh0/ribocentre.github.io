@@ -1,86 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>RNaseP</title>
-  <meta name="description" content="Rfam ID: RF00010 ">
-  <!--<link rel="stylesheet" href="http://localhost:4000/css/main.css>-->
-  <link rel="stylesheet" href="https://www.ribocentre.org/css/main.css">
-  <link rel="canonical" href="http://localhost:4000/ribozyme/2022/04/19/RNaseP.html">
-  <link rel="shortcut icon" type ="image/x-icon" href="https://www.ribocentre.org/images/favicon.ico">
-
-
-
-</head>
-
-
-  <body>
-
-    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
-  <style>
-        /* Modify the background color https://www.color-hex.com/color-palette/1011604 */
-        .navbar {
-            background-color: #0874c4;
-        }
-        .navbar .navbar-brand,
-        .navbar .navbar-text {
-            color: #eeeeee;
-        }
-
-		#now a{
-			color:#fff
-
-		}
-		
-  </style>
-
-  <div class="container-fluid">
-	<div class="navbar-header">
-	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
-		<span class="sr-only">Toggle navigation</span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-	  </button>
-	
-    <a class="navbar-brand" href="https://www.ribocentre.org/">
-		
-		<!--<img class="navbar-brand" src="http://localhost:4000/images/Ribo_centre_logo.jpg" style='height:50px;margin-top:-14px;margin-bottom:0;padding:0;' alt="logo">
-		Ribo centre @ Bio island-->
-		<img class="navbar-brand" src="https://www.ribocentre.org/images/Ribo_centre_logo.jpg" style='height:50px;margin-top:-14px;margin-bottom:0;padding:0;' alt="logo">
-		Ribo centre 
-	</a>
-	</div>
-	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right">
-		<li id="now"><a href="https://www.ribocentre.org/">Home</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/ribozyme">Ribozyme</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/application">Application</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/catalysis">Catalysis</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/structure">Structure</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/publications">Publications</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/team">Team</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/Helps">Helps</a></li>
-	  </ul>
-	</div>
-  </div>
-</div>
-
-
-    <div class="container-fluid">
-      <div class="row">
-        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-
-  <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">RNaseP</h1>
-    <p class="post-meta"><time datetime="2022-04-19T03:25:52+08:00" itemprop="datePublished">Apr 19, 2022</time></p>
-  </header>
-
-  <div class="post-content" itemprop="articleBody">
-    <p><strong>Rfam ID: <a href="https://rfam.xfam.org/family/RF00010">RF00010</a></strong> <br /></p>
+I"q�<p><strong>Rfam ID: <a href="https://rfam.xfam.org/family/RF00010">RF00010</a></strong> <br /></p>
 
 <h4 id="click-into-different-sections">click into different sections:</h4>
 
@@ -429,7 +347,7 @@
           <div class="timeline-badge warning"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/12003490" target="_blank" style="font-size:25px;">2002</a>Four archaeal  RNase P protein sequences[5]</h4>
+              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/12003490" target="_blank" style="font-size:25px;">2002</a>4 archaeal  RNase P protein sequences[5]</h4>
             </div>
           </div>
         </li>
@@ -543,7 +461,7 @@
           <div class="timeline-badge primary"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/30262633" target="_blank" style="font-size:25px;">2018</a>Cryo-EM structure of yeast RNase P holoenzymeand the catalytic mechanism[9]</h4>
+              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/30262633" target="_blank" style="font-size:25px;">2018</a>Cryo-EM structure of yeast RNase P holoenzyme;<br />Substrate Recognition and catalytic mechanism.[9]</h4>
             </div>
           </div>
         </li>
@@ -551,7 +469,7 @@
           <div class="timeline-badge success"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/30454648" target="_blank" style="font-size:25px;">2018</a>Cryo-EM structure of the Human RNase P holoenzyme and the catalytic mechanism.[10]</h4>
+              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/30454648" target="_blank" style="font-size:25px;">2018</a>Cryo-EM structure of the Human RNase P holoenzyme;Substrate Recognition and catalytic mechanism.[10]</h4>
             </div>
             <div class="timeline-body">
             </div>
@@ -624,7 +542,7 @@
 
 <hr />
 
-<font size="4">Ribonuclease mitochondrial RNA processing (RNase MRP) is a eukaryotic ribonucleoprotein (RNP) that is evolutionarily related to RNase P. RNase MRP processes precursor ribosomal RNA pre-rRNA by recognizing a short, loosely defined consensus sequence.</font>
+<font size="4"></font>
 <p><br /></p>
 
 <h2 id="structure">Structure</h2>
@@ -635,7 +553,7 @@
   <p>2D representation</p>
 </blockquote>
 
-<p>Secondary structure of <em>T. maritima</em> RNase P RNA. The crystallized <em>T. maritima</em> RNase P RNA consists of eighteen paired helices (P1 to P18), five universally conserved regions (CR-I to CR-V) (gray). P1/P4/P5/P6 is shown in blue, P2/P3 stems in pink, P7 and P10/P11/P12 in yellow, P8/P9 in green, P13/P14 in cyan, P15/P16/L17 in red, and P18 in orange. The crystallized RNase P RNA contains two domains, termed the catalytic (C) and specificity (S) domains, are shown：</p>
+<p>Secondary structure of T. maritima RNase P RNA. The crystallized T. maritima RNase P RNA consists of eighteen paired helices (P1 to P18), five universally conserved regions (CR-I to CR-V) (gray). P1/P4/P5/P6 is shown in blue, P2/P3 stems in pink, P7 and P10/P11/P12 in yellow, P8/P9 in green, P13/P14 in cyan, P15/P16/L17 in red, and P18 in orange. The crystallized RNase P RNA contains two domains, termed the catalytic (C) and specificity (S) domains, are shown.</p>
 
 <table><tr>
 <td>
@@ -690,21 +608,25 @@
 <td>
 <link rel="stylesheet" type="text/css" href="https://www.ribocentre.org/css/fornac.css" media="screen" />
 
-<div id="rna_ss"> </div>
+<div id="multi_ss"> </div>
 
 <meta charset="utf-8" />
     <script type="text/javascript" src="https://www.ribocentre.org/js/jquery.js"></script>
     <script type="text/javascript" src="https://www.ribocentre.org/js/d3.js"></script>
     <script type="text/javascript" src="https://www.ribocentre.org/js/demo/rsvfornac.js"></script>
-  
     <script type="text/javascript">
-      var container = new fornac.FornaContainer("#rna_ss", {'applyForce': 1,'editable':'true', 'initialSize':[450,400]});
+     "use strict"
+     function multiContainer() {
+        var container = new fornac.FornaContainer("#multi_ss",
+                {'applyForce': 1,'editable':'true',  'initialSize':[450,400]});
 
-      var options = {'structure': '((((((((((..((((((.((((((((((....))))).))))).[...}}}}}...))))))))))....',
-                     'sequence': 'GGAGAGGAGCAGGCGGUCGCGGGGGCGCACACCUGCGCUUCCCGAGGAAAGUCCGGACUCUGGAGCGGGGUGCCGGGUAACGCCCGGGAGGGGUGACCCUCGGACAGGGCCAUAGAGAAGAAGACCGCCCGGGGGGAAACUUCCGGGCAAGGGUGGAACGGUGGGGUAAGAGCCCACCAGCGUCGGGGCAACCCGGCGGCUUGGCAACCCCCACCUGGAGCAAGGCCAAGCAGGGGGUUGGGUCGCUCCCCCUAUUCCCCCGGGUUGGCCGCUUGAGGUGUGCGGUAACGCACACCCCAGAUUGAUGACCGCCCACGACAGAAUCCGGCUUAUGCUCCUCUCCCGUG'};
+        container.addRNA('((((((((((..(((((..((((((((((....))))).))))).[...}}}}}...))))))))))....', {'sequence': 'GGAGAGGAGCAGGCGGUCGCGGGGGCGCACACCUGCGCUUCCCGAGGAAAGUCCGGACUCUGGAGCGGGGUGCCGGGUAACGCCCGGGAGGGGUGACCCUCGGACAGGGCCAUAGAGAAGAAGACCGCCCGGGGGGAAACUUCCGGGCAAGGGUGGAACGGUGGGGUAAGAGCCCACCAGCGUCGGGGCAACCCGGCGGCUUGGCAACCCCCACCUGGAGCAAGGCCAAGCAGGGGGUUGGGUCGCUCCCCCUAUUCCCCCGGGUUGGCCGCUUGAGGUGUGCGGUAACGCACACCCCAGAUUGAUGACCGCCCACGACAGAAUCCGGCUUAUGCUCCUCUCCCGUG'});
 
-      container.addRNA(options.structure, options);
-  </script>
+        container.addRNA('(((((((..((((.[......)))).((((((..(((....)))...))))))....](((((.......))))))))))))....', {'avoidOthers': true, 'sequence': 'GGCCAGGUAGCUCAGUUGGUAGAGCACUGGAUAUGGGCACCCCCUAAGUCCAGGUGUCGGCGGUUCGAUUCCGCCCCUGGCCACCA'});
+        
+    }
+    let nc =  multiContainer();
+   </script>
 </td>
 </tr></table>
 <p><br /></p>
@@ -713,7 +635,7 @@
   <p>3D visualisation</p>
 </blockquote>
 
-<p>Crystal structure of <em>T. maritima</em> RNase P RNA. P1/P4/P5/P6 is shown in blue, P2/P3 stems in pink, P7 and P10/P11/P12 in yellow, P8/P9 in green, P13/P14 in cyan, P15/P16/L17 in red, and P18 in orange. This representation was generated from PDB ID: 3Q1Q at 3.8 Å resolution.</p>
+<p>Crystal structure of T. maritima RNase P RNA. P1/P4/P5/P6 is shown in blue, P2/P3 stems in pink, P7 and P10/P11/P12 in yellow, P8/P9 in green, P13/P14 in cyan, P15/P16/L17 in red, and P18 in orange. This representation was generated from PDB ID: 3Q1Q at 3.8 Å resolution.</p>
 
 <table><tr>
 <td><img src="https://www.ribocentre.org/images/RNasePPic/RNaseP3D.png" alt="drawing" style="weight:450px;height:380px" border="0" /></td>
@@ -784,8 +706,8 @@
   <p>Catalytic centre</p>
 </blockquote>
 
-<p>Close-up views of the catalytic centers of <em>T. maritima</em> RNase P (PDB: 3Q1R). Two catalytic Mg2+ ions (M1 and M2) in the active site of RNase P shown in green spheres. RNase P RNA and tRNA substrate are showed in stick representation and colored in silver and cyan, respectively. <br />
-Proposed reaction mechanism for 5′-leader cleavage of pre-tRNA by RNase P. The pre-tRNA scissile phosphate is depicted in a transition state, and the interactions between catalytically important nucleotides and reactive oxygens mediated by Mg2+ ions (M1 and M2) are shown as magenta dashed lines.<br /></p>
+<p>Close-up views of the catalytic centers of T. maritima RNase P (PDB: 3Q1R). Two catalytic Mg2+ ions (M1 and M2) in the active site of RNase P shown in green spheres. RNase P RNA and tRNA substrate are showed in stick representation and colored in silver and cyan, respectively. <br />
+Proposed reaction mechanism for 5′-leader cleavage of pre-tRNA by RNase P. the pre-tRNA scissile phosphate is depicted in a transition state, and the interactions between catalytically important nucleotides and reactive oxygens mediated by Mg2+ ions (M1 and M2) are shown as magenta dashed lines.<br /></p>
 
 <table><tr>
 <td><img src="https://www.ribocentre.org/images/RNasePPic/RNaseP-m1.png" alt="drawing" style="width:450px" border="1" px="" /></td>
@@ -941,51 +863,4 @@ Perederina, A., D. Li, H. Lee, C. Bator, I. Berezin, S. L. Hafenstein and A. S. 
 <strong>[6]Structural insight into precursor ribosomal RNA processing by ribonuclease MRP.</strong><br />
 Lan, P., B. Zhou, M. Tan, S. Li, M. Cao, J. Wu and M. Lei <br />
 <a href="(https://www.ncbi.nlm.nih.gov/pubmed/32586950)">Science 369(6504): 656-663.(2020)</a><br /><br /></p>
-
-  </div>
-
-</article>
-
-      </div>
-    </div>
-
-    <div id="footer" class="panel">
-  <div class="panel-footer">
-	<div class="container-fluid">
-	  <div class="row">
-		<div class="col-sm-4">
-			
-		  <p>&copy 2022 Ribo centre. Site made with <a href="https://jekyllrb.com">Jekyll</a>;  <a href="https://www.ribocentre.org/aboutwebsite.html">copy and  modify it for your own research group.</a></p>
-              <p>We are part of the <a href="https://gzlab.ac.cn">Guangzhou Laboratory</a> and <a href="http://www.gzsys.org.cn/">Sun Yat-sen Memorial Hospital of Sun Yat-sen University</a>.</p>
-            
-
-		   <p>  </p><p>
-            		  
-            
-		</div>
-		<div class="col-sm-4">
-		  Funding:<br />
-		  - <a href="https://www.nsfc.gov.cn/">NSFC</a> <br />
-		  - <a href="http://www.most.gov.cn/">MOST IT+BT project</a> <br />
-          - <a href="https://gzlab.ac.cn">GZlab starting grant</a>
-		</div>
-		<div class="col-sm-4">
-		  Contact:<br />
-		  Building B2, Guangzhou Laboratory<br />
-		  96 Xingdao South Road, Guangzhou International Bio Island, <br />
-		  Haizhu District, Guangzhou, Guangdong,<br />
-		  China. <br />
-          (<a href="https://goo.gl/maps/hDLr6siEAS2Eaypt8">Maps</a>)
-		</div>
-	  </div>
-	</div>
-  </div>
-</div>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="https://www.ribocentre.org/js/bootstrap.min.js"></script>
-
-
-  </body>
-
-</html>
+:ET
