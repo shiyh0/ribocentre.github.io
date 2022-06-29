@@ -1,86 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Group II</title>
-  <meta name="description" content="Rfam ID: RF00029 ">
-  <!--<link rel="stylesheet" href="http://localhost:4000/css/main.css>-->
-  <link rel="stylesheet" href="https://www.ribocentre.org/css/main.css">
-  <link rel="canonical" href="http://localhost:4000/ribozyme/2022/04/19/groupII.html">
-  <link rel="shortcut icon" type ="image/x-icon" href="https://www.ribocentre.org/images/favicon.ico">
-
-
-
-</head>
-
-
-  <body>
-
-    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
-  <style>
-        /* Modify the background color https://www.color-hex.com/color-palette/1011604 */
-        .navbar {
-            background-color: #0874c4;
-        }
-        .navbar .navbar-brand,
-        .navbar .navbar-text {
-            color: #eeeeee;
-        }
-
-		#now a{
-			color:#fff
-
-		}
-		
-  </style>
-
-  <div class="container-fluid">
-	<div class="navbar-header">
-	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
-		<span class="sr-only">Toggle navigation</span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-	  </button>
-	
-    <a class="navbar-brand" href="https://www.ribocentre.org/">
-		
-		<!--<img class="navbar-brand" src="http://localhost:4000/images/Ribo_centre_logo.jpg" style='height:50px;margin-top:-14px;margin-bottom:0;padding:0;' alt="logo">
-		Ribo centre @ Bio island-->
-		<img class="navbar-brand" src="https://www.ribocentre.org/images/Ribo_centre_logo.jpg" style='height:50px;margin-top:-14px;margin-bottom:0;padding:0;' alt="logo">
-		Ribo centre 
-	</a>
-	</div>
-	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right">
-		<li id="now"><a href="https://www.ribocentre.org/">Home</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/ribozyme">Ribozyme</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/application">Application</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/catalysis">Catalysis</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/structure">Structure</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/publications">Publications</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/team">Team</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/Helps">Helps</a></li>
-	  </ul>
-	</div>
-  </div>
-</div>
-
-
-    <div class="container-fluid">
-      <div class="row">
-        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-
-  <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">Group II</h1>
-    <p class="post-meta"><time datetime="2022-04-19T03:25:52+08:00" itemprop="datePublished">Apr 19, 2022</time></p>
-  </header>
-
-  <div class="post-content" itemprop="articleBody">
-    <p><strong>Rfam ID: <a href="https://rfam.xfam.org/family/RF00029">RF00029</a></strong> <br /></p>
+I"�b<p><strong>Rfam ID: <a href="https://rfam.xfam.org/family/RF00029">RF00029</a></strong> <br /></p>
 
 <h4 id="click-into-different-sections">click into different sections:</h4>
 
@@ -245,7 +163,7 @@
           <div class="timeline-badge primary"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/6986990" target="_blank" style="font-size:25px;">1980</a> "Circular" introns were found to splice out from a mitochondrial gene[1]</h4> 
+              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/6986990" target="_blank" style="font-size:25px;">1980</a>"Circular" introns were found to splice out from a mitochondrial gene[1]</h4> 
             </div>
             <div class="timeline-body">
             </div>
@@ -255,7 +173,7 @@
           <div class="timeline-badge warning"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/6817818" target="_blank" style="font-size:25px;">1982</a> First secondary structure model by comparative sequence analysis[2]</h4>
+              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/6817818" target="_blank" style="font-size:25px;">1982</a>First secondary structure model by comparative sequence analysis[2]</h4>
             </div>
           </div>
         </li>
@@ -263,7 +181,7 @@
           <div class="timeline-badge primary"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/2417726" target="_blank" style="font-size:25px;">1986</a> Group II introns form a lariat by self-splicing in vivo[3]</h4>
+              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/2417726" target="_blank" style="font-size:25px;">1986</a>Group II introns form a lariat by self-splicing in vivo[3]</h4>
             </div>
             <div class="timeline-body">
             </div>
@@ -273,7 +191,7 @@
           <div class="timeline-badge warning"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/3510741" target="_blank" style="font-size:25px;">1986</a> Group II introns form a lariat by self-splicing in vivo[4]</h4>
+              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/3510741" target="_blank" style="font-size:25px;">1986</a>Group II introns form a lariat by self-splicing in vivo[4]</h4>
             </div>
           </div>
         </li>
@@ -281,7 +199,7 @@
           <div class="timeline-badge primary"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/7973729" target="_blank" style="font-size:25px;">1994</a> Common catalytic site to both splicing steps.[5]</h4>
+              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/7973729" target="_blank" style="font-size:25px;">1994</a>Common catalytic site to both splicing steps.[5]</h4>
             </div>
           </div>
         </li>
@@ -289,7 +207,7 @@
           <div class="timeline-badge warning"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/7538669" target="_blank" style="font-size:25px;">1995</a> Catalytically critical nucleotide in domain 5 [6]</h4>
+              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/7538669" target="_blank" style="font-size:25px;">1995</a>Catalytically critical nucleotide in domain 5 [6]</h4>
             </div>
           </div>
         </li>
@@ -297,7 +215,7 @@
           <div class="timeline-badge primary"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/7623838" target="_blank" style="font-size:25px;">1995</a> Three essential paired nucleotides in the domain 5 [7]</h4>
+              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/7623838" target="_blank" style="font-size:25px;">1995</a>Three essential paired nucleotides in the domain 5 [7]</h4>
             </div>
           </div>
         </li>
@@ -305,7 +223,7 @@
           <div class="timeline-badge warning"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/8903346" target="_blank" style="font-size:25px;">1996</a> Two-nucleotide bulge in D5 are important [8]</h4>
+              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/8903346" target="_blank" style="font-size:25px;">1996</a>Two-nucleotide bulge in D5 are important[8]</h4>
             </div>
           </div>
         </li>
@@ -313,7 +231,7 @@
           <div class="timeline-badge primary"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/9126835" target="_blank" style="font-size:25px;">1997</a> D2 stabilizes the ribozyme core and controls the location of D6 and branching sites [10]</h4>
+              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/9126835" target="_blank" style="font-size:25px;">1997</a>D2 stabilizes the ribozyme core and controls the location of D6 and branching sites[10]</h4>
             </div>
           </div>
         </li>
@@ -321,7 +239,7 @@
           <div class="timeline-badge warning"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/10917534" target="_blank" style="font-size:25px;">2000</a> Demonstration of tertiary interactions linking the catalytically critical regions of D1 to D5 and anchoring them at the 5' splice site[11]</h4>
+              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/10917534" target="_blank" style="font-size:25px;">2000</a>Demonstration of tertiary interactions linking the catalytically critical regions of D1 to D5 and anchoring them at the 5' splice site[11]</h4>
             </div>
           </div>
         </li>
@@ -329,7 +247,7 @@
           <div class="timeline-badge primary"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/11859154" target="_blank" style="font-size:25px;">2002</a> Crystal structures of 70-nucleotide RNAs of yeast ai5γ D5 and D6 (3 Å)[12]</h4>
+              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/11859154" target="_blank" style="font-size:25px;">2002</a>Crystal structures of 70-nucleotide RNAs of yeast ai5γ D5 and D6 (3 Å)[12]</h4>
             </div>
           </div>
         </li>
@@ -337,7 +255,7 @@
           <div class="timeline-badge warning"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/16252007" target="_blank" style="font-size:25px;">2005</a> D3 is a functional group important for catalytic activity, and the interaction of D3 and D5 promotes catalysis[13]</h4>
+              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/16252007" target="_blank" style="font-size:25px;">2005</a>D3 is a functional group important for catalytic activity, and the interaction of D3 and D5 promotes catalysis[13]</h4>
             </div>
           </div>
         </li>
@@ -345,7 +263,7 @@
           <div class="timeline-badge primary"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/15980867" target="_blank" style="font-size:25px;">2005</a> Single active-site region for group II intron catalysis[14]</h4>
+              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/15980867" target="_blank" style="font-size:25px;">2005</a>Single active-site region for group II intron catalysis[14]</h4>
             </div>
           </div>
         </li>
@@ -353,7 +271,7 @@
           <div class="timeline-badge warning"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/18388288" target="_blank" style="font-size:25px;">2008</a> The first 3D structure of the Oceanobacillus iheyensis group IIC intron[16]</h4>
+              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/18388288" target="_blank" style="font-size:25px;">2008</a>The first 3D structure of the Oceanobacillus iheyensis group IIC intron[16]</h4>
             </div>
           </div>
         </li>
@@ -361,7 +279,7 @@
           <div class="timeline-badge primary"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/23101623" target="_blank" style="font-size:25px;">2012</a> Crystal structures of a group II intron at different stages of catalysis.[18]</h4>
+              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/23101623" target="_blank" style="font-size:25px;">2012</a>Crystal structures of a group II intron at different stages of catalysis.[18]</h4>
             </div>
           </div>
         </li>
@@ -369,7 +287,7 @@
           <div class="timeline-badge warning"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/25252982" target="_blank" style="font-size:25px;">2014</a> Crystal structure of the intronic lariat form of eukaryotic group IIB[19]</h4>
+              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/25252982" target="_blank" style="font-size:25px;">2014</a>Crystal structure of the intronic lariat form of eukaryotic group IIB[19]</h4>
             </div>
           </div>
         </li>
@@ -377,7 +295,7 @@
           <div class="timeline-badge primary"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/27136327" target="_blank" style="font-size:25px;">2016</a> Cryo-EM structures of a group II intron in complex with its maturase[20]</h4>
+              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/27136327" target="_blank" style="font-size:25px;">2016</a>Cryo-EM structures of a group Ⅱ intron in complex with its maturase[20]</h4>
             </div>
           </div>
         </li>
@@ -385,7 +303,7 @@
           <div class="timeline-badge warning"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/31348888" target="_blank" style="font-size:25px;">2019</a> Cryo-EM structures of a group II intron reverse splicing into DNA[22]</h4>
+              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/31348888" target="_blank" style="font-size:25px;">2019</a>Cryo-EM structures of a group II intron reverse splicing into DNA[22]</h4>
             </div>
           </div>
         </li>
@@ -393,7 +311,7 @@
           <div class="timeline-badge primary"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/33021674" target="_blank" style="font-size:25px;">2020</a> Two cryo-EM structures of group II intron RNPs in their pre-catalytic state[23]</h4>
+              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/33021674" target="_blank" style="font-size:25px;">2020</a>Two cryo-EM structures of group II intron RNPs  in their pre-catalytic state[23]</h4>
             </div>
           </div>
         </li>
@@ -416,8 +334,9 @@
   <p>2D representation</p>
 </blockquote>
 
-<p>Secondary structure of the <em>O.iheyensis</em> intron. 
-<br /></p>
+<font size="4">Secondary structure of the O.iheyensis intron. 
+ </font>
+<p><br /></p>
 
 <table><tr>
 <td>
@@ -484,7 +403,7 @@
      function multiContainer() {
         var container = new fornac.FornaContainer("#multi_ss",
                 {'applyForce': true,'editable':'true',  'initialSize':[450,400]});
-        container.addRNA('..((.[[[[[[..{{{{{{{{{{{...(((.......)))..(((((...{{{{{{{...)))))..{{{...{{{..((((.((((((....))))))))))...)]..}}}...}}}...(((((((((((.(.....)...(((((......(((....(..(((((((..((((........))))...)))).}}}}}}}...)))..)....)))...))))))))))...))))))...}}}}}}}}}}}...)]]]]](...((((....))))...).......(((.(....(((........)))...))))....(((((..((((....))))...))))).(((((((((((((....)))..))))))))))...', {'sequence': 'GUGUGCCCGGCAUGGGUGCAGUCUAUAGGGUGAGAGUCCCGAACUGUGAAGGCAGAAGUAACAGUUAGCCUAACGCAAGGGUGUCCGUGGCGACAUGGAAUCUGAAGGAAGCGGACGGCAAACCUUCGGUCUGAGGAACACGAACUUCAUAUGAGGCUAGGUAUCAAUGGAUGAGUUUGCAUAACAAAACAAAGUCCUUUCUGCCAAAGUUGGUACAGAGUAAAUGAAGCAGAUUGAUGAAGGGAAAGACUGCAUUCUUACCCGGGGAGGUCUGGAAACAGAAGUCAGCAGAAGUCAUAGUACCCUGUUCGCAGGGGAAGGACGGAACAAGUAUGGCGUUCGCGCCUAAGCUUGAACCGCCGUAUACCGAACGGUACGUACGGUGGUGUG'});
+        container.addRNA('..((.[[[[[[..}...}}}...(((((((((((.(.....)...(((((......(((....(..(((((((..((((........))))...)))).}}}}}}}...)))..)....)))...))))))))))...))))))...}}}}}}}}}}}...)]]]]](...((((....))))...).......(((.(....(((........)))...))))....(((((..((((....))))...))))).(((((((((((((....)))..))))))))))...', {'sequence': 'GUGUGCCCGGCAUGGGUGCAGUCUAUAGGGUGAGAGUCCCGAACUGUGAAGGCAGAAGUAACAGUUAGCCUAACGCAAGGGUGUCCGUGGCGACAUGGAAUCUGAAGGAAGCGGACGGCAAACCUUCGGUCUGAGGAACACGAACUUCAUAUGAGGCUAGGUAUCAAUGGAUGAGUUUGCAUAACAAAACAAAGUCCUUUCUGCCAAAGUUGGUACAGAGUAAAUGAAGCAGAUUGAUGAAGGGAAAGACUGCAUUCUUACCCGGGGAGGUCUGGAAACAGAAGUCAGCAGAAGUCAUAGUACCCUGUUCGCAGGGGAAGGACGGAACAAGUAUGGCGUUCGCGCCUAAGCUUGAACCGCCGUAUACCGAACGGUACGUACGGUGGUGUG'});
         container.addRNA('.....', {'avoidOthers': true, 'sequence': 'GUUAU'});
     }
      let nc =  multiContainer();
@@ -671,51 +590,4 @@ Haack, D. B., X. Yan, C. Zhang, J. Hingey, D. Lyumkis, T. S. Baker and N. Toor <
 Liu, N., X. Dong, C. Hu, J. Zeng, J. Wang, J. Wang, H. W. Wang and M. Belfort<br />
 <a href="https://www.ncbi.nlm.nih.gov/pubmed/33021674">Nucleic Acids Res 48 (19): 11185-11198.(2020)</a><br /><br /></p>
 
-
-  </div>
-
-</article>
-
-      </div>
-    </div>
-
-    <div id="footer" class="panel">
-  <div class="panel-footer">
-	<div class="container-fluid">
-	  <div class="row">
-		<div class="col-sm-4">
-			
-		  <p>&copy 2022 Ribo centre. Site made with <a href="https://jekyllrb.com">Jekyll</a>;  <a href="https://www.ribocentre.org/aboutwebsite.html">copy and  modify it for your own research group.</a></p>
-              <p>We are part of the <a href="https://gzlab.ac.cn">Guangzhou Laboratory</a> and <a href="http://www.gzsys.org.cn/">Sun Yat-sen Memorial Hospital of Sun Yat-sen University</a>.</p>
-            
-
-		   <p>  </p><p>
-            		  
-            
-		</div>
-		<div class="col-sm-4">
-		  Funding:<br />
-		  - <a href="https://www.nsfc.gov.cn/">NSFC</a> <br />
-		  - <a href="http://www.most.gov.cn/">MOST IT+BT project</a> <br />
-          - <a href="https://gzlab.ac.cn">GZlab starting grant</a>
-		</div>
-		<div class="col-sm-4">
-		  Contact:<br />
-		  Building B2, Guangzhou Laboratory<br />
-		  96 Xingdao South Road, Guangzhou International Bio Island, <br />
-		  Haizhu District, Guangzhou, Guangdong,<br />
-		  China. <br />
-          (<a href="https://goo.gl/maps/hDLr6siEAS2Eaypt8">Maps</a>)
-		</div>
-	  </div>
-	</div>
-  </div>
-</div>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="https://www.ribocentre.org/js/bootstrap.min.js"></script>
-
-
-  </body>
-
-</html>
+:ET
