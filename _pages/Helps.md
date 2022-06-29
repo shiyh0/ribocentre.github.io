@@ -8,6 +8,9 @@ permalink: /Helps/
 # Helps
 
 <br><br>
+**Ribocentre is designed to contain comprehensive information of all natural ribozymes. In addition to a brief introduction to ribozymes，on each ribozyme page，you'll see a timeline of vital breakthroughs in ribozyme research，representative structures and the chemical mechanism of this ribozyme. Besides，we provide multiple indexing and searching methods，you can index/search about the publications, structure，catalytic and application of ribozymes that interest you. Users are more than welcome to submit new ribozyme cases or related comments through the submission portal to help us improve our database.**
+
+<br>
 **You can find:**
 <br><br>
 
