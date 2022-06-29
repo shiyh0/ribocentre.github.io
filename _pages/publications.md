@@ -486,68 +486,51 @@ permalink: /publications/
     <td>The glmS ribozyme is a very suitable target for antibacterial drug development with antisense oligonucleotides</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/34734706"  target="_blank" ><b> ACS synthetic biology 10(11): 3167-3176.</b></a></td>
   </tr>
-  <tr>
-    <td>2002</td>
-    <td>Zhang, L. and J. A. Doudna </td>
-    <td>Structural insights into group II intron catalysis and branch-site selection.</td>
+    <tr>
+    <td>1980</td>
+    <td>Halbreich, A., P. Pajot, M. Foucher, C. Grandchamp and P. Slonimski </td>
+    <td>A pathway of cytochrome b mRNA processing in yeast mitochondria: specific splicing steps and an intron-derived circular DNA.</td>
     <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group II intron</b></a></td>
-    <td>Crystal structures of 70-nucleotide RNAs of yeast ai5γD5 and D6(3 Å)</td>
-    <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/11859154"  target="_blank" ><b> Science 295 (5562): 2084-8.</b></a></td>
+    <td>"Circular" introns were found to splice out from a mitochondrial gene</td>
+    <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/6986990"  target="_blank" ><b>  Cell 19 (2): 321-9.</b></a></td>
   </tr>
   <tr>
-    <td>2008</td>
-    <td>Toor, N., K. S. Keating, S. D. Taylor and A. M. Pyle </td>
-    <td>Crystal structure of a self-spliced group II intron.</td>
+    <td>1982</td>
+    <td>Michel, F., A. Jacquier and B. Dujon </td>
+    <td>Comparison of fungal mitochondrial introns reveals extensive homologies in RNA secondary structure.</td>
     <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group II intron</b></a></td>
-    <td>Crystal structure of the group II intron of Oceanobacillus iheyensis</td>
-    <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/18388288"  target="_blank" ><b> Science 320 (5872): 77-82.</b></a></td>
+    <td>First secondary structure model by comparative sequence analysis</td>
+    <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/6817818"  target="_blank" ><b>  Biochimie 64 (10): 867-81.</b></a></td>
   </tr>
   <tr>
-    <td>2010</td>
-    <td>Pyle, A. M. </td>
-    <td>The tertiary structure of group II introns: implications for biological function  and evolution.</td>
+    <td>1986</td>
+    <td>van der Veen, R., A. C. Arnberg, G. van der Horst, L. Bonen, H. F. Tabak and L. A. Grivell </td>
+    <td>Excised group II introns in yeast mitochondria are lariats and can be formed by self-splicing in vitro.</td>
     <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group II intron</b></a></td>
-    <td>Common tertiary structure of the catalytic core</td>
-    <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/20446804"  target="_blank" ><b> Crit Rev Biochem Mol Biol 45 (3): 215-32.</b></a></td>
-  </tr>
-  <tr>
-    <td>2014</td>
-    <td>Robart, A. R., R. T. Chan, J. K. Peters, K. R. Rajashankar and N. Toor </td>
-    <td>Crystal structure of a eukaryotic group II intron lariat.</td>
-    <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group II intron</b></a></td>
-    <td>Crystal structure of the intronic lariat form of eukaryotic group IIB</td>
-    <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/25252982"  target="_blank" ><b> Nature 514 (7521): 193-7.</b></a></td>
-  </tr>
-  <tr>
-    <td>2019</td>
-    <td>Haack, D. B., X. Yan, C. Zhang, J. Hingey, D. Lyumkis, T. S. Baker and N. Toor </td>
-    <td>Cryo-EM Structures of a Group II Intron Reverse Splicing into DNA.</td>
-    <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group II intron</b></a></td>
-    <td>Cryo-EM structures of a group II intron reverse splicing into DNA</td>
-    <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/31348888"  target="_blank" ><b> Cell 178 (3): 612-623.e12.</b></a></td>
+    <td>Group II introns form a lariat by self-splicing in vivo</td>
+    <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/2417726"  target="_blank" ><b>  Cell 44 (2): 225-34.</b></a></td>
   </tr>
   <tr>
     <td>1986</td>
     <td>Peebles, C. L., P. S. Perlman, K. L. Mecklenburg, M. L. Petrillo, J. H. Tabor, K. A. Jarrell and H. L. Cheng </td>
     <td>A self-splicing RNA excises an intron lariat.</td>
     <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group II intron</b></a></td>
-    <td>Discovery</td>
+    <td>Group II introns form a lariat by self-splicing in vivo</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/3510741"  target="_blank" ><b> Cell 44 (2): 213-23.</b></a></td>
   </tr>
   <tr>
-    <td>1989</td>
-    <td>Michel, F., K. Umesono and H. Ozeki </td>
-    <td>Comparative and functional anatomy of group II catalytic introns--a review.</td>
+    <td>1994</td>
+    <td>Chanfreau, G. and A. Jacquier </td>
+    <td>Catalytic site components common to both splicing steps of a group II intron.</td>
     <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group II intron</b></a></td>
-    <td>Common model for group II introns</td>
-    <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/2684776"  target="_blank" ><b> Gene 82 (1): 5-30.</b></a></td>
+    <td>Common catalytic site to both splicing steps.</td>
+    <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/31348888"  target="_blank" ><b> Cell 178 (3): 612-623.e12.</b></a></td>
   </tr>
   <tr>
     <td>1995</td>
     <td>Peebles, C. L., M. Zhang, P. S. Perlman and J. S. Franzen </td>
     <td>Catalytically critical nucleotide in domain 5 of a group II intron.</td>
     <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group II intron</b></a></td>
-    <td>AGC is an important nucleotide in D5</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/7538669"  target="_blank" ><b> Proc Natl Acad Sci U S A 92 (10): 4422-6.</b></a></td>
   </tr>
   <tr>
@@ -555,7 +538,7 @@ permalink: /publications/
     <td>Boulanger, S. C., S. M. Belcher, U. Schmidt, S. D. Dib-Hajj, T. Schmidt and P. S. Perlman </td>
     <td>Studies of point mutants define three essential paired nucleotides in the domain  5 substructure of a group II intron.</td>
     <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group II intron</b></a></td>
-    <td>AGC is an important nucleotide in D5</td>
+    <td>Three essential paired nucleotides in the domain  5</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/7623838"  target="_blank" ><b> Mol Cell Biol 15 (8): 4479-88.</b></a></td>
   </tr>
   <tr>
@@ -563,7 +546,7 @@ permalink: /publications/
     <td>Schmidt, U., M. Podar, U. Stahl and P. S. Perlman </td>
     <td>Mutations of the two-nucleotide bulge of D5 of a group II intron block splicing in vitro and in vivo: phenotypes and suppressor mutations.</td>
     <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group II intron</b></a></td>
-    <td>Two nucleotide bulges in D5 are important</td>
+    <td>Two-nucleotide bulge in D5 are important</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/8903346"  target="_blank" ><b> RNA 2 (11): 1161-72.</b></a></td>
   </tr>
   <tr>
@@ -591,6 +574,14 @@ permalink: /publications/
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/10917534"  target="_blank" ><b> Nature 406 (6793): 315-8.</b></a></td>
   </tr>
   <tr>
+    <td>2002</td>
+    <td>Zhang, L. and J. A. Doudna </td>
+    <td>Structural insights into group II intron catalysis and branch-site selection.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group II intron</b></a></td>
+    <td>Crystal structures of 70-nucleotide RNAs of yeast ai5γ D5 and D6 (3 Å)</td>
+    <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/11859154"  target="_blank" ><b> Science 295 (5562): 2084-8.</b></a></td>
+  </tr>
+  <tr>
     <td>2005</td>
     <td>Fedorova, O. and A. M. Pyle </td>
     <td>Linking the group II intron catalytic domains: tertiary contacts and structural features of domain 3.</td>
@@ -599,11 +590,19 @@ permalink: /publications/
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/16252007"  target="_blank" ><b> EMBO J 24 (22): 3906-16.</b></a></td>
   </tr>
   <tr>
+    <td>2005</td>
+    <td>de Lencastre, A., S. Hamill and A. M. Pyle </td>
+    <td>A single active-site region for a group II intron.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group II intron</b></a></td>
+    <td>Single active-site region for group II intron catalysis</td>
+    <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/15980867"  target="_blank" ><b>  Nat Struct Mol Biol 12 (7): 626-7.</b></a></td>
+  </tr>
+  <tr>
     <td>2007</td>
     <td>Fedorova, O. and N. Zingler </td>
     <td>Group II introns: structure, folding and splicing mechanism.</td>
     <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group II intron</b></a></td>
-    <td>Splicing mechanism</td>
+    <td>Review: splicing mechanism</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/17570818"  target="_blank" ><b> Biol Chem 388 (7): 665-78.</b></a></td>
   </tr>
   <tr>
@@ -611,14 +610,70 @@ permalink: /publications/
     <td>Toor, N., K. S. Keating, S. D. Taylor and A. M. Pyle </td>
     <td>Crystal structure of a self-spliced group II intron.</td>
     <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group II intron</b></a></td>
-    <td>Clarify the role of J2/3: it forms a triple helix with the protrusion of D5 and the "catalytic tribase", bringing together the intronic residues necessary for catalysis</td>
+    <td>The first 3D structure of the Oceanobacillus iheyensis group IIC intron</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/18388288"  target="_blank" ><b> Science 320 (5872): 77-82.</b></a></td>
+  </tr>
+  <tr>
+    <td>2010</td>
+    <td>Pyle, A. M. </td>
+    <td>The tertiary structure of group II introns: implications for biological function  and evolution.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group II intron</b></a></td>
+    <td>Common tertiary structure of the catalytic core</td>
+    <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/20446804"  target="_blank" ><b> Crit Rev Biochem Mol Biol 45 (3): 215-32.</b></a></td>
+  </tr>
+  <tr>
+    <td>2012</td>
+    <td>Marcia, M. and A. M. Pyle </td>
+    <td>Visualizing group II intron catalysis through the stages of splicing.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group II intron</b></a></td>
+    <td>Crystal structures of a group II intron at different stages of catalysis.</td>
+    <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/23101623"  target="_blank" ><b>  Cell 151 (3): 497-507.</b></a></td>
+  </tr>
+  <tr>
+    <td>2014</td>
+    <td>Robart, A. R., R. T. Chan, J. K. Peters, K. R. Rajashankar and N. Toor </td>
+    <td>Crystal structure of a eukaryotic group II intron lariat.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group II intron</b></a></td>
+    <td>Crystal structure of the intronic lariat form of eukaryotic group IIB</td>
+    <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/25252982"  target="_blank" ><b> Nature 514 (7521): 193-7.</b></a></td>
+  </tr>
+  <tr>
+    <td>2016</td>
+    <td>Qu, G., P. S. Kaushal, J. Wang, H. Shigematsu, C. L. Piazza, R. K. Agrawal, M. Belfort and H. W. Wang </td>
+    <td>Structure of a group II intron in complex with its reverse transcriptase.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group II intron</b></a></td>
+    <td>Cryo-EM structures of a group Ⅱ intron in complex with its maturase</td>
+    <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/27136327"  target="_blank" ><b>  Nat Struct Mol Biol 23 (6): 549-57.</b></a></td>
+  </tr>
+  <tr>
+    <td>2017</td>
+    <td>Zhao, C. and A. M. Pyle </td>
+    <td>Structural Insights into the Mechanism of Group II Intron Splicing.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group II intron</b></a></td>
+    <td>Review: Structural insights into the splicing mechanism</td>
+    <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/28438387"  target="_blank" ><b> Trends Biochem Sci 42 (6): 470-482.</b></a></td>
+  </tr>
+  <tr>
+    <td>2019</td>
+    <td>Haack, D. B., X. Yan, C. Zhang, J. Hingey, D. Lyumkis, T. S. Baker and N. Toor </td>
+    <td>Cryo-EM Structures of a Group II Intron Reverse Splicing into DNA.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group II intron</b></a></td>
+    <td>Cryo-EM structures of a group II intron reverse splicing into DNA</td>
+    <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/31348888"  target="_blank" ><b> Cell 178 (3): 612-623.e12.</b></a></td>
+  </tr>
+  <tr>
+    <td>2020</td>
+    <td>Liu, N., X. Dong, C. Hu, J. Zeng, J. Wang, J. Wang, H. W. Wang and M. Belfort </td>
+    <td>Exon and protein positioning in a pre-catalytic group II intron RNP primed for splicing.</td>
+    <td><a href="https://www.ribocentre.org/docs/groupII.html"  target="_blank" ><b>Group II intron</b></a></td>
+    <td>Two cryo-EM structures of group II intron RNPs  in their pre-catalytic state</td>
+    <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/33021674"  target="_blank" ><b> Nucleic Acids Res 48 (19): 11185-11198.</b></a></td>
   </tr>
   <tr>
     <td>2002</td>
     <td>Rupert, P., A. Massey, S. Sigurdsson and A. Ferré-D'Amaré </td>
     <td>Transition state stabilization by a catalytic RNA.</td>
-    <td><a href="https://www.ribocentre.org/docs/Hairpin.html"  target="_blank" ><b>hairpin ribozyme</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Hairpin.html"  target="_blank" ><b>Hairpin ribozyme</b></a></td>
     <td>Crystal structure</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/12376595"  target="_blank" ><b> Science (New York, N.Y.) 298(5597): 1421-1424.</b></a></td>
   </tr>
@@ -626,7 +681,7 @@ permalink: /publications/
     <td>2006</td>
     <td>Salter, J., J. Krucinska, S. Alam, V. Grum-Tokars and J. Wedekind </td>
     <td>Water in the active site of an all-RNA hairpin ribozyme and effects of Gua8 base variants on the geometry of phosphoryl transfer.</td>
-    <td><a href="https://www.ribocentre.org/docs/Hairpin.html"  target="_blank" ><b>hairpin ribozyme</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Hairpin.html"  target="_blank" ><b>Hairpin ribozyme</b></a></td>
     <td>Crystal structure</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/16411744"  target="_blank" ><b> Biochemistry 45(3): 686-700.</b></a></td>
   </tr>
@@ -634,7 +689,7 @@ permalink: /publications/
     <td>1997</td>
     <td>Hampel, A. and J. Cowan </td>
     <td>A unique mechanism for RNA catalysis: the role of metal cofactors in hairpin ribozyme cleavage.</td>
-    <td><a href="https://www.ribocentre.org/docs/Hairpin.html"  target="_blank" ><b>hairpin ribozyme</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Hairpin.html"  target="_blank" ><b>Hairpin ribozyme</b></a></td>
     <td>Chemical Mechanism</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/9263639"  target="_blank" ><b> Chemistry &amp; biology 4(7): 513-517.</b></a></td>
   </tr>
@@ -642,7 +697,7 @@ permalink: /publications/
     <td>1998</td>
     <td>Shippy, R., A. Siwkowski and A. Hampel </td>
     <td>Mutational analysis of loops 1 and 5 of the hairpin ribozyme.</td>
-    <td><a href="https://www.ribocentre.org/docs/Hairpin.html"  target="_blank" ><b>hairpin ribozyme</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Hairpin.html"  target="_blank" ><b>Hairpin ribozyme</b></a></td>
     <td>Loops 1 and 5 of the hairpin ribozyme</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/9425078"  target="_blank" ><b> Biochemistry 37(2): 564-570.</b></a></td>
   </tr>
@@ -650,7 +705,7 @@ permalink: /publications/
     <td>2001</td>
     <td>Rupert, P. and A. Ferré-D'Amaré </td>
     <td>Crystal structure of a hairpin ribozyme-inhibitor complex with implications for catalysis.</td>
-    <td><a href="https://www.ribocentre.org/docs/Hairpin.html"  target="_blank" ><b>hairpin ribozyme</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Hairpin.html"  target="_blank" ><b>Hairpin ribozyme</b></a></td>
     <td>Crystal structure</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/11298439"  target="_blank" ><b> Nature 410(6830): 780-786.</b></a></td>
   </tr>
@@ -658,7 +713,7 @@ permalink: /publications/
     <td>1986</td>
     <td>Buzayan, J. M., W. L. Gerlach and G. Bruening </td>
     <td>Non-enzymatic cleavage and ligation of RNAs complementary to a plant virus satellite RNA.</td>
-    <td><a href="https://www.ribocentre.org/docs/Hairpin.html"  target="_blank" ><b>hairpin ribozyme</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Hairpin.html"  target="_blank" ><b>Hairpin ribozyme</b></a></td>
     <td>Discovery</td>
     <td ><a href="https://www.nature.com/articles/323349a0"  target="_blank" ><b> Nature.</b></a></td>
   </tr>
@@ -666,7 +721,7 @@ permalink: /publications/
     <td>1993</td>
     <td>Berzal-Herranz, A., S. Joseph, B. Chowrira, S. Butcher and J. Burke </td>
     <td>Essential nucleotide sequences and secondary structure elements of the hairpin ribozyme.</td>
-    <td><a href="https://www.ribocentre.org/docs/Hairpin.html"  target="_blank" ><b>hairpin ribozyme</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Hairpin.html"  target="_blank" ><b>Hairpin ribozyme</b></a></td>
     <td>Sequence/Secondary structure</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/8508779"  target="_blank" ><b> The EMBO journal 12(6): 2567-2573.</b></a></td>
   </tr>
@@ -674,7 +729,7 @@ permalink: /publications/
     <td>2001</td>
     <td>Pinard, R., K. Hampel, J. Heckman, D. Lambert, P. Chan, F. Major and J. Burke </td>
     <td>Functional involvement of G8 in the hairpin ribozyme cleavage mechanism.</td>
-    <td><a href="https://www.ribocentre.org/docs/Hairpin.html"  target="_blank" ><b>hairpin ribozyme</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Hairpin.html"  target="_blank" ><b>Hairpin ribozyme</b></a></td>
     <td>Essential role of an active-site G8 in hairpin ribozyme catalysis</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/11707414"  target="_blank" ><b> The EMBO journal 20(22): 6434-6442.</b></a></td>
   </tr>
@@ -682,7 +737,7 @@ permalink: /publications/
     <td>2005</td>
     <td>Kuzmin, Y., C. Da Costa, J. Cottrell and M. Fedor </td>
     <td>Role of an active site adenine in hairpin ribozyme catalysis.</td>
-    <td><a href="https://www.ribocentre.org/docs/Hairpin.html"  target="_blank" ><b>hairpin ribozyme</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Hairpin.html"  target="_blank" ><b>Hairpin ribozyme</b></a></td>
     <td>Essential role of an active-site A38 in hairpin ribozyme catalysis</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/15907933"  target="_blank" ><b> Journal of molecular biology 349(5): 989-1010.</b></a></td>
   </tr>
@@ -690,7 +745,7 @@ permalink: /publications/
     <td>2012</td>
     <td>Kath-Schorr, S., T. Wilson, N. Li, J. Lu, J. Piccirilli and D. Lilley </td>
     <td>General acid-base catalysis mediated by nucleobases in the hairpin ribozyme.</td>
-    <td><a href="https://www.ribocentre.org/docs/Hairpin.html"  target="_blank" ><b>hairpin ribozyme</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Hairpin.html"  target="_blank" ><b>Hairpin ribozyme</b></a></td>
     <td>Catalytic mechanism</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/22958171"  target="_blank" ><b> Journal of the American Chemical Society 134(40): 16717-16724.</b></a></td>
   </tr>
@@ -698,7 +753,7 @@ permalink: /publications/
     <td>2019</td>
     <td>Hieronymus, R. and S. Müller </td>
     <td>Engineering of hairpin ribozyme variants for RNA recombination and splicing.</td>
-    <td><a href="https://www.ribocentre.org/docs/Hairpin.html"  target="_blank" ><b>hairpin ribozyme</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Hairpin.html"  target="_blank" ><b>Hairpin ribozyme</b></a></td>
     <td>Engineering of hairpin ribozyme variants</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/30941784"  target="_blank" ><b> Annals of the New York Academy of Sciences 1447(1): 135-143.</b></a></td>
   </tr>
@@ -706,7 +761,7 @@ permalink: /publications/
     <td>2021</td>
     <td>Song, E., E. Jiménez, H. Lin, K. Le Vay, R. Krishnamurthy and H. Mutschler </td>
     <td>Prebiotically Plausible RNA Activation Compatible with Ribozyme-Catalyzed Ligation.</td>
-    <td><a href="https://www.ribocentre.org/docs/Hairpin.html"  target="_blank" ><b>hairpin ribozyme</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Hairpin.html"  target="_blank" ><b>Hairpin ribozyme</b></a></td>
     <td>Situ activation of RNA substrates under reaction conditions amenable to catalysis by the hairpin ribozyme</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/33128282"  target="_blank" ><b> Angewandte Chemie (International ed. in English) 60(6): 2952-2957.</b></a></td>
   </tr>
@@ -714,7 +769,7 @@ permalink: /publications/
     <td>2021</td>
     <td>Weinberg, C., V. Olzog, I. Eckert and Z. Weinberg </td>
     <td>Identification of over 200-fold more hairpin ribozymes than previously known in diverse circular RNAs.</td>
-    <td><a href="https://www.ribocentre.org/docs/Hairpin.html"  target="_blank" ><b>hairpin ribozyme</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Hairpin.html"  target="_blank" ><b>Hairpin ribozyme</b></a></td>
     <td>Expand the number of natural hairpin ribozymes</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/34096583"  target="_blank" ><b> Nucleic acids research 49(11): 6375-6388.</b></a></td>
   </tr>
@@ -722,7 +777,7 @@ permalink: /publications/
     <td>2022</td>
     <td>Lee, B., U. Neri, C. Oh, P. Simmonds and E. Koonin </td>
     <td>ViroidDB: a database of viroids and viroid-like circular RNAs.</td>
-    <td><a href="https://www.ribocentre.org/docs/Hairpin.html"  target="_blank" ><b>hairpin ribozyme</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Hairpin.html"  target="_blank" ><b>Hairpin ribozyme</b></a></td>
     <td>ViroidDB: a database of viroids and viroid-like circular RNAs</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/34751403"  target="_blank" ><b> Nucleic acids research 50: D432-D438.</b></a></td>
   </tr>
@@ -730,7 +785,7 @@ permalink: /publications/
     <td>2022</td>
     <td>Hieronymus, R., J. Zhu and S. Müller </td>
     <td>RNA self-splicing by engineered hairpin ribozyme variants.</td>
-    <td><a href="https://www.ribocentre.org/docs/Hairpin.html"  target="_blank" ><b>hairpin ribozyme</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/Hairpin.html"  target="_blank" ><b>Hairpin ribozyme</b></a></td>
     <td>Engineering of hairpin ribozyme variants</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/34928378"  target="_blank" ><b> Nucleic acids research 50(1): 368-377.</b></a></td>
   </tr>
@@ -739,7 +794,7 @@ permalink: /publications/
     <td>Pley, H. W., K. M. Flaherty and D. B. McKay </td>
     <td>Three-dimensional structure of a hammerhead ribozyme.</td>
     <td><a href="https://www.ribocentre.org/docs/hammer.html"  target="_blank" ><b>Hammerhead ribozyme</b></a></td>
-    <td>Crystal structure of type Ⅲ HHR</td>
+    <td>Crystal structure of type III HHR</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/7969422"  target="_blank" ><b> Nature 372(6501): 68-74.</b></a></td>
   </tr>
   <tr>
@@ -835,7 +890,7 @@ permalink: /publications/
     <td>Forster, A. C. and R. H. Symons </td>
     <td>Self-cleavage of plus and minus RNAs of a virusoid and a structural model for the active sites.</td>
     <td><a href="https://www.ribocentre.org/docs/hammer.html"  target="_blank" ><b>Hammerhead ribozyme</b></a></td>
-    <td>Secondary structure of type Ⅲ HHR</td>
+    <td>Secondary structure of type III HHR</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/2436805"  target="_blank" ><b> Cell 49(2): 211-220.</b></a></td>
   </tr>
   <tr>
