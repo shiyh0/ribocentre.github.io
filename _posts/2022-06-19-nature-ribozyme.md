@@ -187,7 +187,7 @@ categories: ribozyme
 
 **[1] A natural ribozyme with 3',5' RNA ligase activity.**<br>
 Vicens, Q. and T. R. Cech <br>
-[Nat Chem Biol 5(2): 97-9.(2009)]((https://www.ncbi.nlm.nih.gov/pubmed/19125157))<br><br>
+[Nat Chem Biol 5(2): 97-9.(2009)](https://www.ncbi.nlm.nih.gov/pubmed/19125157)<br><br>
 
 
 

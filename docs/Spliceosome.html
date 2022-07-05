@@ -9,7 +9,7 @@
   <meta name="description" content="click into different sections:">
   <!--<link rel="stylesheet" href="http://localhost:4000/css/main.css>-->
   <link rel="stylesheet" href="https://www.ribocentre.org/css/main.css">
-  <link rel="canonical" href="http://localhost:4000/ribozyme/2022/04/19/Splicesome.html">
+  <link rel="canonical" href="http://localhost:4000/ribozyme/2022/04/19/Spliceosome.html">
   <link rel="shortcut icon" type ="image/x-icon" href="https://www.ribocentre.org/images/favicon.ico">
 
 
@@ -569,6 +569,74 @@
 <font size="4">The spliceosome is a highly dynamic and heterogeneous metal ribozyme; During the splicing reaction, the dynamic spliceosome has an immobile core of about 20 protein and RNA components, which are organized around a conserved splicing active site. The divalent metal ions, coordinated by U6 small nuclear RNA (snRNA), catalyze the branching reaction and exon ligation.</font>
 <p><br /></p>
 
+<blockquote>
+  <p>Choreography of the RNA elements during the splicing cycle</p>
+</blockquote>
+
+<p>Choreography of the RNA elements during the splicing cycle. Figure based on [42]. The spliceosomal assembly begins with recognition of 5’SS, BPS, and 3’SS. The U1 snRNP and other splicing factors associate with pre-mRNA strand to assemble the E complex. The U2 snRNA base pairs with BPS to yield a pre-spliceosomal A complex, which then binds the U4/U6.U5 tri-snRNP to form the pre–B complex. Pre-B complex to B complex is activated by prp28, during which U1 snRNP dissociates and 5 ‘SS translocates to the vicinity of U6 snRNA. Under the activation of brr2, U4 snRNP dissociates and forms B act complex. In the B act complex，the 5′SS and 5′-exons are recognized by the ACAGA box of U6 snRNA and the loop I of U5 snRNA, respectively. The B act complex is converted to B * by the action of Prp2. Catalysis begins in the resulting B *complex，and branching begins with the addition of step I factors. Branching reaction to occur at the 5 ‘SS, producing the free 5′-exon and the intron lariat structure[44]. The C complex is reshaped by Prp16 to move the lariat junction away from the active site and to allow proper engagement of the 3’SS. In the C *complex, exon ligation occurs in the presence of step II. Driven by Prp22, the spliceosome begins to disintegrate and the ligated exon is released from the P complex. The color scheme is as follows: U1 (yellow), U2 (green), U4 (orange), U5 (pink), U6 (blue) snRNAs; intron of pre-mRNA (magenta); and two exons of pre-mRNA : 5′-exton（red)，3’-exton (orange). Abbreviations: BPS, branch point sequence; pre-mRNA, precursor messenger RNA; SS, splice site; ILS, intron lariat spliceosome.</p>
+
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Document</title>
+</head>
+<style>
+   body {
+    width: 100%;
+    height: 100vh;
+}
+   button {
+   margin-right: 0px;
+}
+ .main-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+   .zoom-wrapper1 {
+    width: 600px;
+    height:600px;
+    border: 2px solid #767676;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+</style>
+  <body>
+    <div class="main-container">
+        <div class="zoom-wrapper1">
+            <div class="zoom-area1">
+                <img src="https://www.ribocentre.org/images/SplicePic/Spliceosome_V4.svg" alt="drawing" style="weight:600px;height:400px;" />
+            </div>
+        </div>
+    </div>
+    <script src="https://timmywil.com/panzoom/demo/panzoom.js"></script>
+    <script type="text/javascript">
+      var zoomWraper1 = document.querySelector(".zoom-wrapper1");
+      var panzoom1 = Panzoom(document.querySelector(".zoom-area1"), {
+      maxScale: 6
+      });
+      zoomWraper1.addEventListener("wheel", panzoom1.zoomWithWheel);
+      panzoom1.zoom(300 / document.querySelector(".zoom-area1 img").height);
+      panzoom2.pan(0, 0);
+    </script>
+  </body>
+
+</html>
+
+<p><br /></p>
+
+<blockquote>
+  <p>Transesterification Reactions</p>
+</blockquote>
+
+<p>The transesterification Reactions in the Spliceosome. The branching and ligation reactions require formation of a trigonal planar transition state that is stabilized by two magnesium ions. Figure based on [12]. The two transesterification reactions occur at the same active site in the spliceosome. Magnesium ions are required in the active site for catalysis, and they function to stabilize the transition states. The positive charge on the magnesium ion interacts with the negatively charged oxygen leaving group. This interaction reduces oxygen’s attraction to the positively charged phosphate, which allows it to dissociate more readily. In both the catalytic reactions, magnesium ions interact with nucleotides in U6 snRNA and the pre-mRNA strand. The snRNA and pre-mRNA interact with the catalytic metal ion through the oxygen attached to the phosphate backbone. There are two non-bridging oxygens attached to each phosphate.<br /><br />
+<img src="https://www.ribocentre.org/images/SplicePic/reaction.png" alt="drawing" style="weight:450px;height:270px;display:block;margin:0 auto;" /><br /></p>
+
 <h2 id="reference">Reference</h2>
 
 <hr />
@@ -735,6 +803,10 @@ Wan, R., R. Bai, X. Zhan and Y. Shi <br />
 <p><strong>[43] RNA Splicing by the Spliceosome.</strong><br />
 Wilkinson, M. E., C. Charenton and K. Nagai <br />
 <a href="https://www.ncbi.nlm.nih.gov/pubmed/31794245">Annu Rev Biochem 89: 359-388.(2020)</a><br /><br /></p>
+
+<p><strong>[44] Mechanistic insights into precursor messenger RNA splicing by the spliceosome.</strong><br />
+Shi, Y.<br />
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/28951565">Nat Rev Mol Cell Biol, 18, 655-670.(2017)</a><br /><br /></p>
 
   </div>
 
