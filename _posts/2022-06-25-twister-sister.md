@@ -383,28 +383,28 @@ The active centre of the twister sister ribozyme. C54 and A55 flank the scissile
 
 **[1] New classes of self-cleaving ribozymes revealed by comparative genomics analysis.**<br>
 Weinberg, Z., P. B. Kim, T. H. Chen, S. Li, K. A. Harris, C. E. Lunse and R. R. Breaker <br>
-[Nat Chem Biol 11(8): 606-10.(2015)]((https://www.ncbi.nlm.nih.gov/pubmed/26167874))<br><br>
+[Nat Chem Biol 11(8): 606-10.(2015)](https://www.ncbi.nlm.nih.gov/pubmed/26167874)<br><br>
 **[2] The structure of a nucleolytic ribozyme that employs a catalytic metal ion.**<br>
 Liu, Y., T. J. Wilson and D. Lilley <br>
-[Nat Chem Biol 13(5): 508-513.(2017)]((https://www.ncbi.nlm.nih.gov/pubmed/28263963))<br><br>
+[Nat Chem Biol 13(5): 508-513.(2017)](https://www.ncbi.nlm.nih.gov/pubmed/28263963)<br><br>
 **[3] Structure-based insights into self-cleavage by a four-way junctional twister-sister ribozyme.**<br>
 Zheng, L., E. Mairhofer, M. Teplova, Y. Zhang, J. Ma, D. J. Patel, R. Micura and A. Ren <br>
-[Nat Commun 8(1): 1180.(2017)]((https://www.ncbi.nlm.nih.gov/pubmed/29081514))<br><br>
+[Nat Commun 8(1): 1180.(2017)](https://www.ncbi.nlm.nih.gov/pubmed/29081514)<br><br>
 **[4] Structure-based mechanistic insights into catalysis by small self-cleaving ribozymes.**<br>
 Ren, A., R. Micura and D. J. Patel <br>
-[Curr Opin Chem Biol 41: 71-83.(2017)]((https://www.ncbi.nlm.nih.gov/pubmed/29107885))<br><br>
+[Curr Opin Chem Biol 41: 71-83.(2017)](https://www.ncbi.nlm.nih.gov/pubmed/29107885)<br><br>
 **[5] Model for the Functional Active State of the TS Ribozyme from Molecular Simulation.**<br>
 Gaines, C. S. and D. M. York <br>
-[Angew Chem Int Ed Engl 56(43): 13392-13395.(2017)]((https://www.ncbi.nlm.nih.gov/pubmed/28763583))<br><br>
+[Angew Chem Int Ed Engl 56(43): 13392-13395.(2017)](https://www.ncbi.nlm.nih.gov/pubmed/28763583)<br><br>
 **[6] Classification of the nucleolytic ribozymes based upon catalytic mechanism.**<br>
 Lilley, D. <br>
-[F1000Res 8.(2019)]((https://www.ncbi.nlm.nih.gov/pubmed/31489181))<br><br>
+[F1000Res 8.(2019)](https://www.ncbi.nlm.nih.gov/pubmed/31489181)<br><br>
 **[7] Detection of Low-Abundance Metabolites in Live Cells Using an RNA Integrator.**<br>
 You, M., J. L. Litke, R. Wu and S. R. Jaffrey <br>
-[Cell Chem Biol 26(4): 471-481.e3.(2019)]((https://www.ncbi.nlm.nih.gov/pubmed/30773480))<br><br>
+[Cell Chem Biol 26(4): 471-481.e3.(2019)](https://www.ncbi.nlm.nih.gov/pubmed/30773480)<br><br>
 **[8] Fundamental studies of functional nucleic acids: aptamers, riboswitches, ribozymes and DNAzymes.**<br>
 Micura, R. and C. Hobartner <br>
-[Chem Soc Rev 49(20): 7331-7353.(2020)]((https://www.ncbi.nlm.nih.gov/pubmed/32944725))<br><br>
+[Chem Soc Rev 49(20): 7331-7353.(2020)](https://www.ncbi.nlm.nih.gov/pubmed/32944725)<br><br>
 
 
 

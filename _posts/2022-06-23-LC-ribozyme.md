@@ -387,43 +387,43 @@ The structure represents a post‐cleavage situation with a distance of 5.1 �
 
 **[1] An intron in the nuclear ribosomal DNA of Didymium iridis codes for a group I ribozyme and a novel ribozyme that cooperate in self-splicing.**<br>
 Johansen, S. and V. M. Vogt <br>
-[Cell 76(4): 725-734.(1994)]((https://www.ncbi.nlm.nih.gov/pubmed/8124711))<br><br>
+[Cell 76(4): 725-734.(1994)](https://www.ncbi.nlm.nih.gov/pubmed/8124711)<br><br>
 
 **[2] Two group I ribozymes with different functions in a nuclear rDNA intron.**<br>
 Decatur, W. A., C. Einvik, S. Johansen and V. M. Vogt <br>
-[EMBO J 14(18): 4558-4568.(1995)]((https://www.ncbi.nlm.nih.gov/pubmed/7556099))<br><br>
+[EMBO J 14(18): 4558-4568.(1995)](https://www.ncbi.nlm.nih.gov/pubmed/7556099)<br><br>
 
 **[3] DiGIR1 and NaGIR1: naturally occurring group I-like ribozymes with unique core organization and evolved biological role.**<br>
 Johansen, S., C. Einvik and H. Nielsen <br>
-[Biochimie 84(9): 905-912.(2002)]((https://www.ncbi.nlm.nih.gov/pubmed/12458083))<br><br>
+[Biochimie 84(9): 905-912.(2002)](https://www.ncbi.nlm.nih.gov/pubmed/12458083)<br><br>
 
 **[4] The group I-like ribozyme DiGIR1 mediates alternative processing of pre-rRNA transcripts in Didymium iridis.**<br>
 Vader, A., S. Johansen and H. Nielsen <br>
-[Eur J Biochem 269(23): 5804-5812.(2002)]((https://www.ncbi.nlm.nih.gov/pubmed/12444968))<br><br>
+[Eur J Biochem 269(23): 5804-5812.(2002)](https://www.ncbi.nlm.nih.gov/pubmed/12444968)<br><br>
 
 **[5] An mRNA is capped by a 2', 5' lariat catalyzed by a group I-like ribozyme.**<br>
 Nielsen, H., E. Westhof and S. Johansen <br>
-[Science 309(5740): 1584-1587.(2005)]((https://www.ncbi.nlm.nih.gov/pubmed/16141078))<br><br>
+[Science 309(5740): 1584-1587.(2005)](https://www.ncbi.nlm.nih.gov/pubmed/16141078)<br><br>
 
 **[6] Molecular modelling of the GIR1 branching ribozyme gives new insight into evolution of structurally related ribozymes.**<br>
 eckert, B., H. Nielsen, C. Einvik, S. D. Johansen, E. Westhof and B. Masquida <br>
-[EMBO J 27(4): 667-678.(2008)]((https://www.ncbi.nlm.nih.gov/pubmed/18219270))<br><br>
+[EMBO J 27(4): 667-678.(2008)](https://www.ncbi.nlm.nih.gov/pubmed/18219270)<br><br>
 
 **[7] Speciation of a group I intron into a lariat capping ribozyme.**<br>
 Meyer, M., H. Nielsen, V. Olieric, P. Roblin, S. D. Johansen, E. Westhof and B. Masquida <br>
-[Proc Natl Acad Sci U S A 111(21): 7659-7664.(2014)]((https://www.ncbi.nlm.nih.gov/pubmed/24821772))<br><br>
+[Proc Natl Acad Sci U S A 111(21): 7659-7664.(2014)](https://www.ncbi.nlm.nih.gov/pubmed/24821772)<br><br>
 
 **[8] Molecular characterization of a new member of the lariat capping twin-ribozyme introns.**<br>
 Tang, Y., H. Nielsen, B. Masquida, P. P. Gardner and S. D. Johansen <br>
-[Mob DNA 5: 25.(2014)]((https://www.ncbi.nlm.nih.gov/pubmed/25342998))<br><br>
+[Mob DNA 5: 25.(2014)](https://www.ncbi.nlm.nih.gov/pubmed/25342998)<br><br>
 
 **[9] Lariat capping as a tool to manipulate the 5' end of individual yeast mRNA species in vivo.**<br>
 Krogh, N., M. Pietschmann, M. Schmid, T. H. Jensen and H. Nielsen <br>
-[RNA 23(5): 683-695.(2017)]((https://www.ncbi.nlm.nih.gov/pubmed/28159804))<br><br>
+[RNA 23(5): 683-695.(2017)](https://www.ncbi.nlm.nih.gov/pubmed/28159804)<br><br>
 
 **[10] Use of a Lariat Capping Ribozyme to Study Cap Function In Vivo.**<br>
 Pietschmann, M., G. Tempel, M. Halladjian, N. Krogh and H. Nielsen <br>
-[Methods Mol Biol 2167: 271-285.(2021)]((https://www.ncbi.nlm.nih.gov/pubmed/32712925))<br><br>
+[Methods Mol Biol 2167: 271-285.(2021)](https://www.ncbi.nlm.nih.gov/pubmed/32712925)<br><br>
 
 
 
