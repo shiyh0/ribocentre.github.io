@@ -430,7 +430,7 @@
     align-items: left;
     justify-content: center;
     height: 100%;
-}
+  }
    .zoom-wrapper1 {
     width: 450px;
     height: 400px;
@@ -460,23 +460,25 @@
 </td>
 <td>
 <link rel="stylesheet" type="text/css" href="https://www.ribocentre.org/css/fornac.css" media="screen" />
-<div id="multi_ss"> </div>
+<div id="rna_ss"> </div>
    
 <meta charset="utf-8" />
     <script type="text/javascript" src="https://www.ribocentre.org/js/jquery.js"></script>
     <script type="text/javascript" src="https://www.ribocentre.org/js/d3.js"></script>
     <!--<script type='text/javascript' src='https://www.ribocentre.org/js/fornac.js'></script>-->
     <script type="text/javascript" src="https://www.ribocentre.org/js/demo/rsvfornac.js"></script>
-    <script type="text/javascript">
-     "use strict"
-     function multiContainer() {
-        var container = new fornac.FornaContainer("#multi_ss",
-                {'applyForce': 1,'editable':'true',  'initialSize':[450,400]});
+    <meta charset="utf-8" />
+    <script type="text/javascript" src="https://www.ribocentre.org/js/jquery.js"></script>
+    <script type="text/javascript" src="https://www.ribocentre.org/js/d3.js"></script>
+    <script type='text/javascript' src='https://www.ribocentre.org/js/demo/rsvfornac.js'></script>
+  
+    <script type='text/javascript'>
+      var container = new fornac.FornaContainer("#rna_ss", {'applyForce': 1,'editable':'true', 'initialSize':[450,400]});
 
-        container.addRNA('(((((...(((((((.)[[[[.{{{..))]]]].....))))..}}})))))', {'sequence': 'CCGCCUAACACUGCCAGCCGGUCCCAAGCCCGGAUAAAAGUGGAGGGGGCGG'});
-        container.addRNA('..(((((((...[[[[[[(((.[[.....))))))))))]]....((((..........)))).....]]]]]]', {'avoidOthers': true, 'sequence': 'AUGGCCGGCAUGGUCCCAGCCUCCUCGCUGGCGCCGGCUGGGCAACACCAUUGCACUCCGGUGGUGAAUGGGAC'});
-    }
-    let nc =  multiContainer();
+      var options = {'structure': '..(((((((...[[[[[[(((.[[.....))))))))))]]....((((..........)))).....]]]]]]',
+                     'sequence': 'AUGGCCGGCAUGGUCCCAGCCUCCUCGCUGGCGCCGGCUGGGCAACACCAUUGCACUCCGGUGGUGAAUGGGAC'};
+
+      container.addRNA(options.structure, options);
    </script>
 </td>
 </tr></table>
