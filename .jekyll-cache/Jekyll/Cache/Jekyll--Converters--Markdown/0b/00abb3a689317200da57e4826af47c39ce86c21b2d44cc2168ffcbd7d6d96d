@@ -1,0 +1,74 @@
+I"		<h1 id="catalysis">Catalysis</h1>
+
+<p><br /></p>
+
+<p><strong>The poster shows the catalytic participants in the cleavage reactions of the nucleolytic ribozymes. This provides a classification of the ribozymes.</strong><br /><br /></p>
+
+<p><img src="https://www.ribocentre.org/images/CalaPic/cala.png" alt="drawing" style="weight:900px;height:1900px;display:block;margin:0 auto;" class="img-responsive" /><br /></p>
+
+<p>http://danml.com/js/download2.js</p>
+
+<!--<a href="https://www.ribocentre.org/images/CalaPic/Calalysis.pdf"><button class="btn btn-success"><i class="far fa-file-pdf"></i>&nbsp;&nbsp;Download Poster</button></a>-->
+<p><a href="https://www.ribocentre.org/images/CalaPic/Calalysis.pdf" download="Calalysis"><button><span class="glyphicon glyphicon-download-alt"></span> Download</button></a></p>
+
+<p><br /><br /></p>
+
+<html>
+   <head>
+      <title>Download Images using Axios</title>
+      <style> 
+         .scroll { 
+         height: 1000px; 
+         background-color: white; 
+         } 
+      </style>
+   </head>
+   <body>
+      <p id="dest">
+      <h1 style="color: green"> 
+         GeeksforGeeks 
+      </h1>
+      </p> 
+      <button onclick="download()">
+          Download Image
+      </button>
+      <p class="scroll"> 
+         By clicking the download button 
+         will generate a random image.
+      </p>
+   </body>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.19.2/axios.min.js">
+   </script>
+   <script> 
+      function download(){
+          axios({
+              url:'https://www.ribocentre.org/images/CalaPic/Calalysis.pdf',
+              method:'GET',
+              responseType: 'blob'
+      })
+      .then((response) => {
+             const url = window.URL
+             .createObjectURL(new Blob([response.data]));
+                    const link = document.createElement('a');
+                    link.href = url;
+                    link.setAttribute('download', 'image.png');
+                    document.body.appendChild(link);
+                    link.click();
+      })
+      }
+        
+   </script>
+</html>
+<p>&lt;/html&gt;
+<script>
+   function downloadFile(src){
+    var link=document.createElement('a');
+    document.body.appendChild(link);
+    link.href= src;
+    link.download = '';
+    link.click();
+}</script></p>
+
+<p>&lt;/script&gt;</p>
+
+:ET

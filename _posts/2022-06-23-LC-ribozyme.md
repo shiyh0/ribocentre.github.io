@@ -289,9 +289,9 @@ Secondary structure diagrams of the active form of the DirLC ribozyme.
 <meta charset="utf-8">
     <script type='text/javascript' src='https://www.ribocentre.org/js/jquery.js'></script>
     <script type='text/javascript' src='https://www.ribocentre.org/js/d3.js'></script>
-    <script type='text/javascript' src='https://taolab.atlasbioinfo.com/rsvdb%2Fjs%2Ffornac.js'></script>
-   
-    <script type="text/javascript">
+    <script type='text/javascript' src='https://www.ribocentre.org/js/demo/rsvfornac.js'></script>
+  
+    <script type='text/javascript'>
       var container = new fornac.FornaContainer("#rna_ss", {'applyForce': 1,'editable':'true', 'initialSize':[450,400]});
 
       var options = {'structure': '..(((((...(((((..(((((....)))))..)))))..(((((((((...[[[.)))))))))..)))).{{{.{{{{......{{{{{)..((((..(((...]]]))).......))))((....)).....(((((...}}}}}.(((...)))}}}}.}}}....))))).((((....)))).',
