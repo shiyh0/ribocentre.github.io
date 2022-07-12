@@ -17,51 +17,8 @@ permalink: /catalysis/
 
 <img src="https://www.ribocentre.org/images/CalaPic/cala.png" alt="drawing" style="weight:900px;height:1900px;display:block;margin:0 auto;" class="img-responsive"><br>
 
-<!--<a href="https://www.ribocentre.org/images/CalaPic/Calalysis.pdf"><button class="btn btn-success"><i class="far fa-file-pdf"></i>&nbsp;&nbsp;Download Poster</button></a>
-<a href="https://www.ribocentre.org/images/CalaPic/Calalysis.pdf" download="Calalysis"><button><span class="glyphicon glyphicon-download-alt"></span>&nbsp;Download</button></a>-->
-<html xmlns="http://www.w3.org/1999/xhtml">
-<body>
-    <button onclick="DownloadFile('Calalysis-poster.pdf')" ><span class="glyphicon glyphicon-download-alt"></span>&nbsp;&nbsp;Download</button>
-    <!--<input type="button" value="Download PDF File" onclick="DownloadFile('Calalysis.pdf')" />
-    <input type="button" value="Download PDF File" onclick="DownloadFile('Calalysis.pdf')" />-->
-    <script type="text/javascript">
-        function DownloadFile(fileName) {
-            //Set the File URL.
-            var url = "https://www.ribocentre.org/images/CalaPic/" + fileName;
 
-            //Create XMLHTTP Request.
-            var req = new XMLHttpRequest();
-            req.open("GET", url, true);
-            req.responseType = "blob";
-            req.onload = function () {
-                //Convert the Byte Data to BLOB object.
-                var blob = new Blob([req.response], { type: "application/octetstream" });
-
-                //Check the Browser type and download the File.
-                var isIE = false || !!document.documentMode;
-                if (isIE) {
-                    window.navigator.msSaveBlob(blob, fileName);
-                } else {
-                    var url = window.URL || window.webkitURL;
-                    link = url.createObjectURL(blob);
-                    var a = document.createElement("a");
-                    a.setAttribute("download", fileName);
-                    a.setAttribute("href", link);
-                    document.body.appendChild(a);
-                    a.click();
-                    document.body.removeChild(a);
-                }
-            };
-            req.send();
-        };
-    </script>
-</body>
-</html>
-<br><br>
-
-
-
-
+<a href="https://www.ribocentre.org/downloads/Calalysis-poster.pdf" target="_blank" download="Calalysis-poster.pdf"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>&nbsp;&nbsp;Download Poster</button></a><br><br>
 
 
 
