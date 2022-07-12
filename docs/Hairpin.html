@@ -414,20 +414,51 @@
 </td>
 <td>
 <link rel="stylesheet" type="text/css" href="https://www.ribocentre.org/css/fornac.css" media="screen" />
-<div id="rna_ss"> </div>
+<div id="custom_colors"></div>
+<form onsubmit="return handleCustomColorApply()" class="optionsform">
+  <!--<textarea id="CustomColorText" name="CustomColorText" textarea name="hide" style="display:none;" >
+    69-74:lightgreen 79-84:lightgreen 1-14:lightblue  100-113:lightblue 15-32:#FF0000 48-68:#FF0000 85-92:#FFAA33 93-99:#FFAA33 
+  </textarea>-->
+
+<meta charset="utf-8" />
+    <script type="text/javascript" src="https://www.ribocentre.org/js/jquery.js"></script>
+    <script type="text/javascript" src="https://www.ribocentre.org/js/d3.js"></script>
+    <script type='text/javascript' src='https://www.ribocentre.org/js/demo/rsvfornac.js'></script>
+    <script type="text/javascript">
+      "use strict"
+      function customColorsContainer() {
+         let container = new fornac.FornaContainer("#custom_colors",
+                 {'applyForce': 1,'editable':'true', 'initialSize':[450,400]});
+         let options = {'structure': '(((((((...[[[[[[(((.[[.....))))))))))]]....((((..........)))).....]]]]]]',
+             'sequence':             'GGCCGGCAUGGUCCCAGCCUCCUCGCUGGCGCCGGCUGGGCAACACCAUUGCACUCCGGUGGCGAAUGGGAC'
+         };
+         container.addRNA(options.structure, options);
+         return container;
+     }
+     let cc = customColorsContainer();
+ 
+     function handleCustomColorApply() {
+       cc.addCustomColorsText(document.getElementById("CustomColorText").value);
+       return false;
+     }
+     handleCustomColorApply();
+ 
+     </script>
+<!--<div id="rna_ss"> </div>
 
 <meta charset="utf-8" />
     <script type="text/javascript" src="https://www.ribocentre.org/js/jquery.js"></script>
     <script type="text/javascript" src="https://www.ribocentre.org/js/d3.js"></script>
     <script type="text/javascript" src="https://www.ribocentre.org/js/demo/rsvfornac.js"></script>
-    <!--<script type='text/javascript' src='https://www.ribocentre.org/js/forna/fornac.js'></script>-->
+    <!--<script type='text/javascript' src='https://www.ribocentre.org/js/forna/fornac.js'></script>
     <script type="text/javascript">
         var container = new fornac.FornaContainer("#rna_ss", {'applyForce': true,
          allowPanningAndZooming: false,  'initialSize':[450,400]});
         var options = {'structure': '(((((((...[[[[[[(((.[[.....))))))))))]]....((((..........)))).....]]]]]]',
                        'sequence': 'GGCCGGCAUGGUCCCAGCCUCCUCGCUGGCGCCGGCUGGGCAACACCAUUGCACUCCGGUGGCGAAUGGGAC'};
         container.addRNA(options.structure, options);
-    </script></td>
+    </script>-->
+    </td>
 </tr></table>
 <p><br /></p>
 

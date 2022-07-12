@@ -443,23 +443,36 @@
 </td>
 <td>
 <link rel="stylesheet" type="text/css" href="https://www.ribocentre.org/css/fornac.css" media="screen" />
+<div id="custom_colors"></div>
+<form onsubmit="return handleCustomColorApply()" class="optionsform">
+  <textarea id="CustomColorText" name="CustomColorText" textarea name="hide" style="display:none;" >
+    1-5:lightgreen 56:red 40:red 59-63:lightgreen 7-11:lightblue 14:lightblue 17-25:lightblue 29-34:lightblue 42-45:#dbdb8d 52-55:#dbdb8d 
+  </textarea>
 
-<div id="rna_ss"> </div>
-       
 <meta charset="utf-8" />
     <script type="text/javascript" src="https://www.ribocentre.org/js/jquery.js"></script>
     <script type="text/javascript" src="https://www.ribocentre.org/js/d3.js"></script>
-    <!--<script type='text/javascript' src='https://www.ribocentre.org/js/fornac.js'></script>-->
-    <script type="text/javascript" src="https://www.ribocentre.org/js/demo/fornac.js"></script>
+    <script type='text/javascript' src='https://www.ribocentre.org/js/demo/rsvfornac.js'></script>
     <script type="text/javascript">
-      var container = new fornac.FornaContainer("#rna_ss", {'applyForce': 1,'editable':'true', 'initialSize':[450,400]});
-
-      var options = {'structure': '(((((.((((((.(..(((()))))...)))))).......((((......))))...)))))',
-                     'sequence': 'GGCGUCCUGGUAUCCAAUCCGGAUGUACUACCAGCUGAUGAGUCCCAAAUAGGACGAAACGCC'};
-
-      container.addRNA(options.structure, options);
-  </script>
-
+      "use strict"
+      function customColorsContainer() {
+         let container = new fornac.FornaContainer("#custom_colors",
+                 {'applyForce': 1,'editable':'true', 'initialSize':[450,400]});
+         let options = {'structure': '(((((.((((((.(..(((()))))...)))))).......((((......))))...)))))',
+             'sequence':             'GGCGUCCUGGUAUCCAAUCCGGAUGUACUACCAGCUGAUGAGUCCCAAAUAGGACGAAACGCC'
+         };
+         container.addRNA(options.structure, options);
+         return container;
+     }
+     let cc = customColorsContainer();
+ 
+     function handleCustomColorApply() {
+       cc.addCustomColorsText(document.getElementById("CustomColorText").value);
+       return false;
+     }
+     handleCustomColorApply();
+ 
+     </script>
 </td>
 </tr></table>
 <p><br /></p>

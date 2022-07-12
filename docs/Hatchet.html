@@ -348,8 +348,37 @@
 </td>
 <td>
 <link rel="stylesheet" type="text/css" href="https://www.ribocentre.org/css/fornac.css" media="screen" />
+<div id="custom_colors"></div>
+<form onsubmit="return handleCustomColorApply()" class="optionsform">
+  <textarea id="CustomColorText" name="CustomColorText" textarea name="hide" style="display:none;" >
+    31-34:lightgreen 60-64:lightgreen 36-45:lightblue 50-58:lightblue 23-27:#dbdb8d 77-81:#dbdb8d 1-6:pink 14-19:pink
+  </textarea>
 
-<div id="multi_ss"> </div>
+<meta charset="utf-8" />
+    <script type="text/javascript" src="https://www.ribocentre.org/js/jquery.js"></script>
+    <script type="text/javascript" src="https://www.ribocentre.org/js/d3.js"></script>
+    <script type='text/javascript' src='https://www.ribocentre.org/js/demo/rsvfornac.js'></script>
+    <script type="text/javascript">
+      "use strict"
+      function customColorsContainer() {
+         let container = new fornac.FornaContainer("#custom_colors",
+                 {'applyForce': 1,'editable':'true', 'initialSize':[450,400]});
+         let options = {'structure': '((((((.[.....))))))[[.(((((].]((((.(((]((((((....))))))))).))).)............))))).',
+             'sequence':             'UUACUGUGAGAAUCAGUAACAAACAUGUGGGGCUUAUAUCUAAUCGAAAGAUUAGUAUUAGUGCAGACGUUAAAACCAUGUC'
+         };
+         container.addRNA(options.structure, options);
+         return container;
+     }
+     let cc = customColorsContainer();
+ 
+     function handleCustomColorApply() {
+       cc.addCustomColorsText(document.getElementById("CustomColorText").value);
+       return false;
+     }
+     handleCustomColorApply();
+ 
+     </script>
+<!--<div id="multi_ss"> </div>
     
        
 <meta charset="utf-8" />
@@ -366,7 +395,7 @@
         container.addRNA('((((((.......))))))(.........)((((.(((.((((((....))))))))).))).).................', {'avoidOthers': true, 'sequence': 'UUACUGUGAGAAUCAGUAACAAACAUGUGGGGCUUAUAUCUAAUCGAAAGAUUAGUAUUAGUGCAGACGUUAAAACCAUGU'});
     }
     let nc =  multiContainer();
-   </script>
+   </script>-->
 
 </td>
 </tr></table>

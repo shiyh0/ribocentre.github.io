@@ -348,10 +348,37 @@
 </td>
 <td>
 <link rel="stylesheet" type="text/css" href="https://www.ribocentre.org/css/fornac.css" media="screen" />
+<div id="custom_colors"></div>
+<form onsubmit="return handleCustomColorApply()" class="optionsform">
+  <textarea id="CustomColorText" name="CustomColorText" textarea name="hide" style="display:none;" >
+    16-21:lightgreen 8:red 23:red  14:red 27:red 1-6:pink 57-62:pink  35-40:lightblue  41-46:lightblue  9-13:#dbdb8d 48-53:#dbdb8d 
+  </textarea>
 
-<div id="rna_ss"> </div>
-    
-       
+<meta charset="utf-8" />
+    <script type="text/javascript" src="https://www.ribocentre.org/js/jquery.js"></script>
+    <script type="text/javascript" src="https://www.ribocentre.org/js/d3.js"></script>
+    <script type='text/javascript' src='https://www.ribocentre.org/js/demo/rsvfornac.js'></script>
+    <script type="text/javascript">
+      "use strict"
+      function customColorsContainer() {
+         let container = new fornac.FornaContainer("#custom_colors",
+                 {'applyForce': 1,'editable':'true', 'initialSize':[450,400]});
+         let options = {'structure': '((((((.[((((({.((((((.]...}.))))))(((((()))))).))).))...))))))',
+             'sequence':             'GCAGGGCAAGGCCCAGUCCCGUGCAAGCCGGGACCGCCCCGGGGCGCGGCGCUCAUUCCUGC'
+         };
+         container.addRNA(options.structure, options);
+         return container;
+     }
+     let cc = customColorsContainer();
+ 
+     function handleCustomColorApply() {
+       cc.addCustomColorsText(document.getElementById("CustomColorText").value);
+       return false;
+     }
+     handleCustomColorApply();
+ 
+     </script>
+<!--<div id="rna_ss"> </div>
 <meta charset="utf-8" />
     <script type="text/javascript" src="https://www.ribocentre.org/js/jquery.js"></script>
     <script type="text/javascript" src="https://www.ribocentre.org/js/d3.js"></script>
@@ -363,7 +390,7 @@
                      'sequence': 'GCAGGGCAAGGCCCAGUCCCGUGCAAGCCGGGACCGCCCCGGGGCGCGGCGCUCAUUCCUGC'};
 
       container.addRNA(options.structure, options);
-  </script>
+  </script>-->
 </td>
 </tr></table>
 <p><br /></p>

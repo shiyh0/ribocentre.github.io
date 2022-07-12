@@ -1,86 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Twister</title>
-  <meta name="description" content="Rfam ID:RF03160 ">
-  <!--<link rel="stylesheet" href="http://localhost:4000/css/main.css>-->
-  <link rel="stylesheet" href="https://www.ribocentre.org/css/main.css">
-  <link rel="canonical" href="http://localhost:4000/ribozyme/2022/04/19/twister.html">
-  <link rel="shortcut icon" type ="image/x-icon" href="https://www.ribocentre.org/images/favicon.ico">
-
-
-
-</head>
-
-
-  <body>
-
-    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
-  <style>
-        /* Modify the background color https://www.color-hex.com/color-palette/1011604 */
-        .navbar {
-            background-color: #0874c4;
-        }
-        .navbar .navbar-brand,
-        .navbar .navbar-text {
-            color: #eeeeee;
-        }
-
-		#now a{
-			color:#fff
-
-		}
-		
-  </style>
-
-  <div class="container-fluid">
-	<div class="navbar-header">
-	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
-		<span class="sr-only">Toggle navigation</span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-	  </button>
-	
-    <a class="navbar-brand" href="https://www.ribocentre.org/">
-		
-		<!--<img class="navbar-brand" src="http://localhost:4000/images/Ribo_centre_logo.jpg" style='height:50px;margin-top:-14px;margin-bottom:0;padding:0;' alt="logo">
-		Ribo centre @ Bio island-->
-		<img class="navbar-brand" src="https://www.ribocentre.org/images/Ribo_centre_logo.jpg" style='height:50px;margin-top:-14px;margin-bottom:0;padding:0;' alt="logo">
-		Ribo centre 
-	</a>
-	</div>
-	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right">
-		<li id="now"><a href="https://www.ribocentre.org/">Home</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/ribozyme">Ribozyme</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/application">Application</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/catalysis">Catalysis</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/structure">Structure</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/publications">Publications</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/team">Team</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/Helps">Helps</a></li>
-	  </ul>
-	</div>
-  </div>
-</div>
-
-
-    <div class="container-fluid">
-      <div class="row">
-        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-
-  <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">Twister</h1>
-    <p class="post-meta"><time datetime="2022-04-19T03:25:52+08:00" itemprop="datePublished">Apr 19, 2022</time> • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Chichau Miao</span></span></p>
-  </header>
-
-  <div class="post-content" itemprop="articleBody">
-    <p><strong><a href="https://rfam.xfam.org/family/RF03160">Rfam ID:RF03160</a></strong> <br /></p>
+I"�N<p><strong><a href="https://rfam.xfam.org/family/RF03160">Rfam ID:RF03160</a></strong> <br /></p>
 
 <h4 id="click-into-different-sections">click into different sections:</h4>
 
@@ -385,31 +303,29 @@
       </script>
 </td>
 <td>
-<link rel="stylesheet" type="text/css" href="https://www.ribocentre.org/css/fornac.css" media="screen" />       
+<link rel="stylesheet" type="text/css" href="https://www.ribocentre.org/css/fornac.css" media="screen" />
 
 <div id="custom_colors"></div>
 <form onsubmit="return handleCustomColorApply()" class="optionsform">
-  <textarea id="CustomColorText" name="CustomColorText" textarea name="hide" style="display:none;" >
+  <textarea id="CustomColorText" name="hide" textarea="" style="display:none;">
     0-5:#dbdb8d 50-54:#dbdb8d 8-13:pink 41-45:pink 20-23:#ff9896 32-35:#ff9896 14-15:lightgreen 30-31:lightgreen 25-28:lightgreen 46-49:lightgreen
   </textarea>
 
 <meta charset="utf-8" />
     <script type="text/javascript" src="https://www.ribocentre.org/js/jquery.js"></script>
     <script type="text/javascript" src="https://www.ribocentre.org/js/d3.js"></script>
-    <script type='text/javascript' src='https://www.ribocentre.org/js/demo/rsvfornac.js'></script>
+    <script type="text/javascript" src="https://www.ribocentre.org/js/demo/rsvfornac.js"></script>
     <script type="text/javascript">
       "use strict"
       function customColorsContainer() {
          let container = new fornac.FornaContainer("#custom_colors",
                  {'applyForce': 1,'editable':'true', 'initialSize':[450,400]});
-         let options = {'structure': '(((((..[[[[[[[(...)((((.{{{{.]])))).....]]]]]}}}})))))',
+         let options = {'structure': '(((((..[[[[[[[(...)((((.}})))))',
              'sequence':             'CCGCCUAACACUGCCAAUGCCGGUCCCAAGCCCGGAUAAAAGUGGAGGGGGCGG'
          };
          container.addRNA(options.structure, options);
          return container;
      }
-       
-    
      let cc = customColorsContainer();
  
      function handleCustomColorApply() {
@@ -419,24 +335,13 @@
      handleCustomColorApply();
  
      </script>
-  
-    <!--<script type='text/javascript'>
-      var container = new fornac.FornaContainer("#rna_ss", {'applyForce': 1,'editable':'true', 'initialSize':[450,400]});
 
-      var options = {'structure': '(((((..[[[[[[[(...)((((.{{{{.]])))).....]]]]]}}}})))))',
-                     'sequence': 'GCAGGGCAAGGCCCAGUCCCGUGCAAGCCGGGACCGCCCCGGGGCGCGGCGCUCAUUCCUGC'};
+&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;<br />
 
-      container.addRNA(options.structure, options);
-  </script>-->
-</td>
-</tr></table>
-<p><br /></p>
-
-<blockquote>
-  <p>3D visualisation</p>
-</blockquote>
+&gt; 3D visualisation
 <table><tr>
-<td><img src="https://www.ribocentre.org/images/twisterPic/twister3D.png" alt="drawing" style="height:435px" border="0" /></td>
+<td><img src="https://www.ribocentre.org/images/twisterPic/twister3D.png" alt="drawing" style="height:430px" border="0" /></td>
 <td>
 <html>
   <head>
@@ -497,156 +402,110 @@
   </script>
   </body>
 </html></td>
-</tr></table>
-<p><br /></p>
+</tr></table><br />
 
-<blockquote>
-  <p>Catalytic centre</p>
-</blockquote>
+
+&gt; Catalytic centre
 
 <table><tr>
-<td><img src="https://www.ribocentre.org/images/twisterPic/twister-m1.png" alt="drawing" style="width:450px;height:340px" /></td>
-<td><img src="https://www.ribocentre.org/images/twisterPic/twister-m2.png" alt="drawing" style="width:450px;height:350px" border="1" px="" /></td>
-</tr></table>
-<p><br /></p>
+<td><img src="https://www.ribocentre.org/images/twisterPic/twister-m1.svg" alt="drawing" style="width:450px;height:340px" /></td>
+<td><img src="https://www.ribocentre.org/images/twisterPic/m2.png" alt="drawing" style="width:450px;height:350px" border="1" px="" /></td>
+</tr></table><br />
 
-<blockquote>
-  <p>Chemical mechanism</p>
-</blockquote>
+&gt; Chemical mechanism
 
-<p>The twister ribozyme employs general acid-base catalysis, using guanine and adenine nucleobases like the hairpin and VS ribozymes, but with some important differences. The pH dependence of cleavage rate is bell shaped, corresponding to apparent pKa values of 6.9 and 9.5 [2]. Substitutions led to the assignment of the upper pKa as resulting from G33, and like hairpin and VS, G N1 is used as the general base in cleavage. An adenine is again used as general acid in the cleavage reaction, but twister differs from the other two ribozymes in two significant respects. First, it is the highly-conserved A1, immediately 3’ to the cleavage site that acts as the general acid in cleavage, and an A1G mutation led to a 104-fold loss in activity.  An A1 N7C atomic mutation led to a ribozyme in which the lower pKa was shifted up by 1.5 units. In its position adjacent to the scissile phosphate it is sterically impossible to employ its N1 in proton transfer. So unusually it uses the much more acidic N3 (pKa ~ 1.5) as the general acid in the cleavage reaction [6]. However, its apparent pKa is raised by formation of two hydrogen bonds from A1 N6 to negatively-charged backbone phosphate groups. The role of A1 N3 was confirmed by atomic mutation, when it was found that the activity of A1 N3C twister ribozyme was virtually undetectable while A1 N1C twister ribozyme actually became faster.</p>
+The twister ribozyme employs general acid-base catalysis, using guanine and adenine nucleobases like the hairpin and VS ribozymes, but with some important differences. The pH dependence of cleavage rate is bell shaped, corresponding to apparent pKa values of 6.9 and 9.5 [2]. Substitutions led to the assignment of the upper pKa as resulting from G33, and like hairpin and VS, G N1 is used as the general base in cleavage. An adenine is again used as general acid in the cleavage reaction, but twister differs from the other two ribozymes in two significant respects. First, it is the highly-conserved A1, immediately 3’ to the cleavage site that acts as the general acid in cleavage, and an A1G mutation led to a 104-fold loss in activity.  An A1 N7C atomic mutation led to a ribozyme in which the lower pKa was shifted up by 1.5 units. In its position adjacent to the scissile phosphate it is sterically impossible to employ its N1 in proton transfer. So unusually it uses the much more acidic N3 (pKa ~ 1.5) as the general acid in the cleavage reaction [6]. However, its apparent pKa is raised by formation of two hydrogen bonds from A1 N6 to negatively-charged backbone phosphate groups. The role of A1 N3 was confirmed by atomic mutation, when it was found that the activity of A1 N3C twister ribozyme was virtually undetectable while A1 N1C twister ribozyme actually became faster. 
 
-<p>The twister ribozyme has probably the best understood catalytic mechanism at the present time. The observed rate enhancement arises from four contributions [6] :<br />
- 1. The structure observed in the crystal may be readily remodeled into a conformation that is well aligned for SN2 attack of the O2′ nucleophile on the scissile phosphate in the cleavage reaction. <br />
- 2. The transition state is stabilized by accepting a hydrogen bond from G33 N2.<br />
- 3. G33 N1 removes a proton from the O2′ to make it a stronger nucleophile.<br />
- 4. A1 N3 donates a proton to the O5’ oxyanion leaving group.<br /></p>
+The twister ribozyme has probably the best understood catalytic mechanism at the present time. The observed rate enhancement arises from four contributions [6] :<br />
+&emsp;1. The structure observed in the crystal may be readily remodeled into a conformation that is well aligned for SN2 attack of the O2′ nucleophile on the scissile phosphate in the cleavage reaction. <br />
+&emsp;2. The transition state is stabilized by accepting a hydrogen bond from G33 N2.<br />
+&emsp;3. G33 N1 removes a proton from the O2′ to make it a stronger nucleophile.<br />
+&emsp;4. A1 N3 donates a proton to the O5’ oxyanion leaving group.<br />
 
-<h2 id="reference">Reference</h2>
 
-<hr />
+## Reference
 
-<p><strong>[1] A widespread self-cleaving ribozyme class is revealed by bioinformatics.</strong><br />
+***
+
+**[1] A widespread self-cleaving ribozyme class is revealed by bioinformatics.**<br />
 Roth, A., Z. Weinberg, A. G. Chen, P. B. Kim, T. D. Ames and R. R. Breaker <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/24240507" target="_blank">Nat Chem Biol 10(1): 56-60.(2014)</a><br /><br /></p>
+[Nat Chem Biol 10(1): 56-60.(2014)](https://www.ncbi.nlm.nih.gov/pubmed/24240507)<br /><br />
 
-<p><strong>[2] Crystal structure and mechanistic investigation of the twister ribozyme.</strong><br />
+**[2] Crystal structure and mechanistic investigation of the twister ribozyme.**<br />
 Liu, Y., T. J. Wilson, S. A. McPhee and D. M. Lilley <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/25038788" target="_blank">Nat Chem Biol 10(9): 739-44.(2014)</a><br /><br /></p>
+[Nat Chem Biol 10(9): 739-44.(2014)](https://www.ncbi.nlm.nih.gov/pubmed/25038788)<br /><br />
 
-<p><strong>[3] In-line alignment and Mg(2)(+) coordination at the cleavage site of the env22 twister ribozyme.</strong><br />
+**[3] In-line alignment and Mg(2)(+) coordination at the cleavage site of the env22 twister ribozyme.**<br />
 Ren, A., M. Kosutic, K. R. Rajashankar, M. Frener, T. Santner, E. Westhof, R. Micura and D. J. Patel <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/25410397" target="_blank">Nat Commun 5: 5534.(2014)</a><br /><br /></p>
+[Nat Commun 5: 5534.(2014)](https://www.ncbi.nlm.nih.gov/pubmed/25410397)<br /><br />
 
-<p><strong>[4] Structural basis for the fast self-cleavage reaction catalyzed by the twister ribozyme.</strong><br />
+**[4] Structural basis for the fast self-cleavage reaction catalyzed by the twister ribozyme.**<br />
 Eiler, D., J. Wang and T. A. Steitz <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/25157168" target="_blank">Proc Natl Acad Sci U S A 111(36): 13028-33.(2014)</a><br /><br /></p>
+[Proc Natl Acad Sci U S A 111(36): 13028-33.(2014)](https://www.ncbi.nlm.nih.gov/pubmed/25157168)<br /><br />
 
-<p><strong>[5] A Mini-Twister Variant and Impact of Residues/Cations on the Phosphodiester Cleavage of this Ribozyme Class.</strong><br />
+**[5] A Mini-Twister Variant and Impact of Residues/Cations on the Phosphodiester Cleavage of this Ribozyme Class.**<br />
 Kosutic, M., S. Neuner, A. Ren, S. Flur, C. Wunderlich, E. Mairhofer, N. Vusurovic, J. Seikowski, K. Breuker, C. Hobartner, D. J. Patel, C. Kreutz and R. Micura <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/26473980" target="_blank">Angew Chem Int Ed Engl 54(50): 15128-15133.(2015)</a><br /><br /></p>
+[Angew Chem Int Ed Engl 54(50): 15128-15133.(2015)](https://www.ncbi.nlm.nih.gov/pubmed/26473980)<br /><br />
 
-<p><strong>[6] The Novel Chemical Mechanism of the Twister Ribozyme.</strong><br />
+**[6] The Novel Chemical Mechanism of the Twister Ribozyme.**<br />
 Wilson, T. J., Y. Liu, C. Domnick, S. Kath-Schorr and D. M. Lilley <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/27153229" target="_blank">J Am Chem Soc 138(19): 6151-62.(2016)</a><br /><br /></p>
+[J Am Chem Soc 138(19): 6151-62.(2016)](https://www.ncbi.nlm.nih.gov/pubmed/27153229)<br /><br />
 
-<p><strong>[7] Twister ribozymes as highly versatile expression platforms for artificial riboswitches.</strong><br />
+**[7] Twister ribozymes as highly versatile expression platforms for artificial riboswitches.**<br />
 Felletti, M., J. Stifel, L. A. Wurmthaler, S. Geiger and J. S. Hartig <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/27670347" target="_blank">Nat Commun 7: 12834.(2016)</a><br /><br /></p>
+[Nat Commun 7: 12834.(2016)](https://www.ncbi.nlm.nih.gov/pubmed/27670347)<br /><br />
 
-<p><strong>[8] High-Throughput Mutational Analysis of a Twister Ribozyme.</strong><br />
+**[8] High-Throughput Mutational Analysis of a Twister Ribozyme.**<br />
 Kobori, S. and Y. Yokobayashi <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/27461281" target="_blank">Angew Chem Int Ed Engl 55(35): 10354-7.(2016)</a><br /><br /></p>
+[Angew Chem Int Ed Engl 55(35): 10354-7.(2016)](https://www.ncbi.nlm.nih.gov/pubmed/27461281)<br /><br />
 
-<p><strong>[9] Ribozyme Catalysis with a Twist: Active State of the Twister Ribozyme in Solution Predicted from Molecular Simulation.</strong><br />
+**[9] Ribozyme Catalysis with a Twist: Active State of the Twister Ribozyme in Solution Predicted from Molecular Simulation.**<br />
 Gaines, C. S. and D. M. York <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/26859432" target="_blank">J Am Chem Soc 138(9): 3058-65.(2016)</a><br /><br /></p>
+[J Am Chem Soc 138(9): 3058-65.(2016)](https://www.ncbi.nlm.nih.gov/pubmed/26859432)<br /><br />
 
-<p><strong>[10] Pseudoknot Formation Seeds the Twister Ribozyme Cleavage Reaction Coordinate.</strong><br />
+**[10] Pseudoknot Formation Seeds the Twister Ribozyme Cleavage Reaction Coordinate.**<br />
 Vusurovic, N., Altman, R. B., Terry, D. S., Micura, R. &amp; Blanchard, S. C.<br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/28598157" target="_blank">J Am Chem Soc 139 (24): 8186-8193.(2017)</a><br /><br /></p>
+[J Am Chem Soc 139 (24): 8186-8193.(2017)](https://www.ncbi.nlm.nih.gov/pubmed/28598157)<br /><br />
 
-<p><strong>[11] Unwinding the twister ribozyme: from structure to mechanism.</strong><br />
+**[11] Unwinding the twister ribozyme: from structure to mechanism.**<br />
 Gebetsberger, J. &amp; Micura, R.<br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/27863022" target="_blank">Wiley Interdiscip Rev RNA 8 (3).(2017)</a><br /><br /></p>
+[Wiley Interdiscip Rev RNA 8 (3).(2017)](https://www.ncbi.nlm.nih.gov/pubmed/27863022)<br /><br />
 
-<p><strong>[12] Mechanistic Debris Generated by Twister Ribozymes.</strong><br />
+**[12] Mechanistic Debris Generated by Twister Ribozymes.**<br />
 Breaker, R. R. <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/28191925" target="_blank">ACS Chem Biol 12(4): 886-891.(2017)</a><br /><br /></p>
+[ACS Chem Biol 12(4): 886-891.(2017)](https://www.ncbi.nlm.nih.gov/pubmed/28191925)<br /><br />
 
-<p><strong>[13] Metals induce transient folding and activation of the twister ribozyme.</strong><br />
+**[13] Metals induce transient folding and activation of the twister ribozyme.**<br />
 Panja, S., B. Hua, D. Zegarra, T. Ha and S. A. Woodson <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/28825710" target="_blank">Nat Chem Biol 13(10): 1109-1114.(2017)</a><br /><br /></p>
+[Nat Chem Biol 13(10): 1109-1114.(2017)](https://www.ncbi.nlm.nih.gov/pubmed/28825710)<br /><br />
 
-<p><strong>[14] Cellular Small Molecules Contribute to Twister Ribozyme Catalysis.</strong><br />
+**[14] Cellular Small Molecules Contribute to Twister Ribozyme Catalysis.**<br />
 Messina, K. J. and P. C. Bevilacqua <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/30102530" target="_blank">J Am Chem Soc 140(33): 10578-10582.(2018)</a><br /><br /></p>
+[J Am Chem Soc 140(33): 10578-10582.(2018)](https://www.ncbi.nlm.nih.gov/pubmed/30102530)<br /><br />
 
-<p><strong>[15] Cleaning Up Mechanistic Debris Generated by Twister Ribozymes Using Computational RNA Enzymology.</strong><br />
+**[15] Cleaning Up Mechanistic Debris Generated by Twister Ribozymes Using Computational RNA Enzymology.**<br />
 Gaines, C. S., T. J. Giese and D. M. York <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/31328021" target="_blank">ACS Catal 9(7): 5803-5815.(2019)</a><br /><br /></p>
+[ACS Catal 9(7): 5803-5815.(2019)](https://www.ncbi.nlm.nih.gov/pubmed/31328021)<br /><br />
 
-<p><strong>[16] Classification of the nucleolytic ribozymes based upon catalytic mechanism.</strong><br />
+**[16] Classification of the nucleolytic ribozymes based upon catalytic mechanism.**<br />
 Lilley, D. <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/31489181" target="_blank">F1000Res 8.(2019)</a><br /><br /></p>
+[F1000Res 8.(2019)](https://www.ncbi.nlm.nih.gov/pubmed/31489181)<br /><br />
 
-<p><strong>[17] Highly efficient expression of circular RNA aptamers in cells using autocatalytic transcripts.</strong><br />
+**[17] Highly efficient expression of circular RNA aptamers in cells using autocatalytic transcripts.**<br />
 Litke, J. L. and S. R. Jaffrey <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/30962542" target="_blank">Nat Biotechnol 37(6): 667-675.(2019)</a><br /><br /></p>
+[Nat Biotechnol 37(6): 667-675.(2019)](https://www.ncbi.nlm.nih.gov/pubmed/30962542)<br /><br />
 
-<p><strong>[18] Light-controlled twister ribozyme with single-molecule detection resolves RNA function in time and space.</strong><br />
+**[18] Light-controlled twister ribozyme with single-molecule detection resolves RNA function in time and space.**<br />
 Korman, A., H. Sun, B. Hua, H. Yang, J. N. Capilato, R. Paul, S. Panja, T. Ha, M. M. Greenberg and S. A. Woodson <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/32430319">Proc Natl Acad Sci U S A 117(22): 12080-12086.(2020)</a>)<br /><br /></p>
+[Proc Natl Acad Sci U S A 117(22): 12080-12086.(2020)](https://www.ncbi.nlm.nih.gov/pubmed/32430319)<br /><br />
 
-<p><strong>[19] The function of twister ribozyme variants in non-LTR retrotransposition in Schistosoma mansoni.</strong><br />
+**[19] The function of twister ribozyme variants in non-LTR retrotransposition in Schistosoma mansoni.**<br />
 Liu, G., H. Jiang, W. Sun, J. Zhang, D. Chen and A. Murchie <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/34551436" target="_blank">Nucleic Acids Res 49(18): 10573-10588.(2021)</a><br /><br /></p>
+[Nucleic Acids Res 49(18): 10573-10588.(2021)](https://www.ncbi.nlm.nih.gov/pubmed/34551436)<br /><br />
 
 
-  </div>
-
-</article>
-
-      </div>
-    </div>
-
-    <div id="footer" class="panel">
-  <div class="panel-footer">
-	<div class="container-fluid">
-	  <div class="row">
-		<div class="col-sm-4">
-			
-		  <p>&copy 2022 Ribo centre. Site made with <a href="https://jekyllrb.com">Jekyll</a>;  <a href="https://www.ribocentre.org/aboutwebsite.html">copy and  modify it for your own research group.</a></p>
-              <p>We are part of the <a href="https://gzlab.ac.cn">Guangzhou Laboratory</a> and <a href="http://www.gzsys.org.cn/">Sun Yat-sen Memorial Hospital of Sun Yat-sen University</a>.</p>
-            
-
-		   <p>  </p><p>
-            		  
-            
-		</div>
-		<div class="col-sm-4">
-		  Funding:<br />
-		  - <a href="https://www.nsfc.gov.cn/">NSFC</a> <br />
-		  - <a href="http://www.most.gov.cn/">MOST IT+BT project</a> <br />
-          - <a href="https://gzlab.ac.cn">GZlab starting grant</a>
-		</div>
-		<div class="col-sm-4">
-		  Contact:<br />
-		  Building B2, Guangzhou Laboratory<br />
-		  96 Xingdao South Road, Guangzhou International Bio Island, <br />
-		  Haizhu District, Guangzhou, Guangdong,<br />
-		  China. <br />
-          (<a href="https://goo.gl/maps/hDLr6siEAS2Eaypt8">Maps</a>)
-		</div>
-	  </div>
-	</div>
-  </div>
-</div>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="https://www.ribocentre.org/js/bootstrap.min.js"></script>
 
 
-  </body>
 
-</html>
+</form></td></tr></table>
+:ET
