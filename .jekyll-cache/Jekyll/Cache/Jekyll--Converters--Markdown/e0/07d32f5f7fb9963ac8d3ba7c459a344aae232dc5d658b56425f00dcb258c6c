@@ -1,79 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Ribo centre - Home</title>
-  <meta name="description" content="Ribo centre: A ribozyme database">
-  <!--<link rel="stylesheet" href="http://localhost:4000/css/main.css>-->
-  <link rel="stylesheet" href="https://www.ribocentre.org/css/main.css">
-  <link rel="canonical" href="http://localhost:4000/">
-  <link rel="shortcut icon" type ="image/x-icon" href="https://www.ribocentre.org/images/favicon.ico">
-
-
-
-</head>
-
-
-  <body>
-
-    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
-  <style>
-        /* Modify the background color https://www.color-hex.com/color-palette/1011604 */
-        .navbar {
-            background-color: #0874c4;
-        }
-        .navbar .navbar-brand,
-        .navbar .navbar-text {
-            color: #eeeeee;
-        }
-
-		#now a{
-			color:#fff
-
-		}
-		
-  </style>
-
-  <div class="container-fluid">
-	<div class="navbar-header">
-	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
-		<span class="sr-only">Toggle navigation</span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-	  </button>
-	
-    <a class="navbar-brand" href="https://www.ribocentre.org/">
-		
-		<!--<img class="navbar-brand" src="http://localhost:4000/images/Ribo_centre_logo.jpg" style='height:50px;margin-top:-14px;margin-bottom:0;padding:0;' alt="logo">
-		Ribo centre @ Bio island-->
-		<img class="navbar-brand" src="https://www.ribocentre.org/images/Ribo_centre_logo.jpg" style='height:50px;margin-top:-14px;margin-bottom:0;padding:0;' alt="logo">
-		Ribo centre 
-	</a>
-	</div>
-	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right">
-		<li id="now"><a href="https://www.ribocentre.org/">Home</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/ribozyme">Ribozyme</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/application">Application</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/catalysis">Catalysis</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/structure">Structure</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/publications">Publications</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/team">Team</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/Helps">Helps</a></li>
-	  </ul>
-	</div>
-  </div>
-</div>
-
-
-    <div class="container-fluid">
-      <div class="row">
-          <div id="homeid" class="col-sm-8">
-	<h1 id="ribozyme-wiki">Ribozyme wiki</h1>
+I"�,<h1 id="ribozyme-wiki">Ribozyme wiki</h1>
 
 <p><strong>The following information is adapted from <a href="https://en.wikipedia.org/">Wikipedia</a></strong></p>
 
@@ -83,11 +8,16 @@
 
 <!--<div style="width: 100%;height: 100%; overflow-x:hidden;">-->
 
-<p>Ribozymes (ribonucleic acid enzymes) are RNA molecules that have the ability to catalyze specific biochemical reactions, including RNA splicing in gene expression, similar to the action of protein enzymes. The 1982 discovery of ribozymes demonstrated that RNA can be both genetic material (like DNA) and a biological catalyst (like protein enzymes), and contributed to the RNA world hypothesis, which suggests that RNA may have been important in the evolution of prebiotic self-replicating systems.[1] The most common activities of natural or in vitro-evolved ribozymes are the cleavage or ligation of RNA and DNA and peptide bond formation.[2] For example, the smallest ribozyme known (GUGGC-3’) can aminoacylate a GCCU-3’ sequence in the presence of PheAMP.[3] Within the ribosome, ribozymes function as part of the large subunit ribosomal RNA to link amino acids during protein synthesis. They also participate in a variety of RNA processing reactions, including RNA splicing, viral replication, and transfer RNA biosynthesis. Examples of ribozymes include the hammerhead ribozyme, the VS ribozyme, Leadzyme and the hairpin ribozyme.<br /></p>
+<div style="width: 100%;height: 400px; overflow-x:hidden;overflow-y: auto;">
 
-<div id="ribozymewikisection0"></div>
+  <p>Ribozymes (ribonucleic acid enzymes) are RNA molecules that have the ability to catalyze specific biochemical reactions, including RNA splicing in gene expression, similar to the action of protein enzymes. The 1982 discovery of ribozymes demonstrated that RNA can be both genetic material (like DNA) and a biological catalyst (like protein enzymes), and contributed to the RNA world hypothesis, which suggests that RNA may have been important in the evolution of prebiotic self-replicating systems.[1] The most common activities of natural or in vitro-evolved ribozymes are the cleavage or ligation of RNA and DNA and peptide bond formation.[2] For example, the smallest ribozyme known (GUGGC-3’) can aminoacylate a GCCU-3’ sequence in the presence of PheAMP.[3] Within the ribosome, ribozymes function as part of the large subunit ribosomal RNA to link amino acids during protein synthesis. They also participate in a variety of RNA processing reactions, including RNA splicing, viral replication, and transfer RNA biosynthesis. Examples of ribozymes include the hammerhead ribozyme, the VS ribozyme, Leadzyme and the hairpin ribozyme.<br />
+Researchers who are investigating the origins of life through the RNA world hypothesis have been working on discovering a ribozyme which has the capacity to self-replicate, which would require it to have the ability to catalytically synthesize polymers of RNA. This should be able to happen in prebiotically plausible conditions with high rates of copying accuracy to prevent degradation of information but also allowing for the occurrence of occasional errors during the copying process to allow for Darwinian evolution to proceed.[4]<br />
+Attempts have been made to develop ribozymes as therapeutic agents, as enzymes which target defined RNA sequences for cleavage, as biosensors, and for applications in functional genomics and gene discovery.[5]
+    &lt;/div&gt;</p>
 
-<div id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
+  <div id="ribozymewikisection0"></div>
+
+  <div id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -130,19 +60,14 @@
   </a>
 </div>
 
-<div id="ribozymewikisection1"></div>
-<div id="ribozymewikisection2"></div>
-<div id="ribozymewikisection3"></div>
-<div id="ribozymewikisection4"></div>
-<div id="ribozymewikisection5"></div>
-<p><br /></p>
+  <div id="ribozymewikisection1"></div>
+  <div id="ribozymewikisection2"></div>
+  <div id="ribozymewikisection3"></div>
+  <div id="ribozymewikisection4"></div>
+  <div id="ribozymewikisection5"></div>
 
-<h4 id="and-more-">And more …</h4>
-
-<div style="width: 100%;height: 400px; overflow-x:hidden;overflow-y: auto;">
-  <p>Researchers who are investigating the origins of life through the RNA world hypothesis have been working on discovering a ribozyme which has the capacity to self-replicate, which would require it to have the ability to catalytically synthesize polymers of RNA. This should be able to happen in prebiotically plausible conditions with high rates of copying accuracy to prevent degradation of information but also allowing for the occurrence of occasional errors during the copying process to allow for Darwinian evolution to proceed.[4]<br />
-   Attempts have been made to develop ribozymes as therapeutic agents, as enzymes which target defined RNA sequences for cleavage, as biosensors, and for applications in functional genomics and gene discovery.[5]<br />
-   Before the discovery of ribozymes, enzymes, which are defined as catalytic proteins,[1] were the only known biological catalysts. In 1967, Carl Woese, Francis Crick, and Leslie Orgel were the first to suggest that RNA could act as a catalyst. This idea was based upon the discovery that RNA can form complex secondary structures.[2] These ribozymes were found in the intron of an RNA transcript, which removed itself from the transcript, as well as in the RNA component of the RNase P complex, which is involved in the maturation of pre-tRNAs. In 1989, Thomas R. Cech and Sidney Altman shared the Nobel Prize in chemistry for their “discovery of catalytic properties of RNA.”[3] The term ribozyme was first introduced by Kelly Kruger et al. in 1982 in a paper published in Cell.[4]<br />
+  <div style="width: 100%;height: 400px; overflow-x:hidden;overflow-y: auto;">
+    <p>Before the discovery of ribozymes, enzymes, which are defined as catalytic proteins,[1] were the only known biological catalysts. In 1967, Carl Woese, Francis Crick, and Leslie Orgel were the first to suggest that RNA could act as a catalyst. This idea was based upon the discovery that RNA can form complex secondary structures.[2] These ribozymes were found in the intron of an RNA transcript, which removed itself from the transcript, as well as in the RNA component of the RNase P complex, which is involved in the maturation of pre-tRNAs. In 1989, Thomas R. Cech and Sidney Altman shared the Nobel Prize in chemistry for their “discovery of catalytic properties of RNA.”[3] The term ribozyme was first introduced by Kelly Kruger et al. in 1982 in a paper published in Cell.[4]<br />
         It had been a firmly established belief in biology that catalysis was reserved for proteins. However, the idea of RNA catalysis is motivated in part by the old question regarding the origin of life: Which comes first, enzymes that do the work of the cell or nucleic acids that carry the information required to produce the enzymes? The concept of “ribonucleic acids as catalysts” circumvents this problem. RNA, in essence, can be both the chicken and the egg.[5]<br />
         In the 1980s Thomas Cech, at the University of Colorado at Boulder, was studying the excision of introns in a ribosomal RNA gene in Tetrahymena thermophila. While trying to purify the enzyme responsible for the splicing reaction, he found that the intron could be spliced out in the absence of any added cell extract. As much as they tried, Cech and his colleagues could not identify any protein associated with the splicing reaction. After much work, Cech proposed that the intron sequence portion of the RNA could break and reform phosphodiester bonds. At about the same time, Sidney Altman, a professor at Yale University, was studying the way tRNA molecules are processed in the cell when he and his colleagues isolated an enzyme called RNase-P, which is responsible for conversion of a precursor tRNA into the active tRNA. Much to their surprise, they found that RNase-P contained RNA in addition to protein and that RNA was an essential component of the active enzyme. This was such a foreign idea that they had difficulty publishing their findings. The following year, Altman demonstrated that RNA can act as a catalyst by showing that the RNase-P RNA subunit could catalyze the cleavage of precursor tRNA into active tRNA in the absence of any protein component.<br />
         Since Cech’s and Altman’s discovery, other investigators have discovered other examples of self-cleaving RNA or catalytic RNA molecules. Many ribozymes have either a hairpin – or hammerhead – shaped active center and a unique secondary structure that allows them to cleave other RNA molecules at specific sequences. It is now possible to make ribozymes that will specifically cleave any RNA molecule. These RNA catalysts may have pharmaceutical applications. For example, a ribozyme has been designed to cleave the RNA of HIV. If such a ribozyme were made by a cell, all incoming virus particles would have their RNA genome cleaved by the ribozyme, which would prevent infection.<br />
@@ -154,67 +79,7 @@
         The best-studied ribozymes are probably those that cut themselves or other RNAs, as in the original discovery by Cech[3] and Altman.[4] However, ribozymes can be designed to catalyze a range of reactions (see below), many of which may occur in life but have not been discovered in cells.[5]<br />
         RNA may catalyze folding of the pathological protein conformation of a prion in a manner similar to that of a chaperonin.[6]
         <br /><br /></p>
+  </div>
+
 </div>
-<p><br /><br /></p>
-
-
-  </div>
-  <div id="newsid" class="col-sm-4" >
-	
-<div class="well">
-<h4>News</h4>
-
-
-<p>1. June 2022<br><p>Ribocentre database Alpha version online.</p>
-</p>
-
-
-<h4><a href="http://localhost:4000/allnews.html">... see all News</a></h4>
-
-    </div>
-
-  </div>
-
-      </div>
-    </div>
-
-    <div id="footer" class="panel">
-  <div class="panel-footer">
-	<div class="container-fluid">
-	  <div class="row">
-		<div class="col-sm-4">
-			
-		  <p>&copy 2022 Ribo centre. Site made with <a href="https://jekyllrb.com">Jekyll</a>;  <a href="https://www.ribocentre.org/aboutwebsite.html">copy and  modify it for your own research group.</a></p>
-              <p>We are part of the <a href="https://gzlab.ac.cn">Guangzhou Laboratory</a> and <a href="http://www.gzsys.org.cn/">Sun Yat-sen Memorial Hospital of Sun Yat-sen University</a>.</p>
-            
-
-		   <p>  </p><p>
-            		  
-            
-		</div>
-		<div class="col-sm-4">
-		  Funding:<br />
-		  - <a href="https://www.nsfc.gov.cn/">NSFC</a> <br />
-		  - <a href="http://www.most.gov.cn/">MOST IT+BT project</a> <br />
-          - <a href="https://gzlab.ac.cn">GZlab starting grant</a>
-		</div>
-		<div class="col-sm-4">
-		  Contact:<br />
-		  Building B2, Guangzhou Laboratory<br />
-		  96 Xingdao South Road, Guangzhou International Bio Island, <br />
-		  Haizhu District, Guangzhou, Guangdong,<br />
-		  China. <br />
-          (<a href="https://goo.gl/maps/hDLr6siEAS2Eaypt8">Maps</a>)
-		</div>
-	  </div>
-	</div>
-  </div>
-</div>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="https://www.ribocentre.org/js/bootstrap.min.js"></script>
-
-
-  </body>
-
-</html>
+:ET
