@@ -460,14 +460,39 @@
 </td>
 <td>
 <link rel="stylesheet" type="text/css" href="https://www.ribocentre.org/css/fornac.css" media="screen" />
-<div id="rna_ss"> </div>
-   
+<div id="custom_colors"></div>
+<form onsubmit="return handleCustomColorApply()" class="optionsform">
+  <textarea id="CustomColorText" name="CustomColorText" textarea name="hide" style="display:none;" >
+    3-9:red 33-39:red 12-18:blue 69-74:blue 19-21:lightblue 30-33:lightblue 24-25:#FF8800 40-41:#FF8800 46-49:pink 60-63:pink 
+  </textarea>
+
 <meta charset="utf-8" />
     <script type="text/javascript" src="https://www.ribocentre.org/js/jquery.js"></script>
     <script type="text/javascript" src="https://www.ribocentre.org/js/d3.js"></script>
-    <!--<script type='text/javascript' src='https://www.ribocentre.org/js/fornac.js'></script>-->
-    <script type="text/javascript" src="https://www.ribocentre.org/js/demo/rsvfornac.js"></script>
-    <meta charset="utf-8" />
+    <script type='text/javascript' src='https://www.ribocentre.org/js/demo/rsvfornac.js'></script>
+    <script type="text/javascript">
+      "use strict"
+      function customColorsContainer() {
+         let container = new fornac.FornaContainer("#custom_colors",
+                 {'applyForce': 1,'editable':'true', 'initialSize':[450,400]});
+         let options = {'structure': '..(((((((...[[[[[[(((.[[.....))))))))))]]....((((..........)))).....]]]]]]',
+             'sequence':             'AUGGCCGGCAUGGUCCCAGCCUCCUCGCUGGCGCCGGCUGGGCAACACCAUUGCACUCCGGUGGUGAAUGGGAC'
+         };
+         container.addRNA(options.structure, options);
+         return container;
+     }
+     let cc = customColorsContainer();
+ 
+     function handleCustomColorApply() {
+       cc.addCustomColorsText(document.getElementById("CustomColorText").value);
+       return false;
+     }
+     handleCustomColorApply();
+ 
+     </script>
+<!--<div id="rna_ss"> </div>
+   
+<meta charset="utf-8" />
     <script type="text/javascript" src="https://www.ribocentre.org/js/jquery.js"></script>
     <script type="text/javascript" src="https://www.ribocentre.org/js/d3.js"></script>
     <script type='text/javascript' src='https://www.ribocentre.org/js/demo/rsvfornac.js'></script>
@@ -479,7 +504,7 @@
                      'sequence': 'AUGGCCGGCAUGGUCCCAGCCUCCUCGCUGGCGCCGGCUGGGCAACACCAUUGCACUCCGGUGGUGAAUGGGAC'};
 
       container.addRNA(options.structure, options);
-   </script>
+   </script>-->
 </td>
 </tr></table>
 <p><br /></p>

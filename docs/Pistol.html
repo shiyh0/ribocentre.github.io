@@ -393,13 +393,42 @@
 </td>
 <td>
 <link rel="stylesheet" type="text/css" href="https://www.ribocentre.org/css/fornac.css" media="screen" />
-<div id="multi_ss">  </div>
+<div id="custom_colors"></div>
+<form onsubmit="return handleCustomColorApply()" class="optionsform">
+  <textarea id="CustomColorText" name="CustomColorText" textarea name="hide" style="display:none;" >
+    25-28:lightgreen  62-65:lightgreen 43-51:lightblue 52-60:lightblue 1-5:pink 12-16:pink 6-11:#dbdb8d 33-38:#dbdb8d 
+  </textarea>
 
 <meta charset="utf-8" />
     <script type="text/javascript" src="https://www.ribocentre.org/js/jquery.js"></script>
     <script type="text/javascript" src="https://www.ribocentre.org/js/d3.js"></script>
+    <script type='text/javascript' src='https://www.ribocentre.org/js/demo/rsvfornac.js'></script>
+    <script type="text/javascript">
+      "use strict"
+      function customColorsContainer() {
+         let container = new fornac.FornaContainer("#custom_colors",
+                 {'applyForce': 1,'editable':'true', 'initialSize':[450,400]});
+         let options = {'structure': '((((([[[[[[)))))........((((....]]]]]]....{{{{{{{{{}}}}}}}}}.)))).',
+             'sequence':             'GGCCGUUCGGGCGGCCAUAAACAGCCCUCAGACCCGAAGCGUUGGCGUUCCGGAACGCCGGUGGGA'
+         };
+         container.addRNA(options.structure, options);
+         return container;
+     }
+     let cc = customColorsContainer();
+ 
+     function handleCustomColorApply() {
+       cc.addCustomColorsText(document.getElementById("CustomColorText").value);
+       return false;
+     }
+     handleCustomColorApply();
+ 
+     </script>
+<!--<div id="multi_ss">  </div>
+<meta charset="utf-8" />
+    <script type="text/javascript" src="https://www.ribocentre.org/js/jquery.js"></script>
+    <script type="text/javascript" src="https://www.ribocentre.org/js/d3.js"></script>
     <script type="text/javascript" src="https://www.ribocentre.org/js/demo/rsvfornac.js"></script>
-    <!--<script type='text/javascript' src='https://www.ribocentre.org/js/forna/fornac.js'></script>-->
+    <script type='text/javascript' src='https://www.ribocentre.org/js/forna/fornac.js'></script>
     <script type="text/javascript">
      "use strict"
      function multiContainer() {
@@ -410,7 +439,8 @@
         container.addRNA('...............', {'avoidOthers': true, 'sequence': 'GGAACGCCGGUGGGA'});
     }
     let nc =  multiContainer();
-   </script></td>
+   </script>-->
+   </td>
 </tr></table>
 <p><br /></p>
 
