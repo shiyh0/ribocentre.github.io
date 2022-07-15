@@ -1,49 +1,37 @@
----
-title: "Ribo centre - Application"
-layout: piclay
-excerpt: "Ribo centre -- Application"
-permalink: /application/
----
+I"`<h1 id="application">Application</h1>
 
-# Application
+<p><br /></p>
 
+<blockquote>
+  <p>Twister</p>
+</blockquote>
 
-<br>
+<p>To establish RNA aptamers with high stability and expression levels, Jaffrey’s group designed the Tornado (twister-optimized RNA for durable overexpression) expression system for rapid RNA circularization. They use a P3 twister U2A ribozyme and a P1 twister ribozyme to generate RNAs of interest containing a 5’ hydroxyl and 2’,3’-cyclic phosphate. Then the 5’ and 3’ ends would become substrates for RtcB-mediated ligation.Finally, the RNAs of interest would be circularized.</p>
 
-> Twister
+<p><img src="https://www.ribocentre.org/images/ApplyPic/twister.png" alt="drawing" style="weight:450px;height:600px;display:block;margin:0 auto;" /><br />
+<a href="https://www.ribocentre.org/downloads/Twister.pdf" target="_blank" download="Appli-Twister.pdf"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>  Download Poster</button></a><br /><br />
+<img src="http://127.0.0.1:4000/images/ApplyPic/ribozyme.png" alt="drawing" style="weight:450px;height:300px;display:block;margin:0 auto;" /><br />
+<a href="https://www.ribocentre.org/downloads/Ribozyme.pdf" target="_blank" download="Appli-Ribozyme.pdf"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>  Download Poster</button></a><br /><br /></p>
 
-To establish RNA aptamers with high stability and expression levels, Jaffrey's group designed the Tornado (twister-optimized RNA for durable overexpression) expression system for rapid RNA circularization. They use a P3 twister U2A ribozyme and a P1 twister ribozyme to generate RNAs of interest containing a 5' hydroxyl and 2',3'-cyclic phosphate. Then the 5' and 3' ends would become substrates for RtcB-mediated ligation.Finally, the RNAs of interest would be circularized.
+<blockquote>
+  <p>HDV</p>
+</blockquote>
 
-<img src="https://www.ribocentre.org/images/ApplyPic/twister.png" alt="drawing" style="weight:450px;height:600px;display:block;margin:0 auto;"><br>
-<a href="https://www.ribocentre.org/downloads/Twister.pdf" target="_blank" download="Appli-Twister.pdf"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>&nbsp;&nbsp;Download Poster</button></a><br><br>
-<img src="https://www.ribocentre.org/images/ApplyPic/twister-ribozyme.png" alt="drawing" style="weight:450px;height:490px;display:block;margin:0 auto;"><br>
-<a href="https://www.ribocentre.org/downloads/twister-ribozyme-application.pdf" target="_blank" download="Appli-Ribozyme.pdf"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>&nbsp;&nbsp;Download Poster</button></a><br><br>
+<p>Schematic diagram for simple and effective generating in vitro transcripts with homogenous 5’ ends and 3’ ends. As show in this diagram, we use hammerhead and HDV ribozymes to produce homogenous RNA with any 5’- and 3’- terminal sequence.</p>
 
+<p><img src="https://www.ribocentre.org/images/ApplyPic/HDV.png" alt="drawing" style="weight:450px;height:600px;display:block;margin:0 auto;" /><br />
+<a href="https://www.ribocentre.org/downloads/HDV.pdf" target="_blank" download="Appli-HDV.pdf"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>  Download Poster</button></a><br /><br /></p>
 
-> HDV
-
-Schematic diagram for simple and effective generating in vitro transcripts with homogenous 5' ends and 3' ends. As show in this diagram, we use hammerhead and HDV ribozymes to produce homogenous RNA with any 5'- and 3'- terminal sequence.
-
-<img src="https://www.ribocentre.org/images/ApplyPic/HDV.png" alt="drawing" style="weight:450px;height:600px;display:block;margin:0 auto;"><br>
-<a href="https://www.ribocentre.org/downloads/HDV.pdf" target="_blank" download="Appli-HDV.pdf"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>&nbsp;&nbsp;Download Poster</button></a><br><br>
-
-<img src="https://www.ribocentre.org/images/ApplyPic/hammerhead.png" alt="drawing" style="weight:350px;height:300px;display:block;margin:0 auto;"><br>
-<a href="https://www.ribocentre.org/downloads/Hammerhead-application.pdf" target="_blank" download="Appli-Hammerhead.pdf"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>&nbsp;&nbsp;Download Poster</button></a><br><br>
-
-
-
-
-
-
-
+<p><img src="http://127.0.0.1:4000/images/ApplyPic/hammerhead.png" alt="drawing" style="weight:350px;height:260px;display:block;margin:0 auto;" /><br />
+<a href="https://www.ribocentre.org/downloads/Hammerhead.pdf" target="_blank" download="Appli-Hammerhead.pdf"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>  Download Poster</button></a><br /><br /></p>
 
 <html>
 <head>
-	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
-	<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no" />
 	<title>Ribozyme publication - export</title>
-	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css">
-	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/2.2.3/css/buttons.dataTables.min.css">
+	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css" />
+	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/2.2.3/css/buttons.dataTables.min.css" />
 </head>
     <style>
 		th {
@@ -54,14 +42,14 @@ Schematic diagram for simple and effective generating in vitro transcripts with 
 		    cursor: pointer;
         }
 	</style>
-    <script type="text/javascript"  src="https://code.jquery.com/jquery-3.5.1.js"></script>
-	<script type="text/javascript"  src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
-	<script type="text/javascript"  src="https://cdn.datatables.net/buttons/2.2.3/js/dataTables.buttons.min.js"></script>
-	<script type="text/javascript"  src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
-	<script type="text/javascript"  src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/pdfmake.min.js"></script>
-	<script type="text/javascript"  src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js"></script>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+	<script type="text/javascript" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+	<script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/dataTables.buttons.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/pdfmake.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js"></script>
 	<script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.html5.min.js"></script>
-	<script type="text/javascript"  src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.print.min.js"></script>
+	<script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.print.min.js"></script>
 	<script type="text/javascript">
 
 		$(document).ready(function() {
@@ -96,7 +84,7 @@ Schematic diagram for simple and effective generating in vitro transcripts with 
     <td>Jörg S. Hartig</td>
     <td>2016</td>
     <td>Nat Commun</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/27670347"  target="_blank" ><b>27670347</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/27670347" target="_blank"><b>27670347</b></a></td>
   </tr>
   <tr>
     <td>Twister ribozyme</td>
@@ -104,7 +92,7 @@ Schematic diagram for simple and effective generating in vitro transcripts with 
     <td>Samie R. Jaffrey</td>
     <td>2019</td>
     <td> Nat Biotechnol</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/30962542"  target="_blank" ><b>30962542</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/30962542" target="_blank"><b>30962542</b></a></td>
   </tr>
   <tr>
     <td>Twister ribozyme</td>
@@ -112,7 +100,7 @@ Schematic diagram for simple and effective generating in vitro transcripts with 
     <td>Sarah A Woodson </td>
     <td>2020</td>
     <td>Proc Natl Acad Sci U S A</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/32430319"  target="_blank" ><b>32430319</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/32430319" target="_blank"><b>32430319</b></a></td>
   </tr>
   <tr>
     <td>Diverse ribozymes,include hammerhead ribozyme,twister ribozyme,twister sister ribozyme,pistol ribozyme,hairpin ribozyme,varkud satellite ribozyme</td>
@@ -120,7 +108,7 @@ Schematic diagram for simple and effective generating in vitro transcripts with 
     <td>Samie R Jaffrey</td>
     <td>2019</td>
     <td>Cell Chem Biol</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/30773480"  target="_blank" ><b>30773480</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/30773480" target="_blank"><b>30773480</b></a></td>
   </tr>
   <tr>
     <td>Circularly permuted variants of the pistol ribozyme</td>
@@ -128,7 +116,7 @@ Schematic diagram for simple and effective generating in vitro transcripts with 
     <td>Yohei Yokobayashi</td>
     <td>2021</td>
     <td>ACS Synth Biol</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/34374523"  target="_blank" ><b>34374523</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/34374523" target="_blank"><b>34374523</b></a></td>
   </tr>
   <tr>
     <td>Hairpin ribozyme</td>
@@ -136,7 +124,7 @@ Schematic diagram for simple and effective generating in vitro transcripts with 
     <td>Sabine Müller </td>
     <td>2019</td>
     <td>Ann N Y Acad Sci</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/30941784"  target="_blank" ><b>30941784</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/30941784" target="_blank"><b>30941784</b></a></td>
   </tr>
   <tr>
     <td>Hairpin ribozyme</td>
@@ -144,7 +132,7 @@ Schematic diagram for simple and effective generating in vitro transcripts with 
     <td>Hannes Mutschler </td>
     <td>2021</td>
     <td>Angew Chem Int Ed Engl</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/33128282"  target="_blank" ><b>33128282</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/33128282" target="_blank"><b>33128282</b></a></td>
   </tr>
   <tr>
     <td>Hairpin ribozyme</td>
@@ -152,7 +140,7 @@ Schematic diagram for simple and effective generating in vitro transcripts with 
     <td>Sabine Müller</td>
     <td>2022</td>
     <td>Nucleic Acids Res</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/27670347"  target="_blank" ><b>27670354</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/27670347" target="_blank"><b>27670354</b></a></td>
   </tr>
   <tr>
     <td>GlmS ribozyme</td>
@@ -160,7 +148,7 @@ Schematic diagram for simple and effective generating in vitro transcripts with 
     <td>Adrian R Ferré-D'Amaré</td>
     <td>2010</td>
     <td>Q Rev Biophys</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/27670347"  target="_blank" ><b>27670355</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/27670347" target="_blank"><b>27670355</b></a></td>
   </tr>
   <tr>
     <td>GlmS ribozyme</td>
@@ -168,7 +156,7 @@ Schematic diagram for simple and effective generating in vitro transcripts with 
     <td>Roberto Docampo</td>
     <td>2018 </td>
     <td>J Eukaryot Microbiol</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/29265590"  target="_blank" ><b>29265590</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/29265590" target="_blank"><b>29265590</b></a></td>
   </tr>
   <tr>
     <td>GlmS ribozyme</td>
@@ -176,7 +164,7 @@ Schematic diagram for simple and effective generating in vitro transcripts with 
     <td>Robert Penchovsky </td>
     <td>2021</td>
     <td>ACS Synth Biol</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/27670347"  target="_blank" ><b>27670357</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/27670347" target="_blank"><b>27670357</b></a></td>
   </tr>
   <tr>
     <td>HDV ribozyme</td>
@@ -184,7 +172,7 @@ Schematic diagram for simple and effective generating in vitro transcripts with 
     <td>J A Doudna</td>
     <td>1996</td>
     <td>Nucleic Acids Res</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/8600468"  target="_blank" ><b>8600468</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/8600468" target="_blank"><b>8600468</b></a></td>
   </tr>
   <tr>
     <td>HDV ribozyme</td>
@@ -192,7 +180,7 @@ Schematic diagram for simple and effective generating in vitro transcripts with 
     <td>Yohei Yokobayashi</td>
     <td>2013</td>
     <td>ACS Synthetic Biology</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/23697539"  target="_blank" ><b>23697539</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/23697539" target="_blank"><b>23697539</b></a></td>
   </tr>
   <tr>
     <td>HDV ribozyme</td>
@@ -200,7 +188,7 @@ Schematic diagram for simple and effective generating in vitro transcripts with 
     <td>Ciesiolka, J</td>
     <td>2004</td>
     <td>Nucleic Acids Res</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/14973333"  target="_blank" ><b>14973333</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/14973333" target="_blank"><b>14973333</b></a></td>
   </tr>
   <tr>
     <td>HDV ribozyme</td>
@@ -208,7 +196,7 @@ Schematic diagram for simple and effective generating in vitro transcripts with 
     <td>Renjun Pei</td>
     <td>2017</td>
     <td>Integrative Biology</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/28548675"  target="_blank" ><b>28548675</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/28548675" target="_blank"><b>28548675</b></a></td>
   </tr>
   <tr>
     <td>HDV ribozyme</td>
@@ -216,7 +204,7 @@ Schematic diagram for simple and effective generating in vitro transcripts with 
     <td> Elena Herrera-Carrillo</td>
     <td>2021</td>
     <td>Methods in Molecular Biology</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/32712923"  target="_blank" ><b>32712923</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/32712923" target="_blank"><b>32712923</b></a></td>
   </tr>
   <tr>
     <td>HDV ribozyme</td>
@@ -224,7 +212,7 @@ Schematic diagram for simple and effective generating in vitro transcripts with 
     <td>Elena Herrera-Carrillo</td>
     <td>2021</td>
     <td>Methods in Molecular Biology</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/32712922"  target="_blank" ><b>32712922</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/32712922" target="_blank"><b>32712922</b></a></td>
   </tr>
   <tr>
     <td>VS ribozyme</td>
@@ -232,7 +220,7 @@ Schematic diagram for simple and effective generating in vitro transcripts with 
     <td>Pascale Legault</td>
     <td>2016</td>
     <td>Nucleic Acids Res</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/27166370"  target="_blank" ><b>27166370</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/27166370" target="_blank"><b>27166370</b></a></td>
   </tr>
   <tr>
     <td>LC ribozyme</td>
@@ -240,7 +228,7 @@ Schematic diagram for simple and effective generating in vitro transcripts with 
     <td>Henrik Nielsen</td>
     <td>2017</td>
     <td>RNA</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/28159804"  target="_blank" ><b>28159804</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/28159804" target="_blank"><b>28159804</b></a></td>
   </tr>
   <tr>
     <td>LC ribozyme</td>
@@ -248,7 +236,7 @@ Schematic diagram for simple and effective generating in vitro transcripts with 
     <td>Henrik Nielsen</td>
     <td>2021</td>
     <td>Methods Mol Biol</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/32712925"  target="_blank" ><b>32712925</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/32712925" target="_blank"><b>32712925</b></a></td>
   </tr>
   <tr>
     <td>Group II intron</td>
@@ -256,7 +244,7 @@ Schematic diagram for simple and effective generating in vitro transcripts with 
     <td>A M Lambowitz</td>
     <td>2000</td>
     <td>Science</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/10903206"  target="_blank" ><b>10903206</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/10903206" target="_blank"><b>10903206</b></a></td>
   </tr>
   <tr>
     <td>Group II intron</td>
@@ -264,7 +252,7 @@ Schematic diagram for simple and effective generating in vitro transcripts with 
     <td> A M Lambowitz</td>
     <td>2001</td>
     <td>Nat Biotechnol</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/11731786"  target="_blank" ><b>11731786</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/11731786" target="_blank"><b>11731786</b></a></td>
   </tr>
   <tr>
     <td>Group II intron</td>
@@ -272,7 +260,7 @@ Schematic diagram for simple and effective generating in vitro transcripts with 
     <td>Alan M Lambowitz</td>
     <td>2003</td>
     <td>Nucleic Acids Res</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/12626707"  target="_blank" ><b>12626707</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/12626707" target="_blank"><b>12626707</b></a></td>
   </tr>
   <tr>
     <td>Group II intron</td>
@@ -280,7 +268,7 @@ Schematic diagram for simple and effective generating in vitro transcripts with 
     <td>Nigel P Minton</td>
     <td>2007</td>
     <td>J Microbiol Methods</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/17658189"  target="_blank" ><b>17658189</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/17658189" target="_blank"><b>17658189</b></a></td>
   </tr>
   <tr>
     <td>Group II intron</td>
@@ -288,7 +276,7 @@ Schematic diagram for simple and effective generating in vitro transcripts with 
     <td>Jozef Anné</td>
     <td>2008</td>
     <td>Cancer Lett</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/18063294"  target="_blank" ><b>18063294</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/18063294" target="_blank"><b>18063294</b></a></td>
   </tr>
   <tr>
     <td>Group II intron</td>
@@ -296,7 +284,7 @@ Schematic diagram for simple and effective generating in vitro transcripts with 
     <td>Alan M Lambowitz</td>
     <td>2009</td>
     <td>RNA</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/19155322"  target="_blank" ><b>19155322</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/19155322" target="_blank"><b>19155322</b></a></td>
   </tr>
   <tr>
     <td>Group II intron</td>
@@ -304,7 +292,7 @@ Schematic diagram for simple and effective generating in vitro transcripts with 
     <td> Alan M Lambowitz</td>
     <td>2014</td>
     <td>Mob DNA</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/24410776"  target="_blank" ><b>24410776</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/24410776" target="_blank"><b>24410776</b></a></td>
   </tr>
   <tr>
     <td>Group II intron</td>
@@ -312,7 +300,7 @@ Schematic diagram for simple and effective generating in vitro transcripts with 
     <td>Emmanuelle Charpentier</td>
     <td>2014</td>
     <td>Science</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/25430774"  target="_blank" ><b>25430774</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/25430774" target="_blank"><b>25430774</b></a></td>
   </tr>
   <tr>
     <td>Group II intron</td>
@@ -320,7 +308,7 @@ Schematic diagram for simple and effective generating in vitro transcripts with 
     <td>Nicolás Toro </td>
     <td>2014</td>
     <td>RNA Biol</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/24646865"  target="_blank" ><b>24646865</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/24646865" target="_blank"><b>24646865</b></a></td>
   </tr>
   <tr>
     <td>Group II intron</td>
@@ -328,7 +316,7 @@ Schematic diagram for simple and effective generating in vitro transcripts with 
     <td>Charles A Thornton</td>
     <td>2018</td>
     <td>Nucleic Acids Res</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/29036654"  target="_blank" ><b>29036654</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/29036654" target="_blank"><b>29036654</b></a></td>
   </tr>
   <tr>
     <td>RNase P</td>
@@ -336,7 +324,7 @@ Schematic diagram for simple and effective generating in vitro transcripts with 
     <td>Mario Mörl</td>
     <td>2022</td>
     <td>RNA</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/35022261"  target="_blank" ><b>35022261</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/35022261" target="_blank"><b>35022261</b></a></td>
   </tr>
   <tr>
     <td>RNase P</td>
@@ -344,7 +332,7 @@ Schematic diagram for simple and effective generating in vitro transcripts with 
     <td> Sven Findeiß</td>
     <td>2022</td>
     <td>Methods Mol Biol</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/35666446"  target="_blank" ><b>35666446</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/35666446" target="_blank"><b>35666446</b></a></td>
   </tr>
   <tr>
     <td>RNase P</td>
@@ -352,7 +340,7 @@ Schematic diagram for simple and effective generating in vitro transcripts with 
     <td>Philippe Giegé</td>
     <td>2021</td>
     <td>Nat Commun </td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/33579946"  target="_blank" ><b>33579946</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/33579946" target="_blank"><b>33579946</b></a></td>
   </tr>
   <tr>
     <td>RNase P</td>
@@ -360,7 +348,7 @@ Schematic diagram for simple and effective generating in vitro transcripts with 
     <td>Mario Mörl</td>
     <td>2022</td>
     <td>RNA</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/35022261"  target="_blank" ><b>35022261</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/35022261" target="_blank"><b>35022261</b></a></td>
   </tr>
   <tr>
     <td>RNase P</td>
@@ -368,7 +356,7 @@ Schematic diagram for simple and effective generating in vitro transcripts with 
     <td>Mario Mörl</td>
     <td>2021</td>
     <td>Nucleic Acids Res</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/33469651"  target="_blank" ><b>33469651</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/33469651" target="_blank"><b>33469651</b></a></td>
   </tr>
   <tr>
     <td>RNase P</td>
@@ -376,7 +364,7 @@ Schematic diagram for simple and effective generating in vitro transcripts with 
     <td>Gang Li</td>
     <td>2014</td>
     <td>Virology journal </td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/24885776"  target="_blank" ><b>24885776</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/24885776" target="_blank"><b>24885776</b></a></td>
   </tr>
   <tr>
     <td>RNase P</td>
@@ -384,15 +372,15 @@ Schematic diagram for simple and effective generating in vitro transcripts with 
     <td>Fenyong Liu</td>
     <td>2000</td>
     <td>Proc Natl Acad Sci U S A</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/10811889"  target="_blank" ><b>10811889</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/10811889" target="_blank"><b>10811889</b></a></td>
   </tr>
   <tr>
     <td>Hammerhead ribozyme</td>
     <td>Incorporating a hammerhead ribozyme on the 5′-end of d56 together with the VSsl at the3′-terminus to overcome 5′ heterogeneity.</td>
     <td>Jennifer A. Doudna</td>
     <td>1996</td>
-    <td>Nucleic Acids Res<br> &nbsp;&nbsp;</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/8600468"  target="_blank" ><b>8600468</b></a></td>
+    <td>Nucleic Acids Res<br /> &nbsp;&nbsp;</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/8600468" target="_blank"><b>8600468</b></a></td>
   </tr>
   <tr>
     <td>Hammerhead ribozyme</td>
@@ -400,31 +388,31 @@ Schematic diagram for simple and effective generating in vitro transcripts with 
     <td>R R Breaker</td>
     <td>1997</td>
     <td>Chem Biol</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/9224568"  target="_blank" ><b>9224568</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/9224568" target="_blank"><b>9224568</b></a></td>
   </tr>
   <tr>
     <td>Hammerhead ribozyme</td>
     <td>The hammerhead ribozyme is established RNA switches as designer molecular sensors of FMN.</td>
     <td>R R Breaker</td>
     <td>1999</td>
-    <td>Proc Natl Acad Sci U S A<br> &nbsp;&nbsp;</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/10097080"  target="_blank" ><b>10097080</b></a></td>
+    <td>Proc Natl Acad Sci U S A<br /> &nbsp;&nbsp;</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/10097080" target="_blank"><b>10097080</b></a></td>
   </tr>
   <tr>
     <td>Hammerhead ribozyme</td>
     <td>Heterogeneous-length RNA transcripts are processed with a hammerhead ribozyme to yield homogenous-length products.</td>
     <td>A Pardi</td>
     <td>1999</td>
-    <td>RNA<br> &nbsp;&nbsp;</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/10496226"  target="_blank" ><b>10496226</b></a></td>
+    <td>RNA<br /> &nbsp;&nbsp;</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/10496226" target="_blank"><b>10496226</b></a></td>
   </tr>
   <tr>
     <td>Hammerhead ribozyme</td>
     <td>The hammerhead ribozyme is used to interfere with HIV-1 gene expression.</td>
     <td>E Luzi, F Eckstein</td>
     <td>2000</td>
-    <td>Nucleic Acids Res<br> &nbsp;&nbsp;</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/11058100"  target="_blank" ><b>11058100</b></a></td>
+    <td>Nucleic Acids Res<br /> &nbsp;&nbsp;</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/11058100" target="_blank"><b>11058100</b></a></td>
   </tr>
   <tr>
     <td>Hammerhead ribozyme</td>
@@ -432,18 +420,20 @@ Schematic diagram for simple and effective generating in vitro transcripts with 
     <td>Richard C Mulligan</td>
     <td>2004</td>
     <td>Nature</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/15386015"  target="_blank" ><b>15386015</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/15386015" target="_blank"><b>15386015</b></a></td>
   </tr>
   <tr>
     <td>Hammerhead ribozyme</td>
     <td>The hammerhead ribozyme constructs an aptazyme with a theophylline aptamer and a communication module,whose conformational switches inhibit or promote ribosome binding for regulating downstream gene expression.</td>
     <td>Mizuo Maeda</td>
     <td>2008</td>
-    <td>Chembiochem<br> &nbsp;&nbsp;</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/18098257"  target="_blank" ><b>18098257</b></a></td>
+    <td>Chembiochem<br /> &nbsp;&nbsp;</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/18098257" target="_blank"><b>18098257</b></a></td>
   </tr>
 </tbody>
-</table><br><br>
+</table><br /><br />
 
 
 
+</div></body></html>
+:ET
