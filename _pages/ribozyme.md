@@ -207,7 +207,7 @@ The nucleolytic ribozymes are a group of relatively small RNA species (most are 
             <tr>
                 <td name="td0"><a href="https://www.ribocentre.org/docs/groupI.html"><b>Group I self-splicing intron</b></a></td>
                 <td name="td1">Group I introns are the first ribozymes discovered in the 1980s. They can use exogenous guanosine as a cofactor to catalyze self-cleavage and exon ligation through sequential ester-transfer reactions. They are found in genes encoding rRNA, mRNA and tRNA in the nucleus, mitochondria and chloroplast in various organisms, from prokaryotes to eukaryotes.</td>
-                <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/6297754"><b>1982</b></a></td>
+                <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/6297745"><b>1982</b></a></td>
                 <td name="td3">Group I catalytic intron</td>
                 <td name="td4"><a href="https://rfam.xfam.org/family/RF01807"><b>RF00028</b></a></td>
            </tr>
@@ -241,13 +241,15 @@ Nuclear RNase P<br>
 Bacterial RNase P class A<br>
 Bacterial RNase P class B<br>
 Archaeal RNase P<br>
-RNaseP truncated form</td>
+RNaseP truncated form<br>
+RNase MRP</td>
 <td name="td4">
 <a href="https://rfam.xfam.org/family/RF00009"><b>RF00009</b></a>
 <a href="https://rfam.xfam.org/family/RF00010"><b>RF00010</b></a>
 <a href="https://rfam.xfam.org/family/RF00011"><b>RF00011</b></a>
 <a href="https://rfam.xfam.org/family/RF00373"><b>RF00373</b></a>
-<a href="https://rfam.xfam.org/family/RF02357"><b>RF02357</b></a></td>
+<a href="https://rfam.xfam.org/family/RF02357"><b>RF02357</b></a>
+<a href="https://rfam.xfam.org/family/RF00030"><b>RF00030</b></a></td>
            </tr>
            <tr>
            <td name="td0"><a href="https://www.ribocentre.org/docs/Ribosome.html"><b>Ribosome</b></a></td>

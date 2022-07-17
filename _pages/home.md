@@ -20,7 +20,50 @@ permalink: /
 
 Ribozymes (ribonucleic acid enzymes) are RNA molecules that have the ability to catalyze specific biochemical reactions, including RNA splicing in gene expression, similar to the action of protein enzymes. The 1982 discovery of ribozymes demonstrated that RNA can be both genetic material (like DNA) and a biological catalyst (like protein enzymes), and contributed to the RNA world hypothesis, which suggests that RNA may have been important in the evolution of prebiotic self-replicating systems.[1] The most common activities of natural or in vitro-evolved ribozymes are the cleavage or ligation of RNA and DNA and peptide bond formation.[2] For example, the smallest ribozyme known (GUGGC-3') can aminoacylate a GCCU-3' sequence in the presence of PheAMP.[3] Within the ribosome, ribozymes function as part of the large subunit ribosomal RNA to link amino acids during protein synthesis. They also participate in a variety of RNA processing reactions, including RNA splicing, viral replication, and transfer RNA biosynthesis. Examples of ribozymes include the hammerhead ribozyme, the VS ribozyme, Leadzyme and the hairpin ribozyme.<br>
 
+<script src="/js/jquery-1.7.1.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="/js/lunr.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="/js/mustache.js" type="text/javascript" charset="utf-8"></script>
+<script src="/js/date.format.js" type="text/javascript" charset="utf-8"></script>
+<script src="/js/URI.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="/js/jquery.lunr.search.js" type="text/javascript" charset="utf-8"></script>
 
+
+<div id="search">
+	<form action="/search" method="get">
+		<input type="text" id="search-query" name="q" placeholder="Search" autocomplete="off">
+	</form>
+</div>
+
+<section id="search-results" style="display: none;">
+	<p>Search results</p>
+	<div class="entries">
+	</div>
+</section>
+
+
+{% raw %}
+<script id="search-results-template" type="text/mustache">
+	{{#entries}}
+		<article>
+			<h3>
+				{{#date}}<small><time datetime="{{pubdate}}" pubdate>{{displaydate}}</time></small>{{/date}}
+				<a href="{{url}}">{{title}}</a>
+			</h3>
+		</article>
+	{{/entries}}
+</script>
+{% endraw %}
+
+<script type="text/javascript">
+	$(function() {
+		$('#search-query').lunrSearch({
+			indexUrl: '/search.json',             // URL of the `search.json` index data for your site
+			results:  '#search-results',          // jQuery selector for the search results container
+			entries:  '.entries',                 // jQuery selector for the element to contain the results list, must be a child of the results element above.
+			template: '#search-results-template'  // jQuery selector for the Mustache.js template
+		});
+	});
+</script>
 
 
 

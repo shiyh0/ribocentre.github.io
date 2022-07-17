@@ -51,7 +51,7 @@
 		<!--<img class="navbar-brand" src="http://localhost:4000/images/Ribo_centre_logo.jpg" style='height:50px;margin-top:-14px;margin-bottom:0;padding:0;' alt="logo">
 		Ribo centre @ Bio island-->
 		<img class="navbar-brand" src="https://www.ribocentre.org/images/Ribo_centre_logo.jpg" style='height:50px;margin-top:-14px;margin-bottom:0;padding:0;' alt="logo">
-		Ribo centre 
+		&emsp;Ribo centre 
 	</a>
 	</div>
 	<div class="collapse navbar-collapse" id="navbar-collapse-1">
@@ -62,7 +62,7 @@
 		<li id="now"><a href="https://www.ribocentre.org/catalysis">Catalysis</a></li>
 		<li id="now"><a href="https://www.ribocentre.org/structure">Structure</a></li>
 		<li id="now"><a href="https://www.ribocentre.org/publications">Publications</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/team">Team</a></li>
+		<li id="now"><a href="https://www.ribocentre.org/sequence">Sequence</a></li>
 		<li id="now"><a href="https://www.ribocentre.org/Helps">Helps</a></li>
 	  </ul>
 	</div>
@@ -76,7 +76,7 @@
 
   <header class="post-header">
     <h1 class="post-title" itemprop="name headline">Hatchet</h1>
-    <p class="post-meta"><time datetime="2022-04-19T03:25:52+08:00" itemprop="datePublished">Apr 19, 2022</time> • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Chichau Miao</span></span></p>
+    <p class="post-meta"><time datetime="2022-04-19T03:25:52+08:00" itemprop="datePublished">Apr 19, 2022</time> • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Peng Xuemei, Deng Jie</span></span></p>
   </header>
 
   <div class="post-content" itemprop="articleBody">
@@ -348,16 +348,18 @@
 </td>
 <td>
 <link rel="stylesheet" type="text/css" href="https://www.ribocentre.org/css/fornac.css" media="screen" />
+
 <div id="custom_colors"></div>
 <form onsubmit="return handleCustomColorApply()" class="optionsform">
-  <textarea id="CustomColorText" name="CustomColorText" textarea name="hide" style="display:none;" >
-    31-34:lightgreen 60-64:lightgreen 36-45:lightblue 50-58:lightblue 23-27:#dbdb8d 77-81:#dbdb8d 1-6:pink 14-19:pink
+  <textarea id="CustomColorText" name="hide" textarea="" style="display:none;">
+    31-34:#8FC31F 60-64:#8FC31F 36-45:#036EB8 50-58:#036EB8 23-27:#EACD1F 77-81:#EACD1F
+    1-6:#E6A8CA 14-19:#E6A8CA
   </textarea>
-
+</form>
 <meta charset="utf-8" />
     <script type="text/javascript" src="https://www.ribocentre.org/js/jquery.js"></script>
     <script type="text/javascript" src="https://www.ribocentre.org/js/d3.js"></script>
-    <script type='text/javascript' src='https://www.ribocentre.org/js/demo/rsvfornac.js'></script>
+    <script type="text/javascript" src="https://www.ribocentre.org/js/demo/rsvfornac.js"></script>
     <script type="text/javascript">
       "use strict"
       function customColorsContainer() {
@@ -377,25 +379,7 @@
      }
      handleCustomColorApply();
  
-     </script>
-<!--<div id="multi_ss"> </div>
-    
-       
-<meta charset="utf-8" />
-    <script type="text/javascript" src="https://www.ribocentre.org/js/jquery.js"></script>
-    <script type="text/javascript" src="https://www.ribocentre.org/js/d3.js"></script>
-    <script type="text/javascript" src="https://www.ribocentre.org/js/demo/rsvfornac.js"></script>
-    <script type="text/javascript">
-     "use strict"
-     function multiContainer() {
-        var container = new fornac.FornaContainer("#multi_ss",
-                {'applyForce':1,'editable':'true',  'initialSize':[450,400]});
-
-        container.addRNA('((((((.......))))))(.........)((((.(((.((((((....))))))))).))).)..................', {'sequence': 'UUACUGUGAGAAUCAGUAACAAACAUGUGGGGCUUAUAUCUAAUCGAAAGAUUAGUAUUAGUGCAGACGUUAAAACCAUGUC'});
-        container.addRNA('((((((.......))))))(.........)((((.(((.((((((....))))))))).))).).................', {'avoidOthers': true, 'sequence': 'UUACUGUGAGAAUCAGUAACAAACAUGUGGGGCUUAUAUCUAAUCGAAAGAUUAGUAUUAGUGCAGACGUUAAAACCAUGU'});
-    }
-    let nc =  multiContainer();
-   </script>-->
+  </script>
 
 </td>
 </tr></table>
@@ -408,7 +392,7 @@
 <p>Crystal structure of the Hatchet ribozyme. This representation was generated from PDB ID: 6JQ5 at 2.06 Å resolution. Helices are differentiated by color.</p>
 
 <table><tr>
-<td><img src="https://www.ribocentre.org/images/HatchetPic/Hatchet3D.png" alt="drawing" style="height:435px" border="0" /></td>
+<td><img src="https://www.ribocentre.org/images/HatchetPic/Hatchet3D.png" alt="drawing" style="height:310px" border="0" /></td>
 <td>
 <html>
   <head>
@@ -446,7 +430,7 @@
       }
       #myViewer{
         width:465px;
-        height: 475px;
+        height: 470px;
         position:relative;  
       }
       
@@ -490,23 +474,23 @@
 
 <p><strong>[1] New classes of self-cleaving ribozymes revealed by comparative genomics analysis.</strong><br />
 Weinberg, Z., P. B. Kim, T. H. Chen, S. Li, K. A. Harris, C. E. Lunse and R. R. Breaker <br /> . 
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/26167874" target="_blank">Nat Chem Biol 11(8): 606-10.(2015)</a><br /><br /></p>
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/26167874">Nat Chem Biol 11(8): 606-10.(2015)</a><br /><br /></p>
 
 <p><strong>[2] Biochemical analysis of hatchet self-cleaving ribozymes.</strong><br />
 Li, S., C. E. Lunse, K. A. Harris and R. R. Breaker  <br /> 
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/26385510" target="_blank">RNA 21(11): 1845-51.(2015)</a><br /><br /></p>
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/26385510">RNA 21(11): 1845-51.(2015)</a><br /><br /></p>
 
 <p><strong>[3] SHAPE probing pictures Mg2+-dependent folding of small self-cleaving ribozymes.</strong><br />
 Gasser, C., J. Gebetsberger, M. Gebetsberger and R. Micura <br /> 
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/29924364" target="_blank">Nucleic Acids Res 46(14): 6983-6995.(2018)</a><br /><br /></p>
+[Nucleic Acids Res 46(14): 6983-6995.(2018)(https://www.ncbi.nlm.nih.gov/pubmed/29924364)<br /><br /></p>
 
 <p><strong>[4] Hatchet ribozyme structure and implications for cleavage mechanism.</strong><br />
 Zheng, L., C. Falschlunger, K. Huang, E. Mairhofer, S. Yuan, J. Wang, D. J. Patel, R. Micura and A. Ren  <br /> 
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/31088965" target="_blank">Proc Natl Acad Sci U S A 116(22): 10783-10791.(2019)</a><br /><br /></p>
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/31088965">Proc Natl Acad Sci U S A 116(22): 10783-10791.(2018)</a><br /><br /></p>
 
 <p><strong>[5] Fundamental studies of functional nucleic acids: aptamers, riboswitches, ribozymes and DNAzymes.</strong><br />
 Micura, R. and C. Hobartner  <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/32944725" target="_blank">Chem Soc Rev 49(20): 7331-7353.(2020)</a><br /><br /></p>
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/32944725">Chem Soc Rev 49(20): 7331-7353.(2020)</a><br /><br /></p>
 
 
   </div>

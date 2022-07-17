@@ -2,7 +2,7 @@
 layout: post
 title:  "Twister-sister"
 date:   2022-04-18T14:25:52-05:00
-author: Chichau Miao
+author: Peng Xuemei, Deng Jie
 categories: ribozyme
 ---
 
@@ -276,20 +276,35 @@ Secondary structure of the twister sister ribozyme with the scissile phosphates 
 <td>
 <link rel="stylesheet" type="text/css" href="https://www.ribocentre.org/css/fornac.css" media="screen" />
 
-<div id='rna_ss'> </div>
-    
-       
-<meta charset="utf-8">
+<div id="custom_colors"></div>
+<form onsubmit="return handleCustomColorApply()" class="optionsform">
+  <textarea id="CustomColorText" name="CustomColorText" textarea name="hide" style="display:none;" >
+    16-21:#8FC31F 29-34:#8FC31F 8:#D24841 23:#D24841  14:#D24841 27:#D24841 1-6:#E6A8CA 57-62:#E6A8CA  35-40:#036EB8  41-46:#036EB8  9-13:#EACD1F 48-53:#EACD1F 
+  </textarea>
+</form>
+<meta charset="utf-8" />
     <script type="text/javascript" src="https://www.ribocentre.org/js/jquery.js"></script>
     <script type="text/javascript" src="https://www.ribocentre.org/js/d3.js"></script>
-    <script type="text/javascript" src="https://www.ribocentre.org/js/demo/rsvfornac.js"></script>
+    <script type='text/javascript' src='https://www.ribocentre.org/js/demo/rsvfornac.js'></script>
     <script type="text/javascript">
-      var container = new fornac.FornaContainer("#rna_ss", {'applyForce': 1,'editable':'true', 'initialSize':[450,400]});
-
-      var options = {'structure': '(((((...((((((.[[[[[[.....).]]]]]](((().).)).))).))....)))))',
-                     'sequence': 'GCAGGGCAAGGCCCAGUCCCGUGCAAGCCGGGACCGCCGGGGCGCGGCGCUCAUUCCUGC'};
-
-      container.addRNA(options.structure, options);
+      "use strict"
+      function customColorsContainer() {
+         let container = new fornac.FornaContainer("#custom_colors",
+                 {'applyForce': 1,'editable':'true', 'initialSize':[450,400]});
+         let options = {'structure': '((((((.[((((({.((((((.]...}.))))))(((((()))))).))).))...))))))',
+             'sequence':             'GCAGGGCAAGGCCCAGUCCCGUGCAAGCCGGGACCGCCCCGGGGCGCGGCGCUCAUUCCUGC'
+         };
+         container.addRNA(options.structure, options);
+         return container;
+     }
+     let cc = customColorsContainer();
+ 
+     function handleCustomColorApply() {
+       cc.addCustomColorsText(document.getElementById("CustomColorText").value);
+       return false;
+     }
+     handleCustomColorApply();
+ 
   </script>
 </td>
 </tr></table><br>

@@ -51,7 +51,7 @@
 		<!--<img class="navbar-brand" src="http://localhost:4000/images/Ribo_centre_logo.jpg" style='height:50px;margin-top:-14px;margin-bottom:0;padding:0;' alt="logo">
 		Ribo centre @ Bio island-->
 		<img class="navbar-brand" src="https://www.ribocentre.org/images/Ribo_centre_logo.jpg" style='height:50px;margin-top:-14px;margin-bottom:0;padding:0;' alt="logo">
-		Ribo centre 
+		&emsp;Ribo centre 
 	</a>
 	</div>
 	<div class="collapse navbar-collapse" id="navbar-collapse-1">
@@ -62,7 +62,7 @@
 		<li id="now"><a href="https://www.ribocentre.org/catalysis">Catalysis</a></li>
 		<li id="now"><a href="https://www.ribocentre.org/structure">Structure</a></li>
 		<li id="now"><a href="https://www.ribocentre.org/publications">Publications</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/team">Team</a></li>
+		<li id="now"><a href="https://www.ribocentre.org/sequence">Sequence</a></li>
 		<li id="now"><a href="https://www.ribocentre.org/Helps">Helps</a></li>
 	  </ul>
 	</div>
@@ -76,7 +76,7 @@
 
   <header class="post-header">
     <h1 class="post-title" itemprop="name headline">VS ribozyme</h1>
-    <p class="post-meta"><time datetime="2022-04-19T03:25:52+08:00" itemprop="datePublished">Apr 19, 2022</time> • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Chichau Miao</span></span></p>
+    <p class="post-meta"><time datetime="2022-04-19T03:25:52+08:00" itemprop="datePublished">Apr 19, 2022</time> • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Deng jie, Li mengxiao</span></span></p>
   </header>
 
   <div class="post-content" itemprop="articleBody">
@@ -411,22 +411,36 @@
 </td>
 <td>
 <link rel="stylesheet" type="text/css" href="https://www.ribocentre.org/css/fornac.css" media="screen" />
-<div id="rna_ss" tabindex="1">
-</div>
-
+<div id="custom_colors"></div>
+<form onsubmit="return handleCustomColorApply()" class="optionsform">
+  <textarea id="CustomColorText" name="hide" textarea="" style="display:none;">
+    66-70:#8FC31F  76-80:#8FC31F 16-26:#036EB8 34-44:#036EB8 83-90:#2EA7E0 96-103:#2EA7E0 46-55:#E6A8CA 164-172:#E6A8CA 58-64:#EACD1F 110-116:#EACD1F 1-10:#F39800 175-185:#F39800 117-135:#E60012 140-158:#E60012
+  </textarea>
+</form>
 <meta charset="utf-8" />
     <script type="text/javascript" src="https://www.ribocentre.org/js/jquery.js"></script>
     <script type="text/javascript" src="https://www.ribocentre.org/js/d3.js"></script>
-    <script type="text/javascript" src="https://www.ribocentre.org/js/fornac.js"></script>
-  
+    <script type="text/javascript" src="https://www.ribocentre.org/js/demo/rsvfornac.js"></script>
     <script type="text/javascript">
-        var container = new FornaContainer("#rna_ss", {'applyForce': 1,'editable':'true', 'initialSize':[450,450]});
-
-        var options = {'structure':'((((((((((.....((((...((((.......))))..))))..((((((.(((..((((((..(((((.....)))))..(((((((.......)))))))......))).)))(((..(((.((((((((((....))))))))))...)))))).....)))))))))..))).)))))))',
-                       'sequence':'GCGCUGUGUCGCAAUCUGCGAAGGGCGUCGUCGGCCCAAGCGGUAGUAAGCAGGGAACUCACCUCCAAUGAAACACAUUGUCGUAGCAGUUGACUACUGUUAUGUGAUUGGUAGAGGCUAAGUGACGGUAUUGGCGUAAGCCAAUACCGCAGCACAGCACAAGCCCGCUUGCGAGAUUACAGCGC'};
-
-        container.addRNA(options.structure, options);
-    </script>
+      "use strict"
+      function customColorsContainer() {
+         let container = new fornac.FornaContainer("#custom_colors",
+                 {'applyForce': 1,'editable':'true', 'initialSize':[450,400]});
+         let options = {'structure': '((((((((((.....((((...((((.......))))..))))..((((((.(((..((((((..(((((.....)))))..(((((((.......)))))))......))).)))(((..(((.((((((((((....))))))))))...)))))).....)))))))))..))).)))))))',
+             'sequence':             'GCGCUGUGUCGCAAUCUGCGAAGGGCGUCGUCGGCCCAAGCGGUAGUAAGCAGGGAACUCACCUCCAAUGAAACACAUUGUCGUAGCAGUUGACUACUGUUAUGUGAUUGGUAGAGGCUAAGUGACGGUAUUGGCGUAAGCCAAUACCGCAGCACAGCACAAGCCCGCUUGCGAGAUUACAGCGC'
+         };
+         container.addRNA(options.structure, options);
+         return container;
+     }
+     let cc = customColorsContainer();
+ 
+     function handleCustomColorApply() {
+       cc.addCustomColorsText(document.getElementById("CustomColorText").value);
+       return false;
+     }
+     handleCustomColorApply();
+ 
+  </script>
 </td>
 </tr></table>
 <p><br /></p>
