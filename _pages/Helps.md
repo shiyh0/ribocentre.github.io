@@ -39,13 +39,14 @@ The more updated information and more functions are trying to be used in our dat
 
 <img src="https://www.ribocentre.org/images/help.png" alt="drawing" style="weight:450px;height:200px;display:block;margin:0 auto;"><br>
 
-You could easily find the team information in <code class="language-plaintext highlighter-rouge"><font color=Gray>Team</font></code> page. We also provide the way that you could leave your message online.<br><br>
 
 **You can add some information of your found about new Ribozyme ! We are pleasure if you could contact us with different opinion !**
 **Please feel free to contact us with some mistake you find! We need more feedback to complete our work to improve the convenience and applicability. You also could commit our work by the <code class="language-plaintext highlighter-rouge"><font color=Gray>Submit</font></code> button.**
 
+You could easily find the team group information under the <code class="language-plaintext highlighter-rouge"><font color=Gray>Submit</font></code> section. We also provide the way that you could leave your message online.<br><br>
 
- Do you want to submit your work or give us some feedback ? We add some examples you can follow to more accurately let us know what you want to tell us!<br><br>
+
+ If you want to submit your work or give us some feedback, We add some examples you can follow to more accurately let us know what you want to tell us! Such as:<br><br>
  
  This is a table of Ribozyme database .You could find the Ribozyme which you interested in and give the relative question or your own opinion!
  
@@ -62,9 +63,135 @@ You could easily find the team information in <code class="language-plaintext hi
 > If we could get your feedback, we would try to update the database  as soon as possible!
 > For large datasets please contact the database team group directly by using the submission form.
 
+<br><br>
+
+>## Contact us:
 
 
-<br><br><br>
+### Group Members
+
+
+***
+
+{% assign number_printed = 0 %}
+{% for member in site.data.team_members %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  <ul style="overflow: hidden">
+
+  {% if member.number_educ == 1 %}
+  <li> {{ member.education1 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 2 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 3 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 4 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 5 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  <li> {{ member.education5 }} </li>
+  {% endif %}
+
+  </ul>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+
+<!--## Graduate Students-->
+{% assign number_printed = 0 %}
+{% for member in site.data.students %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
+  <ul style="overflow: hidden">
+
+  {% if member.number_educ == 1 %}
+  <li> {{ member.education1 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 2 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 3 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 4 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  {% endif %}
+
+  </ul>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}<br><br>
+
+
+
+
+
 
 #### Relative websites:
 

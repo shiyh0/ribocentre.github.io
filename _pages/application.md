@@ -16,7 +16,7 @@ To establish RNA aptamers with high stability and expression levels, Jaffrey's g
 
 <img src="https://www.ribocentre.org/images/ApplyPic/twister.png" alt="drawing" style="weight:450px;height:600px;display:block;margin:0 auto;"><br>
 <a href="https://www.ribocentre.org/downloads/Twister.pdf" target="_blank" download="Appli-Twister.pdf"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>&nbsp;&nbsp;Download Poster</button></a><br><br>
-<img src="https://www.ribocentre.org/images/ApplyPic/twister-ribozyme.png" alt="drawing" style="weight:450px;height:490px;display:block;margin:0 auto;"><br>
+<img src="https://www.ribocentre.org/images/ApplyPic/twister-ribozyme.png" alt="drawing" style="weight:450px;height:460px;display:block;margin:0 auto;"><br>
 <a href="https://www.ribocentre.org/downloads/twister-ribozyme-application.pdf" target="_blank" download="Appli-Ribozyme.pdf"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>&nbsp;&nbsp;Download Poster</button></a><br><br>
 
 

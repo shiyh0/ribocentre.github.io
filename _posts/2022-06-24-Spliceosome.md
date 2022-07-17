@@ -2,7 +2,7 @@
 layout: post
 title:  "Spliceosome"
 date:   2022-04-18T14:25:52-05:00
-author: Chichau Miao
+author: Deng Jie, Peng Xuemei
 categories: ribozyme
 ---
 

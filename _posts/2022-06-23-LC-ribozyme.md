@@ -284,21 +284,41 @@ Secondary structure diagrams of the active form of the DirLC ribozyme.
 </td>
 <td>
 <link rel="stylesheet" type="text/css" href="https://www.ribocentre.org/css/fornac.css" media="screen" />
-<div id='rna_ss'> </div>
 
-<meta charset="utf-8">
-    <script type='text/javascript' src='https://www.ribocentre.org/js/jquery.js'></script>
-    <script type='text/javascript' src='https://www.ribocentre.org/js/d3.js'></script>
+<div id="custom_colors"></div>
+<form onsubmit="return handleCustomColorApply()" class="optionsform">
+  <textarea id="CustomColorText" name="CustomColorText" textarea name="hide" style="display:none;" >
+    124-125:#8FC31F 130-131:#8FC31F 11-22:green 26-38:green  72-80:#62C4DC 160-168:#62C4DC 
+    41-49:#F9D789 57-65:#F9D789 3-8:#E6A8CA 67-71:#E6A8CA 101-103:#E60012 110-112:#E60012 
+    86-91:#B5B5B6 145-150:#B5B5B6 95-100:#A48B78 117-123:#A48B78 137-141:#F39800 172-176:#F39800
+    151-154:#7E318E 156-159:#7E318E 178-181:#036EB8 186-189:#036EB8
+  </textarea>
+</form>
+<meta charset="utf-8" />
+    <script type="text/javascript" src="https://www.ribocentre.org/js/jquery.js"></script>
+    <script type="text/javascript" src="https://www.ribocentre.org/js/d3.js"></script>
     <script type='text/javascript' src='https://www.ribocentre.org/js/demo/rsvfornac.js'></script>
-  
-    <script type='text/javascript'>
-      var container = new fornac.FornaContainer("#rna_ss", {'applyForce': 1,'editable':'true', 'initialSize':[450,400]});
-
-      var options = {'structure': '..(((((...(((((..(((((....)))))..)))))..(((((((((...[[[.)))))))))..)))).{{{.{{{{......{{{{{)..((((..(((...]]]))).......))))((....)).....(((((...}}}}}.(((...)))}}}}.}}}....))))).((((....)))).',
-                     'sequence': 'CAUCCGGUAUCCCAAGACAAUCUUCGGGUUGGGUUGGGAAGUAUCAUGGCUAAUCACCAUGAUGCAAUCGGGUUGAACACUUAAUUGGGUUAAAACGGUGGGGGACGAUCCCGUAACAUCCGUCCUAACGGCGACAGACUGCACGGCCCUGCCUCAGGUGUGUCCAAUGAACAGUCGUUCCGAAAGGAAG'};
-
-      container.addRNA(options.structure, options);
-  </script></td>
+    <script type="text/javascript">
+      "use strict"
+      function customColorsContainer() {
+         let container = new fornac.FornaContainer("#custom_colors",
+                 {'applyForce': 1,'editable':'true', 'initialSize':[450,400]});
+         let options = {'structure': '..(((((...(((((..(((((....)))))..)))))..(((((((((...[[[.)))))))))..)))).{{{.{{{{......{{{{{)..((((..(((...]]]))).......))))((....)).....(((((...}}}}}.(((...)))}}}}.}}}....))))).((((....)))).',
+             'sequence':             'CAUCCGGUAUCCCAAGACAAUCUUCGGGUUGGGUUGGGAAGUAUCAUGGCUAAUCACCAUGAUGCAAUCGGGUUGAACACUUAAUUGGGUUAAAACGGUGGGGGACGAUCCCGUAACAUCCGUCCUAACGGCGACAGACUGCACGGCCCUGCCUCAGGUGUGUCCAAUGAACAGUCGUUCCGAAAGGAAG'
+         };
+         container.addRNA(options.structure, options);
+         return container;
+     }
+     let cc = customColorsContainer();
+ 
+     function handleCustomColorApply() {
+       cc.addCustomColorsText(document.getElementById("CustomColorText").value);
+       return false;
+     }
+     handleCustomColorApply();
+ 
+  </script>
+</td>
 </tr></table><br>
 
 

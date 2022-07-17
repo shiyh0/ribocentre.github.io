@@ -2,7 +2,7 @@
 layout: post
 title:  "A natural ribozyme with 3′,5′ RNA ligase activity"
 date:   2022-04-18T14:25:52-05:00
-author: 
+author: Peng Xuemei, He Yuanlin
 categories: ribozyme
 ---
 
