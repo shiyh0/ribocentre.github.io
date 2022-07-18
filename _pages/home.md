@@ -18,9 +18,44 @@ permalink: /
 
  
 
-Ribozymes (ribonucleic acid enzymes) are RNA molecules that have the ability to catalyze specific biochemical reactions, including RNA splicing in gene expression, similar to the action of protein enzymes. The 1982 discovery of ribozymes demonstrated that RNA can be both genetic material (like DNA) and a biological catalyst (like protein enzymes), and contributed to the RNA world hypothesis, which suggests that RNA may have been important in the evolution of prebiotic self-replicating systems.[1] The most common activities of natural or in vitro-evolved ribozymes are the cleavage or ligation of RNA and DNA and peptide bond formation.[2] For example, the smallest ribozyme known (GUGGC-3') can aminoacylate a GCCU-3' sequence in the presence of PheAMP.[3] Within the ribosome, ribozymes function as part of the large subunit ribosomal RNA to link amino acids during protein synthesis. They also participate in a variety of RNA processing reactions, including RNA splicing, viral replication, and transfer RNA biosynthesis. Examples of ribozymes include the hammerhead ribozyme, the VS ribozyme, Leadzyme and the hairpin ribozyme.<br>
+Ribozymes (ribonucleic acid enzymes) are RNA molecules that have the ability to catalyze specific biochemical reactions, including RNA splicing in gene expression, similar to the action of protein enzymes. The 1982 discovery of ribozymes demonstrated that RNA can be both genetic material (like DNA) and a biological catalyst (like protein enzymes), and contributed to the RNA world hypothesis, which suggests that RNA may have been important in the evolution of prebiotic self-replicating systems.[1] The most common activities of natural or in vitro-evolved ribozymes are the cleavage or ligation of RNA and DNA and peptide bond formation.[2] For example, the smallest ribozyme known (GUGGC-3') can aminoacylate a GCCU-3' sequence in the presence of PheAMP.[3] Within the ribosome, ribozymes function as part of the large subunit ribosomal RNA to link amino acids during protein synthesis. They also participate in a variety of RNA processing reactions, including RNA splicing, viral replication, and transfer RNA biosynthesis. Examples of ribozymes include the hammerhead ribozyme, the VS ribozyme, Leadzyme and the hairpin ribozyme.<br><br>
 
-<script src="/js/jquery-1.7.1.min.js" type="text/javascript" charset="utf-8"></script>
+
+
+<form name="cse" id="searchbox" action="/search.html">
+  <input type="hidden" name="cref" value="" />
+  <input type="hidden" name="ie" value="utf-8" />
+  <input type="hidden" name="hl" value="zh-CN" />
+  <input name="q" type="text" size="40" />
+  <input type="submit" name="sa" value="Search" />
+</form>
+<!--<form name="cse" id="searchbox_demo" action="http://www.google.com/cse">
+  <input type="hidden" name="cref" value="" />
+  <input type="hidden" name="ie" value="utf-8" />
+  <input type="hidden" name="hl" value="zh-CN" />
+  <input name="q" type="text" size="40" />
+  <input type="submit" name="sa" value="搜索" />
+</form>-->
+<script type="text/javascript" src="http://www.google.com/cse/tools/onthefly?form=searchbox_demo&lang=zh-CN"></script>
+<!--<div class="pull-right">
+    <form action="/search.html" class="navbar-search">
+        <input type="text" placeholder="search" class="search-query input-medium" name="q">
+        <button class="icon nav-search" type="submit"><i class="icon-search icon-white"></i></button>
+    </form>
+</div>
+<div id="cse" style="width: 100%;">Loading</div>-->
+<script src="http://www.google.com/jsapi" type="text/javascript"></script>
+<script type="text/javascript"> 
+  google.load('search', '1', {language : 'zh-CN', style : google.loader.themes.SHINY});
+  google.setOnLoadCallback(function() {
+    var customSearchOptions = {};  var customSearchControl = new google.search.CustomSearchControl(
+      'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx', customSearchOptions);
+    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+    customSearchControl.draw('cse');
+  }, true);
+</script>
+
+<!--<script src="/js/jquery-1.7.1.min.js" type="text/javascript" charset="utf-8"></script>
 <script src="/js/lunr.min.js" type="text/javascript" charset="utf-8"></script>
 <script src="/js/mustache.js" type="text/javascript" charset="utf-8"></script>
 <script src="/js/date.format.js" type="text/javascript" charset="utf-8"></script>
@@ -63,7 +98,7 @@ Ribozymes (ribonucleic acid enzymes) are RNA molecules that have the ability to 
 			template: '#search-results-template'  // jQuery selector for the Mustache.js template
 		});
 	});
-</script>
+</script>-->
 
 
 
