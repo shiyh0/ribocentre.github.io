@@ -1,0 +1,1886 @@
+I"óµ<h2 id="sequence">Sequence</h2>
+
+<blockquote>
+  <font size="4">Shows the structure of Ribozymes.<font><br />
+</font></font>
+</blockquote>
+
+<html>
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no" />
+	<title>Ribozyme structure - export</title>
+	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css" />
+	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/2.2.3/css/buttons.dataTables.min.css" />
+  <!--<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.2/css/uikit.min.css">-->
+  <!--<link rel="stylesheet" type="text/css" href="file:///E:/jekyll/DataTables-master/media/css/dataTables.uikit.css">-->
+</head>
+    <style>
+		th {
+        background-color: #0874c4;
+        background-color: #0874c4;
+        background-color: #0874c4;
+        color: rgba(255,255,255,0.9);
+		    cursor: pointer;
+        }
+	</style>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+	<script type="text/javascript" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+	<script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/dataTables.buttons.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/pdfmake.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js"></script>
+	<script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.html5.min.js"></script>
+	<script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.print.min.js"></script>
+    
+
+<script type="text/javascript">
+		$(document).ready(function() {
+			$.noConflict();
+			$('#mytable').DataTable( {
+				dom: 'Bfrtip', 
+                scrollY: "750px",
+                scrollCollapse: true,
+                pages:false,
+				buttons: [
+					'copy', 'csv', 'excel', 'print'
+				]
+				
+			} );
+		} );
+   </script>
+<body>
+    <div>
+	  <table id="mytable" class="display" cellspacing="0" width="100%">
+        <thead>
+           <tr>
+           <th>Ribozyme</th>
+          <th>Meta</th>
+    <th>Seqlen</th>
+    <th>Species</th>
+    <th>Rfam-ID</th>
+    <th>Sequence</th>
+          </tr>
+        </thead>
+            <tr>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV</b></a></td>
+    <td>AY261460.1/686-773</td>
+    <td>88</td>
+    <td>Hepatitis D virus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>GTGGCCGACATGGTCCCAGCCTCCTCGCTGGCGCCGGCTGGGCAACATTCCGAGGGGACCGTCCCTCGGTAATGGCGAATGGGACCCA</td>
+           </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV</b></a></td>
+    <td>MCFF01000004.1/385629-385711</td>
+    <td>83</td>
+    <td>Lobosporangium transversale strain</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>GCGGGGCGCATTAGTCAGACCACCTCCTCGTGGTGCGTCCTGGGCTGTCTGCTCATCTGCAGACAGGCGAAGAGTCTGACACT</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV</b></a></td>
+    <td>D01075.1/904-812</td>
+    <td>93</td>
+    <td>Hepatitis delta virus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>TCGGGTCGGCATGGCATCTCCACCTCCTCGCGGTCCGACCTGGGCATCCGAAGGAGGACGCACGTCCACTCGGATGGCTAAGGGAGAGCCACT</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV</b></a></td>
+    <td>ANKR01134985.1/31-114</td>
+    <td>84</td>
+    <td>Myotis brandtii contig134985,</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>GTAGTCGGCGATGCTGAACCACCTCCTCGTGGTGCCGACTGGGCAGCTTTGGAGAAATCCTAAGCTGGCTAAGAGTTCAGCAAC</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV</b></a></td>
+    <td>MCFF01000004.1/627075-627157</td>
+    <td>83</td>
+    <td>Lobosporangium transversale strain</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>GCGGGGCGCATTAGTCAGACCACCTCCTCGTGGTGCGTCCTGGGCTGTCTGCTCATCTGCAGACAGGCGAAGAGTCTGACACT</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV</b></a></td>
+    <td>D01075.1/686-774</td>
+    <td>89</td>
+    <td>Hepatitis delta virus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>ATGGCCGGCATGGTCCCAGCCTCCTCGCTGGCGCCGGCTGGGCAACATTCCGAGGGGACCGTCCCCTCGGTAATGGCGAATGGGACCCA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV</b></a></td>
+    <td>AY261460.1/903-811</td>
+    <td>93</td>
+    <td>Hepatitis D virus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>TCGGGTCGGCATGGCATCTCCACCTCCCCGCGGTCCGACCTGGGCATCCGTAGGAGGACGAACGTCCACTCGGATGGCTAAGGGAGAGCCAGT</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV</b></a></td>
+    <td>AF425644.1/679-767</td>
+    <td>89</td>
+    <td>Hepatitis D virus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>AUGGCCGGCAUGGUCCCAGCCUCCUCGCUGGCGCCGGCUGGGCAACAUUCCGAAGGGGACCGUCCCUCGGUAAUGGCGAAUGGGACCCA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV</b></a></td>
+    <td>AF425645.1/687-774</td>
+    <td>88</td>
+    <td>Hepatitis D virus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>GUGGCCGGCAUGGUCCCAGCCUCCCCGCUGGCGCCGGCUGGGCAACAUUCCGAGGGGACCGUCCCUCGGUAAUGGCGAAUGGGACCCA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV</b></a></td>
+    <td>AB037947.1/685-775</td>
+    <td>91</td>
+    <td>Hepatitis D virus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>GUGGCCGGCAUGGCCCCAGCCUCCUCGCUGGCGCCGGCUGGGCAACGAUCCGAGGGGACUGUCCCUCUCGAGAAUCGGCAAAUGGGGCCCC</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV</b></a></td>
+    <td>AB037948.1/685-775</td>
+    <td>91</td>
+    <td>Hepatitis D virus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>GUGGCCGGCAUGGCCCCAGCCUCCUCGCUGGCGCCGGCUGGGCAACGAUCCGAGGGGACUAUCCCUCUCGAGAAUCGGCAAAUGGGGCCCC</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV</b></a></td>
+    <td>X77627.1/679-767</td>
+    <td>89</td>
+    <td>Hepatitis D virus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>AUGGCCGGCAUGGUCCCAGCCUCCUCGCUGGCGCCGGCUGGGCAACAUUCCGAGGGGGACCGUCCCUCGGUAAUGGCGAAUGGGACCCA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV</b></a></td>
+    <td>L22063.1/691-781</td>
+    <td>91</td>
+    <td>Hepatitis delta virus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>GUGGCCGGCAUGGCCCCAGCCUCCUCGCUGGCGCCGGCUGGGCAACGAUCCGAGGGAGCUACUCCUCUCGAGAAUCGGCAAAUGGGGCCCC</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV</b></a></td>
+    <td>AJ309877.1/318-405</td>
+    <td>88</td>
+    <td>Hepatitis D Virus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>GUGGCCGGCAUGGUCCCAGCCUCCUCGUUGGCGCCGGCCGGGCAACAUUCCGAGGGGACCGUCCCUCGGUAAUGGCGAAUGGGACCCA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV</b></a></td>
+    <td>M84917.1/684-773</td>
+    <td>90</td>
+    <td>Hepatitis D virus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>GUGGCCGGCAUGGUCCCAGCCUCCUCGCUGGCGCCGGCUGGGCAACAUUCCGAGGGGACCGUCCUCCUCGGUAAUGGCGAAUGGGACCCA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV</b></a></td>
+    <td>X85253.1/682-769</td>
+    <td>88</td>
+    <td>Hepatitis D virus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>AUGGCCGGCAUGGUCCCAGCCUCCUUCGUGGCGCCGGCUGGGCAACAUUCCGAGGGGACCGUCCCUCGGUAAUGGCGAAUGGGACCCA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV</b></a></td>
+    <td>U81988.1/679-767</td>
+    <td>89</td>
+    <td>Hepatitis delta virus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>AUGGCCGGCAUGGUCCCAGCCUCCUCGCUGGCGCCGGCUGGGCAACAUUCCGAGGGGACCGCCCCCUCGGUAAUGGCGAAUGGGACCCA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV</b></a></td>
+    <td>AF209859.1/689-775</td>
+    <td>87</td>
+    <td>Hepatitis D virus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>UGGCCGGCAUGGUCCCAGCCUCCUCGUCGGCGCCGGCCGGGCAACAUUCCGAGGGGACCGUCCCUCGGUAAUGGCGAAUGGGACCCA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV</b></a></td>
+    <td>M28267.1/687-775</td>
+    <td>89</td>
+    <td>Human hepatitis delta virus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>AUGGCCGGCAUGGUCCCAGCCUCCUCGCUGGCGCCGGCUGGGCAACAUUCCGAGGGGACCGUCCCCUCGGUAAUGGCGAAUGGGACGCA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV</b></a></td>
+    <td>AF104263.1/681-769</td>
+    <td>89</td>
+    <td>Hepatitis D virus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>AUGGCCGGCAUGGUCCCAGCCUCCCCGGUGGCGCCGGCUGGGCAACAUUCCGAAGGGGACCGUCCCUCGGUAAUGGCGAAUGGGACCCA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV</b></a></td>
+    <td>AF104264.1/691-778</td>
+    <td>88</td>
+    <td>Hepatitis D virus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>GUGGCCGGCAUGGUCCCAGCCUCCCCCGUGGCGCCGGCUGGGCAACAUUCCGAGGGGACCGUCCCUCGGUAAUGGCGAAUGGGACCCA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV</b></a></td>
+    <td>M92448.1/681-769</td>
+    <td>89</td>
+    <td>Hepatitis D virus,</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>AUGGCCGGCAUGGUCCCAGCCUCCUCGCUGGCGCCGGCUGGGCAACAUUCCGAAGGGACCGUCCCUUCGGUAAUGGCGAAUGGGACCCA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV</b></a></td>
+    <td>X04451.1/684-772</td>
+    <td>89</td>
+    <td>Hepatitis delta virus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>AUGGCCGGCAUGGUCCCAGCCUCCUCGCUGGCGCCGGCUGGGCAACAUUCCGAGGGGACCGUCCCCUCGGUAAUGGCGAAUGGGACCCA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV</b></a></td>
+    <td>AJ584845.1/918-825</td>
+    <td>94</td>
+    <td>Hepatitis D virus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>UCGGGUCGGCAUGGCAUCUCCACCUCCCCGCGGUCCGACCUGGGCAUCCGAAGGAGGACAGAACGUCCACUCGGAUGGCUAAGGGAGAGCCAGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV</b></a></td>
+    <td>AJ309880.1/911-818</td>
+    <td>94</td>
+    <td>Hepatitis D Virus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>UCGGGUCGGCAUGGCAUCUCCACCUCCUCGCGGUCCGACCUGGGCAUCCGUAGGAGGACAGACGUCCUACUCGGAUGGCUAAGGGAGAGCCAGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV</b></a></td>
+    <td>EF514905.2/675-762</td>
+    <td>88</td>
+    <td>Hepatitis delta virus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>GUGGCCGGCAUGGUCCAGCCUACUCGCUGGCGCGGGCUGGGCAACAUUCCGAGGGGACCCGUCCCUCGGUAAUGGCGAAUGGGACCCA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV</b></a></td>
+    <td>L22063.1/906-814</td>
+    <td>93</td>
+    <td>Hepatitis delta virus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>UCGGGUCGGCAUGGGAUCUCCACCUCCUCGCGGUCCGACCUGGGCAUCCGUAAGGAGAGCGUAGCUCCCUCGGAUGGCAAAGGGAGAUCCACC</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV</b></a></td>
+    <td>AB221936.1/165-71</td>
+    <td>95</td>
+    <td>Hepatitis delta virus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>UCGGGUCGGCAUGGCAUCUCCACCUCCUCGCGGUCCGACCUGGGCAUCCGUAGGAGGACRRACGUCCUACCUCGGAUGGCUAAGGGAGAGCCAGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV</b></a></td>
+    <td>AB118827.1/904-812</td>
+    <td>93</td>
+    <td>Hepatitis delta virus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>UCGGGUCGGCAUGGCAUCUCCACCUCCCCGUGGUCCGACCUGGGCAUCCGAAGGAGGACAAACGUCCACUCGGAUGGCUAAGGGAGAGCCAGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV</b></a></td>
+    <td>AM183327.1/684-771</td>
+    <td>88</td>
+    <td>Hepatitis delta virus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>GUGGCCGGCAUGGUCCCAGCCUCCUCGCUGGCGCCGGCUGGGCAACAUUCCGAGGGGACCGUCCCCCGGYAAUGGCAGAUGGGACCCA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV</b></a></td>
+    <td>AB037949.1/902-810</td>
+    <td>93</td>
+    <td>Hepatitis D virus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>UCGGGUCGGCAUGGGAUCUCCACCUCCUCGCGGUCCGACCUGGGCAUCCGUAAGGAGGACGUAGUCCCCUCGGAUGGCAAAGGGAGAUCCACC</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV</b></a></td>
+    <td>AJ584849.1/902-810</td>
+    <td>93</td>
+    <td>Hepatitis D virus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>UCGGGUCGGCAUGGCAUCUCCACCUCCCCGUGGUCCGACCUGGGCAUCCGAAGGAGGACAGACGUCCACUCGGAUGGCUAAGGGAGUGCCAGC</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV</b></a></td>
+    <td>AM183332.1/902-810</td>
+    <td>93</td>
+    <td>Hepatitis delta virus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>UCGGGUCGGCAUGGCAUCUCCACCUCCCCGCGGUCCGACCUGGGCAUCCGUAGGAGGACGGACGUCCACUCGGAUGGCGAAGGGAGAGCCAGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV</b></a></td>
+    <td>AB221996.1/162-71</td>
+    <td>92</td>
+    <td>Hepatitis delta virus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>UCGGGUCGGCAUGGCAUCUCCACCUCCUCACGGUCCGACCUGGGCAUCCGAAGGAGGACAACGUCCCCUCGGAUGGCUAAGGGAGAGCCAGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV</b></a></td>
+    <td>AJ309877.1/537-443</td>
+    <td>95</td>
+    <td>Hepatitis D Virus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>UCGGGUCGGCAUGGCAUCUCCACCUCCCCGCGGUCCGACCUGGGCAUCCGUAAGGAGGACAGACGUCCUACUCGGAUGGCUAAGGGAGAGCCACU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV</b></a></td>
+    <td>EF514904.1/897-798</td>
+    <td>100</td>
+    <td>Hepatitis delta virus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>UCGGGUCGGCAUGGCAUCUCCACCUCCACCUCCUCGCGGUCCGACCUGGGCAUCCGAAGGAGGAGCGGACGUCCACUCGGAUGGCUAAGGGAGAGCCCAG</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV</b></a></td>
+    <td>U19598.1/901-809</td>
+    <td>93</td>
+    <td>Hepatitis D virus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>UCGGGUCGGCAUGGCAUCUCCACCUCCCCGCGGUCCGACCUGGGCAUCCGUAGAGAGACGAACGUCCACUCGGAUGGCUAAGGGAGAGCCAGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV</b></a></td>
+    <td>AF104264.1/907-816</td>
+    <td>92</td>
+    <td>Hepatitis D virus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>UCGGGUCGGCAUGGCAUCUCCACCUCCCCGCGGUCCGACCUGGGCAUCCGUAGGAGGACGAACGUCACUCGGAUGGCUAAGGGAGAGCCAGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV</b></a></td>
+    <td>AM183330.1/903-811</td>
+    <td>93</td>
+    <td>Hepatitis delta virus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>UCGGGUCGGCAUGGCAUCUCCACCUCCCCGUGGUCCGACCUGGGCAUCCGAAGGAGGACGGACGUCCACUCGGAUGGCUAAGGGAGUGCCGGC</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV</b></a></td>
+    <td>X04451.1/902-810</td>
+    <td>93</td>
+    <td>Hepatitis delta virus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>UCGGGUCGGCAUGGCAUCUCCACCUCCUCGCGGUCCGACCUGGGCAUCCGAAGGAGGACGCACGUCCACUCGGAUGGCUAAGGGAGAGCCACU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/COTC.html" target="_blank"><b>COTC  </b></a></td>
+    <td>CM001661.1/67091478-67091287</td>
+    <td>192</td>
+    <td>Nomascus leucogenys</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>GCATAGTGTTACCATCAACAACCTTAACTTTATTTTTCTTATTCAATACCTAGGTAGGTAGATGCTAGATTCTGGAAATAAAATATGAGTCTCAAGTTGTCCTTGTCCTCTCTCCTAGTCAAATTCTGATTCTAGTTGGCAAGATTCTGAAATCAAGGCATATAATCAGCAATAAGTGATGATAGAAGGGTA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/COTC.html" target="_blank"><b>COTC  </b></a></td>
+    <td>AAQR03001528.1/9464-9272</td>
+    <td>193</td>
+    <td>Otolemur garnettii</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>GCATAGTATTACCATCAGCAACACACCTTACCTTCGTTTTTTTCATTCAGTACATAGGTGGTAGATGCTAGACTGCAGGAATGAATAAAACATGAGTCTCAGGTGGTCTCTGTCCCTTCTTTCATCCTAATTCTAAATTTAGTTGGTAACATTTTGAAAGTACTGCATATAATCAGTATAAGTGATGATCGAA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/COTC.html" target="_blank"><b>COTC  </b></a></td>
+    <td>CM000325.3/4979449-4979258</td>
+    <td>192</td>
+    <td>Pan troglodytes</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>GCATAGTGTTACCATCAACAACCTTAACTTCATTTTTCTTATTCAATACCTAGGTAGGTAGATGCTAGATTCTGGAAATAAAATATGAGTCTCAAGTGGTCCTTGTCCTCTCTCCCAGTCGAATTCTGAATCTAGTTGGCAAGATTCTGAAATCAAGGCATATAATCAGTAATAAGTGATGATTGAAGGGTA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/COTC.html" target="_blank"><b>COTC  </b></a></td>
+    <td>CM000673.2/5224639-5224448</td>
+    <td>192</td>
+    <td>Homo sapiens</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>GCATAGTGTTACCATCAACCACCTTAACTTCATTTTTCTTATTCAATACCTAGGTAGGTAGATGCTAGATTCTGGAAATAAAATATGAGTCTCAAGTGGTCCTTGTCCTCTCTCCCAGTCAAATTCTGAATCTAGTTGGCAAGATTCTGAAATCAAGGCATATAATCAGTAATAAGTGATGATAGAAGGGTA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/COTC.html" target="_blank"><b>COTC  </b></a></td>
+    <td>AGTP01149223.1/313-141</td>
+    <td>173</td>
+    <td>Ictidomys tridecemlineatus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>CAGTGTTGTTATGAGCAACACATTCTAGCTTTATTTTCTTATTCAGTGTTCACTTTGATATATGCTACTTTCTGGAAGGATGGGTTTCAAGTGGTCCCTCTCCTCTATCCCAATTCTGAATCTAGAGGACAAGTAGAAAACAATGCATATAATAAGTGATAACTGTGGAAGTA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/COTC.html" target="_blank"><b>COTC  </b></a></td>
+    <td>AGTP01149389.1/313-141</td>
+    <td>173</td>
+    <td>Ictidomys tridecemlineatus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>CAGTGTTGTTATGAGCAACACATTCTAGCTTTATTTTCTTATTCAGTGTTCACTTTGATATATGCTACTTTCTGGAAGGATGGGTTTCAAGTGGTCCCTCTCCTCTATCCCAATTCTGAATCTAGAGGACAAGTAGAAAACAATGCATATAATAAGTGATAACTGTGGAAGTA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/COTC.html" target="_blank"><b>COTC  </b></a></td>
+    <td>AGTP01124674.1/1975-2158</td>
+    <td>184</td>
+    <td>Ictidomys tridecemlineatus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>CAATGTTGCTACGAGCAACACATTCTACCTTCATTTCCTTATTTAGTATCCACTTCAGTATATAGTACATTCTAGAAGGATGAGTTTTAAGTGGTCCTTGTCCTCTTCTCCACCTCAATTCTGAATCTAGCTGGCAAGCAGAAAGTAATCCATATAAAAAGTGATAACTAATTGTAGAAGAATT</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/COTC.html" target="_blank"><b>COTC  </b></a></td>
+    <td>GL010143.1/2483259-2483074</td>
+    <td>186</td>
+    <td>Loxodonta africana</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>GCATAGTGTTGCCATCAGTAACACACCTTAACTTCATTTCCATATTAAATAGCCACTTCTATGGATGCTAGATTCTAAAAATAAAGATATGAATTTTGGGTGGTCCCTGCCACTCACCCCAGTTCTAAGTCTAGTTAGCAAGCATCTGAAGTAATGCATGTGGCAACTGATAAGTGATTACAAAAG</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/COTC.html" target="_blank"><b>COTC  </b></a></td>
+    <td>CM001504.2/60346730-60346920</td>
+    <td>191</td>
+    <td>Papio anubis</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>GCACAGTGTTACCATCAACAACCTTAACTTCATTTTCTTATTCAATGCCTAGGTAGGTAGATGCTAGATTCTGGGAATAAAATATGAGTCTCAGGTGGTCCTTGTCCTCTCTCCTAGTCGAATTCTGAATCTAGTTGACAAGATTCTGAAATCAAGGTGTATAATCAGTAATACGTGATGATAGAAGGGTA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/COTC.html" target="_blank"><b>COTC  </b></a></td>
+    <td>CM001941.2/61496830-61497020</td>
+    <td>191</td>
+    <td>Chlorocebus sabaeus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>GCATAGTGTTACCATCAACAACCTTAACTTTATTTTCTTATTCAATACCTAGGTAGGTAGATGCTAGATTCTGGAAATAAAATATGAGTCTCAGGTGGTCCTTGTCCTCTCTCCTAGTCGAATTCTGAATCTAGTTGGCAAGATTCTGAAATCAAGGTGTATAATCAGTAATACGTGATGATAGAAGGGTA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/COTC.html" target="_blank"><b>COTC  </b></a></td>
+    <td>CM000866.1/68654497-68654314</td>
+    <td>184</td>
+    <td>Callithrix jacchus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>GCATAGTGTTACTATCAACAACCTTTACTTCATTTACTTGTTCAATAGCCAGGTAGGTAGATGCTAGATTCTAGAAATAAAATATGAGTCTCAAGTGGCCCTTGTCCCCTCTTCTACTCAAATTCTGAATCTAGTTGGCAAGATTCTGAAATCAAGGCATATAGTCGGTGATGATAGAAGGGTG</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/COTC.html" target="_blank"><b>COTC  </b></a></td>
+    <td>CM000300.1/68177142-68177332</td>
+    <td>191</td>
+    <td>Macaca mulatta</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>GCACAGTGTTACCATCAACAACCTTAACTTCATTTTCTTATTCAATGCCTAGGTAGGTAGATGCTAGATTCTGGAAATAAAATATGAGTCTCAGGTGGTCCTTGTCCTCTCTTCTAGTCGAATTCTGAATCTAGTTGACAAGATTCTGAAATCAAGGTGTATAATCAGTAATACGTGATGATAGAAGGGTA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/COTC.html" target="_blank"><b>COTC  </b></a></td>
+    <td>CM001387.3/63628989-63628807</td>
+    <td>183</td>
+    <td>Felis catus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>GTATAGTGTTACCATCAGCAACACGCCCTGATTTCATTTCCTGGTCAATAGCCATTTATATGGATCCTAGATTCTGGAAATCAAATGACTTTGAAGTGGTCCTTGTCCTTTCCCACATTCCCATTCTGAATATAGCTATGAAGACTCTGAAAGTATTGCAACCAACAAGTAAATTAATCAATT</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/COTC.html" target="_blank"><b>COTC  </b></a></td>
+    <td>CM000383.2/73935726-73935545</td>
+    <td>182</td>
+    <td>Equus caballus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>GCATAGTGTTACCATGAGCAACACATCCTAATTTCACTTTCTCATTCAACAGCCACTTGAGTGGATTCTAGATTCTGAAAATACGATATGAATTTCAAGCGGTGCTTGTCTCCTCCTGCACCCCAATTCTGAATCTAGTTAGGAAGATCTGAAAGTAATGTATCTAACAAGCCACTATAAGG</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/COTC.html" target="_blank"><b>COTC  </b></a></td>
+    <td>FR853082.2/4936544-4936353</td>
+    <td>192</td>
+    <td>Gorilla gorilla</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>GCATAGTGTTACCATCAACAACCTTAACTTCATTTTTCTTATTCAATACCTAGGTAGGTAGATGCTAGATTCTGGAAATAAAATATGAGTCTCAAGTGGTCCTTGTCCTCTCTCCCAGTCAAATTCTGAATCTAGTTGGCAAGATTCTGAAATCAAGGCATATAATCAGTAATCAGTGATGATAGAAGGGTA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/COTC.html" target="_blank"><b>COTC  </b></a></td>
+    <td>AGTP01142209.1/1537-1365</td>
+    <td>173</td>
+    <td>Ictidomys tridecemlineatus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>TATCAGTGTTGCCATGAGCAACATCTAGTTCATTTTGTTATTCAGTGTTCACTTTGATATATGCTACTTTCTGGAAGGATGGGTTTTAAGTGGTTCCTCTCCTCTATCCCAATTCTGAATCTAGCTGGCAAGTAGAAAACAATGCATATAATAAGTGATAACTGTGGAAGTAT</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/COTC.html" target="_blank"><b>COTC  </b></a></td>
+    <td>AGTP01124673.1/4208-4394</td>
+    <td>187</td>
+    <td>Ictidomys tridecemlineatus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>TATCAGTGTTGCCATGAGCAACACATTCTAGCTTCATTTCCTTATTTAGTATGCACTTCAGTATATAGTACATTCTAGAAGGATAAGTTTTAAGTGGTCCTTGTCCTCTTCTCCACCTCAATTCTGAATCTAGCTGCCAAGCAGAAAGTAATGCATATAATAAGTGATAACTAATTGTGGAAGAATT</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/COTC.html" target="_blank"><b>COTC  </b></a></td>
+    <td>CM000561.1/65240178-65240369</td>
+    <td>192</td>
+    <td>Pongo abelii</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>GCATAGTGTTACCATCAACAACCTTAACTTTATTTTTCTTATTCAATACCTAGGTAGGTAGATGCTAGATTTTGGAAATAAAATATGAGTCTCAAGTGGTCCTTGTCCTCTCTCCCAGTCGAATTCTGAATCTAGTTGGCAAGATTCTGAAATCAAGGCATATAATCAGTAATAAGTGATGATAGAAGGGTA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/COTC.html" target="_blank"><b>COTC  </b></a></td>
+    <td>ALAR01070965.1/74470-74664</td>
+    <td>195</td>
+    <td>Tupaia chinensis</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>TGTTGTTATTACCTTCAGCAACACATCCTAACTTCATATTTTTATTTAATAACCACTTAGGTAGTTGCTAGATTCTGGAAATAAAATATGAGCCCCAAGTAGTCCCCAACTCCTCCCTTACCCCCAATTCTGAATGTAGCTGGCAAGATTTTGAATATAATGCACATAATAAGTGACAGTAATTATAAAATGGTG</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/COTC.html" target="_blank"><b>COTC  </b></a></td>
+    <td>ALWS01063748.1/11546-11737</td>
+    <td>192</td>
+    <td>Pteropus alecto</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>GAATAGTGTTACCATCAGCCTCACATCCTAATTTTATTTCCTCATTCAATAGCCACTTATGTGGATGCTAGATTCTGGAGATAATATATGAACTTGGAGTGATTCTTGTTTCCTCCTGTACCCCAATTCTGTATCTAGTTAGGAAGATTCTGAAAGTAAGGCACCTAACAGACTATAAATGAGTGAGTGCAA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/COTC.html" target="_blank"><b>COTC  </b></a></td>
+    <td>AF205413.1/1614-1793</td>
+    <td>180</td>
+    <td>Callithrix jacchus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>GCAUAGUGUUACUAUCAACAACCUUUACUUCAUUUACUUGUUCAAUAGCCAGGUAGGUAGAUGCUAGAUUCUAGAAAUAAAAUAUGAGUCUCAAGUGGCCCUUGUCCCCUCUUCUACUCAAAUUCUGAAUCUAGUUGGCAAGAUUCUGAAAUCAAGGCAUAUAGUCGGUGAUGAUAGAAG</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/COTC.html" target="_blank"><b>COTC  </b></a></td>
+    <td>U60902.1/53342-53532</td>
+    <td>191</td>
+    <td>Otolemur crassicaudatus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>GCAUAGUAUUACCAUCAGCAACACACCUUACCUUCGUUUUUUUCAUUCAGUACAUAGGUGGUAGAUGCUAGACUGCAGGAAUGAAUAAAACAUGAGUCUCAGGUGGUCUCUGUCCCUUGUUUCAUCCUAAUUCUAAUUUAGUUGGUAACAUUUUGAAAGUACUGCAUAUAUCAGUAUAAGUGAUGAUCGAA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/COTC.html" target="_blank"><b>COTC  </b></a></td>
+    <td>AF205412.1/1675-1853</td>
+    <td>179</td>
+    <td>Saimiri sciureus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>GCAUCCUGUUACCAUCAACAACCUUAACUUCAUUUACUUAUUCAAUAGCUGGGUAGGUAGAUGCUAGAGUCUACAAAAUAAAAUGAGUCUCAAGUGGUCCUUGUCCCCUCUCCUACUCAAAUUCUGAAUCUAGUUGACAAAAUUCUGAAAUCAAGGCAUAUAGUCAGUGAUGAUAGAAG</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/COTC.html" target="_blank"><b>COTC  </b></a></td>
+    <td>AY034472.1/822-1013</td>
+    <td>192</td>
+    <td>Homo sapiens</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>GCAUAGUGUUACCAUCAACCACCUUAACUUCAUUUUUCUUAUUCAAUACCUAGGUAGGUAGAUGCUAGAUUCUGGAAAUAAAAUAUGAGUCUCAAGUGGUCCUUGUCCUCUCUCCCAAUCAAAUUCUGAAUCUAGUUGGCAAGAUUCUGAAAUCAAGGCAUAUAAUCAGUAAUAAGUGAUGAUAGAAGGGUA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/COTC.html" target="_blank"><b>COTC  </b></a></td>
+    <td>AF205410.1/1079-1269</td>
+    <td>191</td>
+    <td>Macaca fascicularis</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>GCACAGUGUUACCAUCAACAACCUUAACUUCAUUUUCUUAUUCAAUGCCUAGGUAGGUAGAUGCUAGAUUCUGGAAAUAAAAUAUGAGUCUCAGGUGGUCCUUGUCCUCUCUCCUAGUCGAAUUCUGAAUCUAGUUGACAAGAUUCUGAAAUCAAGGUGUAUAAUCAGUAAUACGUGAUGAUAGAAGGGUA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/COTC.html" target="_blank"><b>COTC  </b></a></td>
+    <td>AF205411.1/1080-1270</td>
+    <td>191</td>
+    <td>Papio hamadryas</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>GCACAGUGUUACCAUCAACAACCUUAACUUCAUUUUCUUAUUCAAUGCCUAGGUAGGUAGAUGCUAGAUUCUGGGAAUAAAAUAUGAGUCUCAGGUGGUCCUUGUCCUCUCUCCUAGUCGAAUUCUGAAUCUAGUUGACAAGAUUCUGAAAUCAAGGUGUAUAAUCAGUAAUACGUGAUGAUAGAAGGGUA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/COTC.html" target="_blank"><b>COTC  </b></a></td>
+    <td>AF205408.1/1069-1260</td>
+    <td>192</td>
+    <td>Pongo pygmaeus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>GCAUAGUGUUACCAUCAACAACCUUAACUUUAUUUUUCUUAUUCAAUACCUAGGUAGGUAGAUGCUAGAUUUUGGAAAUAAAAUAUGAGUCUCAAGUGGUCCUUGUCCUCUCUCCCAGUCGAAUUCUGAAUCUAGUUGGCAAGAUUCUGAAAUCAAGGCAUAUAAUCAGUAAUAAGUGAUGAUAGAAGGGUA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/COTC.html" target="_blank"><b>COTC  </b></a></td>
+    <td>AF205409.1/1081-1271</td>
+    <td>191</td>
+    <td>Colobus guereza</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>GCAUAGUGUUACCAUCAACAACCUUAACUUCAUUUUCUUAUUCAAUACCUAGGUAGGUAGAUGCUAGAUUCUGGAAAUAAAAUAUAAGUCUCAGGUGGACCUUGUCCUCUCUCCUAGUCGAAUUCUGAAUCUAGUUGGCAAGAUUCUGAAAUCAAGGCGUAUAAUCAGUAAUACGUGAUGAUAGAAGGGUA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/COTC.html" target="_blank"><b>COTC  </b></a></td>
+    <td>AF205415.1/1604-1783</td>
+    <td>180</td>
+    <td>Saguinus oedipus</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>GCAUAGUGUUACCAUCAACAACCUUAACUUCAUUUACUUAUUCAAUGGCCAGGUAGGUAGAUGCUAGAUUCUAGAAAUAAAAUACAAGUUUCAAGUGGCCCUUGUCCCCUCUCCUACUCAAAUUCUGAAUCUAGUUGGCAAGUUUCCGAAAUCAAGGCAUAUAGUCAGUGAUGAUAGAAG</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/COTC.html" target="_blank"><b>COTC  </b></a></td>
+    <td>U01317.1/64568-64759</td>
+    <td>192</td>
+    <td>Human beta</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF00094.fa.gz" target="_blank"><b>RF00094</b></a></td>
+    <td>GCAUAGUGUUACCAUCAACCACCUUAACUUCAUUUUUCUUAUUCAAUACCUAGGUAGGUAGAUGCUAGAUUCUGGAAAUAAAAUAUGAGUCUCAAGUGGUCCUUGUCCUCUCUCCCAGUCAAAUUCUGAAUCUAGUUGGCAAGAUUCUGAAAUCAAGGCAUAUAAUCAGUAAUAAGUGAUGAUAGAAGGGUA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>HF986131.1/188-62</td>
+    <td>127</td>
+    <td>Veillonella</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>ATCATCAGAAGATGACAAGCATGTGGGGCGTAAGTAGTATTTTTATGCGGGAGAAGAAGAATGGCAATTGTTCTAATTAGTACTGATAATTGCAAATACTATGATCGTGCGGACGTTAAAATCATGC</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>MGFQ01000035.1/26305-26400</td>
+    <td>96</td>
+    <td>Candidatus  Woesebacteria </td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>TGCTTAACTGTGAGAATCAGTGACAAACCTGTGGGGCTTATATCTCATCCGATTTAAGGCGGCAAGTGAGTATTAGTGCAGAGTATAAAATCAGGT</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6C318_12908/1-119</td>
+    <td>119</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>CUUCUAUCAUCUUCACCUGUAAGCAACAUCGUGGGUGUCGUGACAUUUCCCAUUAAGGAUAAUGGUGAUCUUUUCCAGUAAUGUUCAAGAUGUUCCCAUGGCGGGCCUGGAAAUUGGUG</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D65F91_12908/1-84</td>
+    <td>84</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>CUGUGGGUCGGGCAGGCCGCGACACCCAACCGCAUGGGGCGCAAGGGCGAUGGGGACGCCUACUCCGCGCGGGCCAAACUGCGG</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6A77C_12908/1-115</td>
+    <td>115</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>CCUUCGCUGUGGGAAAUGGACUACAACGGCGUGGGCUUUGAAUGGAUCGACCGCACGGACGACUACAACAAUAUAUUCGCCUACAUCCGUCGCGGAGGCGGACAGGAAACCGUCG</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D664B8_12908/1-208</td>
+    <td>208</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>UGUAUUAAGGUUAGUAAACCUUGACAAGCCUGUGGGGCUACUAGACACUUCUAGAUAUUACUAAUCCACGUUGUUAUCUUCUAUACUAGUUAUAGAAACAACUAUUCAUAGUAACAAUCUAGUACUAAAUAAUGGGGACAUUAUAAGUGGUUAACGUAUAUAUAAAUAUAAUAGUUAUUUACAGUUAGUGCGGACGUAAAAAUCAGGC</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D66625_12908/44-170</td>
+    <td>127</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUCCUCAGGAAAUGACAAACAUGUGGGGCGUAAGCAAUAUUUACAUUCUAUAAAGAAAAAGUGGAUUGUAAUGCUUUAUAGAAUGCGUAUCCAUAAUAUUGUAAUCGUGCGGACGUUAAAAUCAUGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D69A24_12908/1-166</td>
+    <td>166</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>ACCAUUAGAAAAUAACAAACUUGUGGGGCGUAAAUUUAUUCACAUUCAGACGUAAUUCCAUGGAGUAAUUCAUGUCUACAUUAAAGUAGAUGGUUACUUAAAAUACGUGUGGUGCUCAUCAUGGAGAGUUAAUGAAUAAAUAAUCGUGCGGGCUAUAAAAUCAAGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D670B6_12908/19-150</td>
+    <td>132</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>UCUACACUGUGUGAAUCAGUGUCAACUUUGUGGGGCUUAUAUUCAUAAAUAUCUCAAUAGAAAGUUAAGUGAGUUGCAAUAACUUAGCUGGAAAUUCUUUUAUAUUAUGAUAUUAGUGCAGGCGAAUCAAAG</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6AE31_12908/1-162</td>
+    <td>162</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>CUCUUUAAUGGUUGAUAAACCUUAACAAACCUGUGGGGCUACUACCAAUUUCUCAAUACAUCCAUGGAUGUAUCAAUUGAUCUGACUGUAAAUCAGUUCAAGAUGAGAUAUCACACGCAUUACAGUGCGUAAUUGGAGUUAGUGCAGACUUAAAAAUCAGGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6BE5B_12908/1-125</td>
+    <td>125</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUUCUUACUGUGAGAAUCAGUGACAAACAUGUGGGGCUUAUAUCUAAUCAUUUUAGAGGGCAGUAUUACUGUCGUCUGAAGGUAGGUGGAGGAGAUUAGUAUUAGUGCAGACGUUAAAACCAUGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6C6A3_12908/1-125</td>
+    <td>125</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUUUUUACUGUGAGAAUCAGUGACAAACAUGUGGGGCUUAUAUCUAAUCAUUUUAGAUGACAGUAUUACUGCCGUCUGAAGGUAGGUGGAGGAGAUUAGUAUUAGUGCAGACGUUAAAAUCAUGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D693F5_12908/26-152</td>
+    <td>127</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>UUCUUUAAGGUUAGCAAACCUUGACAAACCUGUGGGGCUACUACUCUAUUCUAAAAGAUAAUUCUAUUUUUAGUGCUAAAUACUUAGUCAGUAUAAUAGAGAGUUAGUGCAGACUAUAAAAUCAGGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D67AE3_12908/1-159</td>
+    <td>159</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>AUCUACACUGUGAGAAUCAGUGUCAACUUUGUGGGGCUUAUAUUUAGAGCGCACAUAUGAAAGUGCUUUUUAUCAAUAGAAGGUGAAAUGAUUGCAAGCAUUAGCCGGAAAUUCUUUUAAAGUAACGCAUAUGCUAAUAUUAGUGCAGAGAAAUCAAAG</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D685AC_12908/1-133</td>
+    <td>133</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>UUCUACACUGUGCGAAUCAGUGUCAACUUUGUGGGGCUUAUAUUCAUAAAUAUCUCAAUAGAAAGCUAAGUGAGUUGCAAUAACUUAGCUGGAAAUUCUUUUAUAUUAUGAUAUUAGUGCAGGCGAAUCAAAG</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6C543_12908/1-108</td>
+    <td>108</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>AUCUUUAAGGUGAGAAUCCUUGACAUUCCUAUGGGGCUUAUAUCUCUUCAAUCGGUCUAAUUAACCUACAUACAGAGAAGAGUAUUAGUGCAGAUGUAAAAAUUAGGA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D671D2_12908/1-100</td>
+    <td>100</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>AGUAUUACUGUGAGAAUCAGUAAUAAGCAUGUGGGGCUUAUGUCUUAUCAAAAGGGUGGCCAACUUUUAGAUAGCAUUAGUGCGGACGUUAAAAUCAUGC</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6B9FA_12908/1-100</td>
+    <td>100</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>AGUAUUACUGUGAGAAUCAGUGAUAAGCAUGUGGGGCUUAUGUCUUAUCAAAAGGGUGGCCAACUUUUAGAUAGCAUUAGUGCGGACGUUAAAAUCAUGC</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6B9AF_12908/1-121</td>
+    <td>121</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>CUCUUUAAGGUGAGAAUCCUUGACAAGCAUGUGGGGCUUAUAUCCUUAGCUGUCCACUUAACUCGUGCUGUAGUUAAGAGAGGCAACCAGCAAGGUAUUAGUGCAGACUUUAAAAUCAUGC</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D66157_12908/1-126</td>
+    <td>126</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>UUCUACACUGUGUGAAUCAGUGUCAACUUUGUGGGGCUUAUAUCUAUUCAUACAGAGCAAGUACGUACGGGAAAGCUUAAAAUACUCAUCUGUAAAAUAGUAUUAGUGCAGACUUUAAAAUCAUGC</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D66771_12908/1-124</td>
+    <td>124</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUCUUUAAGGUGAGAAUCCUUGACAAUCCUGUGGGGCUUAUAUCUAUCAAAAGAACUUACAGCAGCUUUUAUAUUAGCUUAGCUGGACUUUAUGAUAGUAUUAGUGCAGACGUUAAAAUCAGGA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6A247_12908/1-126</td>
+    <td>126</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>CUCUUUAAGGUGAGAAUCCUUGACAAGCAUGUGGGGCUUAUAUCUAUUCAUACAGAGCAAGUACGUACGGGAAAGCUUAAAAUACUCAUCUGUAAAAUAGUAUUAGUGCAGACUUUAAAAUCAUGC</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6D07C_12908/19-144</td>
+    <td>126</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>CUCUUUAAGGUGAGAAUCCUUGACAAGCGUGUGGGGCUUAUAUCUAUUCAUACAGAGCAAGUACGUACGGGAAAGCUUAAAAUACUCAUCUGUAAAAUAGUAUUAGUGCAGACUUUAAAAUCACGC</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D66914_12908/1-128</td>
+    <td>128</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>CUCUUUAAGGUGAGAAUCCUUGACAAGCAUGUGGGGCUUAUAUCUAUCUAUAAACAAGGAGACGGACUAAUUUUUAUUAGUACAAGGAGUCGGUUAUAGUAGUAUUAGUGCAGACUUUAAAAUCAUGC</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6A994_12908/34-117</td>
+    <td>84</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>AACUUUACGGUGAGAAUCCGUGACAAACUUGCGGGGCUUAUGUCUUAUUAUAUUUAAGCAUUAGUGCAGACUUUAAAAUCAAGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6938E_12908/1-189</td>
+    <td>189</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>CUCUUUAAGGCGAGAAUCCUUGACAAGCAUGUGGGGCUUAUAUCUAACAAUAUUGACUAUUAUUCAUCUAGUGACGAAGCUAUUCGACAACUUAAAGCAAAUAUCACAGAAUAAAAAGUUAUUAAUUAUGUAUUUGAAAGUUGCAAUACAUAAUAUUAGUUAGUAUUAGUGCAGACUUAAAAAUCAUGC</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D68B8D_12908/1-153</td>
+    <td>153</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>CUCUUUAAGGUGAGAAUCCUUGACAAGCAUGUGGGGCUUAUAUCUUAUUGUGUCCUUUACAGGAUAGAAAUAGAUUUAUUGGGGAUACAGAGCGUUGGCAUAGCCACUCUAAACCAAUCACAAUAAGUAUUAGUGCAGACUUAAAAAUCAUGC</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6897D_12908/1-153</td>
+    <td>153</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>UUCUUUAAGGUGAGAAUCCUUGACAAGCAUGUGGGGCUUAUAUCUUAUUGUGUCCUUUACAGGAUAGAAAUAGAUUUAUUGGGGAUACAGAGCGUUGGCAUAGCCACUCUAAACCAAUCACAAUAAGUAUUAGUGCAGACUUAAAAAUCAUGC</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D66917_12908/23-175</td>
+    <td>153</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUCUUUAAGGUGAGAAUCCUUGACAAGCAUGUGGGGCUUAUAUCUUAUUGUGUCCUUUACAGGAUAGAAAUAGAUUUAUUGGGGAUACAGAGCGUUGGCAUAGCCACUCUAAACCAAUCACAAUAAGUAUUAGUGCAGACUUAAAAAUCAUGC</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6BD63_12908/19-166</td>
+    <td>148</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>CCUAUACUGUGAGAAUCAGUAUCAACUUUGUGGGGCUUAUAUCUUAUUGUGUCCUUUACAGGAUAGAAAUAGAUUUAUUGGGGAUACAGAGCGUUGGCAUAGCCACUCUAAACCAAUCACAAUAAGUAUUAGUGCAGAGAAAUCAAAG</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D67864_12908/23-150</td>
+    <td>128</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUCUUUAAGGUGAGAAUCCUUGACAAGCAUGUGGGGCUUAUAUCUAUCUAUAAACAAGGAGACGGACUAAUUUUUAUUAGUACAAGGAGUCGGUUAUAGUAGUAUUAGUGCAGACUUUAAAAUCAUGC</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D691F0_12908/1-128</td>
+    <td>128</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>UUCUUUAAGGUGAGAAUCCUUGACAAGCAUGUGGGGCUUAUAUCUAUCUAUAAACAAGGAGACGGACUAAUUUUUAUUAGUACAAGGAGUCGGUUAUAGUAGUAUUAGUGCAGACUUUAAAAUCAUGC</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D66B79_12908/34-152</td>
+    <td>119</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>CUCCUUACUGUGAGAAUCAGUGACAAACAUGUGGGGCUUAUAUCUUAGAUGUCCAUCUAACUCGUGCUGUAGUUAGACAAGGCAACCAUCGAGUAUUAGUGCAGACGUUAAAAUCAUGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6762F_12908/34-158</td>
+    <td>125</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>CUCCUUACUGUGAGAAUCAGUGACAAACAUGUGGGGCUUAUAUCUAAUCAUUUUAGAUGGCAGUGUUACUGUCGUCUGAAGGUAGGUGGAGGAGAUUAGUAUUAGUGCAGACGUUAAAAUCAUGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6B2B2_12908/34-158</td>
+    <td>125</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>CUCCUUACUGUGAGAAUCAGUGACAAACAUGUGGGGCUUAUAUCUAAUCAUUUUAGAGGGCAGUAUUACUGUCGUCUGAAGGUAGGUGGAGGAGAUUAGUAUUAGUGCAGACGUUAAAACCAUGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D680DD_12908/34-158</td>
+    <td>125</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>CUCCUUACUGUGAGAAUCAGUGACAAACAUGUGGGGCUUAUAUCUAAUCAUUUUAGAGGGCAGUAUUACUGUCGUCUGAAGGUAGGUGGAGGAGAUUAGUAUUAGUGCAGACGUUAAAACCAUGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6BB6D_12908/34-158</td>
+    <td>125</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>CUCCUUACUGUGAGAAUCAGUGACAAACAUGUGGGGCUUAUAUCUAAUCAUUUUAGAGGGCAGUAUUACUGUCGUCUGAAGGUAGGUGGAGGAGAUUAGUAUUAGUGCAGACGUUAAAACCAUGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D65DEC_12908/34-116</td>
+    <td>83</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>CUCCUUACUGUGAGAAUCAGUGACAAACAUGUGGGGCUUAUAUCUAAUUCAAAUUGGUAUUAGUGCAGACGUUAAAACCAUGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D683C1_12908/32-156</td>
+    <td>125</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUCUUUACUGUGAGAAUCAGUGACAAACAUGUGGGGCUUAUAUCUAAUCAUUUUAGAGGGCAGUAUUACUGUCGUCUGAAGGUAGGUGGAGGAGAUUAGUAUUAGUGCAGACGUUAAAACCAUGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6B4E6_12908/32-156</td>
+    <td>125</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUUCUUACUGUGAGAAUCAGUGACAAACAUGUGGGGCUUAUAUCUAAUCAUUUUAGAUGACAGUAUUACUGCCGUCUGAAGGUAGGUGGAGGAGAUUAGUAUUAGUGCAGACGUUAAAAUCAUGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D68B0D_12908/32-156</td>
+    <td>125</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUUCUUACUGUGAGAAUCAGUGACAAACAUGUGGGGCUUAUAUCUAAUCAUUUUAGAGGGCAGUAUUACUGUCGUCUAAAGGUAGGUGGAGGAGAUUAGUAUUAGUGCAGACGUUAAAACCAUGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6A3D5_12908/32-156</td>
+    <td>125</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUUCUUACUGUGAGAAUCAGUGACAAACAUGUGGGGCUUAUAUCUAAUCAUUUUAAAGGGCAGUAUUACUGUCGUCUAAAGGUAGGUGGAGGAGAUUAGUAUUAGUGCAGACGUUAAAAUCAUGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D69E3C_12908/32-156</td>
+    <td>125</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUUCUUACUGUGAGAAUCAGUGACAAACAUGUGGGGCUUAUAUCUAAUCAUUUUAGAGGGCAGUAUUACUGUCGUCUGAAGGUAGGUGGAGGAGAUUAGUAUUAGUGCAGACGUUAAAAUCAUGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet </b></a></td>
+    <td>URS0000D687C5_12908/32-156</td>
+    <td>125</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUUCUUACUGUGAGAAUCAGUGACAAACAUGUGGGGCUUAUAUCUAAUCAUUUUAGAUGGCAGUAUUACUGUUGUCUGAAGGUAGGUGGAGGAGAUUAGUAUUAGUGCAGACGUUAAAAUCAUGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6D14A_12908/32-156</td>
+    <td>125</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUUCUUACUGUGAGAAUCAGUGACAAACAUGUGGGGCUUAUAUCUAAUCAUUUUAGAUGGCAGUGUUACUGUCGUCUGAAGGUAGGUGGAGGAGAUUAGUAUUAGUGCAGACGUUAAAACCAUGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D67EB4_12908/32-156</td>
+    <td>125</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUUCUUACUGUGAGAAUCAGUGACAAACAUGUGGGGCUUAUAUCUAAUCAUUUUAGAUGGCAGUGUUACUGUCGUCUGAAGGUAGGUGGAGGAGAUUAGUAUUAGUGCAGACGUUAAAAUCAUGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D695A2_12908/32-150</td>
+    <td>119</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUCCUUACUGUGAGAAUCAGUGACAAACAUGUGGGGCUUAUAUCUUAGAUGUCCAUCUAAUUCAUGCUGUAGUUAGACAAGGCAACCAUCAAGUAUUAGUGCAGACGUUAAAACCAUGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D66B54_12908/32-150</td>
+    <td>119</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUUCUUACUGUGAGAAUCAGUGACAAACAUGUGGGGCUUAUAUCUUAGAUGUCCAUCUAACUCGUGCUGUAGUUAGACAAGGCAACCAUCGAGUAUUAGUGCAGACGUUAAAAUCAUGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6B5D8_12908/1-82</td>
+    <td>82</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>UACAACUGUGAGAAUCAGUAACAAGCAUGUGGGGCUUAUAUCUUACUAUAAGUAAGUAUUAGUGCAGACAUUAAAAUCAUGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D67D12_12908/1-190</td>
+    <td>190</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>CUCUUUAAGGUGAGAAUCCUUGACAAGCAUGUGGGGCUUAUAUCUAGCAAUAUUAACCAUUAUUCAUUUUAGUGACGAAGCUAUUCGACAACUUAAAGCAAAUAUCACAGAAUAAGGAGUUAUUAAUUAUGUAUUUGAAAGUUGCAAUACAUAAUAUUAGUUAGUAUUAGUGCAGACUUAAAAAUCAUGC</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D66E0A_12908/18-141</td>
+    <td>124</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>AUCUAUACUGUGAGAAUCAGUGUCAACUUUGUGGGGCUUAUAUUCAGUUAUUCUUUAUGUAAAAUAGGAGUCAUGACCUAAUAAUAUCAUAACAUAAACUGAUAUUAGUGCAGAGAAAUCAAAG</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D67B26_12908/1-124</td>
+    <td>124</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>AUCUACACUGUGAGAAUCAGUAUCAACUUUGUGGGGCUUAUAUUCAGUUAUCCCUUAUGUAAAAUAGGAGUCAUGACCUAAUAAUAUCAUAAUAUAAACUGAUAUUAGUGCAGAGAAAUCAAAG</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6A2E8_12908/24-130</td>
+    <td>107</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>CUCUUUAAGGUGAGAAUCCUUGACAAUCCUGUGGGGCUUAUAUCUCUAGCUGGGUUAGAACAAUCCUUGAAAUGUAUAGAGUAUUAGUGCAGACGUUAAAAUCAGGA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6B9C7_12908/23-186</td>
+    <td>164</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>AUCUUUAAGGUGAGAAUCCUUGACAAUCCUGUGGGGCUUAUAUCUUUAUCUCUGAGGAGUUCUUUAUCGCUAUAGUAGUAGAGAGAACUAUUUACGGUGGACGGUCUACUGAAUGCUUGAAUGCGUAAGAGAAUAAAGUAUUAGUGCAGACGUUAAAAUCAGGA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6CE7E_12908/1-181</td>
+    <td>181</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>AUCUUUAAGGUGAGAAUCCUUAACAAUCCUGUGGGGCUUAUAUCUCAGCACUUAUUACCACUCUGAGGGGUGGCAGAUAAAAUUCAUUAUUGAUAGUAUGUUAUACUAGUCACUGACUAAGUGAGGUAUAUUGCAUUAUUAAUAAUGUGACUGAGUAUUAGUGCAGACGUUAAAAUCAGGA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6BD69_12908/24-204</td>
+    <td>181</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>CUCUUUAAGGUGAGAAUCCUUGACAAUCCUGUGGGGCUUAUAUCUCAGCACUUAUUACCACUCUGAGGGGUGGCAGAUAAAAUUCAUUAUUGAUAGUAUGUUAUACUAGUCACUGACUAAGUGAGGUAUAUUACAUUAUUAAUAAUGUGACUGAGUAUUAGUGCAGACGUUAAAAUCAGGA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D68401_12908/24-204</td>
+    <td>181</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>CUCUUUAAGGUGAGAAUCCUUGACAAUCCUGUGGGGCUCAUAUCUCAGCACUUAUUACCACUCUGAGGGGUGGCAGAUAAAAUUCAUUAUUGAUAGUAUGUUAUACUAGUCACUGACUAAGUGAAGUAUAUUACAUUAUUAAUAAUGUGACUGAGUAUUAGUGCAGACGUUAAAAUCAGGA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6921F_12908/1-112</td>
+    <td>112</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>AUCUAUACUGUGAGAAUCAGUGUCAACUUUGUGGGGCUUAUAUUUAGACAAUGUAUGAUAAUAGUUGCAAAUGUUAUUAUAUAAUCUAAUAUUAGUGCAGAUGAAAUCAAAG</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6B91F_12908/18-129</td>
+    <td>112</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>AUCUAUACUGUGAGAAUCAGUAUCAACUUUGUGGGGCUUAUAUUUAGACAAUGUAUGAUAAUAGUUGCAAAUAUUAUUAUAUAAUCUAAUAUUAGUGCAGAUGAAAUCAAAG</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6C0DB_12908/18-129</td>
+    <td>112</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>AUCUAUACUGUGAGAAUCAGUAUCAACUUUGUGGGGCUUAUAUUUAGACAAUGUAUAAUAAUAGUUGCAAAUGUUAUUAUAUAAUCUAAUAUUAGUGCAGAUGAAAUCAAAG</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D65910_12908/18-114</td>
+    <td>97</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>AUCUUUAAGGUGAGAAUCCUUGACAAUCCUGUGGGGCUUAUAUCUCGUGUUUAUAGUAGUGGUGUCACGAGUAUUAGUGCAGACGUUAAAAUCAGGA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D67087_12908/24-120</td>
+    <td>97</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>CUCUUUAAGGUGAGAAUCCUUAACAAUCCUGUGGGGCUUAUAUCUUGUGUUUAUAGUAGUGGUGUCACGAGUAUUAGUGCAGACGUUAAAAUCAGGA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6BA4D_12908/23-119</td>
+    <td>97</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>AUCUUUAAGGUGAGAAUCCUUAACAAUCCUGUGGGGCUUAUAUCUUGUGUUUAUAGUAGUGGUGUCACAAGUAUUAGUGCAGACGUUAAAAUCAGGA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D68517_12908/23-119</td>
+    <td>97</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>AUCUUUAAGGUGAGAAUCCUUAACAAUCCUGUGGAGCUUAUAUCUCGUGUUUAUAGUAGUGGUGUCACGAGUAUUAGUGCAGACGUUAAAAUCAGGA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6BD5A_12908/23-119</td>
+    <td>97</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>AUCUUUAAGGUGAGAAUCCUUAACAAUCCUGUGGGGCUUAUAUCUCGUGUUUAUAGUAGUGGUGUCACGAGUAUUAGUGCAGACGUUAAAAUCAGGA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6C03C_12908/1-97</td>
+    <td>97</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>CUCUUUAAGGUGAGAAUCCUUAACAAUCCUGUGGGGCUUAUAUCUCGUGUUUAUAGUAGUGGUGUCACGAGUAUUAGUGCAGACGUUAAAAUCAGGA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6C9D5_12908/23-119</td>
+    <td>97</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>AUCUUUAAGGUGAGAAUCCUUGACAAUCCUGUGGGGCUCAUAUCUCGUGUUUAUAGUAGUGGUGUCACGAGUAUUAGUGCAGACGUUAAAAUCAGGA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6C599_12908/31-127</td>
+    <td>97</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUCUAUAAGGUGAGAAUCCUUAACAAUCCUGUGGGGCUUAUAUCUCGUGUUUAUAGUAGUGGUGUCACGAGUAUUAGUGCAGACGUUAAAAUCAGGA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D67CF2_12908/18-110</td>
+    <td>93</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>AUCUAUACUGUGAGAAUCAGUAUCAACUUUGUGGGGCUUAUAUCUCGUAUUUAUAGUAGUGGUGUCACGAGUAUUAGUGCAGAUAAAUCAAAG</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6A589_12908/23-187</td>
+    <td>165</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>AUCUUUAAGGUGAGAAUCCUUGACAAUCCUGUGGGGCUUAUAUCUUUAUCUCUGAGGAGUUCUUUAUCGCCAUGGUAGUAGAGAAGAACUAUCUACGGUGGAUGGUCUACUGAAUGCUUGGAUGUGUAAGAGAAUAAAGUAUUAGUGCAGACGUUAAAAUCAGGA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D66E78_12908/23-187</td>
+    <td>165</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>AUCUUUAAGGUGAGAAUCCUUAACAAUCCUGUGGGGCUUAUAUCUUUAUCUCUGAGGAGUUCUUUAUCGCCAUGGUAGUAGAGAAGAACUAUCUACGGUGGAUGGUCUACUGAAUGCUUGGAUGUGUAAGAGAAUAAAGUAUUAGUGCAGACGUUAAAAUCAGGA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6B95F_12908/1-168</td>
+    <td>168</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUCAAGAGUAGUCCUAAUCGAUCAGUAUCAACUUUGUGGGGCUUAUAUCUUAGGAGCGCAUAUAAAUAAACCUAUAUCUCAAUAGAAGGAAUAAUAGUUGCAAAUAGUAUUCUGGAAAUUCUUUUAUAGUUAGGUUUAUACCUAAGUAUUAGUGCAGAGAAAUCAAAG</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D683E5_12908/1-163</td>
+    <td>163</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>UUCUACACUGUGUGAAUCAGUGUCAACUUUGUGGGGCUUAUAUCUUAGGAGCGCAUAUAAAUAAACCUAUAUCUCAAUAGAAGGAAUAAUAGUUGCAAAUAGUAUUCUGGAAAUUCUUUUAUAGUUAGGUUUAUACCUAAGUAUUAGUGCAGAGAAAUCAAAG</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D66E61_12908/1-163</td>
+    <td>163</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>UUCUACACUGUGUGAAUCAGUGUCAACUUUGUGGGGCUUAUAUCUUAGGAGCGCAUAUAAAUAAACCUAUAUCUCAAUAGAAGGAAUAAUAGUUGCAAAUAGUAUUCUGGAAAUUCUUUUAUAGUUAUGUUUAUACCUAAGUAUUAGUGCAGAGAAAUCAAAG</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6A696_12908/19-180</td>
+    <td>162</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>CCUAUACUGUGAGAAUCAGUAUCAACUUUGUGGGGCUUAUAUCUUAGGAGCGCAUAUAAAUAAACCUAUAUCUCAAUAGAAGGAAUAAUAGUUGCAAAUAGUAUUCUGGAAAUUCUUUUAUAGUUAUGUUUAUACCUAAGUAUUAGUGCAGAGAAAUCAAAG</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D67798_12908/19-180</td>
+    <td>162</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>CCUAUACUGUGAGAAUCAGUAUCAACUUUGUGGGGCUUAUAUCUUAGGAGCGCAUAUAAAUAAACCUAUAUCUCAAUAGAAGGAAUAAUAGUUGCAAAUAGUAUUCUGGAAAUUCUUUUAUAGUUAGGUUUAUACCUAAGUAUUAGUGCAGAGAAAUCAAAG</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6B237_12908/1-124</td>
+    <td>124</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>AUCUUUAAGGUGAGAAUCCUUAACAAUCCUGUGGGGCUUAUAUCUAUCAAAAGAACUUACAGCAGCUUUUAUAUUAGCUUAGCUGGACUUUAUGAUAGUAUUAGUGCAGACGUUAAAAUCAGGA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D65E2E_12908/1-126</td>
+    <td>126</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>AUCUUUAAGGUGAGAAUCCUUAACAAUCCUGUGGGGCUUAUAUCUAUUCAUACAGAGCGAGUACGUUCGGAAAAGCUUAAAAUACUUAUCUGUGAAAUAGUAUUAGUGCAGACGUUAAAAUCAGGA</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6B494_12908/1-126</td>
+    <td>126</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>UUCUUUAAGGUGAGAAUCCUUGACAAGCAUGUGGGGCUUAUAUCUAUUCAUACAGAGCAAGUACGUACGGGAAAGCUUAAAAUACUCAUCUGUAAAAUAGUAUUAGUGCAGACUUUAAAAUCAUGC</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D667AB_12908/1-134</td>
+    <td>134</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>UUCUUUAAGGUUAGCAAACCUUGACAAGCAUGUGGGGCAACUACAUUGUUUUAUUAAUUGUCUGGAAAACAAUUAAUAAUGCUAAAUCUAUUCCAGUAGAUAACAAUGAGUUUGUGCAGACUUAAAAAUCAUGC</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6C495_12908/1-86</td>
+    <td>86</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>ACCUUUAGGGUAAUCAUUCCCUGACAAGCAUGUGGGGCAAAGCAUGGUCAUUCUGACUAUGUAUUGUGCAGGCGUAAAAACCAUGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6AC66_12908/1-138</td>
+    <td>138</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>UUCAUUACUGUUAGUAAACAGUGACAAACCUGUGGGGCUACUAUUGGGUUCUAUAUUUCUCCUGCAAAGAGAAUAUAGUACUAACAUAUCAUUUGCAGUGAUAUGAAUCCAAAGUUAGUGCAGACUUAAAAAUCAGGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6A49C_12908/1-112</td>
+    <td>112</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>AUCUAUACUGUGAGAAUCAGUAUCAACUUUGUGGGGCUUAUAUUUAGACAAUGUAUGAUAAUAGUUGCAAAUGUUAUUAUAUAAUCUAAUAUUAGUGCAGAUGAAAUCAAAG</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D65FCD_12908/1-124</td>
+    <td>124</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>AUCUAUACUGUGAGAAUCAGUAUCAACUUUGUGGGGCUUAUAUUCAGUUAUCCCUUAUGUAAAAUAGGAGUCAUGACCUAAUAAUAUCAUAAUAUAAACUGAUAUUAGUGCAGAUAAAUCAAAG</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6A542_12908/1-132</td>
+    <td>132</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>UAAAUCAUCAGAAAAUGACAAACCUGUGGGGCGUAAGUAAAUACUUUUAUGCAAGAGAAGAAGAGUGGUGAUUGCUCUGAUUAGUAUUGAUAGUCACAAGUAUUUAUAAUCGUGCGGACGUAAAAAUCAGGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D67D97_12908/32-157</td>
+    <td>126</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUCCUCAGUAAAUGACAACCAUGUGGGGCGUAAGUAGUAUUUUAUGCAGAAUAAUUAGAGUGGUGAUUGCUUUAAUUAAUACUGAUAAUCACAAAUAUUAUGAUCGUGCGGACGUAAAAAUCAUGG</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6D31A_12908/32-157</td>
+    <td>126</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUCCUCAGAAAAUGACAACCAUGUGGGGCGUAAGUAGUAUUUUAUGCAGAAUAAUUAGAGUGGUGAUUGCUUUAAUUAAUACUGAUAAUCACAAAUAUUAUGAUCGUGCGGACGUAAAAAUCAUGG</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6BED4_12908/32-163</td>
+    <td>132</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUCCUCAGAAAAUGACAACCAUGUGGGGCGUAAGUAAUUGUAUAGACAUUUAUAUUUAUUAAAUACGAUAUAUAAAUAUAUUUGAAUAUUCGUAUUUAUGCAAUUAUAAUCGUGCGGACGUUAAAAUCAUGG</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6AD0F_12908/42-173</td>
+    <td>132</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>AUCAUCAGAAGAUGACAAGCAUGUGGGGCGUAAGUAAUUAUAUAGACAUUUAUAUUUAUUAAAUACGACAUAUAAAUAUAUUUGGACAUUCGUAUUUAUAUAAUUAUGAUCGUGCGGACGUUAAAAUCAUGC</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6AF5B_12908/42-173</td>
+    <td>132</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>AUCAUCAGAAGAUGACAAGCAUGUGGGGCGUAAGUAAUUAUAUAGACAUUUAUAUUUAUUAAAUACGACAUAUAAAUAUAUUUGGACAUUCGUAUUUAUAUAAUUAUGAUCGUGCGGACGUUAAAAUCAUGC</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6B8AA_12908/43-174</td>
+    <td>132</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>AUCAUCAGAAGAUGACAAGCAUGUGGGGCGUAAGUAAUUAUAUAGACAUUUAUAUUUAUUAAAUACGACAUAUAAAUAUAUUUGGACAUUCGUAUUUAUAUAAUUAUGAUCGUGCGGACGUUAAAAUCAUGC</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D68431_12908/43-174</td>
+    <td>132</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>AUCAUCAGAAGAUGACAAGCAUGUGGGGCGUAAGUAAUUAUAUAGACAUUUAUAUUUAUUAAAUACGACAUAUAAAUAUAUUUGGACAUUCGUAUUUAUAUAAUUAUGAUCGUGCGGACGUUAAAAUCAUGC</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6AA9A_12908/43-174</td>
+    <td>132</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>AUCAUCAGAAGAUGACAAGCAUGUGGGGCGUAAGUAAUUAUAUAGACAUUUAUAUUUAUUAAAUACGACAUAUAAAUAUAUUUGGACAUUCGUACUUAUAUAAUUAUGAUCGUGCAGACGUUAAAAUCAUGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D68B7D_12908/43-174</td>
+    <td>132</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>AUCAUCAGAAGAUGACAAGCAUGUGGGGCGUAAGUAAUUAUAUAGACAUUUAUAUUUAUUAAAUACGACAUAUAAAUAUAUUUGGACAUUCGUAUUUAUAUAAUUAUGAUCGUGCAGACGUUAAAAUCAUGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D68E2F_12908/43-174</td>
+    <td>132</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>AUCAUCAGAAGAUGACAAGCAUGUGGGGCGUAAGUAAUUAUAUAGACAUUUAUAUUUAUUAAAUACGACAUAUAAAUAUAUUUGGACACUCGUAUUUAUAUAAUUAUGAUCGUGCAGACGUUAAAAUCAUGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D68020_12908/43-174</td>
+    <td>132</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>AUCAUCAGAAGAUGACAAGCAUGUGGGGCGUAAGUAAUUAUAUAGACAUUUAUAUUUAUUAAAUACGACAUAUAAAUAUAUUUGGACACUCGUAUUUAUAUAAUUAUGAUCGUGCAGACGUUAAAAUCAUGC</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D66997_12908/1-124</td>
+    <td>124</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GCAGUCGUCCUCAGAAAAUGACAAACCUGUGGGGCGUAAGUAACUAAGUAGUAAUACUAUAAUGUCAGUAUGUAGUAUUACACUGAAACUGACUGUUAUGAUCGUGCGGACGUAAAAAUCAGGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6608A_12908/32-149</td>
+    <td>118</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUCCUCAGAAAAUGACAAACCUGUGGGGCGUAAGUAACUAAGUAGUAAUACUAUAAUGUCAGUAUGUAGUAUUACACUGAAACUGACUGUUAUGAUCGUGCGGACGUAAAAAUCAGGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6B082_12908/1-130</td>
+    <td>130</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>UAGAUCAUCAGAAGAUGACAAGCAUGUGGGGCGUAAGUAGUAUUUUUAUGCGGGAGAAGAAGGAUGGCAAUUGUUCCAAUUAGUACUGAUAAUUGCAAAUACUAUGAUCGUGCGGACGUUAAAAUCAUGC</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D673B3_12908/1-130</td>
+    <td>130</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>UAGAUCAUCAGAAGAUGACAAGCAUGUGGGGCGUAAGUAGUAUUUUUAUGCGGGAGAAGAAGAAUGGCAAUUGUUCUAAUUAGUACUGAUAAUUGCAAAUACUAUGAUCGUGCGGACGUUAAAAUCAUGC</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D673B3_1262980/1-130</td>
+    <td>130</td>
+    <td>Veillonella sp.</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>UAGAUCAUCAGAAGAUGACAAGCAUGUGGGGCGUAAGUAGUAUUUUUAUGCGGGAGAAGAAGAAUGGCAAUUGUUCUAAUUAGUACUGAUAAUUGCAAAUACUAUGAUCGUGCGGACGUUAAAAUCAUGC</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D670FE_12908/1-130</td>
+    <td>130</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>UAGAUCAUCAGAAAAUGACAAGCAUGUGGGGCGUAAAUAGUAUUUUUAUGCGGGAGAAGAAGAAUGGCAAUUGUUCCAAUUAGUACUGAUAAUUGCAAAUACUAUGAUCGUGCGGACGUUAAAAUCAUGC</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6B5FD_12908/38-167</td>
+    <td>130</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>UGGAUCAUCAGAAGAUGACAAGCAUGUGGGGCGUAAGUAGUAUUUUUAUGCGGGAGAAGAAGAAUGGCAAUUGUUCUAAUUAGUACUGAUAAUUGCAAAUACUAUGAUCGUGCGGACGUUAAAAUCAUGC</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D69B29_12908/43-169</td>
+    <td>127</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>AUCAUCAGAAAAUGACAAGCAUGUGGGGCGUAAAUAGUAUUUUUAUGCGGGAGAAGAAGAAUGGCAAUUGUUCCAAUUAGUACUAAUAAUUGCAAAUACUAUGAUCGUGCGGACGUUAAAAUCAUGC</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6AA40_12908/43-169</td>
+    <td>127</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>AUCAUCAGAAGAUGACAAGCAUGUGGGGCGUAAGUAGUAUUUUUAAGCAGGAGAAGAAGAAUGGCAAUUGUUCUAAUUAGUACUGAUAAUUGCAAAUACUAUGAUCGUGCGGACGUUAAAAUCAUGC</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6868F_12908/43-169</td>
+    <td>127</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>AUCAUCAGAAGAUGACAAGCAUGUGGGGCGUAAGUAGUAUUUUUAUGCGGGAGAAGAAGAAUGGCAAUUGUUCUAAUUAGUACUGAUAAUUGCAAAUACUAUGAUCGUGCGGACGUUAAAAUCAUGC</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D65715_12908/43-169</td>
+    <td>127</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>AUCAUCAGAAAAUGACAAGCAUGUGGGGCGUAAGUAGUAUUUUUAUGCAGGAGAAGAAGAAUGGCAAUUGUUCUAAUUAGUACUGAUAAUUGCAAAUACUAUGAUCGUGCGGACGUUAAAAUCAUGC</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6CD60_12908/1-130</td>
+    <td>130</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GGCGUCGUCAGAAAAUGACAAACCUGUGGGGCGUAAGUAGUAUUUUUAAGCGGGAGAAGAAGAGUGGCAAUUGCUCUAAUUAGUACUGAUAAUUGCAAAUAUUACAAUCGUGCGGACGUUAAAAUCAGGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D698D6_12908/1-130</td>
+    <td>130</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GGCGUCGUCAGAAAAUGACAAACCUGUGGGGCGUAAGUAGUAUUUUUAAGCGGGAGAAGAAGAGUGGCAAUUGCUCUAAUUAGUACUGAUAAUUGCAAAUAUUACGAUCGUGCGGACGUUAAAACCAGGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6C55C_12908/1-130</td>
+    <td>130</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GGCGUCGUCAGAAAAUGACAAACCUGUGGGGCGUAAGUAGUAUUUUUAAGCGGGAGAAGAAGAGUGGCAAUUGCUCUAAUUAGUACUGAUAAUUGCAAAUAUUACGAUCGUGCGGACGUUAAAAUCAGGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D67496_12908/31-157</td>
+    <td>127</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUCGUCAGAAAAUGACAAACCUGUGGGGCGUAAGUAGUAUUUUUAAGCGGGAGAAGAAGAGUGGCAAUUGCUCUAAUUAGUACUGAUAAUUGCAAAUAUUACAAUCGUGCGGACGUUAAAACCAGGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D65B53_12908/31-157</td>
+    <td>127</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUCGUCAGAAAAUGACAAACCUGUGGGGCGUAAGUAGUAUUUUUAAGCGGGAGAAGAAGGGUGGCAAUUGCCCUAAUUAGUACUGAUAAUUGCAAAUAUUACGAUCGUGCGGACGUUAAAAUCAGGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D68AFA_12908/31-157</td>
+    <td>127</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUCGUCAGAAAAUGACAAACCUGUGGGGCGUAAGUAGUAUUUUUAAGCGGGAGAAGAAGGGUGGCAAUUGCUCUAAUUAGUACUGAUAAUUGCAAAUAUUACGAUCGUGCGGACGUUAAAAUCAGGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D65726_12908/27-152</td>
+    <td>126</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>UCUUCAGAAGAUGACAAGCCUGUGGGGCGUAAGUAGUAUUUUUAAGCGGGAGAAGAAGAGUGGCAAUUGCUCUAAUUAGUACUGAUAAUUGCAAAUAUUACGAUCGUGCGGACGUUAAAAUCAGGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6A3DF_12908/27-152</td>
+    <td>126</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>UCUUCAGAAGAUGACAAGCCUGUGGGGCGUAAGUAGUAUUUUUAAGCGGGAGAAGAAGGGUGGCAAUUACUCUAAUUAGUACUGAUAAUUGCAAAUACUACGAUCGUGCGGACGUUAAAAUCAGGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6CCE4_12908/31-154</td>
+    <td>124</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>UUCAGAAAAUGACAAGCCUGUGGGGCGUAAGUAGUAUUUUUAAGCAGGAGAAGAAGAGUGGCAAUUGCUCUGAUUAGUACUGAUAAUUGCAAAUACUACGAUCGUGCAGACGUAAAAAUCAGGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D66789_12908/32-160</td>
+    <td>129</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>UUCCUCAGAAAAUGACAAACCUGUGGGGCGUAAGUAGAUAUGUCCUGUCUUGAGAAUUGGGCUUGCACAAUUCAAUAGAGCCUAGGGUGCAAGAACAUAUCUAUGAUCGUGCAGACGUUAAAAUCAGGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D691B3_12908/27-154</td>
+    <td>128</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>UCUUCAGAAGAUGACAAGCCUGUGGGGCGUAAAUAGAUAUGUCUUGUCAAAAGAAUUAGGCCUACAUAAUUCGAUUGAGCCCAAGGUGUAGGAACAUAUCUAUGAUCGUGCGGACGUUAAAAUCAGGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D671AC_12908/27-154</td>
+    <td>128</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>UCUUCAGAAGAUGACAAGCCUGUGGGGCGUAAAUAGAUAUGUCUUGUCAAAAGAAUUAGGCCUACAUAAUUCGAUUGAGUCCAAGGUGUAGGAACAUAUCUAUGAUCGUGCGGACGUUAAAAUCAGGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D67DE9_12908/27-154</td>
+    <td>128</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>UCUUCAGAAGAUGACAAGCCUGUGGGGCGUAAAUAGAUAUGUCUUGUCAAAAGAAUUAGGCCUACAUAAUUCGAUUGAGUCCAAGGUGUAGGAACAUAUCUAUGAUCGUGCGGACGUAAAAAUCAGGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D665D7_12908/44-181</td>
+    <td>138</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>AUCUUCAGAAAAUGACAAACCUGUGGGGCGUAAGUAGAAUGCAUAUCGCAUCUUUAUACCCUUGAAUACGGUAAUAGUGGAUAAAGUACGAGAUAUCCGUAUUUGUAUUCUAUGAUCGUGCAGACGUUAAAAUCAGGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D69905_12908/32-154</td>
+    <td>123</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUCUUCAGAAGAUGACAAGCCUGUGGGGCGUAAGUAAUAAGUCAUCAAUAACCGACAUUAUUGAGUUAUCGGCUGUCUGUCGGGACAGUGCUUAUUAUGAUCGUGCAGACGUUAAAAUCAGGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D690DB_12908/1-133</td>
+    <td>133</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUCUUCAGAAGAUGACAAACCUGUGGGGCGUAAGUAAUAAAGAAUCUGAAAGAUUGCAGAUAAGAGUAUGCACUUAUUGGCAAUAUGCAUACCAGAAUAAUUUAUUAUGAUCGUGCGGACGUUAAAAUCAGGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6D18D_12908/1-132</td>
+    <td>132</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUCUUCAGAAGAUGACAACCCGUGGGGCGUAAGUAAUAAAGAGUCUGAAAGAUGCCAGAUAAGAGUAGCCACUUAUUGGCAAUAUCCAUACCAGAAUAAUUUAUUAUGAUCGUGCGGACGUUAAAAUCAGGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D68D9A_12908/44-176</td>
+    <td>133</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUCUUCAGAAGAUGACAAACCUGUGGGGCGUAAGUAAUAAAGAGUCUGAAAGAUUGCAGAUAAGAGUAUGCACUUAUUGGCAAUAUGCAUACCAGAAUAAUUUAUUAUGAUCGUGCGGACGUUAAAAUCAGGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6802F_12908/44-176</td>
+    <td>133</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUCUUCAGAAGAUGACAAACCUGUGGGGCGUAAGUAAUAAAGAAUCUGAAAGAUUGCAGAUAAGAGUAUGCACUUAUUGGCAAUAUGCAUACCAGAAUAAUUUAUUAUGAUCGUGCAGACGUUAAAAUCAGGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D67662_12908/32-165</td>
+    <td>134</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUCUUCAGAAGAUGACAAACCUGUGGGGCGUAAGUAAUAAAGAGUUCUGAAAGAUUGCAGGUAAGAGUAUGCACUUAUUGGCAAUAUGCAUACCAGAAUAAUUUAUUACGAUCGUGCAGACGUUAAAAUCAGGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D69733_12908/32-165</td>
+    <td>134</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUCUUCAGAAGAUGACAAACCUGUGGGGCGUAAGUAAUAAAGAGUUCUGAAAGAUUGCAGGUAAGAGUAUGCACUUAUUAGCAAUAUGCAUACCAGAAUAAUUUAUUAUGAUCGUGCAGACGUUAAAAUCAGGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D680F9_12908/44-181</td>
+    <td>138</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUCUUCAGAAGAUGACAAACCUGUGGGGCGUAAGUAGAAUGCAUAUCGUGUCUUUAUACCAUUGAAUACGGUAAUAGUGGAUAAAGUGCGAGAUAUCCGUAUUUGUGUUCUAUGAUCGUGCAGACGUUAAAAUCAGGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6BE2A_12908/27-151</td>
+    <td>125</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>UCUUCAGAAGAUGACAAGCCUGUGGGGCGUAAGUAAGUGCAUAUCUAUACUGUACUAAAUACGAUAAGAUAAGUAUAGAAAUACUCGUAUUUGUGCUUAUAAUCGUGCGGACGUAAAAAUCAGGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6A87B_12908/27-151</td>
+    <td>125</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>UCUUCAGAAGAUGACAAGCCUGUGGGGCGUAAGUAAGUGCAUAUCUAUACUGUACUAAAUACGAUAAGAUAAGUAUAGAAAUACUCGUAUUUGUGCUUACGAUCGUGCGGACGUAAAAACCAGGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D69621_12908/27-171</td>
+    <td>145</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>UCUUCAGAAAAUGACAAGCCUGUGGGGCGUAAGUAAAUAGAUAAAUAUAUGUUAUAAAAUUAGCUAGAUGAAGUUGCUGGUAUACAUAUCUAGUUACAUAUAAACCAGAUAUCUAUUUAUAAUCGUGCGGACGUAAAAAUCAGGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6C6A9_12908/32-166</td>
+    <td>135</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>UUCCUCAGAAAAUGACAAACCUGUGGGGCGUAAGUAAAUGCAUAUCGUAUAUUAUUCCCUUGAAUACGGCAAUAGCGGGUAAUAUCCGAGAUACUCGUAUUUGUGUUUAUAAUCGUGCAGACGUUAAAAUCAGGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D67534_12908/31-165</td>
+    <td>135</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>AUCUUCAGAAGAUGACAAACCUGUGGGGCGAAAGUAAAUGCAUAUCGUAUAUUAUUCCCUUGAAUACGGCAAUAGCGGGUAAUAUCCGAGAUACUCGUAUUUGUGUUUAUGAUCGUGCAGACGUUAAAAUCAGGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D65EF2_12908/31-165</td>
+    <td>135</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUCUUCAGAAAAUGACAAACCUGUGGGGCGUAAGUAAACGCAUAUCGUAUAUUAUUCCCUUGAAUACGGCAAUAGCGGGUAAUAUCCGAGAUACUCGUAUUUGUGUUUAUAAUCGUGCAGACGUUAAAAUCAGGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D66920_12908/31-165</td>
+    <td>135</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUCUUCAGAAAAUGACAAACCUGUGGGGCGUAAGUAAAUGCAUAUCGUAUAUUAUUCCCUUGAAUACGGCAAUAGCGGGUAAUAUCCGAGAUACUCGUAUUUGUGUUUAUAAUCGUGCAGACGUUAAAAUCAGGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D69B30_12908/31-165</td>
+    <td>135</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUCCUCAGAAGAUGACAAACCUGUGGGGCGUAAGUAAAUGCAUAUCGUAUAUUAUUCCCUUGAAUACGGCAAUAGCGGGUAAUAUCCGAGAUACUCGUAUUUGUGUUUAUAAUCGUGCAGACGUUAAAAUCAGGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D65FC8_12908/31-165</td>
+    <td>135</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>AUCUUCAGAAGAUGACAAACCUGUGGGGCGUAAGUAAAUGCAUAUCGUAUAUUAUUCCCUUGAAUACGGCAAUAGCGGGUAAUAUCCGAGAUACUCGUAUUUGUGUUUAUGAUCGUGCAGACGUUAAAAUCAGGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D68DFD_12908/31-165</td>
+    <td>135</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>AUCUUCAGAAGAUGACAAACCUGUGGGGCGUAAGUAAAUGCAUAUCGUAUAUUAUUCCCUUGAAUACGGCAAUAGCGGGUAAUAUCCGAGAUACUCGUAUUUGUGUUUAUAAUCGUGCAGACGUUAAAAUCAGGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D66A8D_12908/31-148</td>
+    <td>118</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUCCUCAGAAAAUGACAAGCAUGUGGGGCGUAAGUAGCUAAGCAGUAAUGGUAUAGUAUCAGCAAUGACCAUUACGCCGAAACUGAUUGCUAUAAUCGUGCGGACGUUAAAAUCAUGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D686DF_12908/31-148</td>
+    <td>118</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUCCUCAGAAAAUGACAAGCAUGUGGGGCGUAAGUAGCUAAGCAGUAAUGGUAUAGUAUCAGCAAUGACCAUUACGCCGAAACUGAUUGCUAUGAUCGUGCGGACGUUAAAAUCAUGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6A624_12908/31-179</td>
+    <td>149</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUCCUCAGAAAAUGACAAGCAUGUGGGGCGUAAGUAUAUACAGCAAGGUUAUCGUUUAUCCUCAUUUAUACAGGUUAAUUGCGCAGCUGUAAAAAACGGGAUUGAUAGAAUAGAUGGUAUAUAUGAUCGUGCGGACGUUAAAAUCAUGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6CF99_12908/31-179</td>
+    <td>149</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUCCUCAGAAAAUGACAAGCAUGUGGGGCGUAAGUAUAUACAGCAAGGUUAUCGUUUAUCCUCAUUUAUACAGGUUAAUUGCGCAACUGUAAAAAACGGGAUUGAUAGAAUAGAUGGUAUAUAUGAUCGUGCGGACGUUAAAAUCAUGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D69C29_12908/31-179</td>
+    <td>149</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUCCUCAGAAAAUGACAAGCAUGUGGGGCGUAAGUAUAUACAGCAAGGUUAUCGUUUAUCCUCAUUUAUACAGGUUAAUUGCGCAACUGUAAAAAACGGAAUUGAUAGAAUAAAUGGUAUAUAUGAUCGUGCGGACGUUAAAACCAUGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D67E31_12908/31-179</td>
+    <td>149</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUCCUCAGAAAAUGACAAGCAUGUGGGGCGUAAGUAUAUACAGCAAGGUUAUCGUUUAUCCUCAUUUAUACAGGUUAAUUGCGCAACUGUAAAAAACGGGAUUGAUAGAAUAAAUGGUAUAUAUGAUCGUGCGGACGUUAAAACCAUGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6B7AA_12908/31-178</td>
+    <td>148</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUCCUCAGAAAAUGACAAGCAUGUGGGGCGUAAGUAUAUACAGUAGGUUAUCGUUUAUCCUCAUUUAUACAGGUUAAUUGCGCAACUGUAAAAAACGGGAUUGAUAGAAUAGAUGGUAUAUAUGAUCGUGCGGACGUUAAAAUCAUGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6C648_12908/31-178</td>
+    <td>148</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUCCUCAGAAAAUGACAAACAUGUGGGGCGUAAGUAUAUACAGCAGGUUAUCGUUUAUUCUCAUUUAUACAGGUUAAUUGCGCAACUGUAAAAAACGGGAUUGAUAGAAUAGAUGGUAUAUAUGAUCGUGCGGACGUUAAAAUCAUGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D660C8_12908/31-178</td>
+    <td>148</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUCCUCAGAAAAUGACAAACAUGUGGGGCGUAAGUAUAUACAGCAGGUUAUCGUUUAUCCUCAUUUAUGCAGGUUAAUUGCGCAACUGUAAAAAACGGGAUUGAUAGAAUAGAUGGUAUAUAUGAUCGUGCGGACGUUAAAAUCAUGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6B5F7_12908/31-178</td>
+    <td>148</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUCCUCAGAAAAUGACAAACAUGUGGGGCGUAAGUAUAUACAGCAGGUUAUCGUUUAUCCUCAUUUAUACAGGUUAAUUGCGCAACUGUAAAAAACGGGAUUGAUAGAAUAGAUGGUAUAUAUGAUCGUGCGGACGUUAAAAUCAUGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D688E2_12908/31-178</td>
+    <td>148</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUCCUCAGAAAAUGACAAGCAUGUGGGGCGUAAGUAUAUACAGCAGGUUAUCGUUUAUCCUCAUUUAUACAGGUUAAUUGCGCAACUGUAAAAAACGGGAUUGAUAGAAUAGAUGGUAUAUAUGAUCGUGCGGACGUUAAAAUCAUGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D67B78_12908/29-146</td>
+    <td>118</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>GUCCUCAGUAAAUGACAAACCUGUGGGGCGUAAGUAACUAAGUAGUAAUACUAUAAUGUCAGUAUGUAGUAUUACACUGAAACUGACUGUUAUGAUCGUGCGGACGUAAAAAUCAGGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D697C7_12908/1-147</td>
+    <td>147</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>UAAGUCAUCAGAAAAUGACAAACCUGUGGGGCGUAAGUAAGUAUAUAGAAACUCGGAUUAGUCACCGUUCAUGAAGAUGUACUCGUGACGUGCAAAGAGUUGUUACAUCUCUAAAUACUUAUGAUCGUGCGGACGUAAAAAUCAGGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D6CCF0_12908/57-203</td>
+    <td>147</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>UAAGUCAUCAGAAAAUGACAAACCUGUGGGGCGUAAGUAAGUAUAUAGAAACUUGGAUUAGUCACCGUUCACGAAGAUGUACUCGUGACGUGCAAAGAGUUGUUACAUCUCUAAAUACUUAUGAUCGUGCGGACGUAAAAAUCAGGU</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D66E14_12908/1-134</td>
+    <td>134</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>AUCCUUAAGGUUGAUAAACCUUGACAAGCCUAUGGGGCUACUAUAGUAUUCUCUUAUUACGGGUAAGAGUAUCAAGCAUAAGCGAAAUUCCGUGCUUAUGUAAUGCUAAGUUAGUGCAGACUUAAAAAUUAGGC</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000D68A13_12908/1-156</td>
+    <td>156</td>
+    <td>unclassified sequences</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>UUCACUAAGGUUGAUAAACCUUGACAUGCCUAUGGGGCUACUAUCAUGUUUCAUCCAAUGCAUAUCAGUGCAUACUAUCUAUAGAUAGAACAAUGGGAUGAUAUCAAACACUCUGAUAAGUGUAACAUGAAGUUAGUGCAGACUUAAAAAUUAGGC</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000EEAD20_32630/1-82</td>
+    <td>82</td>
+    <td>RNA (82-MER)</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>UUACUGUGAGAAUCAGUAACAAACAUGUGGGGCUUAUAUCUAAUCGAAAGAUUAGUAUUAGUGCAGACGUUAAAACCAUGUC</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
+    <td>URS0000EEAD29_32630/1-81</td>
+    <td>81</td>
+    <td>RNA (81-MER)</td>
+    <td><a href="http://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/fasta_files/RF02678.fa.gz" target="_blank"><b>RF02678</b></a></td>
+    <td>UUACUGUGAGAAUCAGUAACAAACAUGUGGGGCUUAUAUCUAAUCUUCGGAUUAGUAUUAGUGCAGACGUUAAAACCAUGU</td>
+  </tr>
+        </table>
+    </div>
+</body>
+</html>
+<p><br /><br /></p>
+:ET
