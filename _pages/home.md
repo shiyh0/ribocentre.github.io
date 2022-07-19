@@ -15,9 +15,9 @@ permalink: /
 
   <p>Example:&nbsp;
     <a href="https://www.ribocentre.org/searchsimple?q=RNA" title='Keyword'>RNA</a>&nbsp;&nbsp;
-    <a href="https://www.ribocentre.org/searchsimple?q=Ribo" title='DNAzyme Name'>Ribo</a>&nbsp;&nbsp;
-    <a href="https://www.ribocentre.org/searchsimple?q=sequence" title='Reaction'>Sequence</a>&nbsp;&nbsp;
-    <a href="https://www.ribocentre.org/searchsimple?q=Breaker" title='Author'>Breaker</a>&nbsp;&nbsp;
+    <a href="https://www.ribocentre.org/searchsimple?q=Ribo" title='Keyword'>Ribo</a>&nbsp;&nbsp;
+    <a href="https://www.ribocentre.org/searchsimple?q=sequence" title='Keyword'>Sequence</a>&nbsp;&nbsp;
+    <a href="https://www.ribocentre.org/searchsimple?q=Breaker" title='Keyword'>Breaker</a>&nbsp;&nbsp;
   </p>
   <p><b>BROWSE:&nbsp;</b>
     <a href="https://www.ribocentre.org/ribozyme">Ribozymes</a>&nbsp;&nbsp;
