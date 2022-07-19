@@ -7,6 +7,28 @@ permalink: /
 ---
 
 
+
+<br>
+
+<script async src="https://cse.google.com/cse.js?cx=2dcb771063bc36a13"></script>
+<div class="gcse-searchbox-only"></div>
+
+  <p>Example:&nbsp;
+    <a href="https://www.ribocentre.org/searchsimple?q=RNA" title='Keyword'>RNA</a>&nbsp;&nbsp;
+    <a href="https://www.ribocentre.org/searchsimple?q=Ribo" title='DNAzyme Name'>Ribo</a>&nbsp;&nbsp;
+    <a href="https://www.ribocentre.org/searchsimple?q=sequence" title='Reaction'>Sequence</a>&nbsp;&nbsp;
+    <a href="https://www.ribocentre.org/searchsimple?q=Breaker" title='Author'>Breaker</a>&nbsp;&nbsp;
+  </p>
+  <p><b>BROWSE:&nbsp;</b>
+    <a href="https://www.ribocentre.org/ribozyme">Ribozymes</a>&nbsp;&nbsp;
+    <a href="https://www.ribocentre.org/publications">Publications</a>&nbsp;&nbsp;
+    <a href="https://www.ribocentre.org/docs/VS-ribozyme.html" target="_blank"> VS with 3D structures</a>&nbsp;&nbsp;
+    <a href="https://www.ribocentre.org/Helps">Teams</a>&nbsp;&nbsp;
+  </p>
+
+<br>
+
+
 # Ribozyme wiki
 
 **The following information is adapted from [Wikipedia](https://en.wikipedia.org/)**
@@ -18,28 +40,41 @@ permalink: /
 
  
 
-Ribozymes (ribonucleic acid enzymes) are RNA molecules that have the ability to catalyze specific biochemical reactions, including RNA splicing in gene expression, similar to the action of protein enzymes. The 1982 discovery of ribozymes demonstrated that RNA can be both genetic material (like DNA) and a biological catalyst (like protein enzymes), and contributed to the RNA world hypothesis, which suggests that RNA may have been important in the evolution of prebiotic self-replicating systems.[1] The most common activities of natural or in vitro-evolved ribozymes are the cleavage or ligation of RNA and DNA and peptide bond formation.[2] For example, the smallest ribozyme known (GUGGC-3') can aminoacylate a GCCU-3' sequence in the presence of PheAMP.[3] Within the ribosome, ribozymes function as part of the large subunit ribosomal RNA to link amino acids during protein synthesis. They also participate in a variety of RNA processing reactions, including RNA splicing, viral replication, and transfer RNA biosynthesis. Examples of ribozymes include the hammerhead ribozyme, the VS ribozyme, Leadzyme and the hairpin ribozyme.<br><br>
+Ribozymes (ribonucleic acid enzymes) are RNA molecules that have the ability to catalyze specific biochemical reactions, including RNA splicing in gene expression, similar to the action of protein enzymes. The 1982 discovery of ribozymes demonstrated that RNA can be both genetic material (like DNA) and a biological catalyst (like protein enzymes), and contributed to the RNA world hypothesis, which suggests that RNA may have been important in the evolution of prebiotic self-replicating systems.<sup>[1]</sup> The most common activities of natural or in vitro-evolved ribozymes are the cleavage or ligation of RNA and DNA and peptide bond formation.<sup>[2]</sup> For example, the smallest ribozyme known (GUGGC-3') can aminoacylate a GCCU-3' sequence in the presence of PheAMP.<sup>[3]</sup> Within the ribosome, ribozymes function as part of the large subunit ribosomal RNA to link amino acids during protein synthesis. They also participate in a variety of RNA processing reactions, including RNA splicing, viral replication, and transfer RNA biosynthesis. Examples of ribozymes include the hammerhead ribozyme, the VS ribozyme, Leadzyme and the hairpin ribozyme.<br><br>
 
 
-<script async src="https://cse.google.com/cse.js?cx=2dcb771063bc36a13">
+
+  
+ 
+
+<!--<div class="gcse-searchbox-only"></div>
+<div id="cse" style="width: 100%;">Loading</div>
+<script src="http://www.google.com/jsapi" type="text/javascript"></script>
+<script type="text/javascript">
+  google.load('search', '1', {language : 'zh-CN'});
+  google.setOnLoadCallback(function() {
+    var customSearchControl = new google.search.CustomSearchControl('008229143262561549995:lqp6wdiqhsm');
+    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+    customSearchControl.draw('cse');
+  }, true);
 </script>
-<div class="gcse-searchbox-only"></div>
+<link rel="stylesheet" href="http://www.google.com/cse/style/look/default.css" type="text/css" />-->
 
-<form name="cse" id="searchbox" action="/search.html">
+<!--<form name="cse" id="searchbox" action="/search.html">
   <input type="hidden" name="cref" value="" />
   <input type="hidden" name="ie" value="utf-8" />
   <input type="hidden" name="hl" value="zh-CN" />
   <input name="q" type="text" size="40" />
   <input type="submit" name="sa" value="Search" />
 </form>
-<!--<form name="cse" id="searchbox_demo" action="http://www.google.com/cse">
+<form name="cse" id="searchbox_demo" action="http://www.google.com/cse">
   <input type="hidden" name="cref" value="" />
   <input type="hidden" name="ie" value="utf-8" />
   <input type="hidden" name="hl" value="zh-CN" />
   <input name="q" type="text" size="40" />
   <input type="submit" name="sa" value="搜索" />
-</form>-->
-<script type="text/javascript" src="http://www.google.com/cse/tools/onthefly?form=searchbox_demo&lang=zh-CN"></script>
+</form>
+<script type="text/javascript" src="http://www.google.com/cse/tools/onthefly?form=searchbox_demo&lang=zh-CN"></script>-->
 <!--<div class="pull-right">
     <form action="/search.html" class="navbar-search">
         <input type="text" placeholder="search" class="search-query input-medium" name="q">
@@ -112,7 +147,7 @@ Ribozymes (ribonucleic acid enzymes) are RNA molecules that have the ability to 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
-    <ol class="carousel-indicators">
+    <ol class="carousel-indicators" style="weight:300px;">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
@@ -122,24 +157,24 @@ Ribozymes (ribonucleic acid enzymes) are RNA molecules that have the ability to 
     </ol>
 
     <!-- Items -->
-    <div class="carousel-inner" markdown="0">
+    <div class="carousel-inner" markdown="0" >
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/VS_Home.png" alt="Slide 1" style="height:400px;"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/VS_Home.png" alt="Slide 1" style="height:300px;display:block;margin:0 auto;"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/HDV_Home.png" alt="Slide 2" style="height:400px;"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/HDV_Home.png" alt="Slide 2" style="height:300px;display:block;margin:0 auto;"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/GlmS_Home.png" alt="Slide 3" style="height:400px;"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/GlmS_Home.png" alt="Slide 3" style="height:300px;display:block;margin:0 auto;"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/Hairpin_Home.png" alt="Slide 4" style="height:400px;"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/Hairpin_Home.png" alt="Slide 4" style="height:300px;display:block;margin:0 auto;"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/Twister_Home.png" alt="Slide 5" style="height:400px;"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/Twister_Home.png" alt="Slide 5" style="height:300px;display:block;margin:0 auto;"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/Twister-sister_Home.png" alt="Slide 6" style="height:400px;"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/Twister-sister_Home.png" alt="Slide 6" style="height:300px;display:block;margin:0 auto;"/>
         </div>
 
     </div>
@@ -162,19 +197,33 @@ Ribozymes (ribonucleic acid enzymes) are RNA molecules that have the ability to 
 #### And more ...
 
 <div style="width: 100%;height: 400px; overflow-x:hidden;overflow-y: auto;">
-   Researchers who are investigating the origins of life through the RNA world hypothesis have been working on discovering a ribozyme which has the capacity to self-replicate, which would require it to have the ability to catalytically synthesize polymers of RNA. This should be able to happen in prebiotically plausible conditions with high rates of copying accuracy to prevent degradation of information but also allowing for the occurrence of occasional errors during the copying process to allow for Darwinian evolution to proceed.[4]<br>
-   Attempts have been made to develop ribozymes as therapeutic agents, as enzymes which target defined RNA sequences for cleavage, as biosensors, and for applications in functional genomics and gene discovery.[5]<br>
-   Before the discovery of ribozymes, enzymes, which are defined as catalytic proteins,[1] were the only known biological catalysts. In 1967, Carl Woese, Francis Crick, and Leslie Orgel were the first to suggest that RNA could act as a catalyst. This idea was based upon the discovery that RNA can form complex secondary structures.[2] These ribozymes were found in the intron of an RNA transcript, which removed itself from the transcript, as well as in the RNA component of the RNase P complex, which is involved in the maturation of pre-tRNAs. In 1989, Thomas R. Cech and Sidney Altman shared the Nobel Prize in chemistry for their "discovery of catalytic properties of RNA."[3] The term ribozyme was first introduced by Kelly Kruger et al. in 1982 in a paper published in Cell.[4]<br>
-        It had been a firmly established belief in biology that catalysis was reserved for proteins. However, the idea of RNA catalysis is motivated in part by the old question regarding the origin of life: Which comes first, enzymes that do the work of the cell or nucleic acids that carry the information required to produce the enzymes? The concept of "ribonucleic acids as catalysts" circumvents this problem. RNA, in essence, can be both the chicken and the egg.[5]<br>
-        In the 1980s Thomas Cech, at the University of Colorado at Boulder, was studying the excision of introns in a ribosomal RNA gene in Tetrahymena thermophila. While trying to purify the enzyme responsible for the splicing reaction, he found that the intron could be spliced out in the absence of any added cell extract. As much as they tried, Cech and his colleagues could not identify any protein associated with the splicing reaction. After much work, Cech proposed that the intron sequence portion of the RNA could break and reform phosphodiester bonds. At about the same time, Sidney Altman, a professor at Yale University, was studying the way tRNA molecules are processed in the cell when he and his colleagues isolated an enzyme called RNase-P, which is responsible for conversion of a precursor tRNA into the active tRNA. Much to their surprise, they found that RNase-P contained RNA in addition to protein and that RNA was an essential component of the active enzyme. This was such a foreign idea that they had difficulty publishing their findings. The following year, Altman demonstrated that RNA can act as a catalyst by showing that the RNase-P RNA subunit could catalyze the cleavage of precursor tRNA into active tRNA in the absence of any protein component.<br>
-        Since Cech's and Altman's discovery, other investigators have discovered other examples of self-cleaving RNA or catalytic RNA molecules. Many ribozymes have either a hairpin – or hammerhead – shaped active center and a unique secondary structure that allows them to cleave other RNA molecules at specific sequences. It is now possible to make ribozymes that will specifically cleave any RNA molecule. These RNA catalysts may have pharmaceutical applications. For example, a ribozyme has been designed to cleave the RNA of HIV. If such a ribozyme were made by a cell, all incoming virus particles would have their RNA genome cleaved by the ribozyme, which would prevent infection.<br>
-        Despite having only four choices for each monomer unit (nucleotides), compared to 20 amino acid side chains found in proteins, ribozymes have diverse structures and mechanisms. In many cases they are able to mimic the mechanism used by their protein counterparts. For example, in self cleaving ribozyme RNAs, an in-line SN2 reaction is carried out using the 2’ hydroxyl group as a nucleophile attacking the bridging phosphate and causing 5’ oxygen of the N+1 base to act as a leaving group . In comparison, RNase A, a protein that catalyzes the same reaction, uses a coordinating histidine and lysine to act as a base to attack the phosphate backbone.[1][clarification needed].<br>
-        Like many protein enzymes metal binding is also critical to the function of many ribozymes.[2] Often these interactions use both the phosphate backbone and the base of the nucleotide, causing drastic conformational changes.[3] There are two mechanism classes for the cleavage of phosphodiester backbone in the presence of metal. In the first mechanism, the internal 2’- OH group attacks phosphorus center in a SN2 mechanism. Metal ions promote this reaction by first coordinating the phosphate oxygen and later stabling the oxyanion. The second mechanism also follows a SN2 displacement, but the nucleophile comes from water or exogenous hydroxyl groups rather than RNA itself. The smallest ribozyme is UUU, which can promote the cleavage between G and A of the GAAA tetranucleotide via the first mechanism in the presence of Mn2+. The reason why this trinucleotide rather than the complementary tetramer catalyze this reaction may be because the UUU-AAA pairing is the weakest and most flexible trinucleotide among the 64 conformations, which provides the binding site for Mn2+.[4]<br>
-        Phosphoryl transfer can also be catalyzed without metal ions. For example, pancreatic ribonuclease A and hepatitis delta virus(HDV) ribozymes can catalyze the cleavage of RNA backbone through acid-base catalysis without metal ions.[5][6] Hairpin ribozyme can also catalyze the self-cleavage of RNA without metal ions but the mechanism is still unclear.[6]<br>
-        Ribozyme can also catalyze the formation of peptide bond between adjacent amino acid by lowering the activation entropy.[5]<br>
-        Although ribozymes are quite rare in most cells, their roles are sometimes essential to life. For example, the functional part of the ribosome, the biological machine that translates RNA into proteins, is fundamentally a ribozyme, composed of RNA tertiary structural motifs that are often coordinated to metal ions such as Mg2+ as cofactors.[1] In a model system, there is no requirement for divalent cations in a five-nucleotide RNA catalyzing trans-phenylalanation of a four-nucleotide substrate with 3 base pairs complementary with the catalyst, where the catalyst/substrate were devised by truncation of the C3 ribozyme.[2]<br>
-        The best-studied ribozymes are probably those that cut themselves or other RNAs, as in the original discovery by Cech[3] and Altman.[4] However, ribozymes can be designed to catalyze a range of reactions (see below), many of which may occur in life but have not been discovered in cells.[5]<br>
-        RNA may catalyze folding of the pathological protein conformation of a prion in a manner similar to that of a chaperonin.[6]
+   Researchers who are investigating the origins of life through the RNA world hypothesis have been working on discovering a ribozyme which has the capacity to self-replicate, which would require it to have the ability to catalytically synthesize polymers of RNA. This should be able to happen in prebiotically plausible conditions with high rates of copying accuracy to prevent degradation of information but also allowing for the occurrence of occasional errors during the copying process to allow for Darwinian evolution to proceed.<sup>[4]</sup><br>
+   Attempts have been made to develop ribozymes as therapeutic agents, as enzymes which target defined RNA sequences for cleavage, as biosensors, and for applications in functional genomics and gene discovery.<sup>[5]</sup><br>
+
+   <h4>Discovery</h4>
+   Before the discovery of ribozymes, enzymes, which are defined as catalytic proteins,<sup>[6]</sup> were the only known biological catalysts. In 1967, Carl Woese, Francis Crick, and Leslie Orgel were the first to suggest that RNA could act as a catalyst. This idea was based upon the discovery that RNA can form complex secondary structures.<sup>[7]</sup> These ribozymes were found in the intron of an RNA transcript, which removed itself from the transcript, as well as in the RNA component of the RNase P complex, which is involved in the maturation of pre-tRNAs. In 1989, Thomas R. Cech and Sidney Altman shared the Nobel Prize in chemistry for their "discovery of catalytic properties of RNA."<sup>[8]</sup> The term ribozyme was first introduced by Kelly Kruger et al. in 1982 in a paper published in Cell.[1]<br>
+   It had been a firmly established belief in biology that catalysis was reserved for proteins. However, the idea of RNA catalysis is motivated in part by the old question regarding the origin of life: Which comes first, enzymes that do the work of the cell or nucleic acids that carry the information required to produce the enzymes? The concept of "ribonucleic acids as catalysts" circumvents this problem. RNA, in essence, can be both the chicken and the egg.<sup>[9]</sup><br>
+   In the 1980s Thomas Cech, at the University of Colorado at Boulder, was studying the excision of introns in a ribosomal RNA gene in Tetrahymena thermophila. While trying to purify the enzyme responsible for the splicing reaction, he found that the intron could be spliced out in the absence of any added cell extract. As much as they tried, Cech and his colleagues could not identify any protein associated with the splicing reaction. After much work, Cech proposed that the intron sequence portion of the RNA could break and reform phosphodiester bonds. At about the same time, Sidney Altman, a professor at Yale University, was studying the way tRNA molecules are processed in the cell when he and his colleagues isolated an enzyme called RNase-P, which is responsible for conversion of a precursor tRNA into the active tRNA. Much to their surprise, they found that RNase-P contained RNA in addition to protein and that RNA was an essential component of the active enzyme. This was such a foreign idea that they had difficulty publishing their findings. The following year, Altman demonstrated that RNA can act as a catalyst by showing that the RNase-P RNA subunit could catalyze the cleavage of precursor tRNA into active tRNA in the absence of any protein component.<br>
+   Since Cech's and Altman's discovery, other investigators have discovered other examples of self-cleaving RNA or catalytic RNA molecules. Many ribozymes have either a hairpin – or hammerhead – shaped active center and a unique secondary structure that allows them to cleave other RNA molecules at specific sequences. It is now possible to make ribozymes that will specifically cleave any RNA molecule. These RNA catalysts may have pharmaceutical applications. For example, a ribozyme has been designed to cleave the RNA of HIV. If such a ribozyme were made by a cell, all incoming virus particles would have their RNA genome cleaved by the ribozyme, which would prevent infection.<br>
+        <h4>Structure and mechanism</h4>
+        Despite having only four choices for each monomer unit (nucleotides), compared to 20 amino acid side chains found in proteins, ribozymes have diverse structures and mechanisms. In many cases they are able to mimic the mechanism used by their protein counterparts. For example, in self cleaving ribozyme RNAs, an in-line SN2 reaction is carried out using the 2’ hydroxyl group as a nucleophile attacking the bridging phosphate and causing 5’ oxygen of the N+1 base to act as a leaving group . In comparison, RNase A, a protein that catalyzes the same reaction, uses a coordinating histidine and lysine to act as a base to attack the phosphate backbone.[2][clarification needed]<br>
+        Like many protein enzymes metal binding is also critical to the function of many ribozymes.<sup>[10]</sup> Often these interactions use both the phosphate backbone and the base of the nucleotide, causing drastic conformational changes.<sup>[11]</sup> There are two mechanism classes for the cleavage of phosphodiester backbone in the presence of metal. In the first mechanism, the internal 2’- OH group attacks phosphorus center in a SN2 mechanism. Metal ions promote this reaction by first coordinating the phosphate oxygen and later stabling the oxyanion. The second mechanism also follows a SN2 displacement, but the nucleophile comes from water or exogenous hydroxyl groups rather than RNA itself. The smallest ribozyme is UUU, which can promote the cleavage between G and A of the GAAA tetranucleotide via the first mechanism in the presence of Mn2+. The reason why this trinucleotide rather than the complementary tetramer catalyze this reaction may be because the UUU-AAA pairing is the weakest and most flexible trinucleotide among the 64 conformations, which provides the binding site for Mn2+.<sup>[12]</sup><br>
+        Phosphoryl transfer can also be catalyzed without metal ions. For example, pancreatic ribonuclease A and hepatitis delta virus(HDV) ribozymes can catalyze the cleavage of RNA backbone through acid-base catalysis without metal ions.<sup>[13]</sup><sup>[14]</sup> Hairpin ribozyme can also catalyze the self-cleavage of RNA without metal ions but the mechanism is still unclear.<sup>[14]</sup><br>
+        Ribozyme can also catalyze the formation of peptide bond between adjacent amino acid by lowering the activation entropy.<sup>[13]</sup><a href="https://en.wikipedia.org/wiki/Ribozyme" target="_blank">...</a>
+        [1] Kruger K, Grabowski PJ, Zaug AJ, Sands J, Gottschling DE, Cech TR (November 1982). "Self-splicing RNA: autoexcision and autocyclization of the ribosomal RNA intervening sequence of Tetrahymena". Cell. 31 (1): 147–157. doi:10.1016/0092-8674(82)90414-7. PMID 6297745. S2CID 14787080.<br>
+        [2] Fedor MJ, Williamson JR (May 2005). "The catalytic diversity of RNAs". Nature Reviews. Molecular Cell Biology. 6 (5): 399–412. doi:10.1038/nrm1647. PMID 15956979. S2CID 33304782.<br>
+        [3] Yarus M (October 2011). "The meaning of a minuscule ribozyme". Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences. 366 (1580): 2902–2909. doi:10.1098/rstb.2011.0139. PMC 3158920. PMID 21930581.<br>
+        [4] Martin LL, Unrau PJ, Müller UF (January 2015). "RNA synthesis by in vitro selected ribozymes for recreating an RNA world". Life. Basel, Switzerland. 5 (1): 247–68. doi:10.3390/life5010247. PMC 4390851. PMID 25610978.<br>
+        [5] Hean J, Weinberg MS (2008). "The Hammerhead Ribozyme Revisited: New Biological Insights for the Development of Therapeutic Agents and for Reverse Genomics Applications". In Morris KL (ed.). RNA and the Regulation of Gene Expression: A Hidden Layer of Complexity. Norfolk, England: Caister Academic Press. ISBN 978-1-904455-25-7.<br>
+        [6] Enzyme definition Dictionary.com Accessed 6 April 2007<br>
+        [7] Woese C (1967). The Genetic Code. New York: Harper and Row.
+        [8] The Nobel Prize in Chemistry 1989 was awarded to Thomas R. Cech and Sidney Altman "for their discovery of catalytic properties of RNA".<br>
+        [9] Visser CM (1984). "Evolution of biocatalysis 1. Possible pre-genetic-code RNA catalysts which are their own replicase". Origins of Life. 14 (1–4): 291–300. Bibcode:1984OrLi...14..291V. doi:10.1007/BF00933670. PMID 6205343. S2CID 31409366.<br>
+        [10]Pyle AM (August 1993). "Ribozymes: a distinct class of metalloenzymes". Science. 261 (5122): 709–714. Bibcode:1993Sci...261..709P. doi:10.1126/science.7688142. PMID 7688142.<br>
+        [11] Freisinger E, Sigel RK (2007). "From nucleotides to ribozymes—A comparison of their metal ion binding properties" (PDF). Coord. Chem. Rev. 251 (13–14): 1834–1851. doi:10.1016/j.ccr.2007.03.008.<br>
+        [12] Pyle AM (August 1993). "Ribozymes: a distinct class of metalloenzymes". Science. 261 (5122): 709–714. Bibcode:1993Sci...261..709P. doi:10.1126/science.7688142. JSTOR 2882234. PMID 7688142.<br>
+        [13] Lilley DM (October 2011). "Mechanisms of RNA catalysis". Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences. 366 (1580): 2910–2917. doi:10.1098/rstb.2011.0132. JSTOR 23035661. PMC 3158914. PMID 21930582.<br>
+        [14] Doudna JA, Cech TR (July 2002). "The chemical repertoire of natural ribozymes". Nature. 418 (6894): 222–228.Bibcode:2002Natur.418..222D. doi:10.1038/418222a. PMID 12110898. S2CID 4417095.
         <br><br>
 </div><br><br>
 
