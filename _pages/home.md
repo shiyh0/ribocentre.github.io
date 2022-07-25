@@ -22,12 +22,12 @@ permalink: /
   }
 
 </style>
-<div class="demo">
+<div id="demo">
 <script async src="https://cse.google.com/cse.js?cx=2dcb771063bc36a13"></script>
 <div class="gcse-searchbox-only"></div>
 
   <p>Example:&nbsp;
-    <a href="https://www.ribocentre.org/searchsimple?q=RNA" title='Keyword'>RNA</a>&nbsp;&nbsp;
+    <a href="https://cse.google.com.hk/cse?cx=2dcb771063bc36a13&q=rna#gsc.tab=0&gsc.q=rna&gsc.page=1" title='Keyword'>RNA</a>&nbsp;&nbsp;
     <a href="https://www.ribocentre.org/searchsimple?q=Ribo" title='Ribozyme Name'>Ribo</a>&nbsp;&nbsp;
     <a href="https://www.ribocentre.org/searchsimple?q=sequence" title='Reaction'>Sequence</a>&nbsp;&nbsp;
     <a href="https://www.ribocentre.org/searchsimple?q=Breaker" title='Author'>Breaker</a>&nbsp;&nbsp;
