@@ -29,13 +29,48 @@
         .navbar .navbar-text {
             color: #eeeeee;
         }
+        .navbar-default .navbar-nav>li>a {
+          color: #fff;
+        }
 
-		#now a{
-			color:#fff
+        .navbar-nav .nav2 a:hover {
+          color: #333;
+          font-size: 16px;
+        }
+        .navbar-nav-bar {
+    z-index: 1000;
+}
 
-		}
+        .navbar-nav .navbar-this:after {
+    content: '';
+    top: auto;
+    bottom: 0;
+    width: 100%;
+}
+
+
+    .navbar-nav .navbar-this:after, .navbar-nav-bar, .navbar-nav-tree .navbar-nav-itemed:after {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 0;
+    height: 5px;
+    background-color: #508000;
+    transition: all .2s;
+    -webkit-transition: all .2s;
+}
+
+
+
 		
   </style>
+
+ <script>
+  navbar.use('element', function() {
+      var element = navbar.element;
+
+  });
+ </script>
 
   <div class="container-fluid">
 	<div class="navbar-header">
@@ -56,14 +91,14 @@
 	</div>
 	<div class="collapse navbar-collapse" id="navbar-collapse-1">
 	  <ul class="nav navbar-nav navbar-right">
-		<li id="now"><a href="https://www.ribocentre.org/">Home</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/ribozyme">Ribozyme</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/application">Application</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/catalysis">Catalysis</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/structure">Structure</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/publications">Publications</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/sequence">Sequence</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/Helps">Helps</a></li>
+		<li class="navbar-nav-item nav2 navbar-this"><a href="https://www.ribocentre.org/">Home</a></li>
+		<li class="navbar-nav-item nav2"><a href="https://www.ribocentre.org/ribozyme">Ribozyme</a></li>
+		<li class="navbar-nav-item nav2"><a href="https://www.ribocentre.org/application">Application</a></li>
+		<li class="navbar-nav-item nav2"><a href="https://www.ribocentre.org/catalysis">Catalysis</a></li>
+		<li class="navbar-nav-item nav2"><a href="https://www.ribocentre.org/structure">Structure</a></li>
+		<li class="navbar-nav-item nav2"><a href="https://www.ribocentre.org/publications">Publications</a></li>
+		<li class="navbar-nav-item nav2"><a href="https://www.ribocentre.org/sequence">Sequence</a></li>
+		<li class="navbar-nav-item nav2"><a href="https://www.ribocentre.org/Helps">Helps</a></li>
 	  </ul>
 	</div>
   </div>
