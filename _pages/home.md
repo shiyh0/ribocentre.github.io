@@ -7,30 +7,21 @@ permalink: /
 ---
 
 
-
 <br>
-
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <head>
 </head>
 <style type="text/css">
-  .demo{
-    width:100%;
-    border-bottom:3px solid #ffffff
-    box-shadow:10px 5px 5px #888888
-    
-  }
-
 </style>
-<div id="demo">
+<div class="well">
 <script async src="https://cse.google.com/cse.js?cx=2dcb771063bc36a13"></script>
 <div class="gcse-searchbox-only"></div>
 
   <p>Example:&nbsp;
-    <a href="https://cse.google.com.hk/cse?cx=2dcb771063bc36a13&q=rna#gsc.tab=0&gsc.q=rna&gsc.page=1" title='Keyword'>RNA</a>&nbsp;&nbsp;
-    <a href="https://www.ribocentre.org/searchsimple?q=Ribo" title='Ribozyme Name'>Ribo</a>&nbsp;&nbsp;
-    <a href="https://www.ribocentre.org/searchsimple?q=sequence" title='Reaction'>Sequence</a>&nbsp;&nbsp;
-    <a href="https://www.ribocentre.org/searchsimple?q=Breaker" title='Author'>Breaker</a>&nbsp;&nbsp;
+    <a href="https://www.ribocentre.org/search.html?q=rna#gsc.tab=0&gsc.q=rna&gsc.page=1"  target="_blank">RNA</a>&nbsp;&nbsp;
+    <a href="https://www.ribocentre.org/search.html?q=Ribo#gsc.tab=0&gsc.q=Ribo&gsc.page=1"  target="_blank">Ribo</a>&nbsp;&nbsp;
+    <a href="https://www.ribocentre.org/search.html?q=Sequence#gsc.tab=0&gsc.q=Sequence&gsc.page=1"  target="_blank">Sequence</a>&nbsp;&nbsp;
+    <a href="https://www.ribocentre.org/search.html?q=breaker#gsc.tab=0&gsc.q=breaker&gsc.page=1"  target="_blank">Breaker</a>&nbsp;&nbsp;
   </p>
   <p><b>BROWSE:&nbsp;</b>
     <a href="https://www.ribocentre.org/ribozyme">Ribozymes</a>&nbsp;&nbsp;
@@ -38,6 +29,7 @@ permalink: /
     <a href="https://www.ribocentre.org/docs/VS-ribozyme.html" target="_blank"> VS with 3D structures</a>&nbsp;&nbsp;
     <a href="https://www.ribocentre.org/Helps">Teams</a>&nbsp;&nbsp;
   </p>
+
 </div>
 <br>
 
