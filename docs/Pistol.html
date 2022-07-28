@@ -58,11 +58,11 @@
 	  <ul class="nav navbar-nav navbar-right">
 		<li id="now"><a href="https://www.ribocentre.org/">Home</a></li>
 		<li id="now"><a href="https://www.ribocentre.org/ribozyme">Ribozyme</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/application">Application</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/catalysis">Catalysis</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/structure">Structure</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/publications">Publications</a></li>
 		<li id="now"><a href="https://www.ribocentre.org/sequence">Sequence</a></li>
+		<li id="now"><a href="https://www.ribocentre.org/structure">Structure</a></li>
+		<li id="now"><a href="https://www.ribocentre.org/catalysis">Catalysis</a></li>
+		<li id="now"><a href="https://www.ribocentre.org/application">Application</a></li>
+		<li id="now"><a href="https://www.ribocentre.org/publications">Publications</a></li>
 		<li id="now"><a href="https://www.ribocentre.org/Helps">Helps</a></li>
 	  </ul>
 	</div>
@@ -88,7 +88,7 @@
   <li><a href="#timeline">Timeline</a></li>
   <li><a href="#description">Description</a></li>
   <li><a href="#structure">Structure</a></li>
-  <li><a href="#reference">Reference</a></li>
+  <li><a href="#references">References</a></li>
 </ul>
 
 <h2 id="timeline">Timeline</h2>
@@ -402,13 +402,13 @@
 <meta charset="utf-8" />
     <script type="text/javascript" src="https://www.ribocentre.org/js/jquery.js"></script>
     <script type="text/javascript" src="https://www.ribocentre.org/js/d3.js"></script>
-    <script type='text/javascript' src='https://www.ribocentre.org/js/demo/rsvfornac.js'></script>
+    <script type="text/javascript" src="https://www.ribocentre.org/js/demo/rsvfornac.js"></script>
     <script type="text/javascript">
       "use strict"
       function customColorsContainer() {
          let container = new fornac.FornaContainer("#custom_colors",
                  {'applyForce': 1,'editable':'true', 'initialSize':[450,400]});
-         let options = {'structure': '((((([[[[[[)))))........((((....]]]]]]....{{{{{{{{{}}}}}}}}}.)))).',
+         let options = {'structure': '((((([[[[[[)))))........((((....]]]]]]....}}}}}}}.)))).',
              'sequence':             'GGCCGUUCGGGCGGCCAUAAACAGCCCUCAGACCCGAAGCGUUGGCGUUCCGGAACGCCGGUGGGA'
          };
          container.addRNA(options.structure, options);
@@ -422,7 +422,7 @@
      }
      handleCustomColorApply();
  
-     </script>
+  </script>
      </td>
 </tr></table>
 <p><br /></p>
@@ -516,7 +516,7 @@
 
 <p>The secondary and 3D structures of the pistol and hammerhead ribozymes have a number of similarities, suggesting that they might have related catalytic mechanisms [7]. Structural comparison reveals that the environment of G40 in pistol is very similar to that of G12 in the hammerhead, with G40 N1 2.5Å from the O2′ nucleophile, so that G40 is the likely general base for the cleavage reaction. The rate of cleavage rises log-linearly with pH up to pH = 8.75 and then reduces at higher pH values. Substitution of A G40I modification shifted down the pH maximum by ∼0.5 pH units [7], implicating G40 in proton transfer in the transition state. If pistol and the hammerhead ribozymes were mechanistically identical we would expect that the general acid would be a 2’-hydroxyl group, but this is not supported by experimental data. First, in the crystal structure the nearest O2′ (A32) is 5 Å from the O5′ [7]. Second,  an A32 O2′ NH2 substitution led to a 100-fold reduction of cleavage rate, but the pH profile was essentially unaltered from the unmodified ribozyme, in marked contrast to the equivalent data from the hammerhead ribozyme [7]. So rather than using the A32 O2′ group it seems most probable that the pistol ribozyme uses an inner sphere water molecule of a bound Mg2+ ion as general acid. The rate of cleavage was found to increase as the divalent metal ion was substituted Ca2+ &lt; Mg2+ &lt; Mn2+ &lt; Co2+, and there was a log-linear dependence on the pKa of the hydrated metal ion [7]. This is consistent with the metal ion acting as the general acid in the cleavage reaction, so that the rate increases with the reactivity of the ion as its pKa is lowered. At present this is the only ribozyme that appears to use a hydrated metal ion as a general acid in the cleavage reaction.</p>
 
-<h2 id="reference">Reference</h2>
+<h2 id="references">References</h2>
 
 <hr />
 

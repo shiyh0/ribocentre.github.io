@@ -13,7 +13,7 @@ categories: ribozyme
 - [Timeline](#timeline)
 - [Description](#description)
 - [Structure](#structure)
-- [Reference](#reference)
+- [References](#references)
 
 
 ## Timeline
@@ -401,7 +401,7 @@ The structure represents a post‐cleavage situation with a distance of 5.1 �
 </tr></table><br>
 
 
-## Reference
+## References
 
 ***
 

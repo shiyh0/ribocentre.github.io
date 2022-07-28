@@ -14,7 +14,7 @@ categories: ribozyme
 - [Timeline](#timeline)
 - [Description](#description)
 - [Structure](#structure)
-- [Reference](#reference)
+- [References](#references)
 
 
 
@@ -279,7 +279,7 @@ Secondary structure of the twister sister ribozyme with the scissile phosphates 
 <div id="custom_colors"></div>
 <form onsubmit="return handleCustomColorApply()" class="optionsform">
   <textarea id="CustomColorText" name="CustomColorText" textarea name="hide" style="display:none;" >
-    16-21:#8FC31F 29-34:#8FC31F 8:#D24841 23:#D24841  14:#D24841 27:#D24841 1-6:#E6A8CA 57-62:#E6A8CA  35-40:#036EB8  41-46:#036EB8  9-13:#EACD1F 48-53:#EACD1F 
+    16-21:#8FC31F 29-34:#8FC31F 8:#D24841 23:#D24841  14:#D24841 27:#D24841 1-6:#E6A8CA 57-62:#E6A8CA  35-40:#62C9D1 41-46:#62C9D1  9-13:#EACD1F 48-53:#EACD1F 
   </textarea>
 </form>
 <meta charset="utf-8" />
@@ -391,7 +391,7 @@ The active centre of the twister sister ribozyme. C54 and A55 flank the scissile
 
 
 
-## Reference
+## References
 
 ***
 
