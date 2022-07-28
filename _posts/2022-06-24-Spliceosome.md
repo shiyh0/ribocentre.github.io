@@ -13,7 +13,7 @@ categories: ribozyme
 
 - [Timeline](#timeline)
 - [Description](#description)
-- [Reference](#reference)
+- [References](#references)
 
 
 ## Timeline
@@ -565,7 +565,7 @@ The transesterification Reactions in the Spliceosome. The branching and ligation
 
 
 
-## Reference
+## References
 
 ***
 **[1] An amazing sequence arrangement at the 5′ ends of adenovirus 2 messenger RNA.**<br>

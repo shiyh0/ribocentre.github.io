@@ -11,7 +11,7 @@ categories: ribozyme
 
 - [Timeline](#timeline)
 - [Description](#description)
-- [Reference](#reference)
+- [References](#references)
 
 
 ## Timeline
@@ -181,7 +181,7 @@ categories: ribozyme
 
 
 
-## Reference
+## References
 
 ***
 
