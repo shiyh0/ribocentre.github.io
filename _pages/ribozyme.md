@@ -113,7 +113,7 @@ The nucleolytic ribozymes are a group of relatively small RNA species (most are 
             <tr>
             <td name="td0"><a href="https://www.ribocentre.org/docs/Hairpin.html" target="_blank"><b>Hairpin</b></a></td>
             <td name="td1">Hairpin ribozymes initially found in plant RNA viruses catalyze the site‐specific self‐cleavage reaction and consist of four stems in two general domains. The overall secondary structure of this RNA is hairpin-like and named the hairpin ribozyme.</td>
-            <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/" target="_blank"><b>1986</b></a></td>
+            <td name="td2"><a href="https://www.nature.com/articles/323349a0" target="_blank"><b>1986</b></a></td>
             <td name="td3">
             Hairpin ribozyme<br>
             Hairpin ribozyme 1 from viruses-like metatranscriptomes<br>
@@ -133,7 +133,7 @@ The nucleolytic ribozymes are a group of relatively small RNA species (most are 
             </tr>
             <tr>
             <td name="td0"><a href="https://www.ribocentre.org/docs/glms.html" target="_blank"><b>GlmS</b></a></td>
-            <td name="td1">The glmS riboswitch is a self‐cleavage ribozyme located in the 5' untranslated region of the glmS gene. The glmS riboswitch can fold into two conformations depending on the presence or absence of glucosamine-6-phosphate. In one of these two conformations, the RNA cleaves itself, thereby inhibiting the synthesis of glucosamine-6-phosphate.</td>
+            <td name="td1">The GlmS riboswitch is a self‐cleavage ribozyme located in the 5' untranslated region of the GlmS gene. The GlmS riboswitch can fold into two conformations depending on the presence or absence of glucosamine-6-phosphate. In one of these two conformations, the RNA cleaves itself, thereby inhibiting the synthesis of glucosamine-6-phosphate.</td>
             <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/15029187"><b>2004</b></a></td>
             <td name="td3">glmS glucosamine-6-phosphate activated ribozyme</td>
             <td name="td4"><a href="https://rfam.xfam.org/family/RF00234" target="_blank"><b>RF00234</b></a></td>
