@@ -1,93 +1,11 @@
-<!DOCTYPE html>
-<html>
+I"��<h4 id="click-into-different-sections">click into different sections:</h4>
 
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Ribosome</title>
-  <meta name="description" content="click into different sections:">
-  <!--<link rel="stylesheet" href="http://localhost:4000/css/main.css>-->
-  <link rel="stylesheet" href="https://www.ribocentre.org/css/main.css">
-  <link rel="canonical" href="http://localhost:4000/ribozyme/2022/04/19/Ribosome.html">
-  <link rel="shortcut icon" type ="image/x-icon" href="https://www.ribocentre.org/images/favicon.ico">
-
-
-
-</head>
-
-
-  <body>
-
-    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
-  <style>
-        /* Modify the background color https://www.color-hex.com/color-palette/1011604 */
-        .navbar {
-            background-color: #0874c4;
-        }
-        .navbar .navbar-brand,
-        .navbar .navbar-text {
-            color: #eeeeee;
-        }
-
-		#now a{
-			color:#fff
-
-		}
-		
-  </style>
-
-  <div class="container-fluid">
-	<div class="navbar-header">
-	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
-		<span class="sr-only">Toggle navigation</span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-	  </button>
-	
-    <a class="navbar-brand" href="https://www.ribocentre.org/">
-		
-		<!--<img class="navbar-brand" src="http://localhost:4000/images/Ribo_centre_logo.jpg" style='height:50px;margin-top:-14px;margin-bottom:0;padding:0;' alt="logo">
-		Ribo centre @ Bio island-->
-		<img class="navbar-brand" src="https://www.ribocentre.org/images/Ribo_centre_logo.jpg" style='height:50px;margin-top:-14px;margin-bottom:0;padding:0;' alt="logo">
-		&emsp;Ribo centre 
-	</a>
-	</div>
-	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right">
-		<li id="now"><a href="https://www.ribocentre.org/">Home</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/ribozyme">Ribozyme</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/sequence">Sequence</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/structure">Structure</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/catalysis">Catalysis</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/application">Application</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/publications">Publications</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/Helps">Helps</a></li>
-	  </ul>
-	</div>
-  </div>
-</div>
-
-
-    <div class="container-fluid">
-      <div class="row">
-        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-
-  <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">Ribosome</h1>
-    <p class="post-meta"><time datetime="2022-04-19T03:25:52+08:00" itemprop="datePublished">Apr 19, 2022</time> • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">He Yuanlin, Deng Jie</span></span></p>
-  </header>
-
-  <div class="post-content" itemprop="articleBody">
-    <h4 id="click-into-different-sections">click into different sections:</h4>
-
-    <ul>
-      <li><a href="#timeline">Timeline</a></li>
-      <li><a href="#description">Description</a></li>
-      <li><a href="#structure">Structure</a></li>
-      <li><a href="#references">References</a></li>
-    </ul>
+<ul>
+  <li><a href="#timeline">Timeline</a></li>
+  <li><a href="#description">Description</a></li>
+  <li><a href="#structure">Structure</a></li>
+  <li><a href="#references">References</a></li>
+</ul>
 
 <h2 id="timeline">Timeline</h2>
 
@@ -235,7 +153,6 @@
 .timeline-body > p + p {
   margin-top: 0px;
 }
-
 </style>
     <ul class="timeline">
         <li>
@@ -665,10 +582,10 @@
   <p>3D visualisation</p>
 </blockquote>
 
-<p>The crystallographic structure of the <em>H. marismortui</em> large ribosomal subunit. The 23S rRNA and 5S rRNA are shown in blue and ribosomal proteins are in green. The PTC is highlighted by nucleotides of the 23S rRNA peptidyl transferase loop and shown in red. The figure was generated from the PDB ID:1JJ2 at 2.4 Å resolution.</p>
+<p>The crystallographic structure of the <sup>H. marismortui</sup> large ribosomal subunit. The 23S rRNA and 5S rRNA are shown in blue and ribosomal proteins are in green. The PTC is highlighted by nucleotides of the 23S rRNA peptidyl transferase loop and shown in red. The figure was generated from the PDB ID:1JJ2 at 2.4 Å resolution.</p>
 
 <table><tr>
-<td><img src="http://127.0.0.1:4000/images/RibosomePic/ribosome-3D1.png" alt="drawing" style="height:385px" border="0" /></td>
+<td><img src="http://127.0.0.1:4000/images/RibosomePic/twister3D.png" alt="drawing" style="height:430px" border="0" /></td>
 <td>
 <html>
   <head>
@@ -705,8 +622,8 @@
         margin-right: 10px;
       }
       #myViewer{
-        width:450px;
-        height: 450px;
+        width:465px;
+        height: 470px;
         position:relative;  
       }
       
@@ -736,20 +653,17 @@
   <p>Catalytic centre</p>
 </blockquote>
 
-<p>Active-site residues of 50S subunits from <em>H. marismortui</em> with either bound substrate (a) or a transition-state analog (b). (a)The substrate binds to the active site. The figure indicates base pairing between the cytosine residues of the tRNA analogs at the A (yelllow) and P (orange) positions and the 23S rRNA bases (blue). The α-amino group of the substrate at the A position attacks the carbonyl carbon of the ester in the peptide moiety linking the substrate at the P position. (PDB ID: 1VQN) (b) Transition-state analog (TSA) bound to the peptidyl-transferase center. The hydrogen bond between the nucleophilic nitrogen and the 2’-OH of A76 at the P site is indicated. (PDB ID: 1VQP)</p>
+<p>Active-site residues of 50S subunits from <sup>H. marismortui</sup> with either bound substrate (a) or a transition-state analog (b). (a)The substrate binds to the active site. The figure indicates base pairing between the cytosine residues of the tRNA analogs at the A (yelllow) and P (orange) positions and the 23S rRNA bases (blue). The α-amino group of the substrate at the A position attacks the carbonyl carbon of the ester in the peptide moiety linking the substrate at the P position. (PDB ID: 1VQN) (b) Transition-state analog (TSA) bound to the peptidyl-transferase center. The hydrogen bond between the nucleophilic nitrogen and the 2’-OH of A76 at the P site is indicated. (PDB ID: 1VQP)</p>
 
 <table><tr>
 <td><img src="http://127.0.0.1:4000/images/RibosomePic/ribosome-m1.png" alt="drawing" style="width:450px;height:340px" /></td>
-<td><img src="http://127.0.0.1:4000/images/RibosomePic/ribosome-m2.png" alt="drawing" style="width:450px;height:350px" border="1" px="" /></td>
+<td><img src="http://127.0.0.1:4000/images/RibosomePic/ribosome-m1.png" alt="drawing" style="width:450px;height:350px" border="1" px="" /></td>
 </tr></table>
 <p><br /></p>
 
 <p>Concerted proton-shuttle mechanism. The P-site and A-site tRNA substrates are blue and red, respectively, ribosome residues are green, and ordered water molecules that stabilize the developing charges are gray. The attack of the a-NH2 group on the ester carbon results in a six-membered transition state, in which the 2’-OH group of the A-site A76 ribose moiety donates its proton to the adjacent 3’ oxygen while simultaneously receiving one of the amino protons. Alternatively, the water molecule (*) might be used for a proton shuttle.</p>
-<table><tr>
-<td><img src="http://127.0.0.1:4000/images/RibosomePic/ribosome-m3.png" alt="drawing" style="width:450px;height:340px" /></td>
-</tr></table>
-<p><br /><br /></p>
 
+<p><img src="http://127.0.0.1:4000/images/RibosomePic/ribosome-m3.png" alt="drawing" style="width:450px;height:350px" border="1" px="" /></p>
 
 <h2 id="references">References</h2>
 
@@ -777,155 +691,108 @@ Samaha, R. R., R. Green and H. F. Noller <br />
 <a href="https://www.ncbi.nlm.nih.gov/pubmed/7566085" target="_blank">Nature 377 (6547): 309-14.(1995)</a><br /><br />
 <strong>[7] A model of protein synthesis based on cryo-electron microscopy of the E. coli ribosome.</strong><br />
 Frank, J., J. Zhu, P. Penczek, Y. Li, S. Srivastava, A. Verschoor, M. Radermacher, R. Grassucci, R. K. Lata and R. K. Agrawal <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/7630422" target="_blank">Nature 376 (6539): 441-4.(1995)</a><br /><br />
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/7630422">Nature 376 (6539): 441-4.(1995)</a><br /><br />
 <strong>[8] A 9 A resolution X-ray crystallographic map of the large ribosomal subunit.</strong><br />
 Ban, N., B. Freeborn, P. Nissen, P. Penczek, R. A. Grassucci, R. Sweet, J. Frank, P. B. Moore and T. A. Steitz <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/9657144" target="_blank">Cell 93 (7): 1105-15.(1998)</a><br /><br />
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/7630422" target="_blank">Nature 376 (6539): 441-4.(1995)</a><br /><br />
 <strong>[9] Base-pairing between 23S rRNA and tRNA in the ribosomal A site.</strong><br />
 Kim, D. F. and R. Green <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/10619032" target="_blank">Mol Cell 4(5): 859-64.(1999)</a><br /><br />
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/9657144" target="_blank">Cell 93 (7): 1105-15.(1998)</a><br /><br />
 <strong>[10] Structure of a bacterial 30S ribosomal subunit at 5.5 A resolution.</strong><br />
 Clemons, W. J., J. L. May, B. T. Wimberly, J. P. McCutcheon, M. S. Capel and V. Ramakrishnan <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/10476960" target="_blank">Nature 400 (6747): 833-40.(1999)</a><br /><br />
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/10476960">Nature 400 (6747): 833-40.(1999)</a><br /><br />
 <strong>[11] The small ribosomal subunit from Thermus thermophilus at 4.5 A resolution: pattern fittings and the identification of a functional site.</strong><br />
 Tocilj, A., F. Schlunzen, D. Janell, M. Gluhmann, H. A. Hansen, J. Harms, A. Bashan, H. Bartels, I. Agmon, F. Franceschi and A. Yonath <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/10588692" target="_blank">Proc Natl Acad Sci U S A 96 (25): 14252-7.(1999)</a><br /><br />
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/10588692">Proc Natl Acad Sci U S A 96 (25): 14252-7.(1999)</a><br /><br />
 <strong>[12] X-ray crystal structures of 70S ribosome functional complexes.</strong><br />
 Cate, J. H., M. M. Yusupov, G. Z. Yusupova, T. N. Earnest and H. F. Noller <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/10497122" target="_blank">Science 285 (5436): 2095-104.(1999)</a><br /><br />
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/10497122">Science 285 (5436): 2095-104.(1999)</a><br /><br />
 <strong>[13] The complete atomic structure of the large ribosomal subunit at 2.4 A resolution.</strong><br />
 Ban, N., P. Nissen, J. Hansen, P. B. Moore and T. A. Steitz <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/10937989" target="_blank">Science 289 (5481): 905-20(2000)</a><br /><br />
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/10937989">Science 289 (5481): 905-20(2000)</a><br /><br />
 <strong>[14] The structural basis of ribosome activity in peptide bond synthesis.</strong><br />
 Nissen, P., J. Hansen, N. Ban, P. B. Moore and T. A. Steitz <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/10937990" target="_blank">Science 289 (5481): 920-30.(2000)</a><br /><br />
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/10937990">Science 289 (5481): 920-30.(2000)</a><br /><br />
 <strong>[15] Structural biology. The ribosome is a ribozyme.</strong><br />
 Cech, T. R. <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/10960319" target="_blank">Science 289(5481): 878-9.(2000)</a><br /><br />
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/10960319">Science 289(5481): 878-9.(2000)</a><br /><br />
 <strong>[16] A single adenosine with a neutral pKa in the ribosomal peptidyl transferase center.</strong><br />
 Muth, G. W., L. Ortoleva-Donnelly and S. A. Strobel <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/10937997" target="_blank">Science 289 (5481): 947-50.(2000)</a><br /><br />
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/10937997">Science 289 (5481): 947-50.(2000)</a><br /><br />
 <strong>[17] Structure of functionally activated small ribosomal subunit at 3.3 angstroms resolution.</strong><br />
 Schluenzen, F., A. Tocilj, R. Zarivach, J. Harms, M. Gluehmann, D. Janell, A. Bashan, H. Bartels, I. Agmon, F. Franceschi and A. Yonath <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/11007480" target="_blank">Cell 102 (5): 615-23.(2000)</a><br /><br />
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/11007480">Cell 102 (5): 615-23.(2000)</a><br /><br />
 <strong>[18] Structure of the 30S ribosomal subunit.</strong><br />
 Wimberly, B. T., D. E. Brodersen, W. M. Clemons, Jr., R. J. Morgan-Warren, A. P. Carter, C. Vonrhein, T. Hartsch and V. Ramakrishnan <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/11014182" target="_blank">Nature 407(6802): 327-339.(2000)</a><br /><br />
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/11014182">Nature 407(6802): 327-339.(2000)</a><br /><br />
 <strong>[19] Crystal structure of the ribosome at 5.5 A resolution.</strong><br />
 Yusupov, M. M., G. Z. Yusupova, A. Baucom, K. Lieberman, T. N. Earnest, J. H. Cate and H. F. Noller <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/11283358" target="_blank">Science 292 (5518): 883-96.(2001)</a><br /><br />
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/11283358">Science 292 (5518): 883-96.(2001)</a><br /><br />
 <strong>[20] Structural basis of the ribosomal machinery for peptide bond formation, translocation, and nascent chain progression.</strong><br />
 Bashan, A., I. Agmon, R. Zarivach, F. Schluenzen, J. Harms, R. Berisio, H. Bartels, F. Franceschi, T. Auerbach, H. A. Hansen, E. Kossoy, M. Kessler and A. Yonath <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/12535524" target="_blank">Mol Cell 11 (1): 91-102.(2003)</a><br /><br />
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/12535524">Mol Cell 11 (1): 91-102.(2003)</a><br /><br />
 <strong>[21] Structures of the bacterial ribosome at 3.5 A resolution.</strong><br />
 Schuwirth, B. S., M. A. Borovinskaya, C. W. Hau, W. Zhang, A. Vila-Sanjurjo, J. M. Holton and J. H. Cate <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/16272117" target="_blank">Science 310 (5749): 827-34.(2005)</a><br /><br />
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/16272117">Science 310 (5749): 827-34.(2005)</a><br /><br />
 <strong>[22] Crystal structure of the eukaryotic 40S ribosomal subunit in complex with initiation factor 1.</strong><br />
 Rabl, J., M. Leibundgut, S. F. Ataide, A. Haag and N. Ban<br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/21205638" target="_blank">Science 331 (6018): 730-6.(2011)</a><br /><br />
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/21205638">Science 331 (6018): 730-6.(2011)</a><br /><br />
 <strong>[23] Crystal structure of the eukaryotic 60S ribosomal subunit in complex with initiation factor 6.</strong><br />
 Klinge, S., F. Voigts-Hoffmann, M. Leibundgut, S. Arpagaus and N. Ban <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/22052974" target="_blank">Science 334 (6058): 941-8.(2011)</a><br /><br />
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/22052974">Science 334 (6058): 941-8.(2011)</a><br /><br />
 <strong>[24] The structure of the eukaryotic ribosome at 3.0 A resolution.</strong><br />
 Ben-Shem, A., D. L. N. Garreau, S. Melnikov, L. Jenner, G. Yusupova and M. Yusupov <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/22096102" target="_blank">Science 334 (6062): 1524-9.(2011)</a><br /><br />
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/22096102">Science 334 (6062): 1524-9.(2011)</a><br /><br />
 <strong>[25] High-resolution cryo-electron microscopy structure of the Trypanosoma brucei ribosome.</strong><br />
 Hashem, Y., A. des Georges, J. Fu, S. N. Buss, F. Jossinet, A. Jobe, Q. Zhang, H. Y. Liao, R. A. Grassucci, C. Bajaj, E. Westhof, S. Madison-Antenucci and J. Frank<br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/23395961" target="_blank">Nature 494 (7437): 385-9.(2013)</a><br /><br />
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/23395961">Nature 494 (7437): 385-9.(2013)</a><br /><br />
 <strong>[26] Cryo-EM structure of the Plasmodium falciparum 80S ribosome bound to the anti-protozoan drug emetine.</strong><br />
 Wong, W., X. C. Bai, A. Brown, I. S. Fernandez, E. Hanssen, M. Condron, Y. H. Tan, J. Baum and S. H. Scheres<br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/24913268" target="_blank">Elife 3.(2014)</a><br /><br />
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/24913268">Elife 3.(2014)</a><br /><br />
 <strong>[27] Structure of the yeast mitochondrial large ribosomal subunit.</strong><br />
 Amunts, A., A. Brown, X. C. Bai, J. L. Llacer, T. Hussain, P. Emsley, F. Long, G. Murshudov, S. Scheres and V. Ramakrishnan <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/24675956" target="_blank">Science 343 (6178): 1485-1489.(2014)</a><br /><br />
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/24675956">Science 343 (6178): 1485-1489.(2014)</a><br /><br />
 <strong>[28] Structure of the human 80S ribosome.</strong><br />
 Khatter, H., A. G. Myasnikov, S. K. Natchiar and B. P. Klaholz<br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/25901680" target="_blank">Nature 520 (7549): 640-5.(2015)</a><br /><br />
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/25901680">Nature 520 (7549): 640-5.(2015)</a><br /><br />
 <strong>[29] Structural snapshots of actively translating human ribosomes.</strong><br />
 Behrmann, E., J. Loerke, T. V. Budkevich, K. Yamamoto, A. Schmidt, P. A. Penczek, M. R. Vos, J. Burger, T. Mielke, P. Scheerer and C. M. Spahn <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/25957688" target="_blank">Cell 161 (4): 845-57.(2015)</a><br /><br />
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/25957688">Cell 161 (4): 845-57.(2015)</a><br /><br />
 <strong>[30] 2.8-A Cryo-EM Structure of the Large Ribosomal Subunit from the Eukaryotic Parasite Leishmania.</strong><br />
 Shalev-Benami, M., Y. Zhang, D. Matzov, Y. Halfon, A. Zackay, H. Rozenberg, E. Zimmerman, A. Bashan, C. L. Jaffe, A. Yonath and G. Skiniotis <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/27373148" target="_blank">Cell Rep 16 (2): 288-294.(2016)</a><br /><br />
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/27373148">Cell Rep 16 (2): 288-294.(2016)</a><br /><br />
 <strong>[31] Structures and stabilization of kinetoplastid-specific split rRNAs revealed by comparing leishmanial and human ribosomes.</strong><br />
 Zhang, X., M. Lai, W. Chang, I. Yu, K. Ding, J. Mrazek, H. L. Ng, O. O. Yang, D. A. Maslov and Z. H. Zhou <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/27752045" target="_blank">Nat Commun 7: 13223.(2016)</a><br /><br />
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/27752045">Nat Commun 7: 13223.(2016)</a><br /><br />
 <strong>[32] Determination of the ribosome structure to a resolution of 2.5 A by single-particle cryo-EM.</strong><br />
 Liu, Z., C. Gutierrez-Vargas, J. Wei, R. A. Grassucci, M. Sun, N. Espina, S. Madison-Antenucci, L. Tong and J. Frank <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/27750394" target="_blank">Protein Sci 26 (1): 82-92.(2017)</a><br /><br />
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/27750394">Protein Sci 26 (1): 82-92.(2017)</a><br /><br />
 <strong>[33] Mefloquine targets the Plasmodium falciparum 80S ribosome to inhibit protein synthesis.</strong><br />
 Wong, W., X. C. Bai, B. E. Sleebs, T. Triglia, A. Brown, J. K. Thompson, K. E. Jackson, E. Hanssen, D. S. Marapana, I. S. Fernandez, S. A. Ralph, A. F. Cowman, S. Scheres and J. Baum <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/28288098" target="_blank">Nat Microbiol 2: 17031.(2017)</a><br /><br />
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/28288098">Nat Microbiol 2: 17031.(2017)</a><br /><br />
 <strong>[34] Unique features of mammalian mitochondrial translation initiation revealed by cryo-EM.</strong><br />
 Kummer, E., M. Leibundgut, O. Rackham, R. G. Lee, D. Boehringer, A. Filipovska and N. Ban <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/30089917" target="_blank">Nature 560 (7717): 263-267.(2018)</a><br /><br />
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/30089917">Nature 560 (7717): 263-267.(2018)</a><br /><br />
 <strong>[35] Late steps in bacterial translation initiation visualized using time-resolved cryo-EM.</strong><br />
 Kaledhonkar, S., Z. Fu, K. Caban, W. Li, B. Chen, M. Sun, R. J. Gonzalez and J. Frank <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/31108498" target="_blank">Nature 570 (7761): 400-404.(2019)</a><br /><br />
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/31108498">Nature 570 (7761): 400-404.(2019)</a><br /><br />
 <strong>[36] Cryo-EM structure of the RNA-rich plant mitochondrial ribosome.</strong><br />
 Waltz, F., H. Soufari, A. Bochler, P. Giege and Y. Hashem<br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/32251374" target="_blank">Nat Plants 6 (4): 377-383.(2020)</a><br /><br />
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/32251374">Nat Plants 6 (4): 377-383.(2020)</a><br /><br />
 <strong>[37] Cryo-EM of elongating ribosome with EF-Tu•GTP elucidates tRNA proofreading.</strong><br />
 Loveland, A. B., G. Demo and A. A. Korostelev <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/32612237" target="_blank">Nature 584 (7822): 640-645.(2020)</a><br /><br />
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/32612237">Nature 584 (7822): 640-645.(2020)</a><br /><br />
 <strong>[38] Structural basis of mitochondrial translation.</strong><br />
 Aibara, S., V. Singh, A. Modelska and A. Amunts <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/32812867" target="_blank">Elife 9.(2020)</a><br /><br />
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/32812867">Elife 9.(2020)</a><br /><br />
 <strong>[39] Structure of the bacterial ribosome at 2 A resolution.</strong><br />
 Watson, Z. L., F. R. Ward, R. Meheust, O. Ad, A. Schepartz, J. F. Banfield and J. H. Cate <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/32924932" target="_blank">Elife 9.(2020)</a><br /><br />
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/32924932">Elife 9.(2020)</a><br /><br />
 <strong>[40] Structural basis of translation termination, rescue, and recycling in mammalian mitochondria.</strong><br />
 Kummer, E., K. N. Schubert, T. Schoenhut, A. Scaiola and N. Ban <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/33878294" target="_blank">Mol Cell 81 (12): 2566-2582.e6.(2021)</a><br /><br />
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/33878294">Mol Cell 81 (12): 2566-2582.e6.(2021)</a><br /><br />
 <strong>[41] Mechanism of mitoribosomal small subunit biogenesis and preinitiation.</strong><br />
 Itoh, Y., A. Khawaja, I. Laptev, M. Cipullo, I. Atanassov, P. Sergiev, J. Rorbach and A. Amunts <br />
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/35676484" target="_blank">Nature 606 (7914): 603-608.(2022)</a><br /><br /></p>
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/35676484">Nature 606 (7914): 603-608.(2022)</a><br /><br /></p>
 
-
-  </div>
-
-</article>
-
-      </div>
-    </div>
-
-    <div id="footer" class="panel">
-  <div class="panel-footer">
-	<div class="container-fluid">
-	  <div class="row">
-		<div class="col-sm-4">
-			
-		  <p>&copy 2022 Ribo centre. Site made with <a href="https://jekyllrb.com">Jekyll</a>;  <a href="https://www.ribocentre.org/aboutwebsite.html">copy and  modify it for your own research group.</a></p>
-              <p>We are part of the <a href="https://gzlab.ac.cn">Guangzhou Laboratory</a> and <a href="http://www.gzsys.org.cn/">Sun Yat-sen Memorial Hospital of Sun Yat-sen University</a>.</p>
-            
-
-		   <p>  </p><p>
-            		  
-            
-		</div>
-		<div class="col-sm-4">
-		  Funding:<br />
-		  - <a href="https://www.nsfc.gov.cn/">NSFC</a> <br />
-		  - <a href="http://www.most.gov.cn/">MOST IT+BT project</a> <br />
-          - <a href="https://gzlab.ac.cn">GZlab starting grant</a>
-		</div>
-		<div class="col-sm-4">
-		  Contact:<br />
-		  Building B2, Guangzhou Laboratory<br />
-		  96 Xingdao South Road, Guangzhou International Bio Island, <br />
-		  Haizhu District, Guangzhou, Guangdong,<br />
-		  China. <br />
-          (<a href="https://goo.gl/maps/hDLr6siEAS2Eaypt8">Maps</a>)
-		</div>
-	  </div>
-	</div>
-  </div>
-</div>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="https://www.ribocentre.org/js/bootstrap.min.js"></script>
-
-
-  </body>
-
-</html>
+:ET

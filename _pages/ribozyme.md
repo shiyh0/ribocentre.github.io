@@ -8,7 +8,7 @@ permalink: /ribozyme/
 # Ribozyme
 
 
-<strong>The well-established natural ribozymes are the hammerhead, hairpin, hepatitis delta virus (HDV), Varkud Satellite (VS), glmS, twister, twister sister, pistol and hatchet ribozyme, which make up the category of small ribozymes, as well as the group I and II introns, the ribosome, spliceosome and RNase P, which are classified as large ribozymes</strong><br><br>
+<strong>The well-established natural ribozymes are the hammerhead, hairpin, hepatitis delta virus (HDV), Varkud Satellite (VS), GlmS, twister, twister sister, pistol and hatchet ribozyme, which make up the category of small ribozymes, as well as the group I and II introns, the ribosome, spliceosome and RNase P, which are classified as large ribozymes(Discovery years means the year which corresponding ribozyme was found to be certified as a ribozyme.)</strong><br><br>
 
 
 > List of small ribozymes (also called the nucleolytic ribozyme)
@@ -228,14 +228,14 @@ The nucleolytic ribozymes are a group of relatively small RNA species (most are 
            <tr>
            <td name="td0"><a href="https://www.ribocentre.org/docs/groupII.html" target="_blank"><b>Group II self-splicing intron</b></a></td>
 <td name="td1">Group II introns are one of the largest ribozymes, with sequences ranging from 400 to 1000 nt in length. It is also the evolutionary ancestor of the spliceosome. Group II introns can catalyze RNA self-splicing through an autocatalytic two-step reaction and mediate reverse-splicing. It plays an essential role in the metabolism of organisms and is now being developed as a tool in biotechnology and gene therapy.</td>
-<td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/6986990" target="_blank"><b>1980</b></a></td>
+<td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/2417726" target="_blank"><b>1986</b></a></td>
 <td name="td3">Group II catalytic intron</td>
 <td name="td4"><a href="https://rfam.xfam.org/family/RF00029" target="_blank"><b>RF00029</b></a></td>
            </tr>
            <tr>
            <td name="td0"><a href="https://www.ribocentre.org/docs/RNaseP.html" target="_blank"><b>RNase P</b></a></td>
 <td name="td1">Ribonuclease (RNase) P is a ribozyme responsible for processing the 5′-leader of precursor transfer RNA (pre-tRNA) and is widely distributed in all three kingdoms of life: Archaea, Bacteria and Eucarya. RNase P is a ribonucleoprotein (RNP) complex consisting of catalytic RNA and one or more protein components.</td>
-<td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/4938965" target="_blank"><b>1971</b></a></td>
+<td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/6197186" target="_blank"><b>1983</b></a></td>
 <td name="td3">
 Nuclear RNase P<br>
 Bacterial RNase P class A<br>
@@ -254,7 +254,7 @@ RNase MRP</td>
            <tr>
            <td name="td0"><a href="https://www.ribocentre.org/docs/Ribosome.html" target="_blank"><b>Ribosome</b></a></td>
 <td name="td1">Ribosomes are the most critical macromolecules that widely exist in all three kingdoms of life, which catalyze the peptidyl transfer reaction to translate mRNA to proteins. It is the most abundant natural ribozyme with polymerase activity in nature.</td>
-<td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/808733" target="_blank"><b>1975</b></a></td>
+<td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/10960319" target="_blank"><b>2000</b></a></td>
 <td name="td3"> rRNA</td>
 <td name="td4">NA</td>
            </tr>
