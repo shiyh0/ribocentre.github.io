@@ -392,37 +392,37 @@
       </script>
 </td>
 <td>
-<link rel="stylesheet" type="text/css" href="https://www.ribocentre.org/css/fornac.css" media="screen" />
-<div id="custom_colors"></div>
-<form onsubmit="return handleCustomColorApply()" class="optionsform">
-  <textarea id="CustomColorText" name="hide" textarea="" style="display:none;">
-    25-28:#8FC31F  62-65:#8FC31F 43-51:#036EB8 52-60:#036EB8 1-5:#E6A8CA 12-16:#E6A8CA 6-11:#EACD1F 33-38:#EACD1F 
-  </textarea>
-</form>
-<meta charset="utf-8" />
-    <script type="text/javascript" src="https://www.ribocentre.org/js/jquery.js"></script>
-    <script type="text/javascript" src="https://www.ribocentre.org/js/d3.js"></script>
-    <script type="text/javascript" src="https://www.ribocentre.org/js/demo/rsvfornac.js"></script>
-    <script type="text/javascript">
-      "use strict"
-      function customColorsContainer() {
-         let container = new fornac.FornaContainer("#custom_colors",
-                 {'applyForce': 1,'editable':'true', 'initialSize':[450,400]});
-         let options = {'structure': '((((([[[[[[)))))........((((....]]]]]]....}}}}}}}.)))).',
-             'sequence':             'GGCCGUUCGGGCGGCCAUAAACAGCCCUCAGACCCGAAGCGUUGGCGUUCCGGAACGCCGGUGGGA'
-         };
-         container.addRNA(options.structure, options);
-         return container;
-     }
-     let cc = customColorsContainer();
- 
-     function handleCustomColorApply() {
-       cc.addCustomColorsText(document.getElementById("CustomColorText").value);
-       return false;
-     }
-     handleCustomColorApply();
- 
-  </script>
+  <link rel="stylesheet" type="text/css" href="https://www.ribocentre.org/css/fornac.css" media="screen" />
+  <div id="custom_colors"></div>
+  <form onsubmit="return handleCustomColorApply()" class="optionsform">
+    <textarea id="CustomColorText" name="hide" textarea="" style="display:none;">
+      25-28:#8FC31F  62-65:#8FC31F 43-51:#62C9D1 52-60:#62C9D1 1-5:#E6A8CA 12-16:#E6A8CA 6-11:#EACD1F 33-38:#EACD1F 
+    </textarea>
+  </form>
+  <meta charset="utf-8" />
+      <script type="text/javascript" src="https://www.ribocentre.org/js/jquery.js"></script>
+      <script type="text/javascript" src="https://www.ribocentre.org/js/d3.js"></script>
+      <script type='text/javascript' src='https://www.ribocentre.org/js/demo/rsvfornac.js'></script>
+      <script type="text/javascript">
+        "use strict"
+        function customColorsContainer() {
+           let container = new fornac.FornaContainer("#custom_colors",
+                   {'applyForce': 1,'editable':'true', 'initialSize':[450,400]});
+           let options = {'structure': '((((([[[[[[)))))........((((....]]]]]]....{{{{{{{{{}}}}}}}}}.)))).',
+               'sequence':             'GGCCGUUCGGGCGGCCAUAAACAGCCCUCAGACCCGAAGCGUUGGCGUUCCGGAACGCCGGUGGGA'
+           };
+           container.addRNA(options.structure, options);
+           return container;
+       }
+       let cc = customColorsContainer();
+   
+       function handleCustomColorApply() {
+         cc.addCustomColorsText(document.getElementById("CustomColorText").value);
+         return false;
+       }
+       handleCustomColorApply();
+   
+       </script>
      </td>
 </tr></table>
 <p><br /></p>

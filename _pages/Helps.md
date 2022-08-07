@@ -8,7 +8,7 @@ permalink: /Helps/
 # Helps
 
 <br><br>
-**Ribocentre is designed to contain comprehensive information of all natural ribozymes. In addition to a brief introduction to ribozymes，on each ribozyme page，you'll see a timeline of vital breakthroughs in ribozyme research，representative structures and the chemical mechanism of this ribozyme. Besides，we provide multiple indexing and searching methods，you can index/search about the publications, structure，catalytic and application of ribozymes that interest you. Users are more than welcome to submit new ribozyme cases or related comments through the submission portal to help us improve our database.**
+**Ribocentre is designed to contain comprehensive information of all natural ribozymes. In addition to a brief introduction to ribozymes,on each ribozyme page, you'll see a timeline of vital breakthroughs in ribozyme research,representative structures and the chemical mechanism of this ribozyme. Besides, we provide multiple indexing and searching methods, you can index/search about the publications, structures, catalyses and applications of ribozymes that interest you. Users are welcomed to submit new ribozyme cases or related comments through the submission portal to help us improve our database.**
 
 <br>
 **You can find:**
@@ -18,50 +18,46 @@ permalink: /Helps/
   <p>Pages</p>
 </blockquote>
 
-In <code class="language-plaintext highlighter-rouge"><font color=Gray>Home</font></code> page, we use the text introduction message from wiki. We hope you could get some basic concepts of ribozymes and know what is ribozyme.
+On <code class="language-plaintext highlighter-rouge"><font color=Gray><a href="https://www.ribocentre.org/">Home</a></font></code> page, we borrow the introduction from wikipedia, hoping you could get some basic concepts of ribozymes.
 
-You can clink the Ribozyme name in <code class="language-plaintext highlighter-rouge"><font color=Gray>Ribozyme</font></code> page, and then it would turn into a single page which shows the timeline, structure, cytalytic information and so on about the ribozyme you choosed. We hope you could get the message you want!
+Clink the Ribozyme name in <code class="language-plaintext highlighter-rouge"><font color=Gray><a href="https://www.ribocentre.org/ribozyme">Ribozyme</a></font></code> page, and it would send ypu to a new page which shows the timeline, structure, cytalytic information and so on of the ribozyme you choosed. We hope you can find all the information available in this database. 
 
-And in <code class="language-plaintext highlighter-rouge"><font color=Gray>Application</font></code> page, you can find two example of how a ribozyme be used by research teams to do something about application creatively. We would keep focus on this section and update our website page in time.
+The <code class="language-plaintext highlighter-rouge"><font color=Gray><a href="https://www.ribocentre.org/catalysis">Calalysis</a></font></code>page sums up information from catalytic centres, which is proved by  publicated works and shows classification of the ribozymes.
 
-We also sum up some catalytic centres information which be proved in publication to directly show a classification of the ribozymes in <code class="language-plaintext highlighter-rouge"><font color=Gray>Calalysis</font></code>page.
+And on the <code class="language-plaintext highlighter-rouge"><font color=Gray><a href="https://www.ribocentre.org/application">Application</a></font></code> page, there are two examples displaying the application process of ribozymes in previous researches. This page will be timely updated.
 
-In some pages, we use a table-format to show the information of different ribozymes.You can click the <code class="language-plaintext highlighter-rouge"><font color=Gray>header</font></code> to rank the column information. You could use the <code class="language-plaintext highlighter-rouge"><font color=Gray>Search</font></code>to find the ribozymes/years/and so on information you want. Under the table, you could find how many items we provided in the left. We also provide the function of  <code class="language-plaintext highlighter-rouge"><font color=Gray>Print</font></code> and download function when you click <code class="language-plaintext highlighter-rouge"><font color=Gray>Csv</font></code> <code class="language-plaintext highlighter-rouge"><font color=Gray>PDF</font></code> and so on to get the file format you want to save.
+The <code class="language-plaintext highlighter-rouge"><font color=Gray><a href="https://www.ribocentre.org/structure">Structure</a></font></code> page provides more details of ribozymes in different aspects and <code class="language-plaintext highlighter-rouge"><font color=Gray><a href="https://www.ribocentre.org/publications">Publication</a></font></code> page provide the links of single ribozyme page/structure details/publications.<br><br>
 
-The <code class="language-plaintext highlighter-rouge"><font color=Gray>Structure</font></code> and <code class="language-plaintext highlighter-rouge"><font color=Gray>Publication</font></code> page provide more details of ribozymes in different aspects and the link of single ribozyme page/structure details/publications.<br><br>
+On some pages, we use table-format to show the information of different ribozymes. You can click the <code class="language-plaintext highlighter-rouge"><font color=Gray>header</font></code> to rank the column information. You can use the <code class="language-plaintext highlighter-rouge"><font color=Gray>Search</font></code>to search for the ribozymes, years, and other information. Under the table, you could find how many items we provided in the left. The database also provide the function of  <code class="language-plaintext highlighter-rouge"><font color=Gray>Print</font></code> and download function when you click <code class="language-plaintext highlighter-rouge"><font color=Gray>CSV</font></code> <code class="language-plaintext highlighter-rouge"><font color=Gray>PDF</font></code> to chose the certain file format for your download.
+
 
 <blockquote>
-  <p>Summit</p>
+  <p>Submit</p>
 </blockquote>
 
-The more updated information and more functions are trying to be used in our database. We also need the voice from different people at the same time. It is our pleasure if we could get some feedback to make the database more integral, easier to be used. Such as:
-
+You are welcomed to send us feedback and updated information and your ideas or suggestions will be greatly valued. We will continue to have our database improved to be fully functional and user-friendly. 
 
 <img src="https://www.ribocentre.org/images/help.png" alt="drawing" style="weight:450px;height:200px;display:block;margin:0 auto;"><br>
 
-
-**You can add some information of your found about new Ribozyme ! We are pleasure if you could contact us with different opinion !**
-**Please feel free to contact us with some mistake you find! We need more feedback to complete our work to improve the convenience and applicability. You also could commit our work by the <code class="language-plaintext highlighter-rouge"><font color=Gray>Submit</font></code> button.**
-
-You could easily find the team group information under the <code class="language-plaintext highlighter-rouge"><font color=Gray>Submit</font></code> section. We also provide the way that you could leave your message online.<br><br>
-
-
- If you want to submit your work or give us some feedback, We add some examples you can follow to more accurately let us know what you want to tell us! Such as:<br><br>
- 
- This is a table of Ribozyme database .You could find the Ribozyme which you interested in and give the relative question or your own opinion!
- 
- <img src="https://www.ribocentre.org/images/HelpsPic/summit1.png" alt="drawing" style="weight:450px;height:200px;display:block;margin:0 auto;"><br><br>
- This is a example if you want to summit a/some new ribozyme/ribozymes or the latest publication. Please as complete as possible give us the information of the new one. 
- 
- <img src="https://www.ribocentre.org/images/HelpsPic/summit2.png" alt="drawing" style="weight:450px;height:200px;display:block;margin:0 auto;"><br><br>
- This is a example if you find some mistake in our database, we need some details to help us found the faults. Please tell us where you find the mistake. It is great if you could give us some advice at the same time!(No advice given is OK, please feel free. )
- 
- <img src="https://www.ribocentre.org/images/HelpsPic/summit3.png" alt="drawing" style="weight:450px;height:200px;display:block;margin:0 auto;"><br><br>
+**If you have information about new ribozymes, please contact us. Your opinions will be fully considered. Click the <code class="language-plaintext highlighter-rouge"><font color=Gray>Submit</font></code> button to send your suggestions and comments on Google sheet.**
  
 
-><a href="https://docs.google.com/spreadsheets/d/1dWzCMqP9_fmOxxBxpx6Rc0Ro2Her0YIn-07Rpx7fzEs/edit?usp=sharing"  target="_blank"><button>Summit</button></a><br><br>
-> If we could get your feedback, we would try to update the database  as soon as possible!
-> For large datasets please contact the database team group directly by using the submission form.
+The information and contact info ofthe team are under the <code class="language-plaintext highlighter-rouge"><font color=Gray><a href="https://docs.google.com/spreadsheets/d/1dWzCMqP9_fmOxxBxpx6Rc0Ro2Her0YIn-07Rpx7fzEs/edit?usp=sharing"  target="_blank">Submit</a></font></code> section. Here are some examples for you to submit your work or feedback:<br><br>
+ 
+ This is a table of Ribozyme databases .You can comment and have any questions here.
+ 
+ <img src="http://127.0.0.1:4000/images/HelpsPic/submit1.png" alt="drawing" style="weight:450px;height:210px;display:block;margin:0 auto;"><br><br>
+ This is an example if you want to submit a/some new ribozyme/ribozymes or the latest publication. Please provide us with as much information about the new one as possible. 
+ 
+ <img src="http://127.0.0.1:4000/images/HelpsPic/submit2.png" alt="drawing" style="weight:450px;height:200px;display:block;margin:0 auto;"><br><br>
+ This is an example for you if you find any mistakes on the web page. Please provide us with detailed information and maybe some advice.
+ 
+ <img src="http://127.0.0.1:4000/images/HelpsPic/submit3.png" alt="drawing" style="weight:450px;height:205px;display:block;margin:0 auto;"><br><br>
+ 
+
+><a href="https://docs.google.com/spreadsheets/d/1dWzCMqP9_fmOxxBxpx6Rc0Ro2Her0YIn-07Rpx7fzEs/edit?usp=sharing"  target="_blank"><button>Submit</button></a><br><br>
+> When your feedback is received, we will update the data and inform you as soon as we can.
+> For large datasets please contact the database team group directly with the submission form we given.
 
 <br><br>
 
@@ -187,9 +183,6 @@ You could easily find the team group information under the <code class="language
 {% if even_odd == 1 %}
 </div>
 {% endif %}<br><br>
-
-
-
 
 
 
