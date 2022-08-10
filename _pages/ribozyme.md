@@ -188,8 +188,8 @@ The nucleolytic ribozymes are a group of relatively small RNA species (most are 
             <td name="td4">NA</td>
             </tr>
             <tr>
-            <td name="td0"><a href="https://www.ribocentre.org/docs/COTC.html" target="_blank"><b>COTC ribozyme(Beta-globin co-transcriptional cleavage ribozyme)</b></a></td>
-            <td name="td1">Beta-globin co-transcriptional cleavage ribozyme (COTC ribozyme) is considered to be involved in β- RNA self-cleavage activity in the 3' flanking region of the globin gene. However, these findings have not been independently confirmed, and subsequent analysis has failed to prove the activity of the ribozyme.</td>
+            <td name="td0"><a href="https://www.ribocentre.org/docs/CoTC.html" target="_blank"><b>CoTC ribozyme(Beta-globin co-transcriptional cleavage ribozyme)</b></a></td>
+            <td name="td1">Beta-globin co-transcriptional cleavage ribozyme (CoTC ribozyme) is considered to be involved in β- RNA self-cleavage activity in the 3' flanking region of the globin gene. However, these findings have not been independently confirmed, and subsequent analysis has failed to prove the activity of the ribozyme.</td>
             <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/15565159" target="_blank"><b>2004</b></a></td>
             <td name="td3">Beta-globin co-transcriptional cleavage ribozyme</td>
             <td name="td4"><a href="https://rfam.xfam.org/family/RF00621" target="_blank"><b>RF00621</b></a></td>
@@ -227,7 +227,7 @@ The nucleolytic ribozymes are a group of relatively small RNA species (most are 
            </tr>
            <tr>
            <td name="td0"><a href="https://www.ribocentre.org/docs/groupII.html" target="_blank"><b>Group II self-splicing intron</b></a></td>
-<td name="td1">Group II introns are one of the largest ribozymes, with sequences ranging from 400 to 1000 nt in length. It is also the evolutionary ancestor of the spliceosome. Group II introns can catalyze RNA self-splicing through an autocatalytic two-step reaction and mediate reverse-splicing. It plays an essential role in the metabolism of organisms and is now being developed as a tool in biotechnology and gene therapy.</td>
+<td name="td1">Group II introns are one of the largest ribozymes, with sequences ranging from 400 to 1000 nt in length. It is also the evolutionary ancestor of the Spliceosome. Group II introns can catalyze RNA self-splicing through an autocatalytic two-step reaction and mediate reverse-splicing. It plays an essential role in the metabolism of organisms and is now being developed as a tool in biotechnology and gene therapy.</td>
 <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/2417726" target="_blank"><b>1986</b></a></td>
 <td name="td3">Group II catalytic intron</td>
 <td name="td4"><a href="https://rfam.xfam.org/family/RF00029" target="_blank"><b>RF00029</b></a></td>
@@ -260,8 +260,8 @@ RNase MRP</td>
            </tr>
            <tr>
            <td name="td0"><a href="https://www.ribocentre.org/docs/Spliceosome.html" target="_blank"><b>Spliceosome</b></a></td>
-<td name="td1">The spliceosome is a highly dynamic and heterogeneous metal ribozyme; During the splicing reaction, the dynamic spliceosome has an immobile core of about 20 protein and RNA components, which are organized around a conserved splicing active site. The divalent metal ions, coordinated by U6 small nuclear RNA (snRNA), catalyze the branching reaction and exon ligation.</td>
-<td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/902310" target="_blank"><b>1977</b></a></td>
+<td name="td1">The Spliceosome is a highly dynamic and heterogeneous metal ribozyme; During the splicing reaction, the dynamic spliceosome has an immobile core of about 20 protein and RNA components, which are organized around a conserved splicing active site. The divalent metal ions, coordinated by U6 small nuclear RNA (snRNA), catalyze the branching reaction and exon ligation.</td>
+<td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/24196718" target="_blank"><b>2013</b></a></td>
 <td name="td3"> snRNA</td>
 <td name="td4">NA</td>
            </tr>
