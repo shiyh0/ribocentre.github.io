@@ -226,7 +226,7 @@ permalink: /publications/
     <td>2004</td>
     <td>J. Proudfoot and A. Akoulitchev </td>
     <td>Autocatalytic RNA cleavage in the human beta-globin pre-mRNA promotes transcription termination.</td>
-    <td><a href="https://www.ribocentre.org/docs/Line1.html"  target="_blank" ><b>Beta-globin co-transcriptional cleavage ribozyme</b></a></td>
+    <td><a href="https://www.ribocentre.org/docs/CoTC.html"  target="_blank" ><b>CoTC ribozyme(Beta-globin co-transcriptional cleavage ribozyme)</b></a></td>
     <td>Discovery that the CoTC process in the human beta-globin gene involves an RNA self-cleaving activity</td>
     <td ><a href="https://www.ncbi.nlm.nih.gov/pubmed/15565159"  target="_blank" ><b> Nature 432(7016): 526-530.</b></a></td>
   </tr>

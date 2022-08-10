@@ -1,28 +1,19 @@
----
-layout: post
-title:  "CoTC ribozyme
-"
-date:   2022-04-18T14:25:52-05:00
-author: Deng Jie, Peng Xuemei
-categories: ribozyme
----
+I"=<h4 id="click-into-different-sections">click into different sections:</h4>
 
+<ul>
+  <li><a href="#timeline">Timeline</a></li>
+  <li><a href="#description">Description</a></li>
+  <li><a href="#references">References</a></li>
+</ul>
 
-#### click into different sections:
+<h2 id="timeline">Timeline</h2>
 
-- [Timeline](#timeline)
-- [Description](#description)
-- [References](#references)
-
-
-## Timeline
-
-***
+<hr />
 <html lang="zh-cn">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title></title>
 
 </head>
@@ -168,32 +159,27 @@ categories: ribozyme
           <div class="timeline-badge warning"></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/15565159"  target="_blank" style="font-size:25px;">2004</a> Discovery that the CoTC process in the human beta-globin gene involves an RNA self-cleaving activity [1]</h4>
+              <h4 class="timeline-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/15565159" target="_blank" style="font-size:25px;">2004</a> Discovery that the CoTC process in the human beta-globin gene involves an RNA self-cleaving activity [1]</h4>
             </div>
           </div>
         </li>
     </ul>
 </html>
 
-## Description
-***
+<h2 id="description">Description</h2>
+<hr />
 
-<font size=4>Beta-globin co-transcriptional cleavage ribozyme (CoTC ribozyme) is considered to be involved in β- RNA self-cleavage activity in the 3' flanking region of the globin gene. However, these findings have not been independently confirmed, and subsequent analysis has failed to prove the activity of the ribozyme.<br>
-<strong>CAUTION: We not aware of any publications confirming these observations. It is highly probable that CoTC is not a nucleolytic ribozyme.</strong>
-</font><br>
+<font size="4">Beta-globin co-transcriptional cleavage ribozyme (CoTC ribozyme) is considered to be involved in β- RNA self-cleavage activity in the 3' flanking region of the globin gene. However, these findings have not been independently confirmed, and subsequent analysis has failed to prove the activity of the ribozyme.<br />
+**CAUTION: We not aware of any publications confirming these observations. It is highly probable that CoTC is not a nucleolytic ribozyme.**
+</font>
+<p><br /></p>
 
+<h2 id="references">References</h2>
 
+<hr />
 
-## References
+<p><strong>[1] Autocatalytic RNA cleavage in the human beta-globin pre-mRNA promotes transcription termination.</strong><br />
+J. Proudfoot and A. Akoulitchev <br />
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/15565159">Nature 432(7016): 526-530.(2006)</a><br /><br /></p>
 
-***
-
-**[1] Autocatalytic RNA cleavage in the human beta-globin pre-mRNA promotes transcription termination.**<br>
-J. Proudfoot and A. Akoulitchev <br>
-[Nature 432(7016): 526-530.(2006)](https://www.ncbi.nlm.nih.gov/pubmed/15565159)<br><br>
-
-
-
-
-
-
+:ET
