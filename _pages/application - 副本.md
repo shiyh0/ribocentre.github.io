@@ -152,7 +152,7 @@ Schematic diagram for simple and effective generating in vitro transcripts with 
     <td>Sabine Müller</td>
     <td>2022</td>
     <td>Nucleic Acids Res</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/27670347"  target="_blank" ><b>27670354</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/34928378"  target="_blank" ><b>34928378</b></a></td>
   </tr>
   <tr>
     <td>GlmS ribozyme</td>
@@ -442,31 +442,40 @@ Schematic diagram for simple and effective generating in vitro transcripts with 
     <td>Chembiochem<br> &nbsp;&nbsp;</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/18098257"  target="_blank" ><b>18098257</b></a></td>
   </tr>
+    <tr>
+    <td>Group I intron</td>
+    <td>many researchers have engineered self-splicing ribozymes to trans-splicing ones for repairing or reprograming disease-associated genes to corresponding wild-type or entirely new genes for therapeutic purposes</td>
+    <td>Seong-Wook Lee</td>
+    <td>2018</td>
+    <td>Wiley Interdiscip Rev RNA</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/29383855"  target="_blank" ><b>29383855</b></a></td>
+  </tr>
+  <tr>
+    <td>Group I intron</td>
+    <td>①As a drug target:inhibition of ribozymes present in some pathogens but not in humans.② Exploiting the catalytic functions of ribozyme to target other cellular RNA of our interest;act as therapeutics to correct the defective cellular RNA by trans-splicing activity and are renowned as equivalent as that of any gene therapy for genetic disorders or it can be a “gene inhibitor” as it can cleave the target RNA.</td>
+    <td></td>
+    <td>2010</td>
+    <td>Recent Pat DNA Gene Seq</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/20218956"  target="_blank" ><b>20218956</b></a></td>
+  </tr>
+  <tr>
+    <td>Group I intron</td>
+    <td>Expressing circular RNA of desired sequence to Study the function of circular RNA and RNA topology in vivo.</td>
+    <td> M Ares Jr</td>
+    <td>1994</td>
+    <td>Proc Natl Acad Sci U S A</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/7512723"  target="_blank" ><b>7512723</b></a></td>
+  </tr>
+  <tr>
+    <td>Group I intron</td>
+    <td>Intron fusion represents a novel method of transcript stabilization, which is of potential use to augment other means of increasing gene expression for purposes of product amplification.</td>
+    <td>G Belfort, M Belfort</td>
+    <td>1988</td>
+    <td>Gene</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/2468580"  target="_blank" ><b>2468580</b></a></td>
+  </tr>
 </tbody>
 </table><br><br>
 
-<script type="text/javascript">
-  $(document).ready(function () {
-    $('#example').DataTable(
-      "ajax": {
-            "url": "data/arrays_custom_prop.txt",
-            "dataSrc": "demo"
-        }
-   </script>
-
-<body>
-    <div>
-	  <table id="example" class="display" style="width:100%">
-        <thead>
-            <tr>
-                <th>Name</th>
-                <th>Position</th>
-                <th>Office</th>
-                <th>Extn.</th>
-                <th>Start date</th>
-                <th>Salary</th>
-            </tr>
-        </thead>
-    </table>
 
 

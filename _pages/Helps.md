@@ -20,13 +20,15 @@ permalink: /Helps/
 
 On <code class="language-plaintext highlighter-rouge"><font color=Gray><a href="https://www.ribocentre.org/">Home</a></font></code> page, we borrow the introduction from wikipedia, hoping you could get some basic concepts of ribozymes.
 
-Clink the Ribozyme name in <code class="language-plaintext highlighter-rouge"><font color=Gray><a href="https://www.ribocentre.org/ribozyme">Ribozyme</a></font></code> page, and it would send ypu to a new page which shows the timeline, structure, cytalytic information and so on of the ribozyme you choosed. We hope you can find all the information available in this database. 
+Clink the Ribozyme name in <code class="language-plaintext highlighter-rouge"><font color=Gray><a href="https://www.ribocentre.org/ribozyme">Ribozymes</a></font></code> page, and it would send ypu to a new page which shows the timeline, structure, cytalytic information and so on of the ribozyme you choosed. We hope you can find all the information available in this database. 
 
 The <code class="language-plaintext highlighter-rouge"><font color=Gray><a href="https://www.ribocentre.org/catalysis">Calalysis</a></font></code>page sums up information from catalytic centres, which is proved by  publicated works and shows classification of the ribozymes.
 
-And on the <code class="language-plaintext highlighter-rouge"><font color=Gray><a href="https://www.ribocentre.org/application">Application</a></font></code> page, there are two examples displaying the application process of ribozymes in previous researches. This page will be timely updated.
+And on the <code class="language-plaintext highlighter-rouge"><font color=Gray><a href="https://www.ribocentre.org/application">Applications</a></font></code> page, there are two examples displaying the application process of ribozymes in previous researches. This page will be timely updated.
 
-The <code class="language-plaintext highlighter-rouge"><font color=Gray><a href="https://www.ribocentre.org/structure">Structure</a></font></code> page provides more details of ribozymes in different aspects and <code class="language-plaintext highlighter-rouge"><font color=Gray><a href="https://www.ribocentre.org/publications">Publication</a></font></code> page provide the links of single ribozyme page/structure details/publications.<br><br>
+The <code class="language-plaintext highlighter-rouge"><font color=Gray><a href="https://www.ribocentre.org/structure">Structures</a></font></code> page provides more details of ribozymes in different aspects and <code class="language-plaintext highlighter-rouge"><font color=Gray><a href="https://www.ribocentre.org/publications">Publications</a></font></code> page provide the links of single ribozyme page/structure details/publications.<br><br>
+
+
 
 On some pages, we use table-format to show the information of different ribozymes. You can click the <code class="language-plaintext highlighter-rouge"><font color=Gray>header</font></code> to rank the column information. You can use the <code class="language-plaintext highlighter-rouge"><font color=Gray>Search</font></code>to search for the ribozymes, years, and other information. Under the table, you could find how many items we provided in the left. The database also provide the function of  <code class="language-plaintext highlighter-rouge"><font color=Gray>Print</font></code> and download function when you click <code class="language-plaintext highlighter-rouge"><font color=Gray>CSV</font></code> <code class="language-plaintext highlighter-rouge"><font color=Gray>PDF</font></code> to chose the certain file format for your download.
 
@@ -186,13 +188,6 @@ The information and contact info ofthe team are under the <code class="language-
 
 
 
-#### Relative websites:
-
-
-[RCSB PDB](https://www.rcsb.org/) :As a member of the wwPDB, the RCSB PDB curates and annotates PDB data according to agreed upon standards. <br>
-[ Forna ](http://rna.tbi.univie.ac.at/forna/) :RNA Secondary Structure Visualization Using a Force Directed Graph Layout. <br>
-[ Rfam](https://rfam.xfam.org/) : The RNA families database <br>
-[Wiki](https://www.wikipedia.org/) : A typical wiki contains multiple pages for the subjects or scope of the project and could be either open to the public or limited to use within an organization for maintaining its internal knowledge base. <br> <br>
 
 
 
