@@ -451,8 +451,9 @@
 <div id="custom_colors"></div>
 <form onsubmit="return handleCustomColorApply()" class="optionsform">
   <textarea id="CustomColorText" name="hide" textarea="" style="display:none;">
-    8-18:#00ADEF 29-39:#00ADEF
-    42-44:#ED1B23 57-59:#ED1B23 48-53:#ED1B23 74-79:#ED1B23 2-7:#ED1B23 66-70:#ED1B23 80-84:#EA99C2 92-96:#EA99C2 86-91:#EA99C2 145-150:#EA99C2 101-108:#009343 137-143:#009343 111-119:#009343 124-132:#009343
+    9-19:#00ADEF 30-40:#00ADEF 61:#ED1B23 66:#ED1B23
+    43-45:#ED1B23 58-60:#ED1B23 49-54:#ED1B23 75-80:#ED1B23 4-8:#ED1B23 67-71:#ED1B23 
+    81-85:#EA99C2 93-97:#EA99C2 87-92:#EA99C2 146-151:#EA99C2 102-109:#009343 136-143:#009343 112-120:#009343 125-133:#009343
   </textarea>
 </form>
 <meta charset="utf-8" />
@@ -464,7 +465,7 @@
       function customColorsContainer() {
          let container = new fornac.FornaContainer("#custom_colors",
                  {'applyForce': 1,'editable':'true', 'initialSize':[450,400]});
-         let options = {'structure': '..(((((([[[[[[[[[[[..........]]]]]]]]]]]..(((...[[[[[[...)))[....])))))...]]]]]](((((.[[[[[[)))))....((((((((..[[[[[[[[[....]]]]]]]]]..))))))))).]]]]]].',
+         let options = {'structure': '...((((([[[[[[[[[[[..........]]]]]]]]]]]..(((...[[[[[[...)))[....])))))...]]]]]](((((.[[[[[[)))))....((((((((..[[[[[[[[[....]]]]]]]]]..))))))))..]]]]]].',
                          'sequence': 'AGCGCCUGGACUUAAAGCCAUUGCACUCCGGCUUUAAGUUGACGAGGGCAGGGUUUAUCGAGACAUCGGCGGGUGCCCUGCGGUCUUCCUGCGACCGUUAGAGGACUGGUAAAACCACAGGCGACUGUGGCAUAGAGCAGUCCGGGCAGGAA'
          };
          container.addRNA(options.structure, options);
