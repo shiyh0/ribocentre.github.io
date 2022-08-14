@@ -24,7 +24,7 @@ permalink: /
     <a href="https://www.ribocentre.org/search.html?q=rna#gsc.tab=0&gsc.q=rna&gsc.page=1"  target="_blank">RNA</a>&nbsp;&nbsp;
     <a href="https://www.ribocentre.org/search.html?q=Ribo#gsc.tab=0&gsc.q=Ribo&gsc.page=1"  target="_blank">Ribo</a>&nbsp;&nbsp;
     <a href="https://www.ribocentre.org/search.html?q=breaker#gsc.tab=0&gsc.q=breaker&gsc.page=1"  target="_blank">Breaker</a>&nbsp;&nbsp;<br>
-    <b>Quckily links:&nbsp;</b>
+    <b>Quick links:&nbsp;</b>
     <a href="https://www.ribocentre.org/ribozyme">Ribozymes</a>&nbsp;&nbsp;
     <a href="https://www.ribocentre.org/publications">Publications</a>&nbsp;&nbsp;
     <a href="https://www.ribocentre.org/docs/VS-ribozyme.html" target="_blank"> VS with 3D structures</a>&nbsp;&nbsp;
@@ -52,10 +52,6 @@ In addition to a brief introduction to ribozymes, on each <font color=black><str
 <!--<script type="text/javascript" src="{{ site.url }}{{ site.baseurl }}/js/ribozyme.js"></script>-->
 
 <!--<div style="width: 100%;height: 100%; overflow-x:hidden;">-->
-
-
-
-
 
 
 <head>
