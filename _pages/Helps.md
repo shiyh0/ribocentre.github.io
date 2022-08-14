@@ -58,8 +58,9 @@ The information and contact info ofthe team are under the <code class="language-
  
 
 ><a href="https://docs.google.com/spreadsheets/d/1dWzCMqP9_fmOxxBxpx6Rc0Ro2Her0YIn-07Rpx7fzEs/edit?usp=sharing"  target="_blank"><button>Submit</button></a><br><br>
-> When your feedback is received, we will update the data and inform you as soon as we can.
-> For large datasets please contact the database team group directly with the submission form we given.
+
+<font size="5">When your feedback is received, we will update the data and inform you as soon as we can.<br>
+For large datasets please contact the database team group directly with the submission form we given.</font>
 
 <br><br>
 
