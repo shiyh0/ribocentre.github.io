@@ -33,8 +33,19 @@ permalink: /
 </div>
 <br>
 
-### Ribozyme wiki
 
+<div class="well" style="border: 5px solid #0874c4; background-color: #fff;">
+
+<h3> Welcome</h3>
+
+<strong style="color:#0874c4;font-weight: bold">Ribocentre</strong> is designed to contain comprehensive information of all natural ribozymes. Ribozymes are good systems for understanding the 'sequence - structure - function' relationship of RNA molecules, since ribozymes are found in the genomes of species from all kingdoms of life and play a role in important reactions such as peptide-bond formation, RNA splicing, transfer RNA biosynthesis, and viral replication. This is therefore an excellent time to summarise these properties, and our new web-based database will make this generally accessible.<br>
+
+In addition to a brief introduction to ribozymes, on each <font color=black><strong>ribozyme</strong></font> page, you'll see a timeline of vital breakthroughs in ribozyme research, representative structures and the chemical mechanism of this ribozyme. Besides, we provide multiple indexing and searching methods, you can index/search about the <font color=black><strong>publications</strong></font>, <font color=black><strong>structures</strong></font>, <font color=black><strong>catalyses</strong></font> and <font color=black><strong>applications</strong></font> of ribozymes that interest you. Users are welcomed to submit new ribozyme cases or related comments through the submission portal to help us improve our database.<br><br>
+
+</div>
+
+
+<br>
 **The following information is adapted from [Wikipedia](https://en.wikipedia.org/)**
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script><br>
@@ -72,7 +83,16 @@ p {
 .tablink:hover {
   background-color: #777;
 }
-
+.well {
+    min-height: 20px;
+    padding: 19px;
+    margin-bottom: 5px;
+    background-color:white;
+    border: 1px solid #e8e8e8;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgb(0 0 0 / 5%);
+    box-shadow: inset 0 1px 1px rgb(0 0 0 / 5%);
+}
 /* Style the tab content (and add height:100% for full page content) */
 .tabcontent {
   color: black;
@@ -104,7 +124,7 @@ p {
   In the 1980s Thomas Cech, at the University of Colorado at Boulder, was studying the excision of introns in a ribosomal RNA gene in Tetrahymena thermophila. While trying to purify the enzyme responsible for the splicing reaction, he found that the intron could be spliced out in the absence of any added cell extract. As much as they tried, Cech and his colleagues could not identify any protein associated with the splicing reaction. After much work, Cech proposed that the intron sequence portion of the RNA could break and reform phosphodiester bonds. At about the same time, Sidney Altman, a professor at Yale University, was studying the way tRNA molecules are processed in the cell when he and his colleagues isolated an enzyme called RNase-P, which is responsible for conversion of a precursor tRNA into the active tRNA. Much to their surprise, they found that RNase-P contained RNA in addition to protein and that RNA was an essential component of the active enzyme. This was such a foreign idea that they had difficulty publishing their findings. The following year, Altman demonstrated that RNA can act as a catalyst by showing that the RNase-P RNA subunit could catalyze the cleavage of precursor tRNA into active tRNA in the absence of any protein component.<br>
   Since Cech's and Altman's discovery, other investigators have discovered other examples of self-cleaving RNA or catalytic RNA molecules. Many ribozymes have either a hairpin - or hammerhead - shaped active center and a unique secondary structure that allows them to cleave other RNA molecules at specific sequences. It is now possible to make ribozymes that will specifically cleave any RNA molecule. These RNA catalysts may have pharmaceutical applications. For example, a ribozyme has been designed to cleave the RNA of HIV. If such a ribozyme were made by a cell, all incoming virus particles would have their RNA genome cleaved by the ribozyme, which would prevent infection.<br>
   
-  You can find more details in <a href="https://www.ribocentre.org/ribozyme/">Ribozyme</a> pages and click the link into the single ribozyme page such as <a href="https://www.ribocentre.org/docs/twister.html">Twister</a>.The page gives the information of research timeline,structure,catalysis and relative publications.<br><br>
+  You can find more details in <a href="https://www.ribocentre.org/ribozyme/"><strong>Ribozyme</strong></a> pages and click the link into the single ribozyme page such as <a href="https://www.ribocentre.org/docs/twister.html"><strong>Twister</strong></a>. The page gives the information of research timeline,structure,catalysis and relative publications.<br><br>
 
   [1] Kruger K, Grabowski PJ, Zaug AJ, Sands J, Gottschling DE, Cech TR (November 1982). "Self-splicing RNA: autoexcision and autocyclization of the ribosomal RNA intervening sequence of Tetrahymena". Cell. 31 (1): 147-157. doi:10.1016/0092-8674(82)90414-7. PMID 6297745. S2CID 14787080.<br>
   [2] Fedor MJ, Williamson JR (May 2005). "The catalytic diversity of RNAs". Nature Reviews. Molecular Cell Biology. 6(5): 399-412. doi:10.1038/nrm1647. PMID 15956979. S2CID 33304782.<br>
@@ -170,12 +190,12 @@ p {
 <div id="ribozymewikisection3"></div>
 <div id="ribozymewikisection4"></div>
 <div id="ribozymewikisection5"></div><br>
-  <p>Despite having only four choices for each monomer unit (nucleotides), compared to 20 amino acid side chains found in proteins, ribozymes have diverse structures and mechanisms. In many cases they are able to mimic the mechanism used by their protein counterparts. For example, in self cleaving ribozyme RNAs, an in-line SN2 reaction is carried out using the 2' hydroxyl group as a nucleophile attacking the bridging phosphate and causing 5' oxygen of the N+1 base to act as a leaving group . In comparison, RNase A, a protein that catalyzes the same reaction, uses a coordinating histidine and lysine to act as a base to attack the phosphate backbone.<sup>[2]</sup>[clarification needed]<br>
-  Like many protein enzymes metal binding is also critical to the function of many ribozymes.<sup>[10]</sup> Often these interactions use both the phosphate backbone and the base of the nucleotide, causing drastic conformational changes.<sup>[11]</sup> There are two mechanism classes for the cleavage of phosphodiester backbone in the presence of metal. In the first mechanism, the internal 2'- OH group attacks phosphorus center in a SN2 mechanism. Metal ions promote this reaction by first coordinating the phosphate oxygen and later stabling the oxyanion. The second mechanism also follows a SN2 displacement, but the nucleophile comes from water or exogenous hydroxyl groups rather than RNA itself. The smallest ribozyme is UUU, which can promote the cleavage between G and A of the GAAA tetranucleotide via the first mechanism in the presence of Mn<sup>2+</sup>. The reason why this trinucleotide rather than the complementary tetramer catalyze this reaction may be because the UUU-AAA pairing is the weakest and most flexible trinucleotide among the 64 conformations, which provides the binding site for Mn<sup>2+</sup>.<sup>[12]</sup><br>
-  Phosphoryl transfer can also be catalyzed without metal ions. For example, pancreatic ribonuclease A and hepatitis delta virus(HDV) ribozymes can catalyze the cleavage of RNA backbone through acid-base catalysis without metal ions.<sup>[13]</sup><sup>[14]</sup> Hairpin ribozyme can also catalyze the self-cleavage of RNA without metal ions but the mechanism is still unclear.<sup>[14]</sup><br>
-  Ribozyme can also catalyze the formation of peptide bond between adjacent amino acid by lowering the activation entropy.<sup>[13]</sup>
+  <p>Despite having only four choices for each monomer unit (nucleotides), compared to 20 amino acid side chains found in proteins, ribozymes have diverse structures and mechanisms. In many cases they are able to mimic the mechanism used by their protein counterparts. For example, in self cleaving ribozyme RNAs, an in-line SN2 reaction is carried out using the 2' hydroxyl group as a nucleophile attacking the bridging phosphate and causing 5' oxygen of the N+1 base to act as a leaving group. In comparison, RNase A, a protein that catalyzes the same reaction, uses a coordinating histidine and lysine to act as a base to attack the phosphate backbone<sup>[2]</sup> (clarification needed).<br>
+  Like many protein enzymes metal binding is also critical to the function of many ribozymes<sup>[10]</sup>. Often these interactions use both the phosphate backbone and the base of the nucleotide, causing drastic conformational changes<sup>[11]</sup>. There are two mechanism classes for the cleavage of phosphodiester backbone in the presence of metal. In the first mechanism, the internal 2'- OH group attacks phosphorus center in a SN2 mechanism. Metal ions promote this reaction by first coordinating the phosphate oxygen and later stabling the oxyanion. The second mechanism also follows a SN2 displacement, but the nucleophile comes from water or exogenous hydroxyl groups rather than RNA itself. The smallest ribozyme is UUU, which can promote the cleavage between G and A of the GAAA tetranucleotide via the first mechanism in the presence of Mn<sup>2+</sup>. The reason why this trinucleotide rather than the complementary tetramer catalyze this reaction may be because the UUU-AAA pairing is the weakest and most flexible trinucleotide among the 64 conformations, which provides the binding site for Mn<sup>2+</sup> <sup>[12]</sup>. <br>
+  Phosphoryl transfer can also be catalyzed without metal ions. For example, pancreatic ribonuclease A and hepatitis delta virus(HDV) ribozymes can catalyze the cleavage of RNA backbone through acid-base catalysis without metal ions.<sup>[13]</sup><sup>[14]</sup> Hairpin ribozyme can also catalyze the self-cleavage of RNA without metal ions but the mechanism is still unclear<sup>[14]</sup>.<br>
+  Ribozyme can also catalyze the formation of peptide bond between adjacent amino acid by lowering the activation entropy <sup>[13]</sup>.
   <br>
-  You can find more details in <a href="https://www.ribocentre.org/ribozyme/">Ribozyme</a>and <a href="https://www.ribocentre.org/structure/" target="_blank">Structure</a>pages!<br><br>
+  You can find more details in <a href="https://www.ribocentre.org/ribozyme/"><strong>Ribozyme</strong></a> and <a href="https://www.ribocentre.org/structure/" target="_blank"><strong>Structure</strong></a> pages!<br><br>
   [10]Pyle AM (August 1993). "Ribozymes: a distinct class of metalloenzymes". Science. 261 (5122): 709-714. Bibcode:1993Sci...261..709P. doi:10.1126/science.7688142. PMID 7688142.<br>
   [11] Freisinger E, Sigel RK (2007). "From nucleotides to ribozymes—A comparison of their metal ion binding properties" (PDF). Coord. Chem. Rev. 251 (13-14): 1834-1851. doi:10.1016/j.ccr.2007.03.008.<br>
   [12] Pyle AM (August 1993). "Ribozymes: a distinct class of metalloenzymes". Science. 261 (5122): 709-714. Bibcode:1993Sci...261..709P. doi:10.1126/science.7688142. JSTOR 2882234. PMID 7688142.<br>
@@ -186,10 +206,10 @@ p {
 
 <div id="Contact" class="tabcontent" style="width: 100%;height: 600px; overflow-x:hidden;overflow-y: auto;">
   <h5><b>Activities</b></h5>
-  <p>Although ribozymes are quite rare in most cells, their roles are sometimes essential to life. For example, the functional part of the ribosome, the biological machine that translates RNA into proteins, is fundamentally a ribozyme, composed of RNA tertiary structural motifs that are often coordinated to metal ions such as Mg<sup>2+</sup> as cofactors.<sup>[15]</sup> In a model system, there is no requirement for divalent cations in a five-nucleotide RNA catalyzing trans-phenylalanation of a four-nucleotide substrate with 3 base pairs complementary with the catalyst, where the catalyst/substrate were devised by truncation of the C3 ribozyme.<sup>[16]</sup><br>
-  The best-studied ribozymes are probably those that cut themselves or other RNAs, as in the original discovery by Cech<sup>[17]</sup> and Altman.<sup>[18]</sup> However, ribozymes can be designed to catalyze a range of reactions (see below), many of which may occur in life but have not been discovered in cells.<sup>[19]</sup><br>
-  RNA may catalyze folding of the pathological protein conformation of a prion in a manner similar to that of a chaperonin.<sup>[20]</sup><br>
-  You can find more catalysis details in <a href="https://www.ribocentre.org/catalysis/" target="_blank">Catalysis</a> page!<br><br>
+  <p>Although ribozymes are quite rare in most cells, their roles are sometimes essential to life. For example, the functional part of the ribosome, the biological machine that translates RNA into proteins, is fundamentally a ribozyme, composed of RNA tertiary structural motifs that are often coordinated to metal ions such as Mg<sup>2+</sup> as cofactors<sup>[15]</sup>. In a model system, there is no requirement for divalent cations in a five-nucleotide RNA catalyzing trans-phenylalanation of a four-nucleotide substrate with 3 base pairs complementary with the catalyst, where the catalyst/substrate were devised by truncation of the C3 ribozyme<sup>[16]</sup>.<br>
+  The best-studied ribozymes are probably those that cut themselves or other RNAs, as in the original discovery by Cech<sup>[17]</sup> and Altman<sup>[18]</sup>. However, ribozymes can be designed to catalyze a range of reactions (see below), many of which may occur in life but have not been discovered in cells<sup>[19]</sup>.<br>
+  RNA may catalyze folding of the pathological protein conformation of a prion in a manner similar to that of a chaperonin<sup>[20]</sup>.<br>
+  You can find more catalysis details in <a href="https://www.ribocentre.org/catalysis/" target="_blank"><strong>Catalysis</strong></a> page!<br><br>
 
   [15]Ban N, Nissen P, Hansen J, Moore PB, Steitz TA (August 2000). "The complete atomic structure of the large ribosomal subunit at 2.4 A resolution". Science. 289 (5481): 905-920. Bibcode:2000Sci...289..905B. CiteSeerX 10.1.1.58.2271. doi:10.1126/science.289.5481.905. PMID 10937989.<br>
   [16]Turk RM, Chumachenko NV, Yarus M (March 2010). "Multiple translational products from a five-nucleotide ribozyme". Proceedings of the National Academy of Sciences of the United States of America. 107 (10): 4585-4589. Bibcode:2010PNAS..107.4585T. doi:10.1073/pnas.0912895107. PMC 2826339. PMID 20176971.<br>
@@ -201,11 +221,11 @@ p {
 
 <div id="About" class="tabcontent" style="width: 100%;height: 600px; overflow-x:hidden;overflow-y: auto;">
   <h5><b>And More...</b></h5>
-  <p>RNA can also act as a hereditary molecule, which encouraged Walter Gilbert to propose that in the distant past, the cell used RNA as both the genetic material and the structural and catalytic molecule rather than dividing these functions between DNA and protein as they are today; this hypothesis is known as the "RNA world hypothesis" of the origin of life.<sup>[21]</sup><br>
+  <p>RNA can also act as a hereditary molecule, which encouraged Walter Gilbert to propose that in the distant past, the cell used RNA as both the genetic material and the structural and catalytic molecule rather than dividing these functions between DNA and protein as they are today; this hypothesis is known as the "RNA world hypothesis" of the origin of life<sup>[21]</sup>.<br>
   RNA-centric research is becoming more and more important in recent years with a wide application in RNA virus inhibitor, mRNA vaccine design during the pandemic. Ribozyme is a perfect system in understanding the “sequence - structure - function” relationship of RNA molecules, since ribozymes are found in the genomes of species from all kingdoms of life and play a role in many vital reactions such as peptide-bond formation, RNA splicing, transfer RNA biosynthesis, and viral replication. A ribozyme database may greatly facilitate the inspection of the fundamental folding rules of functional RNA molecules as well as the comparison between ribozymes of different functions.<br>
   We believe that the data of ribozymes accumulated over the last 40 years would better serve the scientific community if presented as an online resource.Users are more than welcome to submit new ribozyme cases or related comments through the submission portal to help us improve our database easier to be used.<br>
 
-  You can find more details,such as how to use this database or summit a new discovery in <a href="https://www.ribocentre.org/Helps/" target="_blank">Helps</a> page! <br><br>
+  You can find more details,such as how to use this database or summit a new discovery in <a href="https://www.ribocentre.org/Helps/" target="_blank"><strong>Help</strong></a> page! <br><br>
 
   [21]Gilbert W (1986). "Origin of life: The RNA world". Nature. 319 (6055): 618. Bibcode:1986Natur.319..618G. doi:10.1038/319618a0. S2CID 8026658
   </p>
