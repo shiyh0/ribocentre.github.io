@@ -137,9 +137,9 @@ The small ribozymes also called nucleolytic ribozymes, which are a group of rela
             </tr>
             <tr>
             <td name="td0"><a href="https://www.ribocentre.org/docs/glms.html" target="_blank"><b>GlmS</b></a></td>
-            <td name="td1">The GlmS riboswitch is a self‐cleavage ribozyme located in the 5' untranslated region of the GlmS gene. The GlmS riboswitch can fold into two conformations depending on the presence or absence of glucosamine-6-phosphate. In one of these two conformations, the RNA cleaves itself, thereby inhibiting the synthesis of glucosamine-6-phosphate.</td>
+            <td name="td1">The glmS riboswitch is a self‐cleavage ribozyme located in the 5' untranslated region of the glmS gene. The GlmS riboswitch can fold into two conformations depending on the presence or absence of glucosamine-6-phosphate. In one of these two conformations, the RNA cleaves itself, thereby inhibiting the synthesis of glucosamine-6-phosphate.</td>
             <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/15029187"><b>2004</b></a></td>
-            <td name="td3">glmS glucosamine-6-phosphate activated ribozyme</td>
+            <td name="td3">GlmS glucosamine-6-phosphate activated ribozyme</td>
             <td name="td4"><a href="https://rfam.xfam.org/family/RF00234" target="_blank"><b>RF00234</b></a></td>
             </tr>
             <tr>
