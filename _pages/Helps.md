@@ -48,13 +48,13 @@ The information and contact info ofthe team are under the <code class="language-
  
  This is a table of Ribozyme databases .You can comment and have any questions here.
  
- <img src="http://127.0.0.1:4000/images/HelpsPic/submit1.png" alt="drawing" style="weight:450px;height:210px;display:block;margin:0 auto;"><br><br>
+ <img src="https://www.ribocentre.org/images/HelpsPic/submit1.png" alt="drawing" style="weight:450px;height:210px;display:block;margin:0 auto;"><br><br>
  This is an example if you want to submit a/some new ribozyme/ribozymes or the latest publication. Please provide us with as much information about the new one as possible. 
  
- <img src="http://127.0.0.1:4000/images/HelpsPic/submit2.png" alt="drawing" style="weight:450px;height:200px;display:block;margin:0 auto;"><br><br>
+ <img src="https://www.ribocentre.org/images/HelpsPic/submit2.png" alt="drawing" style="weight:450px;height:200px;display:block;margin:0 auto;"><br><br>
  This is an example for you if you find any mistakes on the web page. Please provide us with detailed information and maybe some advice.
  
- <img src="http://127.0.0.1:4000/images/HelpsPic/submit3.png" alt="drawing" style="weight:450px;height:205px;display:block;margin:0 auto;"><br><br>
+ <img src="https://www.ribocentre.org/images/HelpsPic/submit3.png" alt="drawing" style="weight:450px;height:205px;display:block;margin:0 auto;"><br><br>
  
 
 ><a href="https://docs.google.com/spreadsheets/d/1dWzCMqP9_fmOxxBxpx6Rc0Ro2Her0YIn-07Rpx7fzEs/edit?usp=sharing"  target="_blank"><button>Submit</button></a><br><br>
