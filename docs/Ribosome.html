@@ -635,62 +635,76 @@
 <table><tr>
 <td><img src="https://www.ribocentre.org/images/RibosomePic/ribosome-3D1.png" alt="drawing" style="height:385px" border="0" /></td>
 <td>
-  <html lang="en">
-    <head>
-      <meta charset="utf-8" />
-      <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
-      <link rel="stylesheet" type="text/css" href="https://www.ribocentre.org/css/mol/pdbe-molstar-3.0.0.css">
-      <script type="text/javascript" src="https://www.ribocentre.org/js/mol/pdbe-molstar-component-3.0.0.js"></script>
-      <script>
-      function customize()
-      {
-        viewerInstance.canvas.setBgColor({r:255, g:255, b:255})
-      }
-      </script>
-      <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
+  <html>
+    <html lang="en">
+      <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="https://www.ribocentre.org/css/mol/pdbe-molstar-3.0.0.css">
+        <script type="text/javascript" src="https://www.ribocentre.org/js/mol/pdbe-molstar-component-3.0.0.js"></script>
+        <script>
+        function customize()
+        {
+          viewerInstance.canvas.setBgColor({r:255, g:255, b:255})
         }
-        .msp-plugin ::-webkit-scrollbar-thumb {
-            background-color: #474748 !important;
-        }
-        .viewerSection {
-          padding-top: 0px;
-        }
-        .controlsSection {
-          width: 300px;
-          display: flex;
-          float:left;
-          padding: 0px 0 0 0;
+        </script>
+        <style>
+          * {
+              margin: 0;
+              padding: 0;
+              box-sizing: border-box;
+          }
+          .msp-plugin ::-webkit-scrollbar-thumb {
+              background-color: #474748 !important;
+          }
+          .viewerSection {
+            padding-top: 0px;
+          }
+          .controlsSection {
+            width: 300px;
+            display: flex;
+            float:left;
+            padding: 0px 0 0 0;
+            
+          }
+          .controlBox {
+            border: 1px solid lightgray;
+            padding: 10px;
+            margin-bottom: 20px;
+          }
+          #myViewer{
+            float:left;
+            width:460px;
+            height: 455px;
+            position:relative;
+          }
           
-        }
-        .controlBox {
-          border: 1px solid lightgray;
-          padding: 10px;
-          margin-bottom: 20px;
-        }
-        #myViewer{
-          float:left;
-          width:460px;
-          height: 455px;
-          position:relative;
-        }
-        
-      </style>
-    </head>
-    <body onload="customize()">
+        </style>
+      </head>
+      <body onload="customize()">  
+        <div class="viewerSection">
+          <div id="myViewer">
+            <pdbe-molstar custom-data-url="https://www.ribocentre.org/pdb/Ribosome.pdb" 
+            custom-data-format="pdb" molecule-id="ribosome" hide-controls="true"></pdbe-molstar>
+        </div>
+          
+        </div>
+        <script>
+
+          //Create plugin instance
+          var viewerInstance = new PDBeMolstarPlugin();
       
-      <div class="viewerSection">
-        <div id="myViewer">
-          <pdbe-molstar custom-data-url="https://www.ribocentre.org/pdb/Ribosome.pdb" custom-data-format="pdb" molecule-id="ribosome" hide-controls="true"></pdbe-molstar>
-      </div>
-        
-      </div>
-
-    </body>
-
+          //Set options (Checkout available options list in the documentation)
+          
+          
+          //Get element from HTML/Template to place the viewer 
+          var viewerContainer = document.getElementById('myViewer');
+      
+          //Call render method to display the 3D view
+          viewerInstance.render(viewerContainer);
+          
+        </script>
+      </body>
 </html></td>
 </tr></table>
 <p><br /></p>
