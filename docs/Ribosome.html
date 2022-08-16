@@ -636,7 +636,6 @@
 <td><img src="https://www.ribocentre.org/images/RibosomePic/ribosome-3D1.png" alt="drawing" style="height:385px" border="0" /></td>
 <td>
   <html>
-    <html lang="en">
       <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
@@ -681,30 +680,73 @@
           
         </style>
       </head>
-      <body onload="customize()">  
-        <div class="viewerSection">
-          <div id="myViewer">
-            <pdbe-molstar custom-data-url="https://www.ribocentre.org/pdb/Ribosome.pdb" 
-            custom-data-format="pdb" molecule-id="ribosome" hide-controls="true"></pdbe-molstar>
+      <body onload="customize()">
+        <div class="controlsSection">
+            <button onclick="
+              var selectSections = [
+              {
+                struct_asym_id: 'A', 
+                start_residue_number: 2090, 
+                end_residue_number: 2110, 
+                color:{r:230,g:0,b:18}
+              },
+              {
+                struct_asym_id: 'A', 
+                start_residue_number: 2277, 
+                end_residue_number: 2293, 
+                color:{r:230,g:0,b:18}
+              },
+              {
+                struct_asym_id: 'A', 
+                start_residue_number: 2477, 
+                end_residue_number: 2501, 
+                color:{r:230,g:0,b:18}
+              },
+              {
+                struct_asym_id: 'A', 
+                start_residue_number: 2519, 
+                end_residue_number: 2555, 
+                color:{r:230,g:0,b:18}
+              },
+              {
+                struct_asym_id: 'A', 
+                start_residue_number: 2580, 
+                end_residue_number: 2598, 
+                color:{r:230,g:0,b:18}
+              },
+              {
+                struct_asym_id: 'A', 
+                start_residue_number: 2599, 
+                end_residue_number: 2654, 
+                color:{r:230,g:0,b:18}
+              }
+              ]
+              viewerInstance.visual.select({ data: selectSections, nonSelectedColor: {r:255,g:255,b:255}})" style="float:right;">&nbsp;Color Selection&nbsp;</button>
+              <button style="float: left;" onclick="viewerInstance.visual.clearSelection()" >&nbsp; Clear Selection &nbsp;</button>
         </div>
-          
-        </div>
+    
+        
         <script>
-
+    
           //Create plugin instance
           var viewerInstance = new PDBeMolstarPlugin();
       
           //Set options (Checkout available options list in the documentation)
-          
+          var options = {
+            moleculeId: '1jj2',
+            hideControls: true
+          }
           
           //Get element from HTML/Template to place the viewer 
           var viewerContainer = document.getElementById('myViewer');
       
           //Call render method to display the 3D view
-          viewerInstance.render(viewerContainer);
+          viewerInstance.render(viewerContainer, options);
           
         </script>
       </body>
+  
+  </html></td>
 </html></td>
 </tr></table>
 <p><br /></p>
