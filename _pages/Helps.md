@@ -57,7 +57,7 @@ The information and contact info ofthe team are under the <code class="language-
  <img src="https://www.ribocentre.org/images/HelpsPic/submit3.png" alt="drawing" style="weight:450px;height:205px;display:block;margin:0 auto;"><br><br>
  
 
-><a href="https://docs.google.com/spreadsheets/d/1dWzCMqP9_fmOxxBxpx6Rc0Ro2Her0YIn-07Rpx7fzEs/edit?usp=sharing"  target="_blank"><button>Submit</button></a><br><br>
+><a href="https://docs.google.com/spreadsheets/d/1dWzCMqP9_fmOxxBxpx6Rc0Ro2Her0YIn-07Rpx7fzEs/edit?usp=sharing" target="_blank"><button>Submit</button></a><br>
 
 <font size="4"><strong>When your feedback is received, we will update the data and inform you as soon as we can.<br>
 For large datasets please contact the database team group directly with the submission form we given.</strong></font>
