@@ -115,7 +115,7 @@ Schematic diagram for simple and effective generating in vitro transcripts with 
     <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/32430319"  target="_blank" ><b>32430319</b></a></td>
   </tr>
   <tr>
-    <td>Diverse ribozymes,include hammerhead ribozyme,twister ribozyme,twister sister ribozyme,pistol ribozyme,hairpin ribozyme,varkud satellite ribozyme</td>
+    <td>Diverse ribozymes,include hammerhead ribozyme,<br>twister ribozyme,twister sister ribozyme,<br>pistol ribozyme,<br>hairpin ribozyme,<br>varkud satellite ribozyme</td>
     <td>Established an RNA integrator comprising a ribozyme and an unfolded form of the fluorogenic aptamer Broccoli, which enables detection of low-abundance targets in vitro and in living cells.</td>
     <td>Samie R Jaffrey</td>
     <td>2019</td>
