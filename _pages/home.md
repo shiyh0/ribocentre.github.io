@@ -58,9 +58,25 @@ In addition to a brief introduction to ribozymes, on each <font color=black><str
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {box-sizing: border-box}
-
+  
 /* Set height of body and the document to 100% */
-
+.pic{
+  position:fixed;
+  top: 0;
+  left: 0;
+  width:100%;
+  height:100%;
+  min-width: 1000px;
+  z-index:-10;
+  zoom: 1;
+  background-color: #fff;
+  background: url("{{ site.url }}{{ site.baseurl }}/images/bgpic3.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  background-position: center 0;
+}
 /* Style tab links */
 .tablink {
   background-color: #0874c4;
@@ -110,7 +126,7 @@ p {
 <button class="tablink" onclick="openPage('News', this, 'white')" id="defaultOpen"><font size="4">Structure</font></button>
 <button class="tablink" onclick="openPage('Contact', this, 'white')"><font size="4">Activities</font></button>
 <button class="tablink" onclick="openPage('About', this, 'white')"><font size="4">And More</font></button>
-
+<div class="pic"></div>
 <div id="Home" class="tabcontent" style="width: 100%;height: 600px; overflow-x:hidden;overflow-y: auto;">
   
   <h5><b>Discovery</b></h5>
