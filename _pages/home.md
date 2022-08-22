@@ -67,7 +67,7 @@ The following content of ribozymes information is adapted from [Wikipedia](https
   z-index:-10;
   zoom: 1;
   background-color: #fff;
-  background: url("{{ site.url }}{{ site.baseurl }}/images/bgpic7.png");
+  background: url("");
   background-repeat: no-repeat;
   background-size: cover;
   -webkit-background-size: cover;
