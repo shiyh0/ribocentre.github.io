@@ -1,7 +1,7 @@
 ---
-title: "Ribo centre - Publications"
+title: "Ribocentre - Publications"
 layout: gridlay
-excerpt: "Ribo centre -- Publications."
+excerpt: "Ribocentre -- Publications."
 sitemap: false
 permalink: /publications/
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Ribo centre - Structure"
+title: "Ribocentre - Structure"
 layout: structure
-excerpt: "Ribo centre - Structure"
+excerpt: "Ribocentre - Structure"
 sitemap: false
 permalink: /structure/
 ---

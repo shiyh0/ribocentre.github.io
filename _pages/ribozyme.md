@@ -1,7 +1,7 @@
 ---
-title: "Ribo centre - Ribozyme"
+title: "Ribocentre - Ribozyme"
 layout: ribozyme
-excerpt: "Ribo centre - Ribozyme"
+excerpt: "Ribocentre - Ribozyme"
 sitemap: false
 permalink: /ribozyme/
 ---

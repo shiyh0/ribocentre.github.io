@@ -1,7 +1,7 @@
 ---
-title: "Ribo centre - Catalysis"
+title: "Ribocentre - Catalysis"
 layout: piclay
-excerpt: "Ribo centre -- Catalysis"
+excerpt: "Ribocentre -- Catalysis"
 permalink: /catalysis/
 ---
 
