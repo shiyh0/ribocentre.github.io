@@ -1,7 +1,7 @@
 ---
-title: "Ribo centre - Application"
+title: "Ribocentre - Application"
 layout: piclay
-excerpt: "Ribo centre -- Application"
+excerpt: "Ribocentre -- Application"
 permalink: /application/
 ---
 
