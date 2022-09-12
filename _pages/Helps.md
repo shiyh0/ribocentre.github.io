@@ -39,7 +39,7 @@ On some pages, we use table-format to show the information of different ribozyme
 
 You are welcomed to send us feedback and updated information and your ideas or suggestions will be greatly valued. We will continue to have our database improved to be fully functional and user-friendly. 
 
-<img src="https://www.ribocentre.org/images/help.png" alt="drawing" style="weight:450px;height:200px;display:block;margin:0 auto;"><br>
+<a href="https://docs.google.com/spreadsheets/d/1dWzCMqP9_fmOxxBxpx6Rc0Ro2Her0YIn-07Rpx7fzEs/edit?usp=sharing" target="_blank"><img src="https://www.ribocentre.org/images/help.png" alt="drawing" style="weight:450px;height:200px;display:block;margin:0 auto;"></a><br>
 
 **If you have information about new ribozymes, please contact us. Your opinions will be fully considered. Click the <code class="language-plaintext highlighter-rouge"><font color=Gray>Submit</font></code> button to send your suggestions and comments on Google sheet.**
  
@@ -54,10 +54,13 @@ The information and contact info ofthe team are under the <code class="language-
  <img src="https://www.ribocentre.org/images/HelpsPic/submit2.png" alt="drawing" style="weight:450px;height:200px;display:block;margin:0 auto;"><br><br>
  This is an example for you if you find any mistakes on the web page. Please provide us with detailed information and maybe some advice.
  
- <img src="https://www.ribocentre.org/images/HelpsPic/submit3.png" alt="drawing" style="weight:450px;height:205px;display:block;margin:0 auto;"><br><br>
- 
+ <img src="https://www.ribocentre.org/images/HelpsPic/submit3.png" alt="drawing" style="weight:450px;height:205px;display:block;margin:0 auto;"><br>
 
-><a href="https://docs.google.com/spreadsheets/d/1dWzCMqP9_fmOxxBxpx6Rc0Ro2Her0YIn-07Rpx7fzEs/edit?usp=sharing" target="_blank"><button>Submit</button></a><br>
+Click the below picture to submit your feedback!<br>
+
+<a href="https://docs.google.com/spreadsheets/d/1dWzCMqP9_fmOxxBxpx6Rc0Ro2Her0YIn-07Rpx7fzEs/edit?usp=sharing" target="_blank"><img src="http://127.0.0.1:4000/images/HelpsPic/pic2.svg" alt="drawing" style="height:73px;display:block;margin:0 auto;"></a><br>
+
+<!--<a href="https://docs.google.com/spreadsheets/d/1dWzCMqP9_fmOxxBxpx6Rc0Ro2Her0YIn-07Rpx7fzEs/edit?usp=sharing" target="_blank"><button>Submit</button></a><br>-->
 
 <font size="4"><strong>When your feedback is received, we will update the data and inform you as soon as we can.<br>
 For large datasets please contact the database team group directly with the submission form we given.</strong></font>
