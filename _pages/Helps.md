@@ -1,7 +1,7 @@
 ---
-title: "Ribo centre - Helps"
+title: "Ribocentre - Helps"
 layout: piclay
-excerpt: "Ribo centre -- Helps"
+excerpt: "Ribocentre -- Helps"
 permalink: /Helps/
 ---
 
