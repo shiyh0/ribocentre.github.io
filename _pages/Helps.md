@@ -37,7 +37,7 @@ On some pages, we use table-format to show the information of different ribozyme
 </blockquote>
 
 <strong>The process of giving us feedback:<strong><br><br>
-<img src="http://127.0.0.1:4000/images/HelpsPic/process.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;"><br>
+<img src="https://www.ribocentre.org/images/HelpsPic/process.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;"><br>
 
 <strong>For what:<strong><br>
 
@@ -60,7 +60,7 @@ On some pages, we use table-format to show the information of different ribozyme
 
 Click the below picture to submit your feedback!<br>
 
-<a href="https://docs.google.com/spreadsheets/d/1dWzCMqP9_fmOxxBxpx6Rc0Ro2Her0YIn-07Rpx7fzEs/edit?usp=sharing" target="_blank"><img src="http://127.0.0.1:4000/images/HelpsPic/pic2.svg" alt="drawing" style="height:73px;display:block;margin:0 auto;"></a><br>
+<a href="https://docs.google.com/spreadsheets/d/1dWzCMqP9_fmOxxBxpx6Rc0Ro2Her0YIn-07Rpx7fzEs/edit?usp=sharing" target="_blank"><img src="https://www.ribocentre.org/images/HelpsPic/pic2.svg" alt="drawing" style="height:73px;display:block;margin:0 auto;"></a><br>
 
 <font size="4"><strong>When your feedback is received, we will update the data and inform you as soon as we can.<br>
 For large datasets please contact the database team group directly with the submission form we given.</strong></font>
