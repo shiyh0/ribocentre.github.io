@@ -29,29 +29,31 @@ And on the <code class="language-plaintext highlighter-rouge"><font color=Gray><
 The <code class="language-plaintext highlighter-rouge"><font color=Gray><a href="https://www.ribocentre.org/structure">Structures</a></font></code> page provides more details of ribozymes in different aspects and <code class="language-plaintext highlighter-rouge"><font color=Gray><a href="https://www.ribocentre.org/publications">Publications</a></font></code> page provide the links of single ribozyme page/structure details/publications.<br><br>
 
 
-
-On some pages, we use table-format to show the information of different ribozymes. You can click the <code class="language-plaintext highlighter-rouge"><font color=Gray>header</font></code> to rank the column information. You can use the <code class="language-plaintext highlighter-rouge"><font color=Gray>Search</font></code>to search for the ribozymes, years, and other information. Under the table, you could find how many items we provided in the left. The database also provide the function of  <code class="language-plaintext highlighter-rouge"><font color=Gray>Print</font></code> and download function when you click <code class="language-plaintext highlighter-rouge"><font color=Gray>CSV</font></code> <code class="language-plaintext highlighter-rouge"><font color=Gray>PDF</font></code> to chose the certain file format for your download.
+On some pages, we use table-format to show the information of different ribozymes. You can click the <code class="language-plaintext highlighter-rouge"><font color=Gray>header</font></code> to rank the column information. You can use the <code class="language-plaintext highlighter-rouge"><font color=Gray>Search</font></code>to search for the ribozymes, years, and other information. Under the table, you could find how many items we provided in the left. The database also provide the function of  <code class="language-plaintext highlighter-rouge"><font color=Gray>Print</font></code> and download function when you click <code class="language-plaintext highlighter-rouge"><font color=Gray>CSV</font></code> <code class="language-plaintext highlighter-rouge"><font color=Gray>PDF</font></code> to chose the certain file format for your download.<br><br>
 
 
 <blockquote>
   <p>Submit</p>
 </blockquote>
 
-You are welcomed to send us feedback and updated information and your ideas or suggestions will be greatly valued. We will continue to have our database improved to be fully functional and user-friendly. 
+<strong>The process of giving us feedback:<strong><br><br>
+<img src="http://127.0.0.1:4000/images/HelpsPic/process.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;"><br>
+
+<strong>For what:<strong><br>
+
+**You are welcomed to send us feedback and your ideas or suggestions will be greatly valued. We will continue to have our database improved to be fully functional and user-friendly.Your opinions will be fully considered. Click the <code class="language-plaintext highlighter-rouge"><font color=Gray><a href="https://docs.google.com/spreadsheets/d/1dWzCMqP9_fmOxxBxpx6Rc0Ro2Her0YIn-07Rpx7fzEs/edit?usp=sharing"  target="_blank">Submit</a></font></code> button or figures to record your suggestions and comments on Google sheet. We provide more than one entrence you can find to send your feedback.**
 
 <a href="https://docs.google.com/spreadsheets/d/1dWzCMqP9_fmOxxBxpx6Rc0Ro2Her0YIn-07Rpx7fzEs/edit?usp=sharing" target="_blank"><img src="https://www.ribocentre.org/images/help.png" alt="drawing" style="weight:450px;height:200px;display:block;margin:0 auto;"></a><br>
 
-**If you have information about new ribozymes, please contact us. Your opinions will be fully considered. Click the <code class="language-plaintext highlighter-rouge"><font color=Gray>Submit</font></code> button to send your suggestions and comments on Google sheet.**
  
+<strong>How to :<strong><br>
 
-The information and contact info ofthe team are under the <code class="language-plaintext highlighter-rouge"><font color=Gray><a href="https://docs.google.com/spreadsheets/d/1dWzCMqP9_fmOxxBxpx6Rc0Ro2Her0YIn-07Rpx7fzEs/edit?usp=sharing"  target="_blank">Submit</a></font></code> section. Here are some examples for you to submit your work or feedback:<br><br>
+ This is a table of Ribozyme databases. You can comment and have any questions here. Here are some examples for you to submit your work or feedback:<br>
  
- This is a table of Ribozyme databases .You can comment and have any questions here.
- 
- <img src="https://www.ribocentre.org/images/HelpsPic/submit1.png" alt="drawing" style="weight:450px;height:210px;display:block;margin:0 auto;"><br><br>
+ <img src="https://www.ribocentre.org/images/HelpsPic/submit1.png" alt="drawing" style="weight:450px;height:210px;display:block;margin:0 auto;"><br>
  This is an example if you want to submit a/some new ribozyme/ribozymes or the latest publication. Please provide us with as much information about the new one as possible. 
  
- <img src="https://www.ribocentre.org/images/HelpsPic/submit2.png" alt="drawing" style="weight:450px;height:200px;display:block;margin:0 auto;"><br><br>
+ <img src="https://www.ribocentre.org/images/HelpsPic/submit2.png" alt="drawing" style="weight:450px;height:200px;display:block;margin:0 auto;"><br>
  This is an example for you if you find any mistakes on the web page. Please provide us with detailed information and maybe some advice.
  
  <img src="https://www.ribocentre.org/images/HelpsPic/submit3.png" alt="drawing" style="weight:450px;height:205px;display:block;margin:0 auto;"><br>
@@ -60,15 +62,10 @@ Click the below picture to submit your feedback!<br>
 
 <a href="https://docs.google.com/spreadsheets/d/1dWzCMqP9_fmOxxBxpx6Rc0Ro2Her0YIn-07Rpx7fzEs/edit?usp=sharing" target="_blank"><img src="http://127.0.0.1:4000/images/HelpsPic/pic2.svg" alt="drawing" style="height:73px;display:block;margin:0 auto;"></a><br>
 
-<!--<a href="https://docs.google.com/spreadsheets/d/1dWzCMqP9_fmOxxBxpx6Rc0Ro2Her0YIn-07Rpx7fzEs/edit?usp=sharing" target="_blank"><button>Submit</button></a><br>-->
-
 <font size="4"><strong>When your feedback is received, we will update the data and inform you as soon as we can.<br>
 For large datasets please contact the database team group directly with the submission form we given.</strong></font>
-
-<br><br>
-
+<br>
 >## Contact us:
-
 
 ### Group Members
 
