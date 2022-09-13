@@ -167,22 +167,22 @@ p {
     <!-- Items -->
     <div class="carousel-inner" markdown="0" >
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/VS_Home.png" alt="Slide 1" style="height:350px;display:block;margin:0 auto;"/>
+            <a href="https://www.ribocentre.org/docs/VS-ribozyme.html" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/homepic/VS_Home.png" alt="Slide 1" style="height:350px;display:block;margin:0 auto;"/></a>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/HDV_Home.png" alt="Slide 2" style="height:350px;display:block;margin:0 auto;"/>
+            <a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/homepic/HDV_Home.png" alt="Slide 2" style="height:350px;display:block;margin:0 auto;"/></a>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/GlmS_Home.png" alt="Slide 3" style="height:350px;display:block;margin:0 auto;"/>
+            <a href="https://www.ribocentre.org/docs/glms.html" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/homepic/GlmS_Home.png" alt="Slide 3" style="height:350px;display:block;margin:0 auto;"/></a>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/Hairpin_Home.png" alt="Slide 4" style="height:350px;display:block;margin:0 auto;"/>
+            <a href="https://www.ribocentre.org/docs/Hairpin.html" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/homepic/Hairpin_Home.png" alt="Slide 4" style="height:350px;display:block;margin:0 auto;"/></a>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/Twister_Home.png" alt="Slide 5" style="height:350px;display:block;margin:0 auto;"/>
+            <a href="https://www.ribocentre.org/docs/twister.html" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/homepic/Twister_Home.png" alt="Slide 5" style="height:350px;display:block;margin:0 auto;"/></a>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/Twister-sister_Home.png" alt="Slide 6" style="height:350px;display:block;margin:0 auto;"/>
+            <a href="https://www.ribocentre.org/docs/twister-sister.html" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/homepic/Twister-sister_Home.png" alt="Slide 6" style="height:350px;display:block;margin:0 auto;"/></a>
         </div>
 
     </div>
@@ -202,13 +202,13 @@ p {
 <div id="ribozymewikisection4"></div>
 <div id="ribozymewikisection5"></div><br>
 
-<p> (Representative Data. Full list found at <a href="https://www.ribocentre.org/ribozyme/"><strong>here</strong></a>)<br><br>
+<p> (Representative figures. More details found at <a href="https://www.ribocentre.org/ribozyme/"  target="_blank"><strong>here</strong></a>)<br><br>
  Despite having only four choices for each monomer unit (nucleotides), compared to 20 amino acid side chains found in proteins, ribozymes have diverse structures and mechanisms. In many cases they are able to mimic the mechanism used by their protein counterparts. For example, in self cleaving ribozyme RNAs, an in-line SN2 reaction is carried out using the 2' hydroxyl group as a nucleophile attacking the bridging phosphate and causing 5' oxygen of the N+1 base to act as a leaving group. In comparison, RNase A, a protein that catalyzes the same reaction, uses a coordinating histidine and lysine to act as a base to attack the phosphate backbone<sup>[2]</sup> (clarification needed).<br>
   Like many protein enzymes metal binding is also critical to the function of many ribozymes<sup>[10]</sup>. Often these interactions use both the phosphate backbone and the base of the nucleotide, causing drastic conformational changes<sup>[11]</sup>. There are two mechanism classes for the cleavage of phosphodiester backbone in the presence of metal. In the first mechanism, the internal 2'- OH group attacks phosphorus center in a SN2 mechanism. Metal ions promote this reaction by first coordinating the phosphate oxygen and later stabling the oxyanion. The second mechanism also follows a SN2 displacement, but the nucleophile comes from water or exogenous hydroxyl groups rather than RNA itself. The smallest ribozyme is UUU, which can promote the cleavage between G and A of the GAAA tetranucleotide via the first mechanism in the presence of Mn<sup>2+</sup>. The reason why this trinucleotide rather than the complementary tetramer catalyze this reaction may be because the UUU-AAA pairing is the weakest and most flexible trinucleotide among the 64 conformations, which provides the binding site for Mn<sup>2+</sup> <sup>[12]</sup>. <br>
   Phosphoryl transfer can also be catalyzed without metal ions. For example, pancreatic ribonuclease A and hepatitis delta virus(HDV) ribozymes can catalyze the cleavage of RNA backbone through acid-base catalysis without metal ions.<sup>[13]</sup><sup>[14]</sup> Hairpin ribozyme can also catalyze the self-cleavage of RNA without metal ions but the mechanism is still unclear<sup>[14]</sup>.<br>
   Ribozyme can also catalyze the formation of peptide bond between adjacent amino acid by lowering the activation entropy <sup>[13]</sup>.
   <br>
-  You can find more details in <a href="https://www.ribocentre.org/ribozyme/"><strong>Ribozyme</strong></a> and <a href="https://www.ribocentre.org/structure/" target="_blank"><strong>Structure</strong></a> pages!<br><br>
+  You can find more details in <a href="https://www.ribocentre.org/ribozyme/" target="_blank"><strong>Ribozyme</strong></a> and <a href="https://www.ribocentre.org/structure/" target="_blank"><strong>Structure</strong></a> pages!<br><br>
   [10] Pyle AM (August 1993). "Ribozymes: a distinct class of metalloenzymes". Science. 261 (5122): 709-714. Bibcode:1993Sci...261..709P. doi:10.1126/science.7688142. PMID 7688142.<br>
   [11] Freisinger E, Sigel RK (2007). "From nucleotides to ribozymes—A comparison of their metal ion binding properties" (PDF). Coord. Chem. Rev. 251 (13-14): 1834-1851. doi:10.1016/j.ccr.2007.03.008.<br>
   [12] Pyle AM (August 1993). "Ribozymes: a distinct class of metalloenzymes". Science. 261 (5122): 709-714. Bibcode:1993Sci...261..709P. doi:10.1126/science.7688142. JSTOR 2882234. PMID 7688142.<br>
