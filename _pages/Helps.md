@@ -63,7 +63,7 @@ Click the below picture to submit your feedback!<br>
 <a href="https://docs.google.com/spreadsheets/d/1dWzCMqP9_fmOxxBxpx6Rc0Ro2Her0YIn-07Rpx7fzEs/edit?usp=sharing" target="_blank"><img src="https://www.ribocentre.org/images/HelpsPic/pic2.svg" alt="drawing" style="height:73px;display:block;margin:0 auto;"></a><br>
 
 <font size="4"><strong>When your feedback is received, we will update the data and inform you as soon as we can.<br>
-For large datasets please contact the database team group member <a href="Email:dengj77@mail2.sysu.edu.cn">Dengjie</a>or <a href="Email:shiyh@shanghaitech.edu.cn">Shiyaohuang</a> directly with the submission form we given.</strong> </font>
+For large datasets please directly contact the database team group member <a href="Email:dengj77@mail2.sysu.edu.cn">Dengjie</a> or <a href="Email:shiyh@shanghaitech.edu.cn">Shiyaohuang</a> with the submission form we given.</strong> </font>
 <br>
 
 >## Contact us:

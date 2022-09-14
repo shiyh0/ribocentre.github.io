@@ -28,7 +28,6 @@ Schematic diagram for simple and effective generating in vitro transcripts with 
 <img src="https://www.ribocentre.org/images/ApplyPic/HDV.png" alt="drawing" style="weight:450px;height:600px;display:block;margin:0 auto;"><br>
 <a href="https://www.ribocentre.org/downloads/HDV.pdf" target="_blank" download="Appli-HDV.pdf"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>&nbsp;&nbsp;Download Poster</button></a><br><br>
 
-
 <img src="https://www.ribocentre.org/images/ApplyPic/hammerhead.png" alt="drawing" style="weight:350px;height:300px;display:block;margin:0 auto;"><br>
 <a href="https://www.ribocentre.org/downloads/Hammerhead-application.pdf" target="_blank" download="Appli-Hammerhead.pdf"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>&nbsp;&nbsp;Download Poster</button></a><br><br>
 
@@ -706,7 +705,7 @@ To overcome the uncontrolled nature of Cas9-gRNA complex cleavage activity in th
     <td>group II intron</td>
     <td>This article suggests retargeted group II introns can be used for highly specific chromosomal gene disruption in Escherichia coli and other bacteria.</td>
     <td>Karberg, M</td>
-    <td><a href="https://pubmed.ncbi.nlm.nih.gov/?term=Lambowitz+AM&cauthor_id=11731786">A. M. Lambowitz</a><a href="https://pubmed.ncbi.nlm.nih.gov/?term=Lambowitz+AM&cauthor_id=11731786"> </a></td>
+    <td>A. M. Lambowitz</td>
     <td>2001</td>
     <td>Group II introns as controllable gene targeting vectors for genetic manipulation of bacteria</td>
     <td>Nat Biotechnol</td>
