@@ -1,85 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Ribocentre - Home</title>
-  <meta name="description" content="Ribocentre: A ribozyme database">
-  <!--<link rel="stylesheet" href="http://localhost:4000/css/main.css>-->
-  <link rel="stylesheet" href="https://www.ribocentre.org/css/main.css">
-  <link rel="canonical" href="http://localhost:4000/">
-  <link rel="shortcut icon" type ="image/x-icon" href="https://www.ribocentre.org/images/favicon.ico">
-
-
-
-</head>
-
-
-  <body>
-
-    
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  
-<div class="navbar navbar-default navbar-fixed-top" role="navigation">
-  <style>
-    
-        .navbar {
-            background-color: #0874c4;
-        }
-        .navbar .navbar-brand,
-        .navbar .navbar-text {
-            color: #eeeeee;
-        }
-		.nav-tabs>li>a:hover {
-           color:black;
-           border-color: transparent;
-        }
-
-		#now a{
-			color:#fff
-		}
-		#now a:hover{
-			font-size: 20px;
-		}
-		
-  </style>
-
-  <div class="container-fluid">
-	<div class="navbar-header">
-	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
-		<span class="sr-only">Toggle navigation</span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-	  </button>
-	
-    <a class="navbar-brand" href="https://www.ribocentre.org/">
-		
-		<img class="navbar-brand" src="https://www.ribocentre.org/images/Ribo_centre_logo.jpg" style='height:50px;margin-top:-14px;margin-bottom:0;padding:0;' alt="logo">
-		&nbsp;Ribocentre 
-	</a>
-	</div>
-	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right">
-		<li id="now" class="active"><a href="https://www.ribocentre.org/">Home</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/ribozyme">Ribozymes</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/sequence">Sequences</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/structure">Structures</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/catalysis">Catalysis</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/application">Applications</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/publications">Publications</a></li>
-		<li id="now"><a href="https://www.ribocentre.org/Helps">Help</a></li>
-	  </ul>
-   </div>
-  </div>
-</div>
-
-    <div class="container-fluid">
-      <div class="row">
-          <div id="homeid" class="col-sm-8">
-	<p><br /></p>
+I"9`<p><br /></p>
 
 <div class="well" style="border: 1px solid #C9C9C9; background-color: #fff;">
 
@@ -87,13 +6,13 @@
 
   <p><strong style="color:#0874c4;font-weight: bold">Ribocentre</strong> is designed to contain comprehensive information of all natural ribozymes. Ribozymes are good systems for understanding the ‘sequence - structure - function’ relationship of RNA molecules, since ribozymes are found in the genomes of species from all kingdoms of life and play a role in important reactions such as peptide-bond formation, RNA splicing, transfer RNA biosynthesis, and viral replication. This is therefore an excellent time to summarise these properties, and our new web-based database will make this generally accessible.<br /></p>
 
-  <p>In addition to a brief introduction to ribozymes, on each <font color="black"><strong>ribozyme</strong></font> page, you’ll see a timeline of vital breakthroughs in ribozyme research, representative structures and the chemical mechanism of this ribozyme. Besides, we provide multiple indexing and searching methods, you can index/search about the <font color="black"><strong>publications</strong></font>, <font color="black"><strong>structures</strong></font>, <font color="black"><strong>catalyses</strong></font> and <font color="black"><strong>applications</strong></font> of ribozymes that interest you. Users are welcomed to submit new ribozyme cases or related comments through the submission portal to help us improve our database.<br /><br /></p>
+  <p>In addition to a brief introduction to ribozymes, on each <font color="black"><strong>ribozyme</strong></font> page, you’ll see a timeline of vital breakthroughs in ribozyme research, representative structures and the chemical mechanism of this ribozyme. Besides, we provide multiple indexing and searching methods, you can index/search about the <font color="black"><strong>publications</strong></font>, <font color="black"><strong>structures</strong></font>, <font color="black"><strong>catalyses</strong></font> and <font color="black"><strong>applications</strong></font> of ribozymes that interest you. Users are welcomed to submit new ribozyme cases or related comments through the submission portal to help us improve our database.<br /></p>
 
-  <p><strong>Cite us：</strong><br />
+  <p><strong>cite us：</strong><br />
 Jie Deng, Yaohuang Shi, Xuemei Peng, Yuanlin He, Xiaoxue Chen, Mengxiao Li,
-Xiaowei Lin1, Wenjian Liao, Yuanyin Huang, Taijiao Jiang, David M.J. Lilley,
-Zhichao Miao, and Lin Huang<br />
-<strong><font size="4">Ribocentre: a database of ribozymes</font></strong><br />
+Xiaowei Lin1, Wenjian Liao, Yuanyin Huang, Taijiao Jiang, David M.J. Lilley<em>,
+Zhichao Miao, and Lin Huang</em> <br />
+<strong>Ribocentre: a database of ribozymes</strong><br />
 Nucleic Acids Research, gkac840, https://doi.org/10.1093/nar/gkac840</p>
 
 </div>
@@ -350,127 +269,4 @@ document.getElementById("defaultOpen").click();
 
 <p><br /><br /></p>
 
-
-  </div>
-  <div id="newsid" class="col-sm-4" >
-	
-
- <div class="well" style="margin-top:24px;" >
-    <h4>News: </h4>
-    
-    
-    <p><span class="glyphicon glyphicon-bullhorn"></span>&nbsp; 1. June 2022<br><p>Ribocentre database v1.0 version online.</p>
-</p>
-    
-    <p><span class="glyphicon glyphicon-bullhorn"></span>&nbsp; 12. June 2022<br><p>Ribocentre updated to v1.1, add Applications section.</p>
-</p>
-    
-    <p><span class="glyphicon glyphicon-bullhorn"></span>&nbsp; 25. June 2022<br><p>Ribocentre updated to v1.2, add Catalysis section.</p>
-</p>
-    
-    <p><span class="glyphicon glyphicon-bullhorn"></span>&nbsp; 18. July 2022<br><p>Ribocentre updated to v1.3, add 2D dynamic interactive visualization.</p>
-</p>
-    
-    <p><span class="glyphicon glyphicon-bullhorn"></span>&nbsp; 28. July 2022<br><p>Ribocentre updated to v1.4, add 3D dynamic interactive visualization.</p>
-</p>
-    
-    
-    <h4><a href="http://localhost:4000/allnews.html">... see all News</a></h4>
-    
-        </div>
-
-        <div class="well">
-          <h4>Visualization: </h4>
-      
-      <meta name="viewport" content="width=device-width, initial-scale=1">
-      <head>
-      </head>
-      <style type="text/css">
-      </style>
-        
-        <p>&nbsp;
-          <a href="https://www.ribocentre.org/docs/twister.html"><img src="https://www.ribocentre.org/images/homepic/4OJI.png" width="" height="100px"></a>&nbsp;&nbsp;
-          <a href="https://www.ribocentre.org/docs/VS-ribozyme.html"><img src="https://www.ribocentre.org/images/homepic/4R4V.png" width="" height="100px"></a><br>
-          <a href="https://www.ribocentre.org/docs/hammer.html"><img src="https://www.ribocentre.org/images/homepic/3ZD5.png" width="" height="100px"></a>
-          <a href="https://www.ribocentre.org/docs/groupII.html"><img src="https://www.ribocentre.org/images/homepic/4FAR.png" width="" height="100px"></a><br>
-          <a href="https://www.ribocentre.org/docs/glms.html"><img src="https://www.ribocentre.org/images/homepic/2HO7.png" width="" height="100px"></a>
-          <a href="https://www.ribocentre.org/docs/HDV.html"><img src="https://www.ribocentre.org/images/homepic/1DRZ.png" width="" height="100px"></a><br>
-          
-      </p> (Representative Data. Full list found at <a href="https://www.ribocentre.org/ribozyme/"><strong>here</strong></a>)</div>
-      <div class="well">
-        <h4>Submit/Feedback : </h4>
-        <a href="https://www.ribocentre.org/Helps" target="_blank"><button>Clink here</button></a><br>
-
-      </div>
-
-
-        <div class="well">
-          <h4>Related websites:</h4>
-      
-      <meta name="viewport" content="width=device-width, initial-scale=1">
-      <head>
-      </head>
-      <style type="text/css">
-      </style>
-        
-        <p>&nbsp;
-          <a href="http://rna.tbi.univie.ac.at/forna/"><img src="https://www.ribocentre.org/images/forna.png" width="" height="60px"></a>&nbsp;&nbsp;
-          <a href="https://molstar.org/"><img src="https://molstar.org/img/molstar-logo.png" width="" height="50px"></a><br>
-          <a href="https://www.rcsb.org/"><img src="https://cdn.rcsb.org/rcsb-pdb/v2/common/images/rcsb_logo.png" width="" height="40px"></a><br>
-          <a href="https://rfam.xfam.org/"><img src="https://rfam.xfam.org/static/images/rfam_logo.svg" width="" height="40px"></a>
-          
-          
-      </p></div>
-      
-    
-
-  </div>
-
-      </div>
-    </div>
-
-    <div id="footer" class="panel">
-  <div class="panel-footer">
-	<div class="container-fluid">
-	  <div class="row">
-		<div class="col-sm-4">
-			
-		  <p>&copy 2022 Ribocentre. Site made with <a href="https://jekyllrb.com">Jekyll</a>;  <a href="https://www.ribocentre.org/aboutwebsite.html">copy and  modify it for your own research group.</a></p>
-              <p>We are part of the <a href="https://gzlab.ac.cn">Guangzhou Laboratory</a> and <a href="http://www.gzsys.org.cn/">Sun Yat-sen Memorial Hospital of Sun Yat-sen University</a>.</p>
-            
-
-		   <p>  </p><p>
-            		  
-            
-		</div>
-		<div class="col-sm-4">
-		  Funding:<br />
-		  - <a href="https://www.nsfc.gov.cn/">NSFC</a> <br />
-		  - <a href="http://www.most.gov.cn/">MOST IT+BT project</a> <br />
-          - <a href="https://gzlab.ac.cn">GZlab starting grant</a><br />
-		  <br>
-		  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-		  <!--<span class="glyphicon glyphicon-user"></span>&nbsp;&nbsp;<span id="busuanzi_container_site_uv"><strong>: <a href=""><span id="busuanzi_value_site_uv"></span></strong></a> </span> &nbsp;&nbsp;
-		  !--><span class="glyphicon glyphicon-eye-open"></span>&nbsp;&nbsp;<span id="busuanzi_container_site_pv"><strong>: <a href=""><span id="busuanzi_value_site_pv"></span></strong></a> </span>
-
-		</div>
-		<div class="col-sm-4">
-		  Contact:<br />
-		  Building B2, Guangzhou Laboratory<br />
-		  96 Xingdao South Road, Guangzhou International Bio Island, <br />
-		  Haizhu District, Guangzhou, Guangdong,<br />
-		  China. <br />
-          (<a href="https://goo.gl/maps/hDLr6siEAS2Eaypt8">Maps</a>)
-		</div>
-	  </div>
-	</div>
-  </div>
-</div>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="https://www.ribocentre.org/js/bootstrap.min.js"></script>
-
-
-  </body>
-
-</html>
+:ET

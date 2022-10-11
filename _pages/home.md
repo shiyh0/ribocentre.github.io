@@ -18,6 +18,13 @@ permalink: /
 
 In addition to a brief introduction to ribozymes, on each <font color=black><strong>ribozyme</strong></font> page, you'll see a timeline of vital breakthroughs in ribozyme research, representative structures and the chemical mechanism of this ribozyme. Besides, we provide multiple indexing and searching methods, you can index/search about the <font color=black><strong>publications</strong></font>, <font color=black><strong>structures</strong></font>, <font color=black><strong>catalyses</strong></font> and <font color=black><strong>applications</strong></font> of ribozymes that interest you. Users are welcomed to submit new ribozyme cases or related comments through the submission portal to help us improve our database.<br><br>
 
+<strong>Cite us：</strong><br>
+Jie Deng, Yaohuang Shi, Xuemei Peng, Yuanlin He, Xiaoxue Chen, Mengxiao Li,
+Xiaowei Lin1, Wenjian Liao, Yuanyin Huang, Taijiao Jiang, David M.J. Lilley,
+Zhichao Miao, and Lin Huang<br>
+<strong><font size=4>Ribocentre: a database of ribozymes</font></strong><br>
+Nucleic Acids Research, gkac840, https://doi.org/10.1093/nar/gkac840
+
 </div><br>
 
 
