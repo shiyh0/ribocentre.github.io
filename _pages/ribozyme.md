@@ -93,26 +93,26 @@ The small ribozymes also called nucleolytic ribozymes, which are a group of rela
                RAGATH-1-hammerhead
                </td>
                <td name="td4">
-               <a href="https://rfam.xfam.org/family/RF00008" target="_blank"><b>RF00008</b></a><br>
-               <a href="https://rfam.xfam.org/family/RF00163" target="_blank"><b>RF00163</b></a><br>
-               <a href="https://rfam.xfam.org/family/RF02275" target="_blank"><b>RF02275</b></a><br>
-               <a href="https://rfam.xfam.org/family/RF02276" target="_blank"><b>RF02276</b></a><br>
-               <a href="https://rfam.xfam.org/family/RF02277" target="_blank"><b>RF02277</b></a><br>
-               <a href="https://rfam.xfam.org/family/RF03152" target="_blank"><b>RF03152</b></a></td>
+               <a href="https://rfam.org/family/RF00008" target="_blank"><b>RF00008</b></a><br>
+               <a href="https://rfam.org/family/RF00163" target="_blank"><b>RF00163</b></a><br>
+               <a href="https://rfam.org/family/RF02275" target="_blank"><b>RF02275</b></a><br>
+               <a href="https://rfam.org/family/RF02276" target="_blank"><b>RF02276</b></a><br>
+               <a href="https://rfam.org/family/RF02277" target="_blank"><b>RF02277</b></a><br>
+               <a href="https://rfam.org/family/RF03152" target="_blank"><b>RF03152</b></a></td>
             </tr>
             <tr>
  <td name="td0"><a href="https://www.ribocentre.org/docs/HDV.html" target="_blank"><b>HDV</b></a> </td>
  <td name="td1">The hepatitis delta virus (HDV) ribozyme is a viral-derived small ribozyme that catalyzes the site‐specific self‐cleavage reaction. These RNAs fold into a double-nested pseudoknot structure.</td>
  <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/3184270" target="_blank"><b>1988</b></a></td>
  <td name="td3">Hepatitis delta virus ribozyme</td>
- <td name="td4"><a href="https://rfam.xfam.org/family/RF00094" target="_blank"><b>RF00094</b></a></td>
+ <td name="td4"><a href="https://rfam.org/family/RF00094" target="_blank"><b>RF00094</b></a></td>
             </tr>
             <tr>
             <td name="td0"><a href="https://www.ribocentre.org/docs/HDV-like.html" target="_blank"><b>HDV-like ribozymes</b></a></td>
             <td name="td1">The HDV-like ribozymes are a series of ribozymes structurally and biochemically related to HDV ribozymes. HDV-like ribozymes include the mammalian CPEB3 ribozyme, retrotransposons members and sequences from bacteria.</td>
             <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/16990549" target="_blank"><b>2006</b></a></td>
             <td name="td3">HDV ribozyme from F. prausnitzii</td>
-            <td name="td4"><a href="https://rfam.xfam.org/family/RF02682" target="_blank"><b>RF02682</b></a></td>
+            <td name="td4"><a href="https://rfam.org/family/RF02682" target="_blank"><b>RF02682</b></a></td>
             </tr>
             <tr>
             <td name="td0"><a href="https://www.ribocentre.org/docs/Hairpin.html" target="_blank"><b>Hairpin</b></a></td>
@@ -124,9 +124,9 @@ The small ribozymes also called nucleolytic ribozymes, which are a group of rela
             Hairpin ribozyme 2 from viruses-like metatranscriptomes
             </td>
             <td name="td4">
-              <a href="https://rfam.xfam.org/family/RF00173" target="_blank"><b>RF00173</b></a><br>
-              <a href="https://rfam.xfam.org/family/RF04190" target="_blank"><b>RF04190</b></a><br>
-              <a href="https://rfam.xfam.org/family/RF04191" target="_blank"><b>RF04191</b></a></td>
+              <a href="https://rfam.org/family/RF00173" target="_blank"><b>RF00173</b></a><br>
+              <a href="https://rfam.org/family/RF04190" target="_blank"><b>RF04190</b></a><br>
+              <a href="https://rfam.org/family/RF04191" target="_blank"><b>RF04191</b></a></td>
             </tr>
             <tr>
             <td name="td0"><a href="https://www.ribocentre.org/docs/VS-ribozyme.html" target="_blank"><b>VS</b></a></td>
@@ -140,7 +140,7 @@ The small ribozymes also called nucleolytic ribozymes, which are a group of rela
             <td name="td1">The glmS riboswitch is a self‐cleavage ribozyme located in the 5' untranslated region of the glmS gene. The GlmS riboswitch can fold into two conformations depending on the presence or absence of glucosamine-6-phosphate. In one of these two conformations, the RNA cleaves itself, thereby inhibiting the synthesis of glucosamine-6-phosphate.</td>
             <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/15029187"><b>2004</b></a></td>
             <td name="td3">GlmS glucosamine-6-phosphate activated ribozyme</td>
-            <td name="td4"><a href="https://rfam.xfam.org/family/RF00234" target="_blank"><b>RF00234</b></a></td>
+            <td name="td4"><a href="https://rfam.org/family/RF00234" target="_blank"><b>RF00234</b></a></td>
             </tr>
             <tr>
             <td name="td0"><a href="https://www.ribocentre.org/docs/twister.html" target="_blank"><b>Twister</b></a></td>
@@ -152,37 +152,37 @@ The small ribozymes also called nucleolytic ribozymes, which are a group of rela
            Type-P3 twister ribozyme
             </td>
             <td name="td4">
-            <a href="https://rfam.xfam.org/family/RF03160" target="_blank"><b>RF03160</b></a><br>
-            <a href="https://rfam.xfam.org/family/RF02684" target="_blank"><b>RF02684</b></a><br>
-            <a href="https://rfam.xfam.org/family/RF03154" target="_blank"><b>RF03154</b></a></td>
+            <a href="https://rfam.org/family/RF03160" target="_blank"><b>RF03160</b></a><br>
+            <a href="https://rfam.org/family/RF02684" target="_blank"><b>RF02684</b></a><br>
+            <a href="https://rfam.org/family/RF03154" target="_blank"><b>RF03154</b></a></td>
             </tr>
             <tr>
             <td name="td0"><a href="https://www.ribocentre.org/docs/twister-sister.html" target="_blank"><b>Twister-sister</b></a></td>
             <td name="td1">The twister sister ribozyme (TS) is a nucleolytic ribozyme. It has a possible structural similarity to twister ribozymes. Some striking similarities were noted, but also surprising differences, such as the absence of the two pseudoknot interactions in the twister ribozyme.</td>
             <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/26167874" target="_blank"><b>2015</b></a></td>
             <td name="td3">Twister_sister_ribozyme</td>
-            <td name="td4"><a href="https://rfam.xfam.org/family/RF02681" target="_blank"><b>RF02681</b></a></td>
+            <td name="td4"><a href="https://rfam.org/family/RF02681" target="_blank"><b>RF02681</b></a></td>
             </tr>
             <tr>
             <td name="td0"><a href="https://www.ribocentre.org/docs/Hatchet.html" target="_blank"><b>Hatchet</b></a></td>
             <td name="td1">The hatchet ribozyme is a nucleolytic ribozyme. </td>
             <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/26167874" target="_blank"><b>2015</b></a></td>
             <td name="td3">Hatchet ribozyme</td>
-            <td name="td4"><a href="https://rfam.xfam.org/family/RF02678" target="_blank"><b>RF02678</b></a></td>
+            <td name="td4"><a href="https://rfam.org/family/RF02678" target="_blank"><b>RF02678</b></a></td>
             </tr>
             <tr>
             <td name="td0"><a href="https://www.ribocentre.org/docs/Pistol.html" target="_blank"><b>Pistol</b></a></td>
             <td name="td1">The pistol ribozyme is a nucleolytic ribozyme. It was discovered by a bioinformatics strategy as an RNA Associated with Genes Associated with Twister and Hammerhead ribozymes, or RAGATH.</td>
             <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/26167874" target="_blank"><b>2015</b></a></td>
             <td name="td3">Pistol ribozyme</td>
-            <td name="td4"><a href="https://rfam.xfam.org/family/RF02679" target="_blank"><b>RF02679</b></a></td>
+            <td name="td4"><a href="https://rfam.org/family/RF02679" target="_blank"><b>RF02679</b></a></td>
             </tr>
              <tr>
             <td name="td0"><a href="https://www.ribocentre.org/docs/Hovlinc.html" target="_blank"><b>Hovlinc</b></a></td>
             <td name="td1">Hovlinc (hominin vlincRNA-located) is a recently evolved class of ribozyme found in very long intergenic noncoding (vlinc) RNAs of humans. The secondary structure and biochemical properties of this ribozyme indicate that it belongs to an unidentified class of small, self-cleaving ribozymes.</td>
             <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/33753927" target="_blank"><b>2021</b></a></td>
             <td name="td3">Hovlinc ribozyme (hominin vlincRNA-located)</td>
-            <td name="td4"><a href="https://rfam.xfam.org/family/RF04188" target="_blank"><b>RF04188</b></a></td>
+            <td name="td4"><a href="https://rfam.org/family/RF04188" target="_blank"><b>RF04188</b></a></td>
             </tr>
             <tr>
             <td name="td0"><a href="https://www.ribocentre.org/docs/Line1.html" target="_blank"><b>LINE-1</b></a></td>
@@ -196,14 +196,14 @@ The small ribozymes also called nucleolytic ribozymes, which are a group of rela
             <td name="td1">Beta-globin co-transcriptional cleavage ribozyme (CoTC ribozyme) is considered to be involved in β- RNA self-cleavage activity in the 3' flanking region of the globin gene. However, these findings have not been independently confirmed, and subsequent analysis has failed to prove the activity of the ribozyme.</td>
             <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/15565159" target="_blank"><b>2004</b></a></td>
             <td name="td3">Beta-globin co-transcriptional cleavage ribozyme</td>
-            <td name="td4"><a href="https://rfam.xfam.org/family/RF00621" target="_blank"><b>RF00621</b></a></td>
+            <td name="td4"><a href="https://rfam.org/family/RF00621" target="_blank"><b>RF00621</b></a></td>
             </tr>
             <tr>
             <td name="td0"><a href="https://www.ribocentre.org/docs/Vg1.html" target="_blank"><b>Manganese dependent ribozyme in Vg1 mRNA</b></a></td>
             <td name="td1">The Vg1 ribozyme is the smallest ribozyme to be identified which is a manganese-dependent ribozyme. The Vg1 ribozyme catalyzes a first-order reaction where its mechanism of cleavage is similar to the manganese ribozyme present in Tetrahymena group I introns.</td>
             <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/18753150" target="_blank"><b>2008</b></a></td>
             <td name="td3">Manganese dependent ribozyme in Vg1 mRNA</td>
-            <td name="td4"><a href="https://rfam.xfam.org/family/RF01865" target="_blank"><b>RF01865</b></a></td>
+            <td name="td4"><a href="https://rfam.org/family/RF01865" target="_blank"><b>RF01865</b></a></td>
             </tr>
             <tr>
             <td colspan="5"><font size=4> Large ribozymes</font></td>
@@ -213,14 +213,14 @@ The small ribozymes also called nucleolytic ribozymes, which are a group of rela
                 <td name="td1">Group I introns are the first ribozymes discovered in the 1980s. They can use exogenous guanosine as a cofactor to catalyze self-cleavage and exon ligation through sequential ester-transfer reactions. They are found in genes encoding rRNA, mRNA and tRNA in the nucleus, mitochondria and chloroplast in various organisms, from prokaryotes to eukaryotes.</td>
                 <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/6297745" target="_blank"><b>1982</b></a></td>
                 <td name="td3">Group I catalytic intron</td>
-                <td name="td4"><a href="https://rfam.xfam.org/family/RF01807" target="_blank"><b>RF00028</b></a></td>
+                <td name="td4"><a href="https://rfam.org/family/RF01807" target="_blank"><b>RF00028</b></a></td>
            </tr>
            <tr>
            <td name="td0"><a href="https://www.ribocentre.org/docs/LC-ribozyme.html" target="_blank"><b>Lariat capping ribozyme</b></a></td>
 <td name="td1">The Lariat capping ribozyme is a ~180 nt ribozyme with an apparent resemblance to a group I ribozyme. It is found within a complex type of group I introns, also termed twin-ribozyme introns. It catalyses a branching reaction in which the 2'OH of an internal residue is involved in a nucleophilic attack at a nearby phosphodiester bond. </td>
 <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/7556099" target="_blank"><b>1995</b></a></td>
 <td name="td3">GIR1 branching ribozyme</td>
-<td name="td4"><a href="https://rfam.xfam.org/family/RF01807" target="_blank"><b>RF01807</b></a></td>
+<td name="td4"><a href="https://rfam.org/family/RF01807" target="_blank"><b>RF01807</b></a></td>
            </tr>
            <tr>
            <td name="td0"><a href="https://www.ribocentre.org/docs/nature-ribozyme.html" target="_blank"><b>A natural ribozyme with 3′,5′ RNA ligase activity</b></a></td>
@@ -234,7 +234,7 @@ The small ribozymes also called nucleolytic ribozymes, which are a group of rela
 <td name="td1">Group II introns are one of the largest ribozymes, with sequences ranging from 400 to 1000 nt in length. It is also the evolutionary ancestor of the Spliceosome. Group II introns can catalyze RNA self-splicing through an autocatalytic two-step reaction and mediate reverse-splicing. It plays an essential role in the metabolism of organisms and is now being developed as a tool in biotechnology and gene therapy.</td>
 <td name="td2"><a href="https://www.ncbi.nlm.nih.gov/pubmed/2417726" target="_blank"><b>1986</b></a></td>
 <td name="td3">Group II catalytic intron</td>
-<td name="td4"><a href="https://rfam.xfam.org/family/RF00029" target="_blank"><b>RF00029</b></a></td>
+<td name="td4"><a href="https://rfam.org/family/RF00029" target="_blank"><b>RF00029</b></a></td>
            </tr>
            <tr>
            <td name="td0"><a href="https://www.ribocentre.org/docs/RNaseP.html" target="_blank"><b>RNase P</b></a></td>
@@ -248,12 +248,12 @@ Archaeal RNase P<br>
 RNaseP truncated form<br>
 RNase MRP</td>
 <td name="td4">
-<a href="https://rfam.xfam.org/family/RF00009" target="_blank"><b>RF00009</b></a>
-<a href="https://rfam.xfam.org/family/RF00010" target="_blank"><b>RF00010</b></a>
-<a href="https://rfam.xfam.org/family/RF00011" target="_blank"><b>RF00011</b></a>
-<a href="https://rfam.xfam.org/family/RF00373" target="_blank"><b>RF00373</b></a>
-<a href="https://rfam.xfam.org/family/RF02357" target="_blank"><b>RF02357</b></a>
-<a href="https://rfam.xfam.org/family/RF00030" target="_blank"><b>RF00030</b></a></td>
+<a href="https://rfam.org/family/RF00009" target="_blank"><b>RF00009</b></a>
+<a href="https://rfam.org/family/RF00010" target="_blank"><b>RF00010</b></a>
+<a href="https://rfam.org/family/RF00011" target="_blank"><b>RF00011</b></a>
+<a href="https://rfam.org/family/RF00373" target="_blank"><b>RF00373</b></a>
+<a href="https://rfam.org/family/RF02357" target="_blank"><b>RF02357</b></a>
+<a href="https://rfam.org/family/RF00030" target="_blank"><b>RF00030</b></a></td>
            </tr>
            <tr>
            <td name="td0"><a href="https://www.ribocentre.org/docs/Ribosome.html" target="_blank"><b>Ribosome</b></a></td>

@@ -6,7 +6,7 @@ author: Peng Xuemei, Deng Jie
 categories: ribozyme
 ---
 
-**Rfam ID: [RF02681](https://rfam.xfam.org/family/RF02681)** <br>
+**Rfam ID: [RF02681](https://rfam.org/family/RF02681)** <br>
 
 
 #### click into different sections:
