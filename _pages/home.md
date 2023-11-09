@@ -16,12 +16,13 @@ permalink: /
 
 <strong style="color:#0874c4;font-weight: bold">Ribocentre</strong> is designed to contain comprehensive information of all natural ribozymes. Ribozymes are good systems for understanding the 'sequence - structure - function' relationship of RNA molecules, since ribozymes are found in the genomes of species from all kingdoms of life and play a role in important reactions such as peptide-bond formation, RNA splicing, transfer RNA biosynthesis, and viral replication. This is therefore an excellent time to summarise these properties, and our new web-based database will make this generally accessible.<br>
 
-In addition to a brief introduction to ribozymes, on each <font color=black><strong>ribozyme</strong></font> page, you'll see a timeline of vital breakthroughs in ribozyme research, representative structures and the chemical mechanism of this ribozyme. Besides, we provide multiple indexing and searching methods, you can index/search about the <font color=black><strong>publications</strong></font>, <font color=black><strong>structures</strong></font>, <font color=black><strong>catalyses</strong></font> and <font color=black><strong>applications</strong></font> of ribozymes that interest you. Users are welcomed to submit new ribozyme cases or related comments through the submission portal to help us improve our database.<br>
+In addition to a brief introduction to ribozymes, on each <font color=black><strong>ribozyme</strong></font> page, you'll see a timeline of vital breakthroughs in ribozyme research, representative structures and the chemical mechanism of this ribozyme. Besides, we provide multiple indexing and searching methods, you can index/search about the <font color=black><strong>publications</strong></font>, <font color=black><strong>structures</strong></font>, <font color=black><strong>catalyses</strong></font> and <font color=black><strong>applications</strong></font> of ribozymes that interest you. Users are welcomed to submit new ribozyme cases or related comments through the submission portal to help us improve our database.<br><br>
+<strong style="color:#005826;font-weight: bold"><a href="https://riboswitch.ribocentre.org/#gsc.tab=0"  target="_blank">Riboswitch</strong></a> is a regulatory segment of a messenger RNA molecule that binds a small molecule, resulting in a change in production of the proteins encoded by the mRNA. Welcome the Ribocentre-switch database!<br>
 </div>
 <div class="well" style="border: 1px solid #C9C9C9; background-color: #fff;">
 <strong><font size=4>Cite us：</font></strong><br>
 Jie Deng, Yaohuang Shi, Xuemei Peng, Yuanlin He, Xiaoxue Chen, Mengxiao Li,
-Xiaowei Lin1, Wenjian Liao, Yuanyin Huang, Taijiao Jiang, David M.J. Lilley,
+Xiaowei Lin, Wenjian Liao, Yuanyin Huang, Taijiao Jiang, David M.J. Lilley,
 Zhichao Miao, and Lin Huang<br>
 <strong><font size=4>Ribocentre: a database of ribozymes</font></strong><br>
 <a href="https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac840/6731740" target="_blank">Nucleic Acids Research, gkac840, https://doi.org/10.1093/nar/gkac840 </a>

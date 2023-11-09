@@ -1,3 +1,9 @@
+news:
+  - limit: 3
+
+- date: <span class="glyphicon glyphicon-bullhorn"></span>&nbsp; 01. October 2023 
+  headline:  "Ribocentre-switch paper online, please see the link Nucleic Acids Research, gkad891, https://doi.org/10.1093/nar/gkad891 "
+
 - date: <span class="glyphicon glyphicon-bullhorn"></span>&nbsp; 07. March 2023 
   headline:  "Ribocentre updated to v1.5, thanks the sequence search function from RNAcentral. "
 
