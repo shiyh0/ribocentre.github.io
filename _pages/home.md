@@ -26,7 +26,6 @@ Xiaowei Lin, Wenjian Liao, Yuanyin Huang, Taijiao Jiang, David M.J. Lilley,
 Zhichao Miao, and Lin Huang<br>
 <strong><font size=4>Ribocentre: a database of ribozymes</font></strong><br>
 <a href="https://academic.oup.com/nar/article/51/D1/D262/6731740" target="_blank">Nucleic Acids Research, gkac840, https://doi.org/10.1093/nar/gkac840<a>
-
 </div><br>
 
   <div class="well">
